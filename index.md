@@ -9,9 +9,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: Pledge to be a nice Public Toilet User
+      subtitle: To be truly nice, is to do the nice things even when no one’s around.
+      background: /images/Home/cpt_homepage.png
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -24,6 +24,10 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: floating
+      size: sm
+      backgroundColor: gray
+      alignment: right
   - infobar:
       title: Infobar title
       subtitle: Subtitle
