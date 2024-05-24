@@ -31,20 +31,12 @@ sections:
       size: sm
       backgroundColor: gray
       alignment: right
-  - infobar:
-      title: This is About Clean & Green Singapore (CGS)
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - textcards:
       title: This is About Clean & Green Singapore (CGS)
       id: textcards
-      description: >+
-        Clean and Green Singapore (CGS) aims to inspire Singaporeans to care for
-        and protect our environment by adopting a clean, green and sustainable
-        lifestyle.
-
+      description: Clean and Green Singapore (CGS) aims to inspire Singaporeans to
+        care for and protect our environment by adopting a clean, green and
+        sustainable lifestyle.
       cards:
         - title: About Us
           description: ""
@@ -56,8 +48,8 @@ sections:
           linktext: Learn more
           url: ""
         - title: A Vibrant and Sustainable City
-          description: "To develop & support the move towards a Zero Waste Nation & a
-            green economy. "
+          description: To develop & support the move towards a Zero Waste Nation & a green
+            economy.
           linktext: Learn more
           url: ""
   - infopic:
