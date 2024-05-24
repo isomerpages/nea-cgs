@@ -18,14 +18,14 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Keep Singapore Clean
+          description: "Find out more "
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Moving towards Zero Waste
+          description: Our Role to Play
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Volunteer With Us
+          description: Sign up as a volunteer with us
           url: /privacy/
       variant: floating
       size: sm
