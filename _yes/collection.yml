@@ -1,4 +1,5 @@
 collections:
   yes:
     output: true
-    order: []
+    order:
+      - About YES.md
