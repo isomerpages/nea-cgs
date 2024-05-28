@@ -2,13 +2,13 @@ collections:
   yes:
     output: true
     order:
-      - Hungry for Change Challenge.md
-      - NEA YES Leaders Programme.md
-      - Volunteer Opportunities.md
       - About YES.md
+      - NEA YES Leaders Programme.md
+      - Hungry for Change Challenge.md
+      - YCLP NEA YES Edition.md
+      - Youth Sustainability Film Prog.md
       - Programmes/.keep
       - Programmes/Past YED.md
       - Programmes/Social Media.md
       - Programmes/Educational Resource Materials.md
-      - Youth Sustainability Film Prog.md
-      - YCLP NEA YES Edition.md
+      - Volunteer Opportunities.md
