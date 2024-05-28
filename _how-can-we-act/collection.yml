@@ -2,5 +2,6 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Volunteer/.keep
       - Volunteer.md
       - Events.md
