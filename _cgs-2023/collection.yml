@@ -2,6 +2,7 @@ collections:
   cgs-2023:
     output: true
     order:
+      - Eco Schools/4th asean eco school awards.md
       - Eco Schools/.keep
       - CGS 2023.md
       - Community Environment.md
