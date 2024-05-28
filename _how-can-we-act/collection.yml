@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Volunteer/About NEA Volunteer Corps.md
       - Volunteer/Volunteer.md
       - Volunteer/.keep
       - Events.md
