@@ -2,7 +2,7 @@ collections:
   yes:
     output: true
     order:
-      - Programmes.md
+      - Zero Waste Testbed Initiative.md
       - About YES.md
       - NEA YES Leaders Programme.md
       - Hungry for Change Challenge.md
