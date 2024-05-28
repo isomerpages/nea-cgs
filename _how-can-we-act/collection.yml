@@ -2,9 +2,9 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Volunteer/.keep
+      - Volunteer/Volunteer Overview.md
       - Volunteer/Volunteer Journey.md
       - Volunteer/Volunteer Roles.md
       - Volunteer/About NEA Volunteer Corps.md
-      - Volunteer/Volunteer Overview.md
-      - Volunteer/.keep
       - Events.md
