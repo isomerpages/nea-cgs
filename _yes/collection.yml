@@ -2,6 +2,7 @@ collections:
   yes:
     output: true
     order:
+      - Programmes.md
       - About YES.md
       - NEA YES Leaders Programme.md
       - Hungry for Change Challenge.md
