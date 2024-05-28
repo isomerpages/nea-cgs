@@ -2,6 +2,7 @@ collections:
   yes:
     output: true
     order:
+      - NEA YES Leaders Programme.md
       - Volunteer Opportunities.md
       - About YES.md
       - Programmes/.keep
