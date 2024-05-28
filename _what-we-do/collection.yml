@@ -2,4 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
+      - CGS 2023/CGS 2023 Overview.md
       - CGS 2023/.keep
