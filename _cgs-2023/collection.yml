@@ -2,6 +2,7 @@ collections:
   cgs-2023:
     output: true
     order:
+      - Awards/Awards.md
       - Awards/.keep
       - CGS 2023 Overview.md
       - Community In Bloom Ambassadors Awards.md
