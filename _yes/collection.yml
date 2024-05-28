@@ -2,16 +2,16 @@ collections:
   yes:
     output: true
     order:
-      - Programmes/Sustainable Cities Challenge.md
-      - Programmes/Zero Waste Testbed Initiative.md
-      - Programmes/.keep
       - About YES.md
       - NEA YES Leaders Programme.md
       - Hungry for Change Challenge.md
       - YCLP NEA YES Edition.md
       - Youth Sustainability Film Prog.md
+      - Programmes/.keep
+      - Programmes/Sustainable Cities Challenge.md
+      - Programmes/Zero Waste Testbed Initiative.md
+      - Volunteer Opportunities.md
       - Resources/.keep
       - Resources/Past YED.md
       - Resources/Social Media.md
       - Resources/Educational Resource Materials.md
-      - Volunteer Opportunities.md
