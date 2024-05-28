@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Community Environment.md
-      - CGS 2023/CGS 2023.md
       - CGS 2023/.keep
       - CGS 2023 Overview.md
       - Awards/.keep
