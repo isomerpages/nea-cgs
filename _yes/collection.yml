@@ -2,6 +2,7 @@ collections:
   yes:
     output: true
     order:
+      - Youth Sustainability Film Prog.md
       - YCLP NEA YES Edition.md
       - Programmes/Past YED.md
       - Programmes/Social Media.md
