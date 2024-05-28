@@ -2,5 +2,6 @@ collections:
   cgs-2023:
     output: true
     order:
+      - Awards.md
       - CGS 2023 Overview.md
       - CGS 2023.md
