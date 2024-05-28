@@ -2,6 +2,7 @@ collections:
   yes:
     output: true
     order:
+      - Programmes/Social Media.md
       - Programmes/Educational Resource Materials.md
       - Programmes/.keep
       - About YES.md
