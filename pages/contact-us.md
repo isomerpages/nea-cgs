@@ -50,7 +50,8 @@ contacts:
   - content:
       - phone: +65 6225 5632
       - email: ""
-      - other: ""
+      - other: You may download the myENV mobile application via this <a
+          href="https://onelink.to/a8r2v7">link</a>
     title: General Enquiries & Feedback
 feedback: ""
 ---
