@@ -28,7 +28,7 @@ sections:
           description: Sign up as a volunteer with us
           url: /privacy/
       variant: floating
-      size: sm
+      size: md
       backgroundColor: gray
       alignment: right
   - infocols:
