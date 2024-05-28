@@ -1,4 +1,5 @@
 collections:
   how-can-we-act:
     output: true
-    order: []
+    order:
+      - Events.md
