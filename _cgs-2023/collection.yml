@@ -2,12 +2,12 @@ collections:
   cgs-2023:
     output: true
     order:
+      - Exhibits/.keep
+      - Exhibits/Climate Change.md
+      - Exhibits/Clean Public Toilets.md
+      - Exhibits/Dengue Prevention.md
       - Exhibits/Recycle Right.md
       - Exhibits/Say YES to Waste Less.md
-      - Exhibits/Dengue Prevention.md
-      - Exhibits/Clean Public Toilets.md
-      - Exhibits/Climate Change.md
-      - Exhibits/.keep
       - CGS 2023 Overview.md
       - Awards/.keep
       - Awards/Community In Bloom Ambassadors Awards.md
