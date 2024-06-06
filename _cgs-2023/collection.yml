@@ -2,6 +2,7 @@ collections:
   cgs-2023:
     output: true
     order:
+      - Exhibits/Dengue Prevention.md
       - Exhibits/Clean Public Toilets.md
       - Exhibits/Climate Change.md
       - Exhibits/.keep
