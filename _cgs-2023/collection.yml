@@ -2,6 +2,7 @@ collections:
   cgs-2023:
     output: true
     order:
+      - CGS 2023 Overview.md
       - CGS 2023.md
       - Awards/.keep
       - Awards/Community In Bloom Ambassadors Awards.md
@@ -9,4 +10,3 @@ collections:
       - Eco Schools/.keep
       - Eco Schools/4th asean eco school awards.md
       - Community Environment.md
-      - CGS 2023 Overview.md
