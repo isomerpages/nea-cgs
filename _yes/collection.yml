@@ -1,5 +1,5 @@
 collections:
-  yes:
+  'yes':
     output: true
     order:
       - About YES.md
