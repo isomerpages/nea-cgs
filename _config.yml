@@ -1,0 +1,60 @@
+title: Clean & Green Singapore
+url: https://www.cgs.gov.sg
+favicon: /images/Templates/nea_logo_lock_up.png
+colors:
+  primary-color: "#00a950"
+  secondary-color: "#f65a18"
+  media-colors:
+    - title: media-color-one
+      color: "#374455"
+    - title: media-color-two
+      color: "#199ad6"
+    - title: media-color-three
+      color: "#b8e986"
+    - title: media-color-four
+      color: "#f8e71c"
+    - title: media-color-five
+      color: "#50e3c2"
+description: Clean and Green Singapore (CGS) aims to inspire Singaporeans to
+  care for and protect our environment by adopting a clean, green and
+  sustainable lifestyle.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging-lite.d32zqzawtnbu1a.amplifyapp.com
+prod: https://master.d1epvb7ljyhdyq.amplifyapp.com
+facebook-pixel: ""
+shareicon: /images/Templates/nea_logo_lock_up.png
+is_government: true
+google_analytics_ga4: GTM-W9WB9QN
+linkedin-insights: ""

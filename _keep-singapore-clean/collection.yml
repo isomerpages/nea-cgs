@@ -1,0 +1,5 @@
+collections:
+  keep-singapore-clean:
+    output: true
+    order:
+      - Keep SG Clean.md
