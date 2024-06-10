@@ -2,5 +2,6 @@ collections:
   say-yes-to-waste-less:
     output: true
     order:
+      - THE WASTE PROBLEM.md
       - Engagement Activities.md
       - What You Can Do.md
