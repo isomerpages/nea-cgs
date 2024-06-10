@@ -94,7 +94,7 @@ engagement skills and creativity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SGSS3" src="/images/CGS 2023/Eco Schools/sgss3.jpg">
 </div>
-<p><em>Posters are displayed in the neighourhood to raise awareness on dengue prevention.</em>
+<p><em>Posters are displayed in the neighborhood to raise awareness on dengue prevention.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
