@@ -2,4 +2,5 @@ collections:
   towards-zero-waste:
     output: true
     order:
+      - Our Focus Areas.md
       - Resources.md
