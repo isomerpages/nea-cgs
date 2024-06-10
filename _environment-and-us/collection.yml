@@ -2,6 +2,7 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Be Inspired/Pei Shan and Augustine's Story.md
       - Be Inspired/Get Inspired.md
       - Be Inspired/.keep
       - Join Us.md
