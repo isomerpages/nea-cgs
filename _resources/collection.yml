@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/Air Pollution.md
       - Resources/CGS2016.md
       - Resources/cleanliness.md
       - Resources/Climate Change.md
