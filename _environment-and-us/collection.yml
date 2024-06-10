@@ -2,6 +2,7 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Wei Jie's Story.md
       - Sumita's Story.md
       - Sophia's Story.md
       - Sofia's Story.md
