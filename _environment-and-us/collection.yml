@@ -2,6 +2,7 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Reducing Food Waste.md
       - Reducing Disposables.md
       - Volunteer.md
       - Organisations and Schools.md
