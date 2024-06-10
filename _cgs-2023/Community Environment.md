@@ -247,6 +247,7 @@ will donate $25 worth of grocery pack to a family.&nbsp; Visit&nbsp;
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Clean Up @ South West! 2023" src="/images/CGS 2023/Community Environment/sw2a_clean_up___south_west_2023.jpg">
 </div>
