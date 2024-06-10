@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/Waste Management.md
       - Resources/Zika.md
       - Resources/.keep
       - Resource Library.md
