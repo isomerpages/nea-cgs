@@ -2,6 +2,8 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - "Events/A breath of fresh air: Tour of Singapore’s Ambient Air Quality
+        Monitoring Stations.md"
       - Events/Eco Paddle with Ola.md
       - "Events/Behind the scenes: Public Cleaning Performance Audit.md"
       - "Events/OPEN MY FACTORY: TUASONE WASTE TO ENERGY (INCINERATION) PLANT.md"
