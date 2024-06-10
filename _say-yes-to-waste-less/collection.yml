@@ -1,4 +1,5 @@
 collections:
   say-yes-to-waste-less:
     output: true
-    order: []
+    order:
+      - What You Can Do.md
