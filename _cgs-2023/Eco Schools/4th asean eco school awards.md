@@ -14,9 +14,8 @@ third_nav_title: Eco Schools
 <p>Northoaks Primary School develops future-ready learners and leaders who
 are advocates and champions for environmental sustainability by providing
 students with the opportunities to acquire knowledge, values, attitudes,
-commitment and skills needed to protect and improve the environment.
-<br>
-<br>The school initiated the ECO-Brick project to increase awareness on the
+commitment and skills needed to protect and improve the environment.</p>
+<p>The school initiated the ECO-Brick project to increase awareness on the
 importance of plastic usage reduction. Students collected plastic bottles
 and converted it into a 'solid' brick-like material, which were then upcycled
 into stools placed around the school.</p>
@@ -32,7 +31,7 @@ Environmental education is also incorporated into their Values-in-Action
 (ViA) programme from Primary 1 to Primary 6. For example, Primary 4 students
 developed solutions to reduce food waste as well as energy conservation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students’ poster from Primary 4 Angsana during their ViA to educate the school on issues" src="/images/CGS 2023/Eco Schools/nps2_tmb_medium.png">
+<img style="width: 100%" height="auto" width="100%" alt="Students’ poster from Primary 4 Angsana during their ViA" src="/images/CGS 2023/Eco Schools/nps2.png">
 </div>
 <p><em>Students’ poster from Primary 4 Angsana during their ViA to educate the school on issues arising from food wastage</em>
 </p>
@@ -41,7 +40,7 @@ with textiles and used books donated to underprivileged families. Initiatives
 such as Bring Your Own container campaign and Meat-free day were also organised
 in Northoaks Primary to raise awareness amongst students on reducing their
 carbon footprint. The school also actively engage the community on environmental
-practicessuch as ontray return and sharing of green projects at various
+practices such as on tray return and sharing of green projects at various
 community events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NPS3-1" src="/images/CGS 2023/Eco Schools/nps3_1.jpg">
@@ -63,9 +62,8 @@ participated in some of these workshops.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NPS4" src="/images/CGS 2023/Eco Schools/nps4.jpg">
 </div>
-<p><em>nvironmental Science Club students presenting ECO-Brick project to participants of the ‘Future Sustainability Leaders Awards Ceremony’ organised by World Wildlife Fund for Nature (WWF). </em>
-</p>
-<p><em>(From left to right: Mrs Michelle Chow-Choo Chai Leng, Miss Alia Insyirah Binte Muhammad Tarmizi, Miss Natalie Ting Xin Ye, Mr Eric Tan Aik Hong)</em>
+<p><em>Environmental Science Club students presenting ECO-Brick project to participants of the ‘Future Sustainability Leaders Awards Ceremony’ organised by World Wildlife Fund for Nature (WWF).</em>
+<br><em>(From left to right: Mrs Michelle Chow-Choo Chai Leng, Miss Alia Insyirah Binte Muhammad Tarmizi, Miss Natalie Ting Xin Ye, Mr Eric Tan Aik Hong)</em>
 </p>
 <hr>
 <p><strong>Compassvale Secondary School</strong>
@@ -73,9 +71,8 @@ participated in some of these workshops.</p>
 <p>Compassvale Secondary School has a holistic and whole-school approach
 to environmental sustainability. The school’s commitment to advocate and
 engage in sustainable living is demonstrated through the school’s environment
-education programme which is embedded in the school’s curriculum and co-curriculum.
-<br>
-<br>In the curriculum, the school’s Interdisciplinary Project Work (IPW) for
+education programme which is embedded in the school’s curriculum and co-curriculum.</p>
+<p>In the curriculum, the school’s Interdisciplinary Project Work (IPW) for
 all lower secondary students is anchored on the theme of Sustainable Living,
 to educate students about environmental challenges, as well as their impact,
 and how they can make a difference as active and concerned citizens of
