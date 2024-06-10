@@ -2,5 +2,6 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Get Inspired.md
       - Did You Know.md
       - Environment and Us.md
