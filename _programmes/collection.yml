@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Clean Singapore Learning Trail (Beaches).md
       - Buddy Clean Workshop.md
       - Preschool Educational Resource Materials and Programmes.md
