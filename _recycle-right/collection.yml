@@ -1,4 +1,5 @@
 collections:
   recycle-right:
     output: true
-    order: []
+    order:
+      - How to Recycle Right.md
