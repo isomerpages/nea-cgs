@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/Smoking.md
       - Resources/Toilet Cleanliness.md
       - Resources/Vector Control.md
       - Resources/Waste Management.md
