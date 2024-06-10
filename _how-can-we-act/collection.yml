@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/Air conditioner Recycling and Eco Tour at Gain City.md
       - Events/Project Blue Wave.md
       - "Events/Behind the scenes: Effective Refuse Management for Vector
         Control.md"
