@@ -2,6 +2,7 @@ collections:
   keep-singapore-clean:
     output: true
     order:
+      - Clean Public Toilets/Public Toilet Cleanliness.md
       - Clean Public Toilets/Public Cleanliness.md
       - Clean Public Toilets/Downloadable Resources.md
       - Clean Public Toilets/Play Game.md
