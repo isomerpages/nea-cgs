@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/cleanliness.md
       - Resources/Climate Change.md
       - Resources/Dengue.md
       - Resources/Energy Efficiency.md
