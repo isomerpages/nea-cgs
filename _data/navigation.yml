@@ -3,10 +3,10 @@ links:
   - title: Who We Are
     url: /who-we-are/
   - title: What we do
-    url: /permalink
+    url: /what-we-do/what-we-do/cgs2023/home/
     sublinks:
-      - title: New submenu
-        url: /permalink
+      - title: CGS 2023
+        url: /what-we-do/what-we-do/cgs2023/home/
   - title: How can we act
     collection: how-can-we-act
   - title: Resources
