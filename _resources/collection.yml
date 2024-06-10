@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/public.md
       - Resources/Public Cleanliness.md
       - "Resources/Public Toilets 3Rs: Reduce Reuse and Recycle.md"
       - Resources/Recycling.md
