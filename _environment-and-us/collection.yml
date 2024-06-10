@@ -2,6 +2,7 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Be Inspired/Get Inspired.md
       - Be Inspired/.keep
       - Join Us.md
       - Wei Jie's Story.md
