@@ -2,4 +2,5 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Did You Know.md
       - Environment and Us.md
