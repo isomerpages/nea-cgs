@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - School Programmes/Environment Fund for Schools.md
       - School Programmes/Environmental Education Advisors.md
       - School Programmes/Clean Singapore Learning Trail (Beaches).md
       - School Programmes/Buddy Clean Workshop.md
