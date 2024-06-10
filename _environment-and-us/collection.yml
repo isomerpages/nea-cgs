@@ -2,6 +2,7 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Sofia's Story.md
       - Pei Shan and Augustine's Story.md
       - Get Inspired.md
       - Did You Know.md
