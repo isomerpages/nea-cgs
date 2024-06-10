@@ -2,6 +2,12 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/.keep
+      - Events/Events.md
+      - "Events/Open My Factory: ALBA EWaste Logistics and Sorting Hub.md"
+      - "Events/OPEN MY FACTORY: TUASONE WASTE TO ENERGY (INCINERATION) PLANT.md"
+      - "Events/Behind the scenes: Public Cleaning Performance Audit.md"
+      - Events/Eco Paddle with Ola.md
       - Events/Journey into Glass Recycling with Abraclean.md
       - Events/Air conditioner Recycling and Eco Tour at Gain City.md
       - Events/Project Blue Wave.md
@@ -10,12 +16,6 @@ collections:
       - Events/Philips Energy efficiency Light Lab.md
       - "Events/A breath of fresh air: Tour of Singapore’s Ambient Air Quality
         Monitoring Stations.md"
-      - Events/Eco Paddle with Ola.md
-      - "Events/Behind the scenes: Public Cleaning Performance Audit.md"
-      - "Events/OPEN MY FACTORY: TUASONE WASTE TO ENERGY (INCINERATION) PLANT.md"
-      - "Events/Open My Factory: ALBA EWaste Logistics and Sorting Hub.md"
-      - Events/Events.md
-      - Events/.keep
       - Volunteer/.keep
       - Volunteer/Volunteer Overview.md
       - Volunteer/Volunteer Journey.md
