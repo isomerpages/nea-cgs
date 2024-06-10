@@ -2,5 +2,6 @@ collections:
   recycle-right:
     output: true
     order:
+      - Check my Item.md
       - Meet Bloobin.md
       - How to Recycle Right.md
