@@ -2,6 +2,7 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Be Inspired/Wei Jie's Story.md
       - Be Inspired/Sophia's Story.md
       - Be Inspired/Sofia's Story.md
       - Be Inspired/Pei Shan and Augustine's Story.md
