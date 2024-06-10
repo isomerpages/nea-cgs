@@ -3,7 +3,10 @@ links:
   - title: Who We Are
     url: /who-we-are/
   - title: What we do
-    collection: what-we-do
+    url: /permalink
+    sublinks:
+      - title: New submenu
+        url: /permalink
   - title: How can we act
     collection: how-can-we-act
   - title: Resources
@@ -12,5 +15,5 @@ links:
     url: /cgs-experiences/
   - title: Year of Public Hygiene
     url: /year-of-public-hygiene/
-  - title: "Yes "
+  - title: Yes
     collection: yes-programme
