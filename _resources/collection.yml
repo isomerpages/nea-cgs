@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/Dengue.md
       - Resources/Energy Efficiency.md
       - Resources/Environment Fund for Schools.md
       - Resources/Food Hygiene.md
