@@ -2,6 +2,7 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Take Action/Volunteer.md
       - Take Action/Organisations and Schools.md
       - Take Action/Individual.md
       - Take Action/Take Action.md
