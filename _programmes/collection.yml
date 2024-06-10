@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Environment fund for ihls.md
       - Uniformed Group Badge Programme.md
       - Environment Fund for Schools.md
       - Environmental Education Advisors.md
