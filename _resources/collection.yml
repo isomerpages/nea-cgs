@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources/Environment Fund for Schools.md
       - Resources/Food Hygiene.md
       - Resources/Food Waste Reduction.md
       - Resources/How to Switch to LED guide.md
