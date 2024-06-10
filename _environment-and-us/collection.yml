@@ -2,6 +2,7 @@ collections:
   environment-and-us:
     output: true
     order:
+      - Get Started/Reducing Disposables.md
       - Get Started/.keep
       - Take Action/Volunteer.md
       - Take Action/Organisations and Schools.md
