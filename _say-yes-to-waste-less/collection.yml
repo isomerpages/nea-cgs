@@ -2,6 +2,7 @@ collections:
   say-yes-to-waste-less:
     output: true
     order:
+      - The Waste Problem/Reducing Food Wastage.md
       - The Waste Problem/Reducing Disposables.md
       - The Waste Problem/.keep
       - What You Can Do/Engagement Activities.md
