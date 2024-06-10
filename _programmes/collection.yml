@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - School Programmes/.keep
       - Resources.md
       - Environment fund for ihls.md
       - Uniformed Group Badge Programme.md
