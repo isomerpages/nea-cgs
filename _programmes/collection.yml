@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Uniformed Group Badge Programme.md
       - Environment Fund for Schools.md
       - Environmental Education Advisors.md
       - Clean Singapore Learning Trail (Beaches).md
