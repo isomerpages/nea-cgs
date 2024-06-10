@@ -2,7 +2,6 @@ collections:
   yes-programme:
     output: true
     order:
-      - Programmes.md
       - About YES.md
       - NEA YES Leaders Programme.md
       - Hungry for Change Challenge.md
@@ -12,6 +11,7 @@ collections:
       - Partners’ Programmes/Sustainable Cities Challenge.md
       - Partners’ Programmes/Zero Waste Testbed Initiative.md
       - Volunteer Opportunities.md
+      - Programmes.md
       - Resources/.keep
       - Resources/Past YED.md
       - Resources/Social Media.md
