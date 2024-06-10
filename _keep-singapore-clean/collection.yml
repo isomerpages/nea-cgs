@@ -2,5 +2,6 @@ collections:
   keep-singapore-clean:
     output: true
     order:
+      - Clean Public Toilets/Clean Public Toilets.md
       - Clean Public Toilets/.keep
       - Keep SG Clean.md
