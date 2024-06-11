@@ -45,8 +45,7 @@ third_nav_title: Clean Public Toilets
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>English and Malay</strong>
-</p>
-<p>Click below image to download poster</p><a class="isomer-image-wrapper" href="/files/Keep%20SG%20Clean/nea_cpt_a2_poster_fa_em_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="(Eng + Malay) NEA CPT Poster_thumbnail" src="/images/Keep SG Clean/Clean Public Toilets/eng_malay__nea_cpt_a4_poster_tmb_medium.jpg"></a>
+<br>Click below image to download poster</p><a class="isomer-image-wrapper" href="/files/Keep%20SG%20Clean/nea_cpt_a2_poster_fa_em_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="(Eng + Malay) NEA CPT Poster_thumbnail" src="/images/Keep SG Clean/Clean Public Toilets/eng_malay__nea_cpt_a4_poster_tmb_medium.jpg"></a>
 <p><strong>Chinese and Tamil</strong>
 <br>Click below image to download poster</p><a class="isomer-image-wrapper" href="/files/Keep%20SG%20Clean/nea_cpt_a2_poster_fa_ct_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="(Chi + Tamil) NEA CPT Poster_thumbnail" src="/images/Keep SG Clean/Clean Public Toilets/chi_tamil__nea_cpt_a4_poster_tmb_medium.jpg"></a>
 </td>
@@ -57,8 +56,7 @@ third_nav_title: Clean Public Toilets
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>English and Malay</strong>
-</p>
-<p>Click below image to download poster</p><a class="isomer-image-wrapper" href="https://staging.d1epvb7ljyhdyq.amplifyapp.com/files/Keep%20SG%20Clean/nea_cpt_a4_poster_fa_em_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="(Eng + Malay) NEA CPT Poster_thumbnail" src="/images/Keep SG Clean/Clean Public Toilets/eng_malay__nea_cpt_a4_poster_tmb_medium.jpg"></a>
+<br>Click below image to download poster</p><a class="isomer-image-wrapper" href="https://staging.d1epvb7ljyhdyq.amplifyapp.com/files/Keep%20SG%20Clean/nea_cpt_a4_poster_fa_em_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="(Eng + Malay) NEA CPT Poster_thumbnail" src="/images/Keep SG Clean/Clean Public Toilets/eng_malay__nea_cpt_a4_poster_tmb_medium.jpg"></a>
 <p><strong>Chinese and Tamil</strong>
 <br>Click below image to download poster</p><a class="isomer-image-wrapper" href="https://staging.d1epvb7ljyhdyq.amplifyapp.com/files/Keep%20SG%20Clean/nea_cpt_a4_poster_fa_ct_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="(Chi + Tamil) NEA CPT Poster_thumbnail" src="/images/Keep SG Clean/Clean Public Toilets/chi_tamil__nea_cpt_a4_poster_tmb_medium.jpg"></a>
 </td>
@@ -77,17 +75,13 @@ third_nav_title: Clean Public Toilets
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Keep Toilet Seat Clean</strong>
-</p>
-<p>Click below image to download artwork</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/contextual_stickers_clean.png"><img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Clean" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_clean_tmb_small.png"></a>
+<br>Click below image to download artwork</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/contextual_stickers_clean.png"><img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Clean" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_clean_tmb_small.png"></a>
 <p><strong>Flush Toilet Fully</strong>
-</p>
-<p>Click below image to download artwork</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/contextual_stickers_flush.png"><img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Flush" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_flush_tmb_small.png"></a>
+<br>Click below image to download artwork</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/contextual_stickers_flush.png"><img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Flush" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_flush_tmb_small.png"></a>
 <p><strong>Keep the Floor Clean</strong>
-</p>
-<p>Click below image to download artwork</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/contextual_stickers_dry.png"><img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Dry" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_dry_tmb_small.png"></a>
+<br>Click below image to download artwork</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/contextual_stickers_dry.png"><img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Dry" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_dry_tmb_small.png"></a>
 <p><strong>Bin Litter Properly</strong>
-</p>
-<p>Click below image to download artwork</p>
+<br>Click below image to download artwork</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Bin" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_bin_tmb_small.png">
 </div>
