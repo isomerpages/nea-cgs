@@ -90,5 +90,29 @@ description: ""
 <div class="isomer-card-link">Play Video</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://youtu.be/Ef7VByPeQoU" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled paper core Christmas decoration" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__21_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: Upcycled paper core Christmas decoration</div><div class="isomer-card-description">By Green Sproutz Singapore</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/5rVEoflt2j0" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Workshop: Recycled paper seed bomb" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__22_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Workshop: Recycled paper seed bomb</div>
+<div class="isomer-card-description">By Green Sproutz Singapore</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/fKTQ5PZeExg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled shirt face mask" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__23_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: Upcycled shirt face mask</div><div class="isomer-card-description">By Green Sproutz Singapore</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/PFIx0trJ4w4" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled beverage carton coin purse" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__24_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Workshop: Upcycled beverage carton coin purse</div>
+<div class="isomer-card-description">By Tetra Pak</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a>
 </div>
 <p></p>
