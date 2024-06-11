@@ -86,4 +86,45 @@ time roles) are listed for job-seeking individuals to view.</p>
 </tr>
 </tbody>
 </table>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MoNo logo" src="/images/YES/mono_logo.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<h3><strong>Mono Foods</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MoNo Volunteers" src="/images/YES/mono_volunteers_tmb_esize_400_.jpg">
+</div>
+<p><em><sub>(Photo Credit: Mono Foods)</sub></em>
+</p>
+<p></p>
+<p>Mono&nbsp;Foods is a social enterprise which seeks to reduce food waste
+by diverting food items that are near the best-before date from the bin.
+We redistribute these food&nbsp;items and educate&nbsp;the public about
+best-before dates at&nbsp;Yue Hwa @ Chinatown and pop-up booths (e.g. Zero
+waste market). We also donate these items to residents at&nbsp;rental flats
+and community centres.</p>
+<p></p>
+<p><strong><u>Call for volunteers</u></strong>
+<br>We are looking for volunteers to support our operations and educate the
+public about food waste at Yue Hwa @ Chinatown and events.&nbsp;We value
+every helping hand and our volunteers span across all age groups and walks
+of life!&nbsp;</p>
+<p></p>
+<p>Please <a href="https://tinyurl.com/monovolunteer" rel="noopener noreferrer nofollow" target="_blank">refer to this link</a>&nbsp;to
+sign up as a volunteer or contact us at&nbsp;<a href="mailto:monofoods.sg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">monofoods.sg@gmail.com</a>.&nbsp;</p>
+</th>
+</tr>
+</tbody>
+</table>
+<hr>
 <p></p>
