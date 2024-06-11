@@ -47,19 +47,13 @@ each time you use the toilet!</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>A4 Poster (English and Malay)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="(Eng + Malay) NEA CPT_A4 Poster" src="/images/Keep SG Clean/Clean Public Toilets/eng_malay__nea_cpt_a4_poster_tmb_medium.jpg">
-</div>
+<p>A4 Poster (English and Malay)</p><a class="isomer-image-wrapper" href="/files/Keep%20SG%20Clean/nea_cpt_a4_poster_fa_em_compressed.pdf"><img style="width: 100%;" height="auto" width="100%" alt="(Eng + Malay) NEA CPT_A4 Poster" src="/images/Keep SG Clean/Clean Public Toilets/eng_malay__nea_cpt_a4_poster_tmb_medium.jpg"></a>
 <p><em>Click on image to view</em>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>A4 Poster (Chinese and Tamil)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="(Chi + Tamil) NEA CPT_A4 Poster" src="/images/Keep SG Clean/Clean Public Toilets/chi_tamil__nea_cpt_a4_poster_tmb_medium.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Keep%20SG%20Clean/nea_cpt_a4_poster_fa_ct_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="(Chi + Tamil) NEA CPT_A4 Poster" src="/images/Keep SG Clean/Clean Public Toilets/chi_tamil__nea_cpt_a4_poster_tmb_medium.jpg"></a>
 <p><em>Click on image to view</em>
 </p>
 </th>
