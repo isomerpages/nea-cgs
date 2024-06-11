@@ -54,6 +54,6 @@ third_nav_title: Resources
 <div class="isomer-card-description">2016</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/corporate-functions/resources/publications/books-journals-and-magazines/10th-anniversary-book" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="10th anniversary book" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The 10th anniversary book - "Our Environment - Safeguard, Nurture, Cherish" covers how management of the environment has changed over the last decade.</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/corporate-functions/resources/publications/books-journals-and-magazines/10th-anniversary-book" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="10th anniversary book" src="/images/Resources/Climate Change/04__10_anniversary_book.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The 10th anniversary book - "Our Environment - Safeguard, Nurture, Cherish" covers how management of the environment has changed over the last decade.</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
