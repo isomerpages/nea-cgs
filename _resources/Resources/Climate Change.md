@@ -55,5 +55,18 @@ third_nav_title: Resources
 <div class="isomer-card-link">Read More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/corporate-functions/resources/publications/books-journals-and-magazines/10th-anniversary-book" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="10th anniversary book" src="/images/Resources/Climate Change/04__10_anniversary_book.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The 10th anniversary book - "Our Environment - Safeguard, Nurture, Cherish" covers how management of the environment has changed over the last decade.</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/files/Resources/Climate%20Change/WHO_FSF_FOS_98_2.pdf" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Provides an overview of the hazards associated with fruits and vegetables eaten raw" src="/images/Resources/Climate Change/Provides_an_overview_of_the_hazards_associated_with_fruits_and_vegetables_eaten_raw.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Provides an overview of the hazards associated with fruits and vegetables
+eaten raw</div>
+<div class="isomer-card-description">2015</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a>
 </div>
 <p></p>
