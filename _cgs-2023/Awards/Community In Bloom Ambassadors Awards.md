@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Awards
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="04_Awards" src="/images/CGS 2023/04_awards.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="04_Awards" src="/images/CGS 2023/Awards/04_awards.jpg">
 </div>
 <h3><strong>Community In Bloom Ambassadors Awards</strong></h3>
 <p>The National Parks Board’s (NParks) Community in Bloom (CIB) programme
@@ -47,6 +47,6 @@ Association (PA), and the Singapore Environment Council (SEC).</p>
 </ul>
 <p>For more information, please visit <a href="https://go.gov.sg/cib-ambassadors" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cib-ambassadors</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/footer_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Awards/footer_3.jpg">
 </div>
 <p></p>
