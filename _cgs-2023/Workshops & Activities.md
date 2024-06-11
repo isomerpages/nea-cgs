@@ -54,5 +54,41 @@ description: ""
 <div class="isomer-card-link">Play Video</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=b3VDMzhdkBM" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our next gen recyclers" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__15_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our next gen recyclers</div><div class="isomer-card-description">By Sembcorp Industries</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/channel/UCyBs0Y74GKGGCoFJcp95vtg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Repairing household appliances" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__16_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Repairing household appliances</div>
+<div class="isomer-card-description">By Repair Kopitiam</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/xMfTn56vdy8" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled magazine vase" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__17_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: Upcycled magazine vase</div><div class="isomer-card-description">By Green Sproutz Singapore</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/pDQMzJoNcS0" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled newspaper bowl" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__18_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Workshop: Upcycled newspaper bowl</div>
+<div class="isomer-card-description">By Green Sproutz Singapore</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/YRu_X3Zrc-M" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled aluminium ring tab wristlet" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__19_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: Upcycled aluminium ring tab wristlet</div><div class="isomer-card-description">By Green Sproutz Singapore</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/GU5Cz97ReVo" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled magazine page corner bookmark" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__20_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Workshop: Upcycled magazine page corner bookmark</div>
+<div class="isomer-card-description">By Green Sproutz Singapore</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/Ef7VByPeQoU" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled paper core Christmas decoration" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__21_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: Upcycled paper core Christmas decoration</div><div class="isomer-card-description">By Green Sproutz Singapore</div><div class="isomer-card-link">Play Video</div></div></a>
 </div>
 <p></p>
