@@ -100,4 +100,57 @@ third_nav_title: Clean Public Toilets
 </tr>
 </tbody>
 </table>
+<h3><strong>2021 CAMPAIGN</strong></h3>
+<div class="iframe-wrapper">
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ko9ZLZZbLcQ"></iframe>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PTC2021_EM" src="/images/Keep SG Clean/Clean Public Toilets/ptc2021_em.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PTC2021_CT" src="/images/Keep SG Clean/Clean Public Toilets/ptc2021_ct.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Click to download Campaign Poster (English / Malay / Chinese / Tamil)</h4>
+<h3>2020 CAMPAIGN</h3>
+<div class="iframe-wrapper">
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ePHaVEwmzUM"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5emMzZ0Cygk"></iframe>
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PTC2020_EM" src="/images/Keep SG Clean/Clean Public Toilets/ptc2020_em.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PTC2020_CT" src="/images/Keep SG Clean/Clean Public Toilets/ptc2020_ct.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Click here to download Campaign Poster (English / Malay / Chinese / Tamil)</h4>
 <p></p>
