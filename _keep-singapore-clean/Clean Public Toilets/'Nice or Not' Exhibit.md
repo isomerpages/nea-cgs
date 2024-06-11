@@ -21,11 +21,9 @@ game to win prizes!</p>
 to do is to practise the four clean toilet actions (<strong>Clean, Flush, Dry and Bin</strong>)
 each time you use the toilet!</p>
 <p>Keep the toilet seats&nbsp;<strong>clean</strong>
-</p>
-<p><strong>Flush</strong>&nbsp;toilet fully</p>
-<p>Keep the floor&nbsp;<strong>dry</strong>
-</p>
-<p><strong>Bin</strong>&nbsp;litter properly</p>
+<br><strong>Flush</strong>&nbsp;toilet fully
+<br>Keep the floor&nbsp;<strong>dry</strong>
+<br><strong>Bin</strong>&nbsp;litter properly</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Nice Side" src="/images/Keep SG Clean/Clean Public Toilets/1121_nea_all_21d93c493647142318530e817f9b202b8.jpg">
 </div>
