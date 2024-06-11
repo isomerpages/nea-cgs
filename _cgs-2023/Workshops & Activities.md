@@ -1,6 +1,58 @@
 ---
 title: Workshops & Activities
 permalink: /what-we-do/cgs2023/workshops-activities/
-variant: markdown
+variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Workshops Activities" src="/images/CGS 2023/Workshops &amp; Activities/08_workshops_activities.jpg">
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/X5mcn-tY-qQ" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled local toys by Didier Ng" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__08_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: Upcycled local toys by Didier Ng</div><div class="isomer-card-description">Supported by National Arts Council</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/kEEbrdkYsXI" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Workshop: Paper gift bag upcycling" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__06_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Workshop: Paper gift bag upcycling</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/qUdk58QNoi4" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: DIY mask holder (from old plastic files)" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__07_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: DIY mask holder (from old plastic files)</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/PY6sJnhyp1I" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Restore nature with food" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__11_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Restore nature with food</div>
+<div class="isomer-card-description">By WWF Singapore</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=k4RKJT98_f4&amp;feature=youtu.be" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ASIA Flute - Fire flies by Tan Qing Lun" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__09_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ASIA Flute - Fire flies by Tan Qing Lun</div><div class="isomer-card-description">Supported by National Arts Council</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/A1m-TXblvcU" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drum(usical) - Green drumming by BEAT’ABOX" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__10_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Drum(usical) - Green drumming by BEAT’ABOX</div>
+<div class="isomer-card-description">Supported by National Arts Council</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://youtu.be/F7VYIEhrz_0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: Glass bottle LED lamp" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__14_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: Glass bottle LED lamp</div><div class="isomer-card-link">Play Video</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://youtu.be/F3Pt1OxM0Ew" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Workshop: Fabric coaster" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__12_tmb_ze_250_250.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Workshop: Fabric coaster</div>
+<div class="isomer-card-link">Play Video</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.youtube.com/watch?v=b3VDMzhdkBM" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our next gen recyclers" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__15_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our next gen recyclers</div><div class="isomer-card-description">By Sembcorp Industries</div><div class="isomer-card-link">Play Video</div></div></a>
+</div>
+<p></p>
