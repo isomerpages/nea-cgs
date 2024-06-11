@@ -153,4 +153,7 @@ description: ""
 </div>
 </a>
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Workshops &amp; Activities/footer_1.jpg">
+</div>
 <p></p>
