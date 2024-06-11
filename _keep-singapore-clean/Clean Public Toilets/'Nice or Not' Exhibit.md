@@ -20,10 +20,22 @@ game to win prizes!</p>
 <p>To achieve a nicer public toilet experience for everyone, all we have
 to do is to practise the four clean toilet actions (<strong>Clean, Flush, Dry and Bin</strong>)
 each time you use the toilet!</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Keep the toilet seats&nbsp;<strong>clean</strong>
-<br><strong>Flush</strong>&nbsp;toilet fully
-<br>Keep the floor&nbsp;<strong>dry</strong>
-<br><strong>Bin</strong>&nbsp;litter properly</p>
+</p>
+</li>
+<li>
+<p><strong>Flush</strong>&nbsp;toilet fully</p>
+</li>
+<li>
+<p>Keep the floor&nbsp;<strong>dry</strong>
+</p>
+</li>
+<li>
+<p><strong>Bin</strong>&nbsp;litter properly</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Nice Side" src="/images/Keep SG Clean/Clean Public Toilets/1121_nea_all_21d93c493647142318530e817f9b202b8.jpg">
 </div>
