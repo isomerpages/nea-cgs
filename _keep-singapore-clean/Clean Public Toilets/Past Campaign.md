@@ -62,7 +62,7 @@ third_nav_title: Clean Public Toilets
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong> A5 Wall Stickers</strong></h4>
+<h4><strong>A5 Wall Stickers</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click below image to download poster</p>
@@ -73,20 +73,17 @@ third_nav_title: Clean Public Toilets
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong> Messaging Platform Stickers</strong></h4>
+<h4><strong>Messaging Platform Stickers</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sticker.ly/s/7TAX4K" rel="noopener noreferrer nofollow" target="_blank">WhatsApp</a>
 <br><a href="https://t.me/addstickers/CPTPottyStickers" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stickers" src="/images/Keep SG Clean/Clean Public Toilets/stickers91d24a89aec245ea9db17e530233ee2a_tmb_small.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/stickers91d24a89aec245ea9db17e530233ee2a.jpg"><img style="width: 100%" height="auto" width="100%" alt="Stickers" src="/images/Keep SG Clean/Clean Public Toilets/stickers91d24a89aec245ea9db17e530233ee2a_tmb_small.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>  School Activity Sheets</strong></h4>
+<h4><strong>School Activity Sheets</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Preschool</strong>
