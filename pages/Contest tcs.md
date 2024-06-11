@@ -2385,12 +2385,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
 <p><strong>#GreenGlowUpSG (September 2023) Complete the Equation: Clean Public Toilets Edition</strong>
 </p>
-<p><strong>Prize:</strong> Bloobin plushie (4 winners)
-<br>
-<br><strong>Terms &amp; Conditions</strong>
+<p><strong>Prize:</strong> Bloobin plushie (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -2500,12 +2498,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion.</p>
 </li>
 </ul>
-<hr>
 <p><strong>#GreenGlowUpSG (August 2023) -Unscramble the Word (Dengue Edition)</strong>
 </p>
-<p><strong>Prize:&nbsp;</strong>Captain Green Plushie &nbsp;(4 winners)
-<br>
-<br><strong>Terms &amp; Conditions</strong>
+<p><strong>Prize:&nbsp;</strong>Captain Green Plushie &nbsp;(4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -2622,9 +2618,11 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion.&nbsp;</p>
 </li>
 </ul>
-<hr>
-<p><strong>August Giveaway&nbsp;Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;1
-set of Captain Green enamel pins and pouch (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>August Giveaway&nbsp;Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;1 set of Captain Green enamel pins and pouch
+(4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -2741,10 +2739,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong><br>#DownToEarth 2023 - Samantha Thian Contest T&amp;Cs&nbsp;</strong>
+<p><strong>#DownToEarth 2023 - Samantha Thian Contest T&amp;Cs&nbsp;</strong>
 </p>
-<p><strong><br>Prize:</strong>&nbsp;Beeswax Wrap (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>Prize:</strong>&nbsp;Beeswax Wrap (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -2855,11 +2853,11 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong><br></strong>
+<p><strong>#GreenGlowUpSG (July 2023) - How do you reduce food waste?</strong>
 </p>
-<p><strong>#GreenGlowUpSG (July 2023) - How do you reduce food waste?<br><br>Prize:</strong>&nbsp;
-1 Set of Bloobin plushie and Captain Green Pins (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>Prize:</strong>&nbsp; 1 Set of Bloobin plushie and Captain Green
+Pins (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -2969,14 +2967,11 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p>
-<br>
-</p>
 <p><strong>#GreenGlowUpSG (June 2023) Guess the Action: Clean Tables edition!</strong>
 </p>
-<p><strong><br>Prize:</strong>&nbsp; A Bloobin plushie and a limited-edition
-Captain Green resuable mask (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>Prize:</strong>&nbsp; A Bloobin plushie and a limited-edition
+Captain Green resuable mask (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -3087,9 +3082,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong>#GreenGlowUpSG (May 2023) Reducing Disposables Crossword Puzzle<br><br>Prize:</strong>&nbsp;Beeswax
-Wrap (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>#GreenGlowUpSG (May 2023) Reducing Disposables Crossword Puzzle</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;Beeswax Wrap (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -3199,9 +3195,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong>#DownToEarth 2023 - Paul Foster Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;Beeswax
-Wrap (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>#DownToEarth 2023 - Paul Foster Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;Beeswax Wrap (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -3312,11 +3309,11 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong><br>#GreenGlowUpSG Eco-challenge – 5 Day Disposable Free Challenge Contest T&amp;Cs&nbsp;</strong>
+<p><strong>#GreenGlowUpSG Eco-challenge – 5 Day Disposable Free Challenge Contest T&amp;Cs&nbsp;</strong>
 </p>
 <p><strong>Prize:</strong>&nbsp; Bloobin Plushie and Say YES to Waste Less
-Beeswax Wraps (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+Beeswax Wraps (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -3435,10 +3432,11 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong><br><br>#SayYEStoWasteLess - 'Can you Decode This?' Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;Say
-YES to Waste Less set of Captain Green Pins,&nbsp; Beeswax Wraps, and $15
-LUSH voucher (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>#SayYEStoWasteLess - 'Can you Decode This?' Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;Say YES to Waste Less set of Captain Green
+Pins,&nbsp; Beeswax Wraps, and $15 LUSH voucher (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -3548,9 +3546,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong><br>#DownToEarth 2023 - Charlotte Mei Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;Beeswax
-Wrap (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>#DownToEarth 2023 - Charlotte Mei Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;Beeswax Wrap (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -3660,9 +3659,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong>#DownToEarth - Nadia Kishlan 2023 Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;Beeswax
-Wrap (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>#DownToEarth - Nadia Kishlan 2023 Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;Beeswax Wrap (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -3772,12 +3772,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<p>
-<br>
-<br>
+<p><strong>#GreenGlowUpSG Eco-challenge – Bloobin edition (February) Contest T&amp;Cs&nbsp;</strong>
 </p>
-<p><strong>#GreenGlowUpSG Eco-challenge – Bloobin edition (February) Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;
-Bloobin Plushie (4 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>Prize:</strong>&nbsp; Bloobin Plushie (4 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -3886,11 +3884,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<p>
-<br>
+<p><strong>What Would Bloobin Say? (February) Contest T&amp;Cs&nbsp;</strong>
 </p>
-<p><strong>What Would Bloobin Say? (February) Contest T&amp;Cs&nbsp;<br><br>Prizes:</strong>&nbsp;Bloobin
-Eco Gift Pack (inclusive of 1 Bloobin Plushie, 1 <a rel="noopener noreferrer nofollow" target="_blank">Starbucks Reusable Cup and 1 Starbucks Netted Bag</a>)
+<p><strong>Prizes:</strong>&nbsp;Bloobin Eco Gift Pack (inclusive of 1 Bloobin
+Plushie, 1 <a rel="noopener noreferrer nofollow" target="_blank">Starbucks Reusable Cup and 1 Starbucks Netted Bag</a>)
 x 20 winners</p>
 <p><strong>Terms &amp; Conditions</strong>
 </p>
@@ -4006,9 +4003,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong>#GreenGlowUp (January) Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;Bloobin
-Plushie (2 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>#GreenGlowUp (January) Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;Bloobin Plushie (2 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -4123,9 +4121,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong>Spring-cleaning x BLOCK Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;
-Limited edition red packets (8 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>Spring-cleaning x BLOCK Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp; Limited edition red packets (8 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -4237,9 +4236,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong>“What is your favourite hawker centre and food stall?” Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;
-Captain Green Reusable Mask (6 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>“What is your favourite hawker centre and food stall?” Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp; Captain Green Reusable Mask (6 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -4348,9 +4348,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong><br>#GreenGlowUp (November) Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;Captain
-Green Reusable Mask x 6<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>#GreenGlowUp (November) Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;Captain Green Reusable Mask x 6</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -4459,11 +4460,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<hr>
-<p><strong><br></strong>
+<p><strong>“Spot the Difference” Contest T&amp;Cs&nbsp;</strong>
 </p>
-<p><strong>“Spot the Difference” Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;
-Captain Green plushie (5 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>Prize:</strong>&nbsp; Captain Green plushie (5 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -4573,8 +4573,10 @@ or to modify the Contest rules and Terms prior to the closing date by amending
 the rules and Terms hereof at its sole and absolute discretion</p>
 </li>
 </ul>
-<p><strong><br>Climate Action Week Instagram Contest T&amp;Cs&nbsp;<br><br>Prize:</strong>&nbsp;Say
-YES to Waste Less Wall Hook (5 winners)<strong><br><br>Terms &amp; Conditions</strong>
+<p><strong>Climate Action Week Instagram Contest T&amp;Cs&nbsp;</strong>
+</p>
+<p><strong>Prize:</strong>&nbsp;Say YES to Waste Less Wall Hook (5 winners)</p>
+<p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
