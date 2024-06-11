@@ -67,6 +67,6 @@ eaten raw</div>
 <div class="isomer-card-description">2015</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/corporate-functions/resources/publications/books-journals-and-magazines/envision" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Envision Magazine: NEA's Technical Magazine" src="/images/Resources/Climate Change/05_envision.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Envision Magazine: NEA's Technical Magazine</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
