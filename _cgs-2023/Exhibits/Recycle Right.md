@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Exhibits
 ---
-<a class="isomer-image-wrapper" href="https://www.cgs.gov.sg/recycleright/how-to-recycle-right"><img style="width: 100%" height="auto" width="100%" alt="Recycle-Right_1" src="/images/CGS 2023/Exhibits/recycle_right_1.jpg"></a>
+<a class="isomer-image-wrapper" href="/recycleright/how-to-recycle-right"><img style="width: 100%" height="auto" width="100%" alt="Recycle-Right_1" src="/images/CGS 2023/Exhibits/recycle_right_1.jpg"></a>
 <a class="isomer-image-wrapper" href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste">
 <img style="width: 100%" height="auto" width="100%" alt="Recycle-Right_2" src="/images/CGS 2023/Exhibits/recycle_right_2.jpg">
 </a><a class="isomer-image-wrapper" href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste"><img style="width: 100%" height="auto" width="100%" alt="Recycle-Right_3" src="/images/CGS 2023/Exhibits/recycle_right_3.jpg"></a>
-<a class="isomer-image-wrapper" href="https://www.cgs.gov.sg/recycleright/how-to-recycle-right">
+<a class="isomer-image-wrapper" href="/recycleright/how-to-recycle-right">
 <img style="width: 100%" height="auto" width="100%" alt="Recycle-Right_4" src="/images/CGS 2023/Exhibits/recycle_right_4.jpg">
 </a>
 <div class="iframe-wrapper">
