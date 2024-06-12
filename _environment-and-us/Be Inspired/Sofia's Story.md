@@ -8,8 +8,7 @@ third_nav_title: Be Inspired
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k68kgZbyT6o"></iframe>
 </div>
-<p><strong>What got me started?</strong>
-</p>
+<h4>What got me started?</h4>
 <p>In the past, I was often buying more than I needed. Before I knew it,
 I ended up with a ton of clothes that get simply chucked aside after a
 couple of wears. Until, I discovered clothes swapping. It’s a simple yet
@@ -18,8 +17,7 @@ It’s a fun way to refresh my wardrobe without expanding it or throwing
 any clothes away. This requires me to be creative with my styling, as I
 have to work with what I find. Sometimes, it even feels like a treasure
 hunt!</p>
-<p><strong>What was your first project?</strong>
-</p>
+<h4>What was your first project?</h4>
 <p>I took up a module in school which deepened my understanding of our relationship
 with nature and the environment. It was then that I came to understand
 the impact that excessive clothes consumption has on our world.</p>
@@ -33,8 +31,7 @@ outfits rather than purchase them!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="20190201 - NEA - _Fashion Pulpit_13387" src="/images/Environment and Us/Be Inspired/20190201___nea____fashion_pulpit_13387_copy_tmb_ze_700_700.jpg">
 </div>
-<p><strong>What’s next?</strong>
-</p>
+<h4>What’s next?</h4>
 <p>I hope to encourage people to adopt a zero-waste lifestyle by starting
 small. There are different ways to do it! Connect with people who are in
 the know and get tips for reducing waste from them. Approach reducing waste
