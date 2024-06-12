@@ -8,8 +8,7 @@ third_nav_title: Be Inspired
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mFHnzE9P-_s"></iframe>
 </div>
-<p><strong>What got us started?</strong>
-</p>
+<h4>What got us started?</h4>
 <p><em>Peishan: </em>When my Grandma fell ill, I discovered a hidden truth.
 That for years, I’ve been wasting perfectly edible food. For it was only
 then that I started researching about healthy diets for my Grandma, and
@@ -21,8 +20,7 @@ food.</p>
 we realised that this massive waste of food could be turned into a business
 opportunity. That we could do our part in reducing food waste here – which
 has increased by about 40% in the last 10 years, and continues to be so.</p>
-<p><strong>What was our first project?</strong>
-</p>
+<h4>What was our first project?</h4>
 <p>UglyFood was born through a university project while we were studying
 at the Singapore University of Technology and Design (SUTD). We were working
 on a project for Design Odyssey, a programme established by SUTD-MIT International
@@ -37,8 +35,7 @@ such as distribution and transportation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ugly Food 2" src="/images/Environment and Us/Be Inspired/ugly_food_2_tmb_ze_800_800.jpg">
 </div>
-<p><strong>What got us going?</strong>
-</p>
+<h4>What got us going?</h4>
 <p>Through working with established mentors in the F&amp;B industry, we developed
 a range of healthy&nbsp;recipes to transform “ugly” food into beautiful
 yet delectable products. First, we started with juices.</p>
@@ -56,8 +53,7 @@ us through the different phases of our UglyFood journey.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ugly Food 3" src="/images/Environment and Us/Be Inspired/ugly_food_3_tmb_ze_800_800.jpg">
 </div>
-<p><strong>What’s next?</strong>
-</p>
+<h4>What’s next?</h4>
 <p>Working on UglyFood, we’ve learnt that problems should be seen as opportunities,
 and our goal and vision for the company is to explore food wastage beyond
 just the F&amp;B space, like pushing the boundaries further than just cosmetic
