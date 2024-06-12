@@ -131,6 +131,16 @@ image)</p>
 </table>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Tutorial Videos</h4>
+</td>
+<td rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="350" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sPE1pziKrHY"></iframe>
+</div>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
