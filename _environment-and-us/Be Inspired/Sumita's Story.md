@@ -8,7 +8,7 @@ third_nav_title: Be Inspired
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/98BvtdxqtVo"></iframe>
 </div>
-<h4><strong>What got me started?</strong></h4>
+<h4>What got me started?</h4>
 <p>I’ve always been interested in nature and the environment since young,
 and have always wanted to do my part for the environment, but&nbsp; I didn’t
 know how to get started.</p>
@@ -22,7 +22,7 @@ bruised or discoloured.</p>
 eventually gets served up on our tables.&nbsp;Resources are finite, especially
 so in Singapore, where we have limited space to build incineration plants
 or landfills to dispose of food waste.</p>
-<h4><strong>What was your first project?</strong></h4>
+<h4>What was your first project?</h4>
 <p>I started reading up on healthier diets when my mom was diagnosed with
 breast cancer. Through my research, I learnt that, a lot of nutritious
 food was being thrown away due to cosmetic filtering.</p>
@@ -32,7 +32,7 @@ with them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NEA_033_T18_20190119___NEA_Sumita_Desker_Rd12515_FN" src="/images/Environment and Us/Be Inspired/nea_033_t18_20190119___nea_sumita_desker_rd12515_fn_tmb_ze_800_800.jpg">
 </div>
-<h4><strong>What’s next?</strong></h4>
+<h4>What’s next?</h4>
 <p>I hope to see more people in my community take small steps where they
 can, to adopt a greener lifestyle. Generally, I feel that Singaporeans
 do want to adopt more eco-friendly habits, but are unaware of how to get
