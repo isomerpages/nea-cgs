@@ -8,8 +8,7 @@ third_nav_title: Be Inspired
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iMCQCh8aFzo"></iframe>
 </div>
-<p><strong>What got me started?</strong>
-</p>
+<h4>What got me started?</h4>
 <p>I like how coffee connects people and often ponder about the lack of interaction
 between people with special needs and mainstream society. Marrying these
 two notions, Foreword Coffee was born.</p>
@@ -20,8 +19,7 @@ What if it could do more for the Earth too?</p>
 to do good for the environment. I realised that I could actually do something
 about the large amount of waste produced by the café industry from using
 single-use disposable cups.</p>
-<p><strong>What was your first project?</strong>
-</p>
+<h4>What was your first project?</h4>
 <p>Foreword Coffee was incorporated in April 2017, with its first outlet
 at NUS. We’ve since moved to Civil Service College, and expanded to a second
 outlet at the Centre for Healthcare Innovation. As a young coffee company,
@@ -41,8 +39,7 @@ our customers into doing what’s good for the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NEA FW coffee 2" src="/images/Environment and Us/Be Inspired/nea_fw_coffee_2_tmb_ze_800_800.jpg">
 </div>
-<p><strong>What’s next?</strong>
-</p>
+<h4>What’s next?</h4>
 <p>Personally, I feel that Singaporeans are generally aware of sustainable
 products and lifestyles, but often think that adopting them will be inconvenient
 and disruptive to their routines.
