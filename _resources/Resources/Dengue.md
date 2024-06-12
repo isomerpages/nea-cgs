@@ -7,7 +7,7 @@ third_nav_title: Resources
 ---
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/2024_campaign_kv_poster_a4.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Dengue Prevention Campaign Poster (A4)" src="/images/Resources/Dengue/dengue_poster_thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Dengue Prevention Campaign Poster (A4)</div><div class="isomer-card-description">2024</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/files/Resources/dengue/2024_campaign_kv_poster_a2.pdf" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/2024_campaign_kv_poster_a2.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2024 Dengue Prevention Campaign Poster (A2)" src="/images/Resources/Dengue/dengue_poster_thumbnail.png">
@@ -30,8 +30,8 @@ third_nav_title: Resources
 <div class="isomer-card-description">2015</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/files/Resources/dengue/UG_Badge_Programme___MIX.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="UG Badge Programme – MIX" src="/images/Resources/Dengue/ug_badge_programme_mIX.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">UG Badge Programme – MIX</div><div class="isomer-card-description">2016</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/files/Resources/dengue/the_sick_day___low_res_preview.pdf" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/UG_Badge_Programme___MIX.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="UG Badge Programme – MIX" src="/images/Resources/Dengue/ug_badge_programme_mIX.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">UG Badge Programme – MIX</div><div class="isomer-card-description">2016</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/the_sick_day___low_res_preview.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Captain Green The Sick Day" src="/images/Resources/Dengue/the_sick_day.png">
@@ -55,8 +55,8 @@ covers how management of the environment has changed over the last decade.</div>
 <div class="isomer-card-description">2015</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/files/Resources/dengue/WHO_FSF_FOS_98_2__1_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Provides an overview of the hazards associated with fruits and vegetables eaten raw" src="/images/Resources/Dengue/Provides_an_overview_of_the_hazards_associated_with_fruits_and_vegetables_eaten_raw.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Provides an overview of the hazards associated with fruits and vegetables eaten raw</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/files/Resources/dengue/Global_Strategy_for_Dengue_Prevention_and_Control_2012_2020.pdf" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/WHO_FSF_FOS_98_2__1_.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Provides an overview of the hazards associated with fruits and vegetables eaten raw" src="/images/Resources/Dengue/Provides_an_overview_of_the_hazards_associated_with_fruits_and_vegetables_eaten_raw.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Provides an overview of the hazards associated with fruits and vegetables eaten raw</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/Global_Strategy_for_Dengue_Prevention_and_Control_2012_2020.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Global Strategy for Dengue Prevention and Control 2012-2020" src="/images/Resources/Dengue/Global_Strategy_for_Dengue_Prevention_and_Control_2012_2020.jpg">
@@ -67,6 +67,6 @@ covers how management of the environment has changed over the last decade.</div>
 <div class="isomer-card-description">2015</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/files/Resources/dengue/dengue_prevention_for_outbound_travellers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dengue Prevention for Outbound Travellers" src="/images/Resources/Dengue/Dengue_Prevention_for_Outbound_Travellers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dengue Prevention for Outbound Travellers</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/dengue_prevention_for_outbound_travellers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dengue Prevention for Outbound Travellers" src="/images/Resources/Dengue/Dengue_Prevention_for_Outbound_Travellers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dengue Prevention for Outbound Travellers</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
