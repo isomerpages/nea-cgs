@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Clean Public Toilets
 ---
-<h3><strong>2022 CAMPAIGN</strong></h3>
+<h3>2022 CAMPAIGN</h3>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9aI1lcsEZ_M"></iframe>
 </div>
-<h4><strong>Publicity Materials</strong></h4>
+<h4>Publicity Materials</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,7 +18,7 @@ third_nav_title: Clean Public Toilets
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>A2 Campaign Posters</strong><br><strong>(in 4 languages)</strong></h4>
+<h4>A2 Campaign Posters<br>(in 4 languages)</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>English and Malay</strong>
@@ -35,7 +35,7 @@ third_nav_title: Clean Public Toilets
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>A4 Key Action Posters</strong></h4>
+<h4>A4 Key Action Posters</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Flush Toilet Fully</strong>
@@ -62,7 +62,7 @@ third_nav_title: Clean Public Toilets
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>A5 Wall Stickers</strong></h4>
+<h4>A5 Wall Stickers</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Click below image to download poster</p>
@@ -73,7 +73,7 @@ third_nav_title: Clean Public Toilets
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Messaging Platform Stickers</strong></h4>
+<h4>Messaging Platform Stickers</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://sticker.ly/s/7TAX4K" rel="noopener noreferrer nofollow" target="_blank">WhatsApp</a>
@@ -83,7 +83,7 @@ third_nav_title: Clean Public Toilets
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>School Activity Sheets</strong></h4>
+<h4>School Activity Sheets</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Preschool</strong>
