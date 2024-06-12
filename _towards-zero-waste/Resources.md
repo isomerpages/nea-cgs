@@ -28,8 +28,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LYF" src="/images/Towards Zero Waste/lyf_tmb_ze_250_250.png">
 </div>
-<p></p>
-<p></p>
 <p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
 </p>
 </td>
