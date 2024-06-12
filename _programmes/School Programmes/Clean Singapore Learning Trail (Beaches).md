@@ -40,10 +40,7 @@ resume in late August when the e-Portal system becomes operational.</p>
 <img style="width: 100%" height="auto" width="100%" alt="cslt-1" src="/images/Programmes/School Programmes/cslt_1.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cslt-2" src="/images/Programmes/School Programmes/cslt_2.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Programmes/School%20Programmes/cslt_2.jpg"><img style="width: 100%" height="auto" width="100%" alt="cslt-2" src="/images/Programmes/School Programmes/cslt_2_tmb_esize__227.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -53,7 +50,7 @@ resume in late August when the e-Portal system becomes operational.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Please note that organisers will have to provide their own gloves and used plastic bags to contain the picked litter. </strong>
+<p><strong>Please note that organisers will have to provide their own gloves and used plastic bags to contain the picked litter.</strong>
 </p>
 <h4>Educational Materials</h4>
 <div class="isomer-image-wrapper">
