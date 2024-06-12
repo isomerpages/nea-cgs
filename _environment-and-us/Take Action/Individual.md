@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Take Action
 ---
-<h3><strong>As an Individual</strong></h3>
+<h3>As an Individual</h3>
 <p>It starts with you.
 <br>As an individual, here's how you can do your part in keeping our nation
 clean.</p>
@@ -17,7 +17,7 @@ clean.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Keeping public spaces clean.</strong></h4>
+<h4>Keeping public spaces clean.</h4>
 <p></p>
 <p>It's as simple as picking up after yourself when you are out and about
 <br>Whether is it binning litter properly or keeping public toilets clean
@@ -37,7 +37,7 @@ everyone.&nbsp;&nbsp; &nbsp;</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>At home &amp; in your neighbourhood</strong></h4>
+<h4>At home &amp; in your neighbourhood</h4>
 <p></p>
 <p>Being a good neighbour is also about showing consideration to your fellow
 residents. Some simple actions to take include:</p>
@@ -57,7 +57,7 @@ food waste</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Organising Events</strong></h4>
+<h4>Organising Events</h4>
 <p></p>
 <p>A clean and litter-free event creates a more pleasant experience for the
 participants and also reflects well on the organiser. Find out how to mitigate
