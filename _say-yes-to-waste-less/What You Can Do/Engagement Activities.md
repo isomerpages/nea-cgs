@@ -137,7 +137,7 @@ image)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="350" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sPE1pziKrHY"></iframe>
+<iframe height="325" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sPE1pziKrHY"></iframe>
 </div>
 </td>
 </tr>
