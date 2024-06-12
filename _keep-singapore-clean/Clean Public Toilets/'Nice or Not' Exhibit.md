@@ -16,7 +16,7 @@ game to win prizes!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Nice Or Not Schedule" src="/images/Keep SG Clean/Clean Public Toilets/nice_or_not_schedule_v2.gif">
 </div>
-<h4><strong>The 'Nice' Side</strong></h4>
+<h4>The 'Nice' Side</h4>
 <p>To achieve a nicer public toilet experience for everyone, all we have
 to do is to practise the four clean toilet actions (<strong>Clean, Flush, Dry and Bin</strong>)
 each time you use the toilet!</p>
@@ -45,7 +45,7 @@ each time you use the toilet!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Nice Side" src="/images/Keep SG Clean/Clean Public Toilets/microsoftteams_image__7_65cc57a742d04c8d9d0c98e580c3bbe4.jpg">
 </div>
-<h4><strong>The 'Not Nice' Side</strong></h4>
+<h4>The 'Not Nice' Side</h4>
 <p>Here's a glimpse of our public toilet experience if public toilet users
 do not do their part. Let's be socially responsible to keep the public
 toilets cleaner for everyone!</p>
