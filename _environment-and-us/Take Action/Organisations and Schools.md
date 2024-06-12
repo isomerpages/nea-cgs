@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Take Action
 ---
-<h3><strong>As an organisation / schools</strong></h3>
+<h3>As an organisation / schools</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -19,7 +19,7 @@ third_nav_title: Take Action
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>For the greater good.</strong></h4>
+<h4>For the greater good.</h4>
 <p></p>
 <p>There is strength in numbers. If you wish to make a difference as an organisation
 or as a school, sign up for a Beach Clean-up initiative with the Public
