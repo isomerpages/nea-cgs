@@ -4,7 +4,7 @@ permalink: /what-we-do/keepsgclean/environmentandus/join-us/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Making little choices that make a big difference.</strong></h3>
+<h3>Making little choices that make a big difference.</h3>
 <p>Change comes when we all do our part as a community. Here is a list of
 events where you can come onboard, learn more and make a difference.</p>
 <table style="minWidth: 50px">
