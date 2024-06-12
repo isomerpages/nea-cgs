@@ -94,10 +94,41 @@ image)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<h4>Mid Autumn Colouring Activity</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(<a href="/images/Say%20YES%20to%20Waste%20Less/Engagement%20Activities/1a_change.jpg" rel="noopener noreferrer nofollow" target="_blank">Click to view</a>&nbsp;full
+image)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1A_Change" src="/images/Say YES to Waste Less/Engagement Activities/1a_change_tmb_medium.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>(<a href="/images/Say%20YES%20to%20Waste%20Less/Engagement%20Activities/2_fullmoon.jpg" rel="noopener noreferrer nofollow" target="_blank">Click to view</a>&nbsp;full
+image)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="fullmoon" src="/images/Say YES to Waste Less/Engagement Activities/2_fullmoon_tmb_medium.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>(<a href="/images/Say%20YES%20to%20Waste%20Less/Engagement%20Activities/3_lanternparade.jpg" rel="noopener noreferrer nofollow" target="_blank">Click to view</a>&nbsp;full
+image)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="lanternparade" src="/images/Say YES to Waste Less/Engagement Activities/3_lanternparade_tmb_medium.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
