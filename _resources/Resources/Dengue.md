@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Resources
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources/dengue/2024_campaign_kv_poster_a4.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Dengue Prevention Campaign Poster (A4)" src="/images/Resources/Dengue/dengue_poster_thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Dengue Prevention Campaign Poster (A4)</div><div class="isomer-card-description">2024</div><div class="isomer-card-link">Read More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/2024_campaign_kv_poster_a4.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="2024 Dengue Prevention Campaign Poster (A4)" src="/images/Resources/Dengue/dengue_poster_thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2024 Dengue Prevention Campaign Poster (A4)</div><div class="isomer-card-description">2024</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/files/Resources/dengue/2024_campaign_kv_poster_a2.pdf" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
