@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Take Action
 ---
-<h3><strong>Our Home, Our Responsibility</strong></h3>
+<h3>Our Home, Our Responsibility</h3>
 <p>Everyone has a part to play in keeping Singapore clean.
 <br>There is no action too small and it's never too late to start! Click on
 the links below to find out how you can contribute as an individual, volunteer
