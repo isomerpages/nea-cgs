@@ -100,7 +100,7 @@ third_nav_title: Clean Public Toilets
 </tr>
 </tbody>
 </table>
-<h3><strong>2021 CAMPAIGN</strong></h3>
+<h3>2021 CAMPAIGN</h3>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Ko9ZLZZbLcQ"></iframe>
 </div>
