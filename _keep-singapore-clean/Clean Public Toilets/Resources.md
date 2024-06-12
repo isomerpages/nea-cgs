@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Clean Public Toilets
 ---
-<h3><strong>Publicity Materials</strong></h3>
+<h3>Publicity Materials</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -14,7 +14,7 @@ third_nav_title: Clean Public Toilets
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>“Are you nice when no one is around?”</strong><br><strong>Campaign Video</strong></h4>
+<h4>“Are you nice when no one is around?”<br>Campaign Video</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>English</strong>
@@ -41,7 +41,7 @@ third_nav_title: Clean Public Toilets
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>A2 Campaign Posters</strong><br><strong>(in 4 languages)</strong></h4>
+<h4>A2 Campaign Posters<br>(in 4 languages)</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>English and Malay</strong>
@@ -52,7 +52,7 @@ third_nav_title: Clean Public Toilets
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>A4 Campaign Posters</strong><br><strong>(in 4 languages)</strong></h4>
+<h4>A4 Campaign Posters<br>(in 4 languages)</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>English and Malay</strong>
