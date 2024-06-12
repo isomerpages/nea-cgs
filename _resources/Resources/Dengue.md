@@ -67,6 +67,6 @@ covers how management of the environment has changed over the last decade.</div>
 <div class="isomer-card-description">2015</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/dengue_prevention_for_outbound_travellers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dengue Prevention for Outbound Travellers" src="/images/Resources/Dengue/Dengue_Prevention_for_Outbound_Travellers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dengue Prevention for Outbound Travellers</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/files/Resources/Dengue/dengue_prevention_for_outbound_travellers.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dengue Prevention for Outbound Travellers" src="/images/Resources/Dengue/Dengue_Prevention_for_Outbound_Travellers.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dengue Prevention for Outbound Travellers</div><div class="isomer-card-description">2015</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
