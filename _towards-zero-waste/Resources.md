@@ -13,39 +13,59 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong><a href="https://www.towardszerowaste.sg/" rel="noopener noreferrer nofollow" target="_blank">Year Towards Zero Waste</a></strong>
 </p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://www.cgs.gov.sg/what-we-do/towardszerowaste/food-waste-reduction" rel="noopener noreferrer nofollow" target="_blank">Food Waste Reduction</a></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://www.cgs.gov.sg/what-we-do/towardszerowaste/sayyes" rel="noopener noreferrer nofollow" target="_blank">Say YES to Waste Less</a></strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong><a href="https://www.towardszerowaste.sg/" rel="noopener noreferrer nofollow" target="_blank">Recycle Right</a></strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ytzw" src="/images/Towards Zero Waste/ytzw_tmb_ze_250_250.png">
 </div>
-<p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.cgs.gov.sg/what-we-do/towardszerowaste/food-waste-reduction" rel="noopener noreferrer nofollow" target="_blank">Food Waste Reduction</a></strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LYF" src="/images/Towards Zero Waste/lyf_tmb_ze_250_250.png">
 </div>
-<p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.cgs.gov.sg/what-we-do/towardszerowaste/sayyes" rel="noopener noreferrer nofollow" target="_blank">Say YES to Waste Less</a></strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYTWL" src="/images/Towards Zero Waste/sytwl_tmb_ze_250_250.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3Rs" src="/images/Towards Zero Waste/3rs_tmb_ze_250_250.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.towardszerowaste.sg/" rel="noopener noreferrer nofollow" target="_blank">Recycle Right</a></strong>
+<p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="3Rs" src="/images/Towards Zero Waste/3rs_tmb_ze_250_250.png">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.towardszerowaste.sg/resources/videos/denise-keller-recycling-right" rel="noopener noreferrer nofollow" target="_blank">Video 1</a>
 </p>
 <p></p>
