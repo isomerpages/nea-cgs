@@ -23,7 +23,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h3><strong>NEA Voering Opportunities</strong></h3>
+<h3><strong>NEA Volunteering Opportunities</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SG Clean Ambassador" src="/images/YES/sgclean_tmb_esize_400_.jpg">
 </div>
