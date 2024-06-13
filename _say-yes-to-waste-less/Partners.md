@@ -976,16 +976,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Scoop Wholefoods" src="/images/Say YES to Waste Less/Partners/scoop_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Secondsguru" src="/images/Say YES to Waste Less/Partners/secondsguru_logo_5000px_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shangri-La Rasa Sentosa (Sentosa Beach Resort Pte Ltd)" src="/images/Say YES to Waste Less/Partners/shangri_la_rasa_sentosa_singapore__primary__tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sheng Siong" src="/images/Say YES to Waste Less/Partners/sheng_siong_logo_3_png_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -1008,16 +1016,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sheraton Towers Singapore" src="/images/Say YES to Waste Less/Partners/fourpointsheraton_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Environment Council" src="/images/Say YES to Waste Less/Partners/sec_corporate_logo___black_text_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Hotel Association" src="/images/Say YES to Waste Less/Partners/sha_logo_horizontal__tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singtel" src="/images/Say YES to Waste Less/Partners/2560px_singtel_logo_svg_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -1040,16 +1056,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMRT Corporation Ltd" src="/images/Say YES to Waste Less/Partners/smrt_corp_logo_pantone_180205__tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sofitel Singapore Sentosa Resort &amp; Spa" src="/images/Say YES to Waste Less/Partners/sofitel_singapore_sentosa___logo_2024_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="South West CDC" src="/images/Say YES to Waste Less/Partners/swcdc_logo_fc_rgb_1080px_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SP Group" src="/images/Say YES to Waste Less/Partners/sp_group_full_colour_logo_horizontal_rgb_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
