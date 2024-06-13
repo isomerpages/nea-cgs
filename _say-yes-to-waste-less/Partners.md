@@ -896,16 +896,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prime Supermarket" src="/images/Say YES to Waste Less/Partners/prime_logo_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/Partners/pullman_singapore_orchard_hotel_logo9bb4635d849f443687a6ad073a1c2b97_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="QiJi" src="/images/Say YES to Waste Less/Partners/qiji_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Razer" src="/images/Say YES to Waste Less/Partners/razer_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -928,16 +936,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="REACH Community Services Ltd" src="/images/Say YES to Waste Less/Partners/reach_logo_final_full_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Resorts World Sentosa" src="/images/Say YES to Waste Less/Partners/rws2024_logotype_en_local_market_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SaladStop!" src="/images/Say YES to Waste Less/Partners/saladstop_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SASCO Senior Citizens' Home" src="/images/Say YES to Waste Less/Partners/sasco_senior_citizens_home_logo_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
