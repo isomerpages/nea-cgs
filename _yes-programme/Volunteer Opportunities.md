@@ -55,6 +55,22 @@ join the SG Clean Ambassadors Network!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Green Nudge" src="/images/YES/photo_credit_green_nudge_tmb_esize_400_.jpg">
 </div>
+<p><em><sub>(Photo Credit: Green Nudge)</sub><br></em>
+</p>
+<p>Green Nudge is a social enterprise which works together with businesses
+and communities to support their journeys in becoming more sustainable.
+As an initiative to meet the growing demand for green jobs dealing in fields
+such as sustainability and climate change, Green Nudge launched a green
+jobs portal, Green Collar.</p>
+<p></p>
+<p>Green Collar works towards a sustainable future by matching sustainability-related
+jobs between forward-looking employers and job seeking individuals. This
+not only assists job seekers by compiling green jobs, making them more
+accessible and visible, but also assists employers by connecting them with
+talents in the green industries.</p>
+<p></p>
+<p><strong>Do visit&nbsp;<a href="https://greencollar.careers/" rel="noopener noreferrer nofollow" target="_blank">Green Collar's</a>&nbsp;online website where these green jobs (internships, contract, part time and full time roles) are listed for job-seeking individuals to view.</strong>
+</p>
 </td>
 </tr>
 </tbody>
