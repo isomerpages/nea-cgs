@@ -41,43 +41,31 @@ disposables.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Reusable Container" src="/images/Say YES to Waste Less/Resources/reusable_container_tmb_medium.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_containers_2.png"><img style="width: 60%;" height="auto" width="100%" alt="Reusable Container" src="/images/Say YES to Waste Less/Resources/reusable_container_tmb_medium.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="Forgotten Groceries" src="/images/Say YES to Waste Less/Resources/forgotten_groceries_tmb_medium.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/forgotten_groceries_1.png"><img style="width: 45%;" height="auto" width="100%" alt="Forgotten Groceries" src="/images/Say YES to Waste Less/Resources/forgotten_groceries_tmb_medium.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="Shopping List" src="/images/Say YES to Waste Less/Resources/shopping_list_tmb_medium.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/forgotten_groceries_2.png"><img style="width: 55%;" height="auto" width="100%" alt="Shopping List" src="/images/Say YES to Waste Less/Resources/shopping_list_tmb_medium.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Reusable Container)</p>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_containers_2.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Reusable Container)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Forgotten Groceries)</p>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/forgotten_groceries_1.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Forgotten Groceries)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Shopping List)</p>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/forgotten_groceries_2.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Shopping List)</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Side Dishes" src="/images/Say YES to Waste Less/Resources/side_dishes_1_tmb_medium.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/side_dishes_1bc1dc084536f49abadc64e4fdae95251.png"><img style="width: 60%;" height="auto" width="100%" alt="Side Dishes" src="/images/Say YES to Waste Less/Resources/side_dishes_1_tmb_medium.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Side Dishes 2" src="/images/Say YES to Waste Less/Resources/side_dishes_2_tmb_medium.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/side_dishes_2.png"><img style="width: 50%;" height="auto" width="100%" alt="Side Dishes 2" src="/images/Say YES to Waste Less/Resources/side_dishes_2_tmb_medium.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -85,10 +73,12 @@ disposables.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Unfinished Side Dishes)</p>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/side_dishes_1bc1dc084536f49abadc64e4fdae95251.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Unfinished Side Dishes)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Side Dishes)</p>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/side_dishes_2.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Side Dishes)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
