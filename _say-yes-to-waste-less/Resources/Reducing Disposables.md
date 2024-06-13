@@ -19,7 +19,7 @@ disposables.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_1.png"><img style="width: 55%;" height="auto" width="100%" alt="Key Visual – Disposables (Disposable bag)" src="/images/Say YES to Waste Less/Resources/key_visual_disposables__disposable_bag__tmb_medium.png"></a>
 <p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_2.png"><img style="width: 48%;" height="auto" width="100%" alt="Key Visual (Reusable Bag)" src="/images/Say YES to Waste Less/Resources/disposable_bags_2_tmb_medium.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_2.png"><img style="width: 73%;" height="auto" width="100%" alt="Key Visual (Reusable Bag)" src="/images/Say YES to Waste Less/Resources/disposable_bags_2_tmb_medium.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_containers_1.png"><img style="width: 60%;" height="auto" width="100%" alt="Key Visual (Disposable Container)" src="/images/Say YES to Waste Less/Resources/disposable_container_tmb_medium.png"></a>
