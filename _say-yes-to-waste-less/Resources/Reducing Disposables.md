@@ -105,7 +105,7 @@ disposables.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Say%20YES%20to%20Waste%20Less/rd_tent_card__emct_.pdf" rel="noopener noreferrer nofollow" target="_blank">Tent Card (English)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/rd_tent_card__english_.pdf" rel="noopener noreferrer nofollow" target="_blank">Tent Card (English)</a>
 </p>
 </td>
 </tr>
@@ -132,11 +132,11 @@ disposables.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/nea-262-t20_rd-2020-factoids-poster_a3-(en).pdf?sfvrsn=dcb96a0f_2" rel="noopener noreferrer nofollow" target="_blank">Factoids Poster (English)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/nea_262_t20_rd_2020_factoids_poster_a3__en_.pdf" rel="noopener noreferrer nofollow" target="_blank">Factoids Poster (English)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/nea-263-t20_rd-2020-factoids-poster_a3-(emct).pdf?sfvrsn=d4b96a0f_2" rel="noopener noreferrer nofollow" target="_blank">Factoids Poster (4 Languages)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/nea_263_t20_rd_2020_factoids_poster_a3__emct_.pdf" rel="noopener noreferrer nofollow" target="_blank">Factoids Poster (4 Languages)</a>
 </p>
 </td>
 </tr>
@@ -158,50 +158,6 @@ disposables.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.towardszerowaste.gov.sg/resources/videos/save-semakau" rel="noopener noreferrer nofollow" target="_blank">Save Semakau Video</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
