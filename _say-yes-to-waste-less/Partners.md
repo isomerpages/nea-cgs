@@ -736,16 +736,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NWCDC Logo Colour_high res" src="/images/Say YES to Waste Less/Partners/nwcdc_logo_colour_high_res_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Novotel Singapore on Kitchener Logo_PNG" src="/images/Say YES to Waste Less/Partners/novotel_singapore_on_kitchener_logo_png_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OCK Hori Hi-res" src="/images/Say YES to Waste Less/Partners/ock_hori_hi_res_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OneFarrer Logo_AI File_2018-01 (1)" src="/images/Say YES to Waste Less/Partners/onefarrer_logo_ai_file_2018_01__1__tmb_thumb200.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -768,16 +776,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OHS Logo" src="/images/Say YES to Waste Less/Partners/ohs_logo__png__tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ORBA Logo_P1_Pink" src="/images/Say YES to Waste Less/Partners/orba_logo_p1_pink_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Otolith" src="/images/Say YES to Waste Less/Partners/otolith_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PAN PACIFIC HOTELS GROUP_UOL" src="/images/Say YES to Waste Less/Partners/high_res_pan_pacific_hotels_group_uol_horizontal_fc_tmb_thumb200.jpg">
+</div>
 </td>
 </tr>
 <tr>
