@@ -16,34 +16,28 @@ disposables.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="Key Visual – Disposables (Disposable bag)" src="/images/Say YES to Waste Less/Resources/key_visual_disposables__disposable_bag__tmb_medium.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_1.png"><img style="width: 55%;" height="auto" width="100%" alt="Key Visual – Disposables (Disposable bag)" src="/images/Say YES to Waste Less/Resources/key_visual_disposables__disposable_bag__tmb_medium.png"></a>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 43%;" height="auto" width="100%" alt="Key Visual (Reusable Bag)" src="/images/Say YES to Waste Less/Resources/disposable_bags_2_tmb_medium.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_2.png"><img style="width: 43%;" height="auto" width="100%" alt="Key Visual (Reusable Bag)" src="/images/Say YES to Waste Less/Resources/disposable_bags_2_tmb_medium.png"></a>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Key Visual (Disposable Container)" src="/images/Say YES to Waste Less/Resources/disposable_container_tmb_medium.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_containers_1.png"><img style="width: 60%;" height="auto" width="100%" alt="Key Visual (Disposable Container)" src="/images/Say YES to Waste Less/Resources/disposable_container_tmb_medium.png"></a>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Disposable Bag)</p>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_1.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Disposable Bag)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Reusable Bag)</p>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_2.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Reusable Bag)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Disposable Container)</p>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_containers_1.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Disposable Container)</a>
+</p>
 </td>
 </tr>
 <tr>
