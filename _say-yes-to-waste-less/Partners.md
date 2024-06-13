@@ -30,13 +30,19 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BambooStrawGirl logo" src="/images/Say YES to Waste Less/Partners/bamboostrawgirl_logo_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bless Community Services logo" src="/images/Say YES to Waste Less/Partners/bless_community_services_logo_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BT Logo_Color" src="/images/Say YES to Waste Less/Partners/bt_logo_color_tmb_thumb200.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -57,16 +63,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tzu-Chi Foundation Logo" src="/images/Say YES to Waste Less/Partners/tzu_chi_foundation_logo_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Busy Bees Asia" src="/images/Say YES to Waste Less/Partners/busy_bees_asia_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MUJI Cafe and Meal" src="/images/Say YES to Waste Less/Partners/muji_cafe_and_meal___k100_02_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CapitaLand logo (RGB)" src="/images/Say YES to Waste Less/Partners/capitaland_logo__rgb__tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -87,16 +101,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CS CDC" src="/images/Say YES to Waste Less/Partners/cs_cdc_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CDAC Logo" src="/images/Say YES to Waste Less/Partners/cdac_logo_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Ascott Limited Logo with tagline (A member of CLI)" src="/images/Say YES to Waste Less/Partners/the_ascott_limited_logo_with_tagline__a_member_of_cli__tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CDL Logo (high res)" src="/images/Say YES to Waste Less/Partners/cdl_logo__high_res__tmb_thumb200.jpg">
+</div>
 </td>
 </tr>
 <tr>
