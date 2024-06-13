@@ -141,16 +141,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cloop" src="/images/Say YES to Waste Less/Partners/cloop_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cloversoft Logo" src="/images/Say YES to Waste Less/Partners/cloversoft_logo_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Conrad_Centennial_Singapore_CMYK_FREE" src="/images/Say YES to Waste Less/Partners/conrad_centennial_singapore_cmyk_free_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Conrad Singapore Orchard" src="/images/Say YES to Waste Less/Partners/conrad_singapore_orchard_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -172,16 +180,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CISingapore Grey-Horizontal" src="/images/Say YES to Waste Less/Partners/cisingapore_grey_horizontal_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CurryTimes Logo (high)" src="/images/Say YES to Waste Less/Partners/currytimes_logo__high__tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="D2L" src="/images/Say YES to Waste Less/Partners/d2l_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dao-AMTD-SG Logo" src="/images/Say YES to Waste Less/Partners/dao_amtd_sg_logo___horizontal__b_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -204,16 +220,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DKT_Lockup_Primary_Blue_RGB" src="/images/Say YES to Waste Less/Partners/dkt_lockup_primary_blue_rgb_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Deliveroo" src="/images/Say YES to Waste Less/Partners/deliveroo_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DTF_Colour" src="/images/Say YES to Waste Less/Partners/dtf_colour_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dorsett Singapore" src="/images/Say YES to Waste Less/Partners/dorsett_singapore_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
