@@ -816,16 +816,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pan Pacific Orchard" src="/images/Say YES to Waste Less/Partners/pan_pacific_orchard_singapore_logo_01_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pan Pacific Serviced Suites, Singapore" src="/images/Say YES to Waste Less/Partners/pan_pacific_serviced_suites_singapore_black_vertical_fc_transparent_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pan Pacific Singapore" src="/images/Say YES to Waste Less/Partners/pan_pacific_singapore_vertical_full_colour_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Paradox Singapore Merchant Court" src="/images/Say YES to Waste Less/Partners/paradox_singapore_paradox_logo_singapore_gold_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -848,16 +856,24 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PARKROYAL COLLECTION Marina Bay" src="/images/Say YES to Waste Less/Partners/parkroyal_collection_marina_bay_fc_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PARKROYAL COLLECTION Pickering" src="/images/Say YES to Waste Less/Partners/park_royal_pickering_tmb_thumb200.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PARKROYAL on Beach Road" src="/images/Say YES to Waste Less/Partners/parkroyal_on_beach_road_singapore_tmb_thumb200.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peace of Art" src="/images/Say YES to Waste Less/Partners/peace_of_art_logo_tmb_thumb200.jpg">
+</div>
 </td>
 </tr>
 <tr>
