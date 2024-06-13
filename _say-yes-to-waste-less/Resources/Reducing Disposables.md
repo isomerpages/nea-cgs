@@ -43,15 +43,9 @@ disposables.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_containers_2.png"><img style="width: 60%;" height="auto" width="100%" alt="Reusable Container" src="/images/Say YES to Waste Less/Resources/reusable_container_tmb_medium.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYTWL Wobblers 2023" src="/images/Say YES to Waste Less/Resources/sytwl_wobbler_2023_tmb_thumb200.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/nea_sytwl_wobbler_rgb.jpg"><img style="width: 100%" height="auto" width="100%" alt="SYTWL Wobblers 2023" src="/images/Say YES to Waste Less/Resources/sytwl_wobbler_2023_tmb_thumb200.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYTWL wobblers/stickers_eng" src="/images/Say YES to Waste Less/Resources/tips_to_reduce_disposables_tmb_thumb200.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/tips_to_reduce_disposables.png"><img style="width: 100%" height="auto" width="100%" alt="SYTWL wobblers/stickers_eng" src="/images/Say YES to Waste Less/Resources/tips_to_reduce_disposables_tmb_thumb200.png"></a>
 </td>
 </tr>
 <tr>
@@ -60,25 +54,32 @@ disposables.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/default-source/default-library/nea_sytwl_wobbler_rgb.jpg?Status=Temp&amp;sfvrsn=92ff71b9_0" rel="noopener noreferrer nofollow" target="_blank">Bottle Wobbler (2023)</a>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/nea_sytwl_wobbler_rgb.jpg" rel="noopener noreferrer nofollow" target="_blank">Bottle Wobbler (2023)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/default-source/default-library/tips-to-reduce-disposables.png?Status=Temp&amp;sfvrsn=426d1dd4_0" rel="noopener noreferrer nofollow" target="_blank">Tips to Reduce Disposables&nbsp;(English)</a>
+<p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/tips_to_reduce_disposables.png" rel="noopener noreferrer nofollow" target="_blank">Tips to Reduce Disposables&nbsp;(English)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Wobblers_stickers_4language" src="/images/Say YES to Waste Less/Resources/wobblers_stickers_4language_tmb_thumb200.png">
-</div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYTWL wobblers/stickers_eng" src="/images/Say YES to Waste Less/Resources/sytwl_wobblers_stickers_eng_tmb_thumb200.png">
 </div>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/Say%20YES%20to%20Waste%20Less/rd_wobblers_x_4__english_.pdf"><img style="width: 100%" height="auto" width="100%" alt="Wobblers_stickers_4language" src="/images/Say YES to Waste Less/Resources/wobblers_stickers_4language_tmb_thumb200.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -88,7 +89,7 @@ disposables.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/rd-wobblers-x-4-(emct).pdf?sfvrsn=9c8a6b0f_2" rel="noopener noreferrer nofollow" target="_blank">Wobblers (4 Languages)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/rd_wobblers_x_4__english_.pdf" rel="noopener noreferrer nofollow" target="_blank">Wobblers (English)</a>
 <br><em>- Reusables (Recommended)</em>
 <br><em>- Bag</em>
 <br><em>- Bottle</em>
@@ -96,7 +97,7 @@ disposables.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/rd-wobblers-x-4-(english).pdf?sfvrsn=988a6b0f_2" rel="noopener noreferrer nofollow" target="_blank">Wobblers (English)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/rd_wobblers_x_4__emct_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Wobblers (4 Languages)</u></a>
 <br><em>- Reusables (Recommended)</em>
 <br><em>- Bag</em>
 <br><em>- Bottle</em>
@@ -104,7 +105,7 @@ disposables.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/rd-tent-card-(english).pdf?sfvrsn=948a6b0f_2" rel="noopener noreferrer nofollow" target="_blank">Tent Card (English)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/rd_tent_card__emct_.pdf" rel="noopener noreferrer nofollow" target="_blank">Tent Card (English)</a>
 </p>
 </td>
 </tr>
@@ -127,7 +128,7 @@ disposables.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/rd-tent-card-(emct).pdf?sfvrsn=808a6b0f_2" rel="noopener noreferrer nofollow" target="_blank">Tent Card (4 Languages)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/rd_tent_card__emct_.pdf" rel="noopener noreferrer nofollow" target="_blank">Tent Card (4 Languages)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
