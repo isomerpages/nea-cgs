@@ -16,7 +16,7 @@ disposables.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/forgotten_groceries_1.png"><img style="width: 45%;" height="auto" width="100%" alt="Forgotten Groceries" src="/images/Say YES to Waste Less/Resources/forgotten_groceries_tmb_medium.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/forgotten_groceries_1.png"><img style="width: 58%;" height="auto" width="100%" alt="Forgotten Groceries" src="/images/Say YES to Waste Less/Resources/forgotten_groceries_tmb_medium.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/forgotten_groceries_2.png"><img style="width: 55%;" height="auto" width="100%" alt="Shopping List" src="/images/Say YES to Waste Less/Resources/shopping_list_tmb_medium.png"></a>
 </td>
@@ -38,7 +38,7 @@ disposables.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/side_dishes_2.png"><img style="width: 50%;" height="auto" width="100%" alt="Side Dishes 2" src="/images/Say YES to Waste Less/Resources/side_dishes_2_tmb_medium.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/side_dishes_2.png"><img style="width: 60%;" height="auto" width="100%" alt="Side Dishes 2" src="/images/Say YES to Waste Less/Resources/side_dishes_2_tmb_medium.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/tips_to_reduce_food_wastage.png"><img style="width: 100%" height="auto" width="100%" alt="Tips to Reduce Food Wastage" src="/images/Say YES to Waste Less/Resources/tips_to_reduce_food_wastage_tmb_thumb200.png"></a>
 </td>
