@@ -19,7 +19,7 @@ disposables.</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_1.png"><img style="width: 55%;" height="auto" width="100%" alt="Key Visual – Disposables (Disposable bag)" src="/images/Say YES to Waste Less/Resources/key_visual_disposables__disposable_bag__tmb_medium.png"></a>
 <p></p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_2.png"><img style="width: 43%;" height="auto" width="100%" alt="Key Visual (Reusable Bag)" src="/images/Say YES to Waste Less/Resources/disposable_bags_2_tmb_medium.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_2.png"><img style="width: 48%;" height="auto" width="100%" alt="Key Visual (Reusable Bag)" src="/images/Say YES to Waste Less/Resources/disposable_bags_2_tmb_medium.png"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_containers_1.png"><img style="width: 60%;" height="auto" width="100%" alt="Key Visual (Disposable Container)" src="/images/Say YES to Waste Less/Resources/disposable_container_tmb_medium.png"></a>
@@ -87,7 +87,7 @@ disposables.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/nea_sytwl_a4_em_rgb.jpg"><img style="width: 60%;" height="auto" width="100%" alt="A4 Poster (English/Malay)" src="/images/Say YES to Waste Less/Resources/a4_poster__english_malay__tmb_thumb200.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/nea_sytwl_a4_ct_rgb.jpg"><img style="width: 47%;" height="auto" width="100%" alt="A4 Poster (Chinese/Tamil)" src="/images/Say YES to Waste Less/Resources/a4_poster__chinese_tamil__tmb_thumb200.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/nea_sytwl_a4_ct_rgb.jpg"><img style="width: 53%;" height="auto" width="100%" alt="A4 Poster (Chinese/Tamil)" src="/images/Say YES to Waste Less/Resources/a4_poster__chinese_tamil__tmb_thumb200.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -109,7 +109,7 @@ disposables.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/nea_sytwl_a5_em_rgb.jpg"><img style="width: 60%;" height="auto" width="100%" alt="A5 Flyer (English/Malay)" src="/images/Say YES to Waste Less/Resources/a5_flyer__english_malay__tmb_thumb200.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/nea_sytwl_a5_ct_rgb.jpg"><img style="width: 47%;" height="auto" width="100%" alt="A5 Flyer (Chinese/Tamil)" src="/images/Say YES to Waste Less/Resources/sytwl_a5_flyer__chinese_tamil__tmb_thumb200.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/nea_sytwl_a5_ct_rgb.jpg"><img style="width: 53%;" height="auto" width="100%" alt="A5 Flyer (Chinese/Tamil)" src="/images/Say YES to Waste Less/Resources/sytwl_a5_flyer__chinese_tamil__tmb_thumb200.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
