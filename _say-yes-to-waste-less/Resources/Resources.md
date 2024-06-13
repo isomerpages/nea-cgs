@@ -100,6 +100,117 @@ disposables.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A4 Poster (English/Malay)" src="/images/Say YES to Waste Less/Resources/a4_poster__english_malay__tmb_thumb200.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A4 Poster (Chinese/Tamil)" src="/images/Say YES to Waste Less/Resources/a4_poster__chinese_tamil__tmb_thumb200.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A4 Poster (English/Malay)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A4 Poster (Chinese/Tamil)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A5 Flyer (English/Malay)" src="/images/Say YES to Waste Less/Resources/a5_flyer__english_malay__tmb_thumb200.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A5 Flyer (Chinese/Tamil)" src="/images/Say YES to Waste Less/Resources/sytwl_a5_flyer__chinese_tamil__tmb_thumb200.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A5 Flyer (English/Malay)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A5 Flyer (Chinese/Tamil)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Environmentally-friendly event guidelines" src="/images/Say YES to Waste Less/Resources/environmentally_friendly_event_guidelines_tmb_thumb200.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYTWL Style Guide V11" src="/images/Say YES to Waste Less/Resources/sytwl_style_guide_v11_tmb_ze_300_300.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYTWL Generic" src="/images/Say YES to Waste Less/Resources/sytwl_generic_tmb_thumb200.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/environmentally-friendly-events-guidelines.pdf?sfvrsn=efa56b0f_2" rel="noopener noreferrer nofollow" target="_blank">Best Practice Guide for Events</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cgs.gov.sg/docs/default-source/default-document-library/sytwl-style-guide-30-aug-2021-final.pdf?sfvrsn=4e9fe7c1_2" rel="noopener noreferrer nofollow" target="_blank">Logo Guide</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.cgs.gov.sg/docs/default-source/default-document-library/sytwl-generic.png?sfvrsn=dead6a0f_2" rel="noopener noreferrer nofollow" target="_blank">Say YES to Waste Less Logo</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BW Lockups" src="/images/Say YES to Waste Less/Resources/bw_lockups_tmb_thumb200.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Customisable Templates" src="/images/Say YES to Waste Less/Resources/customisable_templates_tmb_thumb200.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Coloured Lockups" src="/images/Say YES to Waste Less/Resources/coloured_lockups_tmb_thumb200.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B&amp;W Action Lock-Ups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Customisable Templates for Action Lock-Ups</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coloured Action Lock-Ups</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
