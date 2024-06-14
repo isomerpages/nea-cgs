@@ -35,11 +35,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/dengue-check-protect-checklist-tagalog.pdf?sfvrsn=abce6a0f_2" rel="noopener noreferrer nofollow" target="_blank">Dengue Check &amp; Protect Checklist (Tagalog)</a>
+<p><a href="/files/Resources/Resource%20Library/dengue_check_protect_checklist_tagalog.pdf" rel="noopener noreferrer nofollow" target="_blank">Dengue Check &amp; Protect Checklist (Tagalog)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/dengue-check-protect-checklist-bahasa-indonesia.pdf?sfvrsn=a3ce6a0f_2" rel="noopener noreferrer nofollow" target="_blank">Dengue Check &amp; Protect Checklist (Bahasa)</a>
+<p><a href="/files/Resources/Resource%20Library/dengue_check_protect_checklist_bahasa_indonesia.pdf" rel="noopener noreferrer nofollow" target="_blank">Dengue Check &amp; Protect Checklist (Bahasa)</a>
 </p>
 </td>
 </tr>
@@ -62,15 +62,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/dengue-a3-poster-en-tm.pdf?sfvrsn=afce6a0f_2" rel="noopener noreferrer nofollow" target="_blank">Check &amp; Protect Our Dormitories (EN - TL)</a>
+<p><a href="/files/Resources/Resource%20Library/dengue_a3_poster_en_tm.pdf" rel="noopener noreferrer nofollow" target="_blank">Check &amp; Protect Our Dormitories (EN - TL)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/dengue-checklist-a3-poster-en-bg.pdf?sfvrsn=a7ce6a0f_2" rel="noopener noreferrer nofollow" target="_blank">Check &amp; Protect Our Dormitories (EN - BG)</a>
+<p><a href="/files/Resources/Resource%20Library/dengue_checklist_a3_poster_en_bg.pdf" rel="noopener noreferrer nofollow" target="_blank">Check &amp; Protect Our Dormitories (EN - BG)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cgs.gov.sg/docs/default-source/resources/dengue-a3-poster-en---cn.pdf?sfvrsn=bbce6a0f_2" rel="noopener noreferrer nofollow" target="_blank">Check &amp; Protect Our Dormitories (EN-CHI)</a>
+<p><a href="/files/Resources/Resource%20Library/dengue_a3_poster_en___cn.pdf" rel="noopener noreferrer nofollow" target="_blank">Check &amp; Protect Our Dormitories (EN-CHI)</a>
 </p>
 </td>
 </tr>
