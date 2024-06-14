@@ -166,19 +166,19 @@ find out where you can donate/resell/repair your items.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Toys" src="/images/Recycle Right/1649155513794_tmb_esize__220.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Toys" src="/images/Recycle Right/1649155513794_tmb_esize__220.png">
 </div>
 <p>Toys</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Clothing" src="/images/Recycle Right/1649155477285_tmb_esize__220.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Clothing" src="/images/Recycle Right/1649155477285_tmb_esize__220.png">
 </div>
 <p>Clothing</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shoes" src="/images/Recycle Right/1649155552683_tmb_esize__220.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Shoes" src="/images/Recycle Right/1649155552683_tmb_esize__220.png">
 </div>
 <p>Shoes</p>
 </td>
@@ -186,19 +186,19 @@ find out where you can donate/resell/repair your items.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stationery" src="/images/Recycle Right/1649155440022_tmb_esize__220.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Stationery" src="/images/Recycle Right/1649155440022_tmb_esize__220.png">
 </div>
 <p>Stationery</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Furniture" src="/images/Recycle Right/1649155356039_tmb_esize__220.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Furniture" src="/images/Recycle Right/1649155356039_tmb_esize__220.png">
 </div>
 <p>Furniture</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Luggage" src="/images/Recycle Right/1649155401015_tmb_esize__220.png">
+<img style="width: 65%;" height="auto" width="100%" alt="Luggage" src="/images/Recycle Right/1649155401015_tmb_esize__220.png">
 </div>
 <p>Luggage</p>
 </td>
