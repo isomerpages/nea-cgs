@@ -269,10 +269,25 @@ use of the video.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Bloobin Digital Stickers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Available on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://sticker.ly/s/EULKNG" rel="noopener noreferrer nofollow" target="_blank"><u>WhatsApp</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://t.me/addstickers/RecycleRight" rel="noopener noreferrer nofollow" target="_blank"><u>Telegram</u></a>
+</p>
+</li>
+<li>
+<p>Instagram Stories: Simply search for ‘Bloobin’ under the GIF stickers
+function to start using them for your Instagram Stories!</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
