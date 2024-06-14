@@ -42,7 +42,7 @@ third_nav_title: Events
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Open My Factory: TuasOne Waste-to-Energy (Incineration) Plant" src="/images/How Can We Act/Events/12_tuasone_wte_plant.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Open My Factory: TuasOne Waste-to-Energy (Incineration) Plant" src="/images/How Can We Act/Events/12_tuasone_wte_plant.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ third_nav_title: Events
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Open My Factory: TuasOne Waste-to-Energy (Incineration) Plant" src="/images/How Can We Act/Events/12_tuasone_wte_plant.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Open My Factory: TuasOne Waste-to-Energy (Incineration) Plant" src="/images/How Can We Act/Events/12_tuasone_wte_plant.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
