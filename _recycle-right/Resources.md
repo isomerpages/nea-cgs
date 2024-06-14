@@ -210,30 +210,18 @@ to 10 working days.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Paper</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Paper_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_paper_rgb_tmb_small.jpg">
-</div>
+<p>Paper</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_offices_paper_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Paper_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_paper_rgb_tmb_small.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Plastic</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Plastic_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_plastic_rgb_tmb_small.jpg">
-</div>
+<p>Plastic</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_offices_plastic_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Plastic_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_plastic_rgb_tmb_small.jpg"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Glass</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Glass_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_glass_rgb_tmb_small.jpg">
-</div>
+<p>Glass</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_offices_glass_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Glass_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_glass_rgb_tmb_small.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Metal</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Metal_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_metal_rgb_tmb_small.jpg">
-</div>
+<p>Metal</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_offices_metal_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Metal_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_metal_rgb_tmb_small.jpg"></a>
 </td>
 </tr>
 </tbody>
