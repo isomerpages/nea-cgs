@@ -151,4 +151,61 @@ to deposit your e-waste <a href="https://www.nea.gov.sg/our-services/waste-manag
 </tr>
 </tbody>
 </table>
+<h4>Reusables</h4>
+<p>Donate your reusable items if they are in good condition. Otherwise, these
+items cannot be recycled in the blue recycling bins and should be discarded
+as general trash. Visit this <a href="https://www.nea.gov.sg/our-services/waste-management/donation-resale-and-repair-channels/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a>&nbsp;to
+find out where you can donate/resell/repair your items.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Toys" src="/images/Recycle Right/1649155513794_tmb_esize__220.png">
+</div>
+<p>Toys</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Clothing" src="/images/Recycle Right/1649155477285_tmb_esize__220.png">
+</div>
+<p>Clothing</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Shoes" src="/images/Recycle Right/1649155552683_tmb_esize__220.png">
+</div>
+<p>Shoes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stationery" src="/images/Recycle Right/1649155440022_tmb_esize__220.png">
+</div>
+<p>Stationery</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Furniture" src="/images/Recycle Right/1649155356039_tmb_esize__220.png">
+</div>
+<p>Furniture</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Luggage" src="/images/Recycle Right/1649155401015_tmb_esize__220.png">
+</div>
+<p>Luggage</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>To CHECK if your item can or cannot be recycled, simply use the <a href="/recycleright/check-my-item" rel="noopener noreferrer nofollow" target="_blank"><u>Recycling Search Engine</u></a>&nbsp;or
+check out the Bloobin’s <a href="/files/Recycle%20Right/recycling_guide_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Recycling Guide&nbsp;</u></a>to
+seek his advice. He may also throw in a few helpful recycling tips!</p>
 <p></p>
