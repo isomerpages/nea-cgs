@@ -33,4 +33,40 @@ third_nav_title: Events
 </div>
 </a>
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Open My Factory: TuasOne Waste-to-Energy (Incineration) Plant" src="/images/How Can We Act/Events/12_tuasone_wte_plant.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/events/events-details/2024/04/26/default-calendar/open-my-factory--tuasone-waste-to-energy-(incineration)-plant" class="listing-card__title" rel="noopener noreferrer nofollow" target="_blank">Open My Factory: TuasOne Waste-to-Energy (Incineration) Plant</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="Map" src="/images/How Can We Act/Events/icon_map.png">
+</div>
+<p>TuasOne Waste-To-Energy Plant</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="Calendar" src="/images/How Can We Act/Events/icon_calendar.png">
+</div>
+<p>Friday, 26 April - 22 November 2024, 01:30PM - 04:30PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
