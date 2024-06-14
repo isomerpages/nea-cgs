@@ -29,7 +29,6 @@ description: ""
 </div>
 <p><em><sup>SG Clean Ambassador conducting outreach at hawker centre (Photo Credit: NEA)</sup></em>
 </p>
-<p></p>
 <p>Join our SG Clean Ambassadors Network to help promote SG Clean habits
 and social norms.</p>
 <p></p>
@@ -55,7 +54,7 @@ join the SG Clean Ambassadors Network!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Green Nudge" src="/images/YES/photo_credit_green_nudge_tmb_esize_400_.jpg">
 </div>
-<p><em><sup>(Photo Credit: Green Nudge)</sup><br></em>
+<p><em><sup>(Photo Credit: Green Nudge)</sup></em>
 </p>
 <p>Green Nudge is a social enterprise which works together with businesses
 and communities to support their journeys in becoming more sustainable.
@@ -86,7 +85,6 @@ talents in the green industries.</p>
 </div>
 <p><em><sup>(Photo Credit: Mono Foods)</sup></em>
 </p>
-<p></p>
 <p>Mono&nbsp;Foods is a social enterprise which seeks to reduce food waste
 by diverting food items that are near the best-before date from the bin.
 We redistribute these food&nbsp;items and educate&nbsp;the public about
@@ -119,7 +117,6 @@ of life!&nbsp;</p>
 </div>
 <p><em><sup>(Photo Credit: People's Association Youth Movement)</sup></em>
 </p>
-<p></p>
 <p>People’s Association Youth Movement (PAYM) is a core youth movement in
 Singapore that aims to build a connected and active youth community through
 the strategy of ‘Youth for Youth, Youth for Community’. PAYM provides platforms
@@ -149,7 +146,6 @@ Refuse, Rot); community clean-up; and coastal clean-up with kayaking.</p>
 </div>
 <p><em><sup>(Photo Credit: Package Pals)</sup></em>
 </p>
-<p></p>
 <p>Package Pals is a circular packaging initiative that seeks to reduce e-commerce
 waste. We collect e-commerce packaging (poly mailers, envelopes, bubble
 wrap) from the public and distribute them back to businesses looking for
@@ -172,7 +168,7 @@ with schools, and organising public or corporate events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Secondsguru" src="/images/YES/photo_credit_secondsguru_tmb_esize_400_.jpg">
 </div>
-<p><em><sup>(Photo Credit: Secondsguru)</sup><br></em>
+<p><em><sup>(Photo Credit: Secondsguru)</sup></em>
 </p>
 <p>Secondsguru is a social enterprise on a mission to promote eco awareness.
 We run corporate workshops to promote planet-positive action (physical
@@ -208,7 +204,6 @@ founders as well as partner not-for-profit organisations.</p>
 </div>
 <p><em><sup>SEC Volunteer sharing about proper recycling techniques to students (Photo Credit: SEC)</sup></em>
 </p>
-<p></p>
 <p>The Singapore Environment Council (SEC) was established in 1995 as an
 independently managed, non-profit, non-governmental organisation (NGO).</p>
 <p></p>
@@ -246,8 +241,35 @@ for our Earth Helpers, such as from volunteering your time at SEC’s Training
 </div>
 <p><em><sup>(Photo Credit: The Sustainability Project)</sup></em>
 </p>
+<p>The Sustainability Project is a Singapore-based business that aims to
+encourage and inspire the adoption of a low or zero waste lifestyle in
+your life. We run a blog where we share tips on a sustainable lifestyle,
+chats with other green business owners, and other sustainability related
+information. At our store, we sell eco-friendly products such as package-free
+shampoo bars, vegan soaps, and many more essential reusable items. We also
+provide talks, workshops, and events to inspire the next generation to
+be change-makers and lead sustainable lives.</p>
 <p></p>
+<p><u>Volunteering Opportunities</u>
+</p>
+<ol>
+<li>
+<p><strong><em>Writer (Ad Hoc)</em></strong>
+</p>
+<p>Share your passion for sustainability by writing articles to allow readers
+to learn how they can be conscious consumers.</p>
 <p></p>
+</li>
+<li>
+<p><strong><em>Packaging</em></strong>
+</p>
+</li>
+</ol>
+<p>Sort used and clean packaging that is collected and help to encourage
+more parties to adopt used packaging under ZWPI</p>
+<p></p>
+<p><strong>Keen to help us? Check out more available opportunities at&nbsp;<a href="https://thesustainabilityproject.life/shop/tree-hugging-team/" rel="noopener noreferrer nofollow" target="_blank">https://thesustainabilityproject.life/shop/tree-hugging-team/</a>&nbsp;or drop us an email at&nbsp;<a href="https://thesustainabilityproject.life/shop/tree-hugging-team/" rel="noopener noreferrer nofollow" target="_blank">hello@thesustainabilityproject.life</a>!</strong>
+</p>
 </td>
 </tr>
 </tbody>
