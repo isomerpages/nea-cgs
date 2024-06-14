@@ -246,10 +246,24 @@ use of the video.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>'Treat Bloobin Better' Video</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Main tn" src="/images/Recycle Right/Resources/main_tn_tmb_medium.jpg">
+</div>
+<p>View video <a href="https://youtu.be/p-qZCUBp1Go" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bloobin Sticker</strong>
+<br>(for printing)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Click to view full image]</p>
+<p>Version 1:&nbsp;</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/bloobin_sticker_pack_final.pdf"><img style="width: 100%" height="auto" width="100%" alt="StickerPack_thumbnail" src="/images/Recycle Right/Resources/stickerpack_thumbnail339e9856_c2bf_48fd_b6e6_89c88474a069_tmb_small.jpg"></a>
 </td>
 </tr>
 <tr>
