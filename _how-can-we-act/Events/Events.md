@@ -19,7 +19,7 @@ third_nav_title: Events
 <div class="isomer-card-link">View Details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/events/events-details/2024/06/14/default-calendar/eco-paddles-with-ola" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eco Paddle with Ola" src="/images/How Can We Act/Events/9_website_thumbnail_eco_paddle_with_ola.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eco Paddle with Ola</div><div class="isomer-card-description">Ola Beach Club, Sentosa | Friday, 14 June - 24 November 2024, 10:00AM - 12:00PM</div><div class="isomer-card-link">View Details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/events/events-details/2024/06/15/default-calendar/journey-into-glass-recycling-with-abraclean" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Journey into Glass Recycling with Abraclean" src="/images/How Can We Act/Events/5_website_thumbnail_abraclean.jpg">
@@ -29,7 +29,7 @@ third_nav_title: Events
 <div class="isomer-card-title">Journey into Glass Recycling with Abraclean</div>
 <div class="isomer-card-description">Abraclean (Asia Pacific) Pte Ltd - Saturday, 15 June - 13 July 2024, 09:30AM
 - 12:00PM</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">View Details</div>
 </div>
 </a>
 </div>
