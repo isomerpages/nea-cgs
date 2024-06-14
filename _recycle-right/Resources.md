@@ -159,10 +159,31 @@ to 10 working days.</p>
 <br>Organisations/Entities (Consolidated)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image]</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="NEA_RecycleRight_CorporateKV1-01_Jan_thumbnail" src="/images/Recycle Right/Resources/nea_recycleright_corporatekv1_01_jan_thumbnail4c16dcff_1c58_4a70_92ff_316b36c0c080_tmb_small.jpg">
-</div>
+<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_recycleright_corporatekv_lores_rgb.pdf"><img style="width: 50%;" height="auto" width="100%" alt="NEA_RecycleRight_CorporateKV1-01_Jan_thumbnail" src="/images/Recycle Right/Resources/nea_recycleright_corporatekv1_01_jan_thumbnail4c16dcff_1c58_4a70_92ff_316b36c0c080_tmb_small.jpg"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
