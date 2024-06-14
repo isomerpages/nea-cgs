@@ -92,10 +92,35 @@ to 10 working days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Lunar New Year Poster</strong>
+<br>(in 4 languages)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[Click on the links and images below to view full image.]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Recycle%20Right/Resources/050122_nea_recycleright_educationalkv_cny_en_ml.jpg" rel="noopener noreferrer nofollow" target="_blank">English and Malay</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Recycle%20Right/Resources/050122_nea_recycleright_educationalkv_cny_cn_tl.jpg" rel="noopener noreferrer nofollow" target="_blank">Chinese and Tamil</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/050122_nea_recycleright_educationalkv_cny_en_ml.jpg"><img style="width: 100%" height="auto" width="100%" alt="050122_NEA_RecycleRight_EducationalKV_CNY_EN_ML_tn" src="/images/Recycle Right/Resources/050122_nea_recycleright_educationalkv_cny_en_ml_tn1fd3884f_81be_48b6_bdce_9c43a69389c9_tmb_medium.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/050122_nea_recycleright_educationalkv_cny_cn_tl.jpg"><img style="width: 100%" height="auto" width="100%" alt="050122_NEA_RecycleRight_EducationalKV_CNY_CN_TL_tn" src="/images/Recycle Right/Resources/050122_nea_recycleright_educationalkv_cny_cn_tl_tn907082bc_033c_4ccf_bc7e_b1832dc74ccf_tmb_medium.jpg"></a>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 <tr>
