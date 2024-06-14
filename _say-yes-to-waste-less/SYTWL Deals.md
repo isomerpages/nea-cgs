@@ -16,7 +16,7 @@ to say YES to reducing disposables and food wastage.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dorsett Singapore" src="/images/Say YES to Waste Less/SYTWL Deals/dorsett2024_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Dorsett Singapore" src="/images/Say YES to Waste Less/SYTWL Deals/dorsett2024_tmb_thumb160.png">
 </div>
 <p><strong>Dorsett Singapore</strong>
 </p>
@@ -29,7 +29,7 @@ have a chance to win 100 Dorsett-Your Rewards points, valued at SGD130.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
+<img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
 <p><strong>FairPrice Group</strong>
 </p>
@@ -41,7 +41,7 @@ programme for Kopitiam.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="foodpanda Singapore" src="/images/Say YES to Waste Less/SYTWL Deals/foodpanda_logo_redux_2023_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="foodpanda Singapore" src="/images/Say YES to Waste Less/SYTWL Deals/foodpanda_logo_redux_2023_tmb_thumb160.png">
 </div>
 <p><strong>foodpanda Singapore</strong>
 </p>
@@ -54,7 +54,7 @@ the "Green Label" filter on the "Restaurants" page. T&amp;C applies.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Food Republic" src="/images/Say YES to Waste Less/SYTWL Deals/food_republic_3_tmb_thumb200.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Food Republic" src="/images/Say YES to Waste Less/SYTWL Deals/food_republic_3_tmb_thumb200.png">
 </div>
 <p><strong>Food Republic</strong>
 </p>
@@ -66,7 +66,7 @@ when they use the Muuse containers for takeaway.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Foreword Coffee Roasters" src="/images/Say YES to Waste Less/SYTWL Deals/roasters___black_horizontal_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Foreword Coffee Roasters" src="/images/Say YES to Waste Less/SYTWL Deals/roasters___black_horizontal_tmb_thumb160.png">
 </div>
 <p><strong>Foreword Coffee Roasters</strong>
 </p>
@@ -95,7 +95,7 @@ North - First Story.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Four Points Sheraton Singapore, Riverview" src="/images/Say YES to Waste Less/SYTWL Deals/fpt4304cmyk_170763_cmyk_navy_text_4_color_pinwheel_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Four Points Sheraton Singapore, Riverview" src="/images/Say YES to Waste Less/SYTWL Deals/fpt4304cmyk_170763_cmyk_navy_text_4_color_pinwheel_tmb_thumb160.png">
 </div>
 <p><strong>Four Points Sheraton Singapore, Riverview</strong>
 </p>
@@ -107,7 +107,7 @@ apply.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Greendot" src="/images/Say YES to Waste Less/SYTWL Deals/greendot2024_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Greendot" src="/images/Say YES to Waste Less/SYTWL Deals/greendot2024_tmb_thumb160.png">
 </div>
 <p><strong>Greendot</strong>
 </p>
@@ -120,7 +120,7 @@ bags to encourage customers to embrace eco-friendly living.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Harvey Norman" src="/images/Say YES to Waste Less/SYTWL Deals/hn2024_tmb_thumb160.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="Harvey Norman" src="/images/Say YES to Waste Less/SYTWL Deals/hn2024_tmb_thumb160.jpg">
 </div>
 <p><strong>Harvey Norman</strong>
 </p>
@@ -134,7 +134,7 @@ upon delivery of new purchase.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Holiday Inn Singapore Atrium" src="/images/Say YES to Waste Less/SYTWL Deals/holiday_inn_singapore_atrium__green_logo__tmb_thumb160.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="Holiday Inn Singapore Atrium" src="/images/Say YES to Waste Less/SYTWL Deals/holiday_inn_singapore_atrium__green_logo__tmb_thumb160.jpg">
 </div>
 <p><strong>Holiday Inn Singapore Atrium</strong>
 </p>
@@ -145,7 +145,7 @@ are rewarded with additional IHG One Rewards points.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ION Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/ion_logo_cmyk_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="ION Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/ion_logo_cmyk_tmb_thumb160.png">
 </div>
 <p><strong>ION Orchard</strong>
 </p>
@@ -162,7 +162,7 @@ are offered.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kiehl’s" src="/images/Say YES to Waste Less/SYTWL Deals/kiehls_logo_tmb_thumb200.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="Kiehl’s" src="/images/Say YES to Waste Less/SYTWL Deals/kiehls_logo_tmb_thumb200.jpg">
 </div>
 <p><strong>Kiehl’s</strong>
 </p>
@@ -179,7 +179,7 @@ gifts for their contribution to environmental preservation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LiHO TEA" src="/images/Say YES to Waste Less/SYTWL Deals/liho_tea_logo_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="LiHO TEA" src="/images/Say YES to Waste Less/SYTWL Deals/liho_tea_logo_tmb_thumb160.png">
 </div>
 <p><strong>LiHO TEA</strong>
 </p>
@@ -192,7 +192,7 @@ their own cups at KTPH to promote environmentally friendly initiatives.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="M1 Limited" src="/images/Say YES to Waste Less/SYTWL Deals/m182b20358272b4558b9c7a50b6a9442db_tmb_thumb200.png">
+<img style="width: 20%;" height="auto" width="100%" alt="M1 Limited" src="/images/Say YES to Waste Less/SYTWL Deals/m182b20358272b4558b9c7a50b6a9442db_tmb_thumb200.png">
 </div>
 <p><strong>M1 Limited</strong>
 </p>
@@ -205,7 +205,7 @@ electronic equipment being disposed.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Marina Bay Sands" src="/images/Say YES to Waste Less/SYTWL Deals/mbs_logo__eng_sc_tc__may2016_individual_02_tmb_medium.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Marina Bay Sands" src="/images/Say YES to Waste Less/SYTWL Deals/mbs_logo__eng_sc_tc__may2016_individual_02_tmb_medium.png">
 </div>
 <p><strong>Marina Bay Sands</strong>
 </p>
@@ -219,7 +219,7 @@ stocks last.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mercure Singapore Bugis" src="/images/Say YES to Waste Less/SYTWL Deals/msb_logo_full_colour_2024_tmb_thumb160.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="Mercure Singapore Bugis" src="/images/Say YES to Waste Less/SYTWL Deals/msb_logo_full_colour_2024_tmb_thumb160.jpg">
 </div>
 <p><strong>Mercure Singapore Bugis</strong>
 </p>
@@ -230,7 +230,7 @@ at BARtistry's Tea Time Affair.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Muuse" src="/images/Say YES to Waste Less/SYTWL Deals/muuse_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Muuse" src="/images/Say YES to Waste Less/SYTWL Deals/muuse_tmb_thumb160.png">
 </div>
 <p><strong>Muuse</strong>
 </p>
@@ -241,7 +241,7 @@ check out the Muuse app for details.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PARKROYAL on Beach Road" src="/images/Say YES to Waste Less/SYTWL Deals/parkroyal_on_beach_road_singapore_jpeg_tmb_thumb160.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="PARKROYAL on Beach Road" src="/images/Say YES to Waste Less/SYTWL Deals/parkroyal_on_beach_road_singapore_jpeg_tmb_thumb160.jpg">
 </div>
 <p><strong>PARKROYAL on Beach Road</strong>
 </p>
@@ -254,7 +254,7 @@ to responsible resource management.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/pullman_singapore_orchard_hotel_logo_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/pullman_singapore_orchard_hotel_logo_tmb_thumb160.png">
 </div>
 <p><strong>Pullman Singapore Orchard</strong>
 </p>
@@ -266,7 +266,7 @@ at Atelier Lounge located at level 4 in Pullman Singapore Orchard from
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SaladStop!" src="/images/Say YES to Waste Less/SYTWL Deals/saladstop_logo_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="SaladStop!" src="/images/Say YES to Waste Less/SYTWL Deals/saladstop_logo_tmb_thumb160.png">
 </div>
 <p><strong>SaladStop!</strong>
 </p>
@@ -280,7 +280,7 @@ app for more on Muuse partner cafes near you and their offers!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Starbucks" src="/images/Say YES to Waste Less/SYTWL Deals/starbucks_logo_tmb_thumb160.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="Starbucks" src="/images/Say YES to Waste Less/SYTWL Deals/starbucks_logo_tmb_thumb160.jpg">
 </div>
 <p><strong>Starbucks</strong>
 </p>
@@ -292,7 +292,7 @@ their members.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tanglin Mall" src="/images/Say YES to Waste Less/SYTWL Deals/tanglin_mall_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="Tanglin Mall" src="/images/Say YES to Waste Less/SYTWL Deals/tanglin_mall_tmb_thumb160.png">
 </div>
 <p><strong>Tanglin Mall</strong>
 </p>
@@ -305,7 +305,7 @@ to offset their shopping purchase or carpark charges.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Sustainability Project" src="/images/Say YES to Waste Less/SYTWL Deals/the_sustainability_project_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="The Sustainability Project" src="/images/Say YES to Waste Less/SYTWL Deals/the_sustainability_project_tmb_thumb160.png">
 </div>
 <p><strong><a href="https://thesustainabilityproject.life/shop/" rel="noopener noreferrer nofollow" target="_blank">The Sustainability Project</a></strong>
 </p>
@@ -322,7 +322,7 @@ range, Sol cups/bottles, reusable bubble tea cup and stashers)
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Toast Box" src="/images/Say YES to Waste Less/SYTWL Deals/toastbox_logo_tmb_thumb200.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="Toast Box" src="/images/Say YES to Waste Less/SYTWL Deals/toastbox_logo_tmb_thumb200.jpg">
 </div>
 <p><strong>Toast Box</strong>
 </p>
@@ -333,7 +333,7 @@ customers bring their own cup.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="treatsure" src="/images/Say YES to Waste Less/SYTWL Deals/treatsure_logo_rgb_tmb_thumb160.png">
+<img style="width: 20%;" height="auto" width="100%" alt="treatsure" src="/images/Say YES to Waste Less/SYTWL Deals/treatsure_logo_rgb_tmb_thumb160.png">
 </div>
 <p><strong>treatsure</strong>
 </p>
@@ -346,7 +346,7 @@ their 7 Tanjong Pagar Plaza concept store will receive a free gift.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="UnPackt" src="/images/Say YES to Waste Less/SYTWL Deals/unpackt_logo_tmb_thumb160.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="UnPackt" src="/images/Say YES to Waste Less/SYTWL Deals/unpackt_logo_tmb_thumb160.jpg">
 </div>
 <p><strong><a href="https://unpackt.com.sg/" rel="noopener noreferrer nofollow" target="_blank">UnPackt</a></strong>
 </p>
