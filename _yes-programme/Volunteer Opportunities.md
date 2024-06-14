@@ -108,10 +108,12 @@ of life!&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PAYM Logo (png)" src="/images/YES/paym_logo__png_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<h3><strong>People’s Association Youth Movement (PAYM)</strong></h3>
 </td>
 </tr>
 </tbody>
