@@ -163,6 +163,78 @@ with schools, and organising public or corporate events.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Seconds Guru" src="/images/YES/seconds_guru.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>Secondsguru</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Secondsguru" src="/images/YES/photo_credit_secondsguru_tmb_esize_400_.jpg">
+</div>
+<p><em><sub>(Photo Credit: Secondsguru)</sub><br></em>
+</p>
+<p>Secondsguru is a social enterprise on a mission to promote eco awareness.
+We run corporate workshops to promote planet-positive action (physical
+and virtual sessions) and conduct outreach programmes to give back to the
+community. Our portal <a href="http://Secondsguru.com" rel="noopener noreferrer nofollow" target="_blank">Secondsguru.com</a> is a one-stop informational
+source for anyone looking for a greener lifestyle!</p>
+<p></p>
+<p>The Zero Waste Bootcamp (ZWB) is a 12-16 weeks programme where youth (aged
+18-35 years old) team up, create and execute sustainability projects. The
+ZWB not only encourages environmental stewardship, but also fosters the
+development of creative solutions to environmental and social problems
+we face in Singapore today. Moreover, the ZWB equips youth with skills
+and knowledge to craft meaningful projects with sustainable impacts, giving
+them the opportunity to gain mentorship in their engagement with Secondguru’s
+founders as well as partner not-for-profit organisations.</p>
+<p></p>
+<p><strong>Interested in being an agent of change? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9YgZlNSJBSQWOxYiYgVF3-wHjpC81GYhx5PhjGorMTRgdNg/viewform" rel="noopener noreferrer nofollow" target="_blank">Sign up&nbsp;here</a>&nbsp;to express interest to join the next Zero Waste Bootcamp by Secondgsuru.</strong>
+</p>
+<p></p>
+<p>Have any questions? email us at&nbsp;<a href="mailto:admin@secondsguru.com" rel="noopener noreferrer nofollow" target="_blank">admin@secondsguru.com</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SEC logo" src="/images/YES/sec_logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>Singapore Environment Council</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SEC Volunteer sharing about proper recycling techniques to students (Photo Credit: SEC)" src="/images/YES/sec_volunteer_sharing_about_proper_recycling_techniques_to_students__photo_credit_sec__tmb_esize_400_.jpg">
+</div>
+<p><em><sub>SEC Volunteer sharing about proper recycling techniques to students (Photo Credit: SEC)</sub></em>
+</p>
+<p></p>
+<p>The Singapore Environment Council (SEC) was established in 1995 as an
+independently managed, non-profit, non-governmental organisation (NGO).</p>
+<p></p>
+<p>We are committed to influencing thinking and driving actions towards environmental
+sustainability – such as through our green labelling certifications, with
+the purpose to spur business impact and encourage green consumerism.</p>
+<p></p>
+<p>SEC also actively engages our community and the youths through our volunteering
+initiative - Earth Helpers. We aim to educate and empower our stakeholders
+to take a proactive role in protecting the environment that we all live,
+work, study, and play in.</p>
+<p></p>
+<p><u>Earth Helpers</u>
+</p>
+<p>The Earth Helpers programme advocates for environmental volunteerism among
+the general public and corporations. Our volunteers come from all walks
+of life and with diverse backgrounds. A variety of projects are available
+for our Earth Helpers, such as from volunteering your time at SEC’s Training
+&amp; Education programmes (at trails, workshops and talks).</p>
+<p></p>
+<p><strong>Contact&nbsp;<a href="mailto:info@sec.org.sg" rel="noopener noreferrer nofollow" target="_blank">info@sec.org.sg</a>&nbsp;to find out more about the programme!</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
