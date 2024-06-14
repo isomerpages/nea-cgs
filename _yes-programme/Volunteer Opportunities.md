@@ -114,6 +114,34 @@ of life!&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <h3><strong>People’s Association Youth Movement (PAYM)</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PAYM_Green_3" src="/images/YES/paym_green_3_tmb_esize_400_.jpg">
+</div>
+<p><em><sub>(Photo Credit: People's Association Youth Movement)</sub></em>
+</p>
+<p></p>
+<p>People’s Association Youth Movement (PAYM) is a core youth movement in
+Singapore that aims to build a connected and active youth community through
+the strategy of ‘Youth for Youth, Youth for Community’. PAYM provides platforms
+for youth to develop themselves and fulfil their aspiration for the community
+via a myriad of diverse and holistic programme.&nbsp;
+<br>
+<br>In line with&nbsp; youths’ growing interest on environment and sustainability
+matters, we have initiated a <strong>PAYM50Green Campaign </strong>&nbsp;to
+support our Youth Networks in organising ground-up initiatives across Singapore
+in three main areas, projects relating to the 5Rs (Recycle, Reuse, Reduce,
+Refuse, Rot); community clean-up; and coastal clean-up with kayaking.</p>
+<p></p>
+<p><strong>Keen to find out more or join our Youth Networks in their Green projects? Follow us at <a href="http://go.gov.sg/paym" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/paym</a> or drop us an email at <a href="http://go.gov.sg/paym" rel="noopener noreferrer nofollow" target="_blank">pa_paym@pa.gov.sg</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
