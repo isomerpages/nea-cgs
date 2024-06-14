@@ -36,7 +36,7 @@ Landfill.</p>
 <p>You can find out more about <a href="https://www.cgs.gov.sg/recycleright/meet-bloobin" rel="noopener noreferrer nofollow" target="_blank"><u>Bloobin here</u></a>.&nbsp;</p>
 <p>+++</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="how-do-i-start-removebg-preview" src="/images/Recycle Right/how_do_i_start_removebg_preview.png">
+<img style="width: 30%;" height="auto" width="100%" alt="how-do-i-start-removebg-preview" src="/images/Recycle Right/how_do_i_start_removebg_preview.png">
 </div>
 <p>First, set up a recycling corner in your home. Start by placing a recycling
 receptacle (bin, container or bag) next to your trash bin so that you can
@@ -46,7 +46,7 @@ separate your recyclables from general waste.</p>
 </div>
 <h4>FOLLOW THE <strong>3 SIMPLE STEPS</strong> TO RECYCLE RIGHT</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CHECK" src="/images/Recycle Right/check_tmb_esize_600_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="CHECK" src="/images/Recycle Right/check_tmb_esize_600_.png">
 </div>
 <p>To CHECK if your item can or cannot be recycled, simply use the <a href="/recycleright/check-my-item" rel="noopener noreferrer nofollow" target="_blank"><u>Recycling Search Engine</u></a>&nbsp;or
 check out the Bloobin’s<a href="/files/Recycle%20Right/recycling_guide_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> Recycling Guide</u></a> to
