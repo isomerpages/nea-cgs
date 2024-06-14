@@ -95,4 +95,22 @@ action.</p>
 </p>
 <p><strong>To validate a CV’s identity, you may verify through the NEA website&nbsp;<a href="https://www.nea.gov.sg/validate-officer" rel="noopener noreferrer nofollow" target="_blank">https://www.nea.gov.sg/validate-officer</a></strong>&nbsp;<strong>using the CV’s name and authority card number.</strong>
 </p>
+<hr>
+<h3>SG Clean Ambassadors Network</h3>
+<p>Launched in March 2020, the SG Clean Ambassadors Network comprises of
+volunteers who have a shared vision and passion to make SG Clean, the national
+movement to instil a “keep clean culture” as a way of life in Singapore.</p>
+<p>SG Clean Ambassadors have been deployed at many locations across the island,
+such as transport hubs (MRT stations and bus interchanges), hawker centres,
+residential estates, and also at major public events such as the National
+Day Parade and River Hongbao.&nbsp; During these deployments, they help
+to promote good public health and hygiene habits (including safe distancing
+practices during COVID) in the community, to support the SG Clean movement.</p>
+<p>The Ambassadors’ support has been the backbone of public outreach in various
+national public health campaigns such as Dengue Prevention and Clean Public
+Toilets. Building on their success in engaging the public, their role has
+also been expanded to support national environmental sustainability campaigns
+such as Say YES to Waste Less and Recycle Right, as well.</p>
+<p><strong>Interested members of the public or partner organisations can sign up at <a href="http://go.gov.sg/sgcleanambassadors" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/sgcleanambassadors</a>&nbsp;or email <a href="mailto:NEA_Volunteer@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA_Volunteer@nea.gov.sg</a> for further enquiries.</strong>
+</p>
 <p></p>
