@@ -18,8 +18,7 @@ third_nav_title: Events
 <div class="isomer-card-description">Various locations Friday, 14 June - 10 July 2024, 10:00AM - 11:30AM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/events-details/2024/06/14/default-calendar/eco-paddles-with-ola" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eco Paddle with Ola" src="/images/How Can We Act/Events/9_website_thumbnail_eco_paddle_with_ola.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eco Paddle with Ola</div><div class="isomer-card-description">Ola Beach Club, Sentosa
-Friday, 14 June - 24 November 2024, 10:00AM - 12:00PM</div><div class="isomer-card-link">View Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/events-details/2024/06/14/default-calendar/eco-paddles-with-ola" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eco Paddle with Ola" src="/images/How Can We Act/Events/9_website_thumbnail_eco_paddle_with_ola.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eco Paddle with Ola</div><div class="isomer-card-description">Ola Beach Club, Sentosa Friday, 14 June - 24 November 2024, 10:00AM - 12:00PM</div><div class="isomer-card-link">View Details</div></div></a>
 </div>
 <p></p>
 <p></p>
