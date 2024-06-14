@@ -6,9 +6,9 @@ description: ""
 third_nav_title: Events
 ---
 <h3>OPEN MY FACTORY: TUASONE WASTE-TO-ENERGY (INCINERATION) PLANT</h3>
-<p>Friday, 26 April - 22 November 2024, 01:30 PM - 04:30 PM</p>
-<p>TuasOne Waste-To-Energy Plant</p>
-<p>[Organised by My Community, a non-profit social enterprise partner for
+<p>Friday, 26 April - 22 November 2024, 01:30 PM - 04:30 PM
+<br>TuasOne Waste-To-Energy Plant
+<br>[Organised by My Community, a non-profit social enterprise partner for
 CGS Experiences. Participants will pay a nominal fee to take part in the
 tour. All proceeds will go to My Community to cover the costs of running
 the tours.]&nbsp;</p>
