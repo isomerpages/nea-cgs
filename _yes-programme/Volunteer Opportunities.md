@@ -308,12 +308,53 @@ influencer.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="zero-waste" src="/images/YES/zero_waste.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<h3><strong>Zero Waste Singapore</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Zero Waste SG" src="/images/YES/photo_credit_zero_waste_sg_tmb_esize_400_.jpg">
+</div>
+<p><em><sup>(Photo Credit: Zero Waste SG)</sup></em>
+</p>
+<p>Zero Waste SG is a charity, non-governmental organisation driving zero
+waste action in Singapore through education and advocacy. It started as
+a website in 2008 providing tips and resources on waste minimisation and
+recycling, and was officially registered as a non-governmental organisation
+on 13 Jul 2015.</p>
 <p></p>
+<p>Zero Waste SG aims to promote education and engagement on the 3Rs (Reduce,
+Reuse and Recycle) among individuals and households; and increase waste
+minimisation and recycling among businesses and organisations.</p>
+<p></p>
+<h3><strong><u>Roles available:</u></strong></h3>
+<ol>
+<li>
+<p><strong>Student creatives (video editing/creating, content and graphic creation)</strong>
+</p>
+<p>Are you a creative individual interested in sustainability? Volunteer
+with us to gain exposure on waste issues in Singapore and boost your portfolio
+at the same time!</p>
+<p></p>
+</li>
+<li>
+<p><strong>General outreach training programme<br></strong>Be part of our
+campaigns and projects where we do public engagement and collect data to
+study public response and increase impact!</p>
+</li>
+</ol>
+<p></p>
+<p><strong>Sign up to volunteer with us here:&nbsp;<a href="http://www.zerowastesg.com/volunteer/" rel="noopener noreferrer nofollow" target="_blank">http://www.zerowastesg.com/volunteer/<br></a></strong>
+</p>
+<p><strong>Check out&nbsp;<a href="http://www.zerowastesg.com/volunteer/" rel="noopener noreferrer nofollow" target="_blank">www.zerowastesg.com</a>&nbsp;or&nbsp;<a href="http://www.zerowastesg.com/volunteer/" rel="noopener noreferrer nofollow" target="_blank">www.byosingapore.com</a>&nbsp;to find out more!</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="1. YES_Footer_Final" src="/images/YES/yes_footer_final.jpg">
+</div>
 <p></p>
