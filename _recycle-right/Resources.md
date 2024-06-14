@@ -230,6 +230,20 @@ to 10 working days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>'Have you seen Bloobin' Video</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>In English: <a href="https://youtu.be/jAeqGbJIfJE" rel="noopener noreferrer nofollow" target="_blank"><u>Link here</u></a>
+</p>
+<p>A 30-second video is available in English, Malay, Chinese and Tamil. Please
+contact <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>3PMCD_Enquiries@nea.gov.sg</u></a>&nbsp;for
+use of the video.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
