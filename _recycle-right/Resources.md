@@ -125,6 +125,26 @@ to 10 working days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>A5 Info Visual</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Click on the images below to view full image.]</p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/nea_recycleright_chutesticker1_a554939e3994064c668a41fd43bac0b727.jpg"><img style="width: 100%" height="auto" width="100%" alt="NEA_RecycleRight_ChuteSticker1_A5_thumbnail" src="/images/Recycle Right/Resources/nea_recycleright_chutesticker1_a5_thumbnail37b85f13_0965_41f3_9c83_2558d377ab1c_tmb_esize_350_.jpg"></a>
+<a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/nea_chute_sticker_rgb_recyclables.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="NEA_Chute Sticker RGB_Recyclables" src="/images/Recycle Right/Resources/nea_chute_sticker_rgb_recyclables_tmb_esize_350_.jpg">
+</a><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/nea_chute_sticker_rgb_general_waste.jpg"><img style="width: 100%" height="auto" width="100%" alt="NEA_Chute Sticker RGB_General Waste" src="/images/Recycle Right/Resources/nea_chute_sticker_rgb_general_waste_tmb_esize_350_.jpg"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
