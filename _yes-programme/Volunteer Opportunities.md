@@ -138,6 +138,31 @@ Refuse, Rot); community clean-up; and coastal clean-up with kayaking.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Package Pals Logo (Transparent)" src="/images/YES/package_pals_logo__transparent_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>Package Pals</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="169156040_4137933506252842_3654745544363622797_n" src="/images/YES/169156040_4137933506252842_3654745544363622797_n_tmb_esize_400_.jpg">
+</div>
+<p><em><sub>(Photo Credit: Package Pals)</sub></em>
+</p>
+<p></p>
+<p>Package Pals is a circular packaging initiative that seeks to reduce e-commerce
+waste. We collect e-commerce packaging (poly mailers, envelopes, bubble
+wrap) from the public and distribute them back to businesses looking for
+eco-friendly packaging options. Education on the issue of packaging waste
+is also a key goal of our initiative, particularly through partnerships
+with schools, and organising public or corporate events.</p>
+<p></p>
+<p><strong>If you're interested in contributing to our initiative, you may reach out to us via the enquiry form on our website (<a href="https://www.packagepals.co/" rel="noopener noreferrer nofollow" target="_blank">https://www.packagepals.co/</a>)! Please specify the skills that you can contribute/your interested role (e.g. business development, data analysis). Otherwise, stay connected through our social media channels for upcoming mass recruitment drives!</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
