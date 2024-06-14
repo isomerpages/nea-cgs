@@ -304,7 +304,9 @@ to offset their shopping purchase or carpark charges.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Sustainability Project" src="/images/Say YES to Waste Less/SYTWL Deals/the_sustainability_project_tmb_thumb160.png">
+</div>
 <p><strong><a href="https://thesustainabilityproject.life/shop/" rel="noopener noreferrer nofollow" target="_blank">The Sustainability Project</a></strong>
 </p>
 <p>From 18 May to 24 June 2024:</p>
@@ -319,7 +321,42 @@ range, Sol cups/bottles, reusable bubble tea cup and stashers)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Toast Box" src="/images/Say YES to Waste Less/SYTWL Deals/toastbox_logo_tmb_thumb200.jpg">
+</div>
+<p><strong>Toast Box</strong>
+</p>
+<p>Toast Box is offering a $0.10 discount on takeaway drink purchases when
+customers bring their own cup.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="treatsure" src="/images/Say YES to Waste Less/SYTWL Deals/treatsure_logo_rgb_tmb_thumb160.png">
+</div>
+<p><strong>treatsure</strong>
+</p>
+<p>Enjoy 50-cents off your meal with treatsure's resusable box at over 10
+hotels and restaurant partner locations.</p>
+<p>Consumers who bring their own bag to self-pickup surplus groceries from
+their 7 Tanjong Pagar Plaza concept store will receive a free gift.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="UnPackt" src="/images/Say YES to Waste Less/SYTWL Deals/unpackt_logo_tmb_thumb160.jpg">
+</div>
+<p><strong><a href="https://unpackt.com.sg/" rel="noopener noreferrer nofollow" target="_blank">UnPackt</a></strong>
+</p>
+<p>From 14 May - 24 June 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy 10% off cafe menu for customers who bring their own reusable containers
+<br>Promotion applicable for takeaways.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
