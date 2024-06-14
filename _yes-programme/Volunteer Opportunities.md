@@ -27,7 +27,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SG Clean Ambassador" src="/images/YES/sgclean_tmb_esize_400_.jpg">
 </div>
-<p><em><sub>SG Clean Ambassador conducting outreach at hawker centre (Photo Credit: NEA)</sub></em>
+<p><em><sup>SG Clean Ambassador conducting outreach at hawker centre (Photo Credit: NEA)</sup></em>
 </p>
 <p></p>
 <p>Join our SG Clean Ambassadors Network to help promote SG Clean habits
@@ -55,7 +55,7 @@ join the SG Clean Ambassadors Network!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Green Nudge" src="/images/YES/photo_credit_green_nudge_tmb_esize_400_.jpg">
 </div>
-<p><em><sub>(Photo Credit: Green Nudge)</sub><br></em>
+<p><em><sup>(Photo Credit: Green Nudge)</sup><br></em>
 </p>
 <p>Green Nudge is a social enterprise which works together with businesses
 and communities to support their journeys in becoming more sustainable.
@@ -84,7 +84,7 @@ talents in the green industries.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MoNo Volunteers" src="/images/YES/mono_volunteers_tmb_esize_400_.jpg">
 </div>
-<p><em><sub>(Photo Credit: Mono Foods)</sub></em>
+<p><em><sup>(Photo Credit: Mono Foods)</sup></em>
 </p>
 <p></p>
 <p>Mono&nbsp;Foods is a social enterprise which seeks to reduce food waste
@@ -117,7 +117,7 @@ of life!&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="PAYM_Green_3" src="/images/YES/paym_green_3_tmb_esize_400_.jpg">
 </div>
-<p><em><sub>(Photo Credit: People's Association Youth Movement)</sub></em>
+<p><em><sup>(Photo Credit: People's Association Youth Movement)</sup></em>
 </p>
 <p></p>
 <p>People’s Association Youth Movement (PAYM) is a core youth movement in
@@ -147,7 +147,7 @@ Refuse, Rot); community clean-up; and coastal clean-up with kayaking.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="169156040_4137933506252842_3654745544363622797_n" src="/images/YES/169156040_4137933506252842_3654745544363622797_n_tmb_esize_400_.jpg">
 </div>
-<p><em><sub>(Photo Credit: Package Pals)</sub></em>
+<p><em><sup>(Photo Credit: Package Pals)</sup></em>
 </p>
 <p></p>
 <p>Package Pals is a circular packaging initiative that seeks to reduce e-commerce
@@ -172,7 +172,7 @@ with schools, and organising public or corporate events.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Photo Credit: Secondsguru" src="/images/YES/photo_credit_secondsguru_tmb_esize_400_.jpg">
 </div>
-<p><em><sub>(Photo Credit: Secondsguru)</sub><br></em>
+<p><em><sup>(Photo Credit: Secondsguru)</sup><br></em>
 </p>
 <p>Secondsguru is a social enterprise on a mission to promote eco awareness.
 We run corporate workshops to promote planet-positive action (physical
@@ -206,7 +206,7 @@ founders as well as partner not-for-profit organisations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SEC Volunteer sharing about proper recycling techniques to students (Photo Credit: SEC)" src="/images/YES/sec_volunteer_sharing_about_proper_recycling_techniques_to_students__photo_credit_sec__tmb_esize_400_.jpg">
 </div>
-<p><em><sub>SEC Volunteer sharing about proper recycling techniques to students (Photo Credit: SEC)</sub></em>
+<p><em><sup>SEC Volunteer sharing about proper recycling techniques to students (Photo Credit: SEC)</sup></em>
 </p>
 <p></p>
 <p>The Singapore Environment Council (SEC) was established in 1995 as an
@@ -235,9 +235,18 @@ for our Earth Helpers, such as from volunteering your time at SEC’s Training
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Sustainability Project" src="/images/YES/the_sustainability_project.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<h3><strong>The Sustainability Project</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Photo Credit: The Sustainability Project" src="/images/YES/photo_credit_the_sustainability_project_tmb_esize_400_.jpg">
+</div>
+<p><em><sup>(Photo Credit: The Sustainability Project)</sup></em>
+</p>
+<p></p>
 <p></p>
 </td>
 </tr>
