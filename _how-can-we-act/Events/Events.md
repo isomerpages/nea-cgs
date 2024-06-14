@@ -68,15 +68,8 @@ third_nav_title: Events
 <td rowspan="1" colspan="1">
 <p><strong><a href="/events/events-details/2024/04/26/default-calendar/open-my-factory--tuasone-waste-to-energy-(incineration)-plant" class="listing-card__title" rel="noopener noreferrer nofollow" target="_blank">Open My Factory: TuasOne Waste-to-Energy (Incineration) Plant</a></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="Map" src="/images/How Can We Act/Events/icon_map.png">
-</div>
-<p>TuasOne Waste-To-Energy Plant</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="Calendar" src="/images/How Can We Act/Events/icon_calendar.png">
-</div>
-<p>Friday, 26 April - 22 November 2024, 01:30PM - 04:30PM</p>
+<p><strong>Venue:</strong> TuasOne Waste-To-Energy Plant
+<br><strong>Date:</strong> Friday, 26 April - 22 November 2024, 01:30PM - 04:30PM</p>
 </td>
 </tr>
 <tr>
