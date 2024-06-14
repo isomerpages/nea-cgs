@@ -27,12 +27,10 @@ third_nav_title: Events
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Journey into Glass Recycling with Abraclean</div>
-<div class="isomer-card-description">Abraclean (Asia Pacific) Pte Ltd ----------------------------------------------------Saturday,
-15 June - 13 July 2024, 09:30AM - 12:00PM</div>
+<div class="isomer-card-description">Abraclean (Asia Pacific) Pte Ltd - Saturday, 15 June - 13 July 2024, 09:30AM
+- 12:00PM</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a>
 </div>
-<p></p>
-<p></p>
 <p></p>
