@@ -110,20 +110,20 @@ to deposit your e-waste <a href="https://www.nea.gov.sg/our-services/waste-manag
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Mobile Devices Powerbank" src="/images/Recycle Right/nea_recycleright_icons113_removebg_preview_tmb_esize__220.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Mobile Devices Powerbank" src="/images/Recycle Right/nea_recycleright_icons113_removebg_preview_tmb_esize__220.png">
 </div>
 <p>Mobile Devices
 <br>Powerbank</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Batteries" src="/images/Recycle Right/nea_recycleright_icons51_removebg_preview_tmb_esize__220.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Batteries" src="/images/Recycle Right/nea_recycleright_icons51_removebg_preview_tmb_esize__220.png">
 </div>
 <p>Batteries</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Bulbs &amp; Tubes" src="/images/Recycle Right/nea_recycleright_icons59_removebg_preview_tmb_esize__220.png">
+<img style="width: 53%;" height="auto" width="100%" alt="Bulbs &amp; Tubes" src="/images/Recycle Right/nea_recycleright_icons59_removebg_preview_tmb_esize__220.png">
 </div>
 <p>Bulbs &amp; Tubes
 <br>(Incandescent, LED and fluorescent)</p>
@@ -132,19 +132,19 @@ to deposit your e-waste <a href="https://www.nea.gov.sg/our-services/waste-manag
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="ICT Equipment" src="/images/Recycle Right/nea_recycleright_icons57_removebg_preview_tmb_esize__220.png">
+<img style="width: 75%;" height="auto" width="100%" alt="ICT Equipment" src="/images/Recycle Right/nea_recycleright_icons57_removebg_preview_tmb_esize__220.png">
 </div>
 <p>ICT Equipment</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="Electric Mobility Devices" src="/images/Recycle Right/nea_recycleright_icons55_removebg_preview_tmb_esize__220.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Electric Mobility Devices" src="/images/Recycle Right/nea_recycleright_icons55_removebg_preview_tmb_esize__220.png">
 </div>
 <p>Electric Mobility Devices</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Household Appliances" src="/images/Recycle Right/nea_recycleright_icons53_removebg_preview_tmb_esize__220.png">
+<img style="width: 53%;" height="auto" width="100%" alt="Household Appliances" src="/images/Recycle Right/nea_recycleright_icons53_removebg_preview_tmb_esize__220.png">
 </div>
 <p>Household Appliances</p>
 </td>
