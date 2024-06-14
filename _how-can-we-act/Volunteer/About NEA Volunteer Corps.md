@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Volunteer
 ---
-<h4>About NEA Volunteer Corps</h4>
+<h3>About NEA Volunteer Corps</h3>
 <p>Protecting the environment and upkeeping good public health and hygiene
 is the responsibility of everyone in the community. As individuals, we
 can all do this by first personally adopting environmentally friendly lifestyle
@@ -21,16 +21,16 @@ to engage environmental offenders, and auditing your own residential estate’s
 cleanliness.</p>
 <p>Join the NEA Volunteer Corps and make a difference today! Read on to find
 out more!</p>
-<h4>Mission</h4>
+<h3>Mission</h3>
 <p>To lead by example and inspire others to practice good public health and
 hygiene, as well as lead an environmentally friendly lifestyle</p>
-<h4>Vision</h4>
+<h3>Vision</h3>
 <p>A clean, green and sustainable environment for Singapore, supported by
 a community of active volunteers</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/faCIb3HdxFc"></iframe>
 </div>
-<h4>Celebrating our volunteers’ contributions</h4>
+<h3>Celebrating our volunteers’ contributions</h3>
 <p>The annual NEA Volunteer Corps Awards recognises and honours the commitment
 and dedication of our volunteers.</p>
 <div class="isomer-image-wrapper">
@@ -38,7 +38,7 @@ and dedication of our volunteers.</p>
 </div>
 <p><em>Recipients of the NEA Volunteer Corps Awards 2022</em>
 </p>
-<h4>Here are some of our volunteers’ stories:</h4>
+<h3>Here are some of our volunteers’ stories:</h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,8 +57,7 @@ and dedication of our volunteers.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Suan Eng</strong>
-</p>
+<h4>Ms Ng Suan Eng</h4>
 <p></p>
 <p>Ms Ng Suan Eng joined the Community Auditors Programme in 2022. As a community
 auditor, she ensures that her estate is well-maintained and shares her
@@ -77,8 +76,7 @@ people to gently remind them to keep the environment clean.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Susan Teo</strong>
-</p>
+<h4>Ms Susan Teo</h4>
 <p></p>
 <p>Ms Susan Teo has volunteered as a Community Volunteer (CV) since 2016
 to encourage members of the public to have greater ownership of the environment.
@@ -97,8 +95,7 @@ to address environmental issues such as littering and smoking.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Mathiyazhagan Ramachandran</strong>
-</p>
+<h4>Mr Mathiyazhagan Ramachandran</h4>
 <p></p>
 <p>Mr Mathiyazhagan Ramachandran joined the SG Clean Ambassador Network in
 August 2020 to help drive awareness on the SG Clean movement, and promote
