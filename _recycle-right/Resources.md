@@ -263,7 +263,8 @@ use of the video.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Click to view full image]</p>
-<p>Version 1:&nbsp;</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/bloobin_sticker_pack_final.pdf"><img style="width: 100%" height="auto" width="100%" alt="StickerPack_thumbnail" src="/images/Recycle Right/Resources/stickerpack_thumbnail339e9856_c2bf_48fd_b6e6_89c88474a069_tmb_small.jpg"></a>
+<p>Version 1:&nbsp;</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/bloobin_sticker_pack_final.pdf"><img style="width: 50%;" height="auto" width="100%" alt="StickerPack_thumbnail" src="/images/Recycle Right/Resources/stickerpack_thumbnail339e9856_c2bf_48fd_b6e6_89c88474a069_tmb_small.jpg"></a>
+<p>Version 2:&nbsp;</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/bloobin_sticker_pack_2022_final_cmyk.pdf"><img style="width: 50%;" height="auto" width="100%" alt="Bloobin Sticker Pack 2022_Final" src="/images/Recycle Right/Resources/bloobin_sticker_pack_2022_final_tmb_small.jpg"></a>
 </td>
 </tr>
 <tr>
