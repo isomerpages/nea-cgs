@@ -4,7 +4,7 @@ permalink: /what-we-do/towardszerowaste/sayyes/savemore/
 variant: tiptap
 description: ""
 ---
-<h3>Deals and Promotions </h3>
+<h3>Deals and Promotions</h3>
 <p>Enjoy these attractive offers when you say YES to waste less! From free
 usable cups to instant discounts off your purchase, there's more reasons
 to say YES to reducing disposables and food wastage.&nbsp;</p>
@@ -229,12 +229,92 @@ at BARtistry's Tea Time Affair.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Muuse" src="/images/Say YES to Waste Less/SYTWL Deals/muuse_tmb_thumb160.png">
+</div>
+<p><strong>Muuse</strong>
+</p>
+<p>Many of Muuse's partners offer on-the-spot discounts for using Muuse –
+check out the Muuse app for details.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PARKROYAL on Beach Road" src="/images/Say YES to Waste Less/SYTWL Deals/parkroyal_on_beach_road_singapore_jpeg_tmb_thumb160.jpg">
+</div>
+<p><strong>PARKROYAL on Beach Road</strong>
+</p>
+<p>The hotel encourages guests to reuse their linens by incentivizing alternate-day
+room housekeeping with an exclusive $10 dining credit. Additionally, guests
+are advised to change bed linens every three days as part of our commitment
+to responsible resource management.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/pullman_singapore_orchard_hotel_logo_tmb_thumb160.png">
+</div>
+<p><strong>Pullman Singapore Orchard</strong>
+</p>
+<p>Bring your own tumbler/takeaway cup and get $1 off our coffee/ tea selection
+at Atelier Lounge located at level 4 in Pullman Singapore Orchard from
+14 May 2024 to 24 June 2024.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SaladStop!" src="/images/Say YES to Waste Less/SYTWL Deals/saladstop_logo_tmb_thumb160.png">
+</div>
+<p><strong>SaladStop!</strong>
+</p>
+<p>Customers can borrow a Muuse container or purchase SaladStop!’s collapsible
+bowl and get a free salad. Customers who bring their own containers will
+also receive a free standard topping.</p>
+<p>*T&amp;Cs apply. Offers available vary across stores – check out the Muuse
+app for more on Muuse partner cafes near you and their offers!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Starbucks" src="/images/Say YES to Waste Less/SYTWL Deals/starbucks_logo_tmb_thumb160.jpg">
+</div>
+<p><strong>Starbucks</strong>
+</p>
+<p>Starbucks offers a 50-cent discount when customers bring their tumblers
+or mugs, and a free drink with any purchase of a Starbucks tumbler for
+their members.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tanglin Mall" src="/images/Say YES to Waste Less/SYTWL Deals/tanglin_mall_tmb_thumb160.png">
+</div>
+<p><strong>Tanglin Mall</strong>
+</p>
+<p>Tanglin Mall has recently launched a year-long campaign where Great Rewards
+members can earn Great Rewards Points by bringing their own reusable bags
+with a minimum spend of $20. Members can utilise these points collected
+to offset their shopping purchase or carpark charges.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p><strong><a href="https://thesustainabilityproject.life/shop/" rel="noopener noreferrer nofollow" target="_blank">The Sustainability Project</a></strong>
+</p>
+<p>From 18 May to 24 June 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy 10% off their Bring Your Own (BYO) items (i.e. Bento box, Stojo
+range, Sol cups/bottles, reusable bubble tea cup and stashers)
+<br>Use the promo code SYTWL.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
