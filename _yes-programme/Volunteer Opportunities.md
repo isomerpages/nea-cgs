@@ -272,6 +272,48 @@ more parties to adopt used packaging under ZWPI</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WWFN_resized-removebg" src="/images/YES/wwfn_resized_removebg.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h3><strong>World Wide Fund for Nature</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Youth volunteers raising awareness for zero waste" src="/images/YES/wwf_volunteers_jpg_youth_volunteers_raising_awareness_for_zero_waste_at_the_earth_hour_event_organised_by_wwf_sg__photo_credit_wwf__tmb_esize_400_.png">
+</div>
+<p><em><sup>Youth volunteers raising awareness for zero waste at the Earth Hour Event organised by WWF-SG (Photo Credit: WWF)</sup></em>
+</p>
+<p>WWF is one of the world’s largest and most respected independent conservation
+organisations. Its mission is to stop the degradation of the earth’s natural
+environment and to build a future in which humans live in harmony with
+nature.</p>
+<p></p>
+<p>WWF’s “We Got This” movement is an exciting new&nbsp;<a href="https://drive.google.com/file/d/1neLMCDLnuqumlfBMi-qZgylSxCBZMflK/view" rel="noopener noreferrer nofollow" target="_blank">programme</a>&nbsp;for
+youth aged 18-25, to learn about sustainability and that empowers them
+to build a following to drive change via social media. Join our online
+masterclasses led by world renowned experts and over the course of three
+weeks, unpack sustainable living, gain digital skill sets that will let
+your voice be heard in the real world. At the end of these enriching masterclasses,
+you can submit&nbsp;your unique sustainability idea for an opportunity
+to take part in our bootcamp to further sharpen your social media skills
+and take your sustainability ideas to the next level. The bootcamp will
+be followed by a 6-month mentor support to set you up as a youth sustainability
+influencer.</p>
+<p></p>
+<p><strong>If this is a programme that you are interested in, <a href="https://www.wegotthis.world/bootcamp" rel="noopener noreferrer nofollow" target="_blank">sign up&nbsp;here</a>! Application closes on 10 August 2021.&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
