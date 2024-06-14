@@ -54,10 +54,56 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image.]</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Treat Bloobin Better" src="/images/Recycle Right/Resources/treat_bloobin_better___rgb_tmb_medium.png">
-</div>
+<p>[Click to view full image.]</p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/treat_bloobin_better___rgb.png"><img style="width: 100%" height="auto" width="100%" alt="Treat Bloobin Better" src="/images/Recycle Right/Resources/treat_bloobin_better___rgb_tmb_medium.png"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Educational Poster</strong>
+<br>(in 4 languages)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Click on the links and images below to view full image.]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Recycle%20Right/Resources/nea_recycleright_educationalkv1_em.jpg" rel="noopener noreferrer nofollow" target="_blank">English and Malay</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/images/Recycle%20Right/Resources/nea_recycleright_educationalkv1_ct.jpg" rel="noopener noreferrer nofollow" target="_blank">Chinese and Tamil</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/nea_recycleright_educationalkv1_em.jpg"><img style="width: 100%" height="auto" width="100%" alt="271221_NEA_RecycleRight_EducationalKV_EN_ML_thumbnail" src="/images/Recycle Right/Resources/271221_nea_recycleright_educationalkv_en_ml_thumbnail64c45883_5b49_4c94_a6ce_a511536fcbf0_tmb_medium.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/nea_recycleright_educationalkv1_ct.jpg"><img style="width: 100%" height="auto" width="100%" alt="271221_NEA_RecycleRight_EducationalKV_V02_CN_TL_thumbnail" src="/images/Recycle Right/Resources/271221_nea_recycleright_educationalkv_v02_cn_tl_thumbnail05230a42_9796_40c3_8431_f9ec8dbafd40_tmb_medium.jpg"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
