@@ -234,7 +234,9 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Bloobin Video Thumbnail 02" src="/images/Recycle Right/Resources/bloobin_video_thumbnail_02_tmb_medium.jpg">
+</div>
 <p>In English: <a href="https://youtu.be/jAeqGbJIfJE" rel="noopener noreferrer nofollow" target="_blank"><u>Link here</u></a>
 </p>
 <p>A 30-second video is available in English, Malay, Chinese and Tamil. Please
