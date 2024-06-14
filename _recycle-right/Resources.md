@@ -21,7 +21,8 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bloobin Character Guide</p>
+<p><strong>Bloobin Character Guide</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -41,3 +42,24 @@ to 10 working days.</p>
 <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>3PMCD_Enquiries@nea.gov.sg</u>
 </a>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Treat Bloobin Better Poster</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Click to view full image.]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Treat Bloobin Better" src="/images/Recycle Right/Resources/treat_bloobin_better___rgb_tmb_medium.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
