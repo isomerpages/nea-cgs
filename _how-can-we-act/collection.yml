@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - "Events/Behind the scenes: Littering Enforcement (Workshop).md"
       - Events/SK tes ewaste Recycling Journey.md
       - Events/.keep
       - Events/Events.md
