@@ -228,4 +228,53 @@ themes)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h3>FREQUENTLY ASKED QUESTIONS (FAQS)</h3>
+<p><strong>1. What is required in the workplan and the completion report?</strong>
+</p>
+<p>Applicants are to share all activities planned for the duration of the
+project</p>
+<p><strong>2. What can be counted as a YED activity?</strong>
+</p>
+<p>A YED activity must be aligned with the year’s YED topic. Please click
+here to find out more about the YED topic for 2020.</p>
+<p><strong>3. Can a project be considered for the Call for Ideas Fund (CIF) /3P Partnership Fund (PF) if it has been included in the workplan for the EFIHL submission?</strong>
+</p>
+<p>NEA does not support double funding of projects. While applicants may
+include their workplan projects in the EFIHL application, they should clearly
+state which project(s) would be seeking CIF/PF. Consequently, applicant
+should not seek funding support for those project(s) from more than one
+fund (EFIHL, CIF, PF).</p>
+<p><strong>4. I am a new applicant for the EFIHL. What are the things that I need to take note of?</strong>
+</p>
+<p>We encourage all new applicants to read through the grant criteria and
+to speak to the respective staff advisor(s), and get his/her endorsement
+to apply for the EFIHL.</p>
+<p>Upon approval, funds would be transferred to the environment group via
+the staff advisor’s office account. Environment groups are encouraged to
+check with the staff advisors from the IHL on the procedure in which the
+funds would be received.</p>
+<p><strong>5. How do I start a student environmental group in my IHL?</strong>
+</p>
+<p>You may wish to speak to a staff member in yout IHL (eg. student affairs/student
+life/faculty offices/research centres) who may advise you on the environmental
+issues that you may want to focus on and how to start and sustain an environmental
+group in your IHL. NEA encourages more youths to take part in environmental
+activities, and the grant will be extended to groups that fit the criteria.</p>
+<p><strong>6. I am a staff adviser. What are the things I need to take note of when applying for the EFIHL?</strong>
+</p>
+<p>All interested staff advisers should read through the EFIHL criteria,
+and evaluate if the clubs are able to fulfil them. In addition, the staff
+adviser must assess the sustainability of the environment group, and if
+the group has the capacity to improve on their projects with additional
+funds.</p>
+<p>The disbursement of grant will be done through the staff adviser, and
+the staff adviser should ensure that the necessary financial arrangements
+can be made. First time applicants will be required to submit a Direct
+Credit Authorisation form for NEA to provide bank details for the fund
+transfer.</p>
+<p><strong>7. Is GST (Goods and Services Tax) supported under the EFIHL?</strong>
+</p>
+<p>No, GST incurred by the applicant is not supported by the grant.</p>
+<h3>ENQUIRIES</h3>
+<p>For enquiries, you may write in to us at <a href="mailto:NEA_3P_Funds@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA_3P_Funds@nea.gov.sg</a>
+</p>
