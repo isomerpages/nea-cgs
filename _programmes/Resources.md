@@ -127,5 +127,29 @@ important (Reducing Disposables)
 <br><a href="https://www.instagram.com/p/CCxaGfHJImI/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/CCxaGfHJImI/</a>
 </p>
 <h4>Video</h4>
-<p></p>
-<p></p>
+<p>“Zero Waste Essentials our Environment Minister Can’t Live Without” (Reducing
+Disposables &amp; Food Waste Reduction)
+<br><a href="https://www.facebook.com/watch/?v=591881498388956" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/watch/?v=591881498388956</a>
+</p>
+<p>VulcanPost Tries Going Green For a Week (Reducing Disposables)
+<br><a href="https://www.facebook.com/watch/?v=300749294489676" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/watch/?v=300749294489676</a>
+</p>
+<p>Struggle with Food Waste in Singapore (Food Waste Reduction)
+<br><a href="https://www.facebook.com/626687907492630/posts/1572773829550695/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/626687907492630/posts/1572773829550695/</a>
+</p>
+<p>5 Fun ways to Recycle Wasted Food
+<br><a href="https://www.facebook.com/JustKeepThinkingsg/videos/624025265194045" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/JustKeepThinkingsg/videos/624025265194045</a>
+</p>
+<h4>Articles</h4>
+<p>Singaporeans generate a lot of food waste every year. I’m one of them.
+(Food Waste Reduction)
+<br><a href="https://www.facebook.com/592308557475467/posts/3510676568971970/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/592308557475467/posts/3510676568971970/</a>
+</p>
+<p>8 unique reusable food containers under $12 with functions you never knew
+you needed (Reducing Disposables)
+<br><a href="https://facebook.com/TheSmartLocal/posts/3296145747139853" rel="noopener noreferrer nofollow" target="_blank">https://facebook.com/TheSmartLocal/posts/3296145747139853</a>
+</p>
+<p>8 Ways To Make Full Use Of Your Groceries While Homecooking So You Don’t
+Waste Food (Food Waste Reduction)
+<br><a href="https://www.facebook.com/225524117535380/posts/3314989868588774/?d=n" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/225524117535380/posts/3314989868588774/?d=n</a>
+</p>
