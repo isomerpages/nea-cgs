@@ -35,7 +35,7 @@ she crafts them using upcycled materials. In a world where we dispose more
 than we should, learn how Sophia's fresh perspective is helping repurpose
 our refuse.
 <br>
-<br><strong><a href="/what-we-do/keepsgclean/environmentandus/beinspired/sophia's-story" rel="noopener noreferrer nofollow" target="_blank">Learn more about Sophia's story here</a></strong>
+<br><strong><a href="/what-we-do/keepsgclean/environmentandus/beinspired/sophias-story" rel="noopener noreferrer nofollow" target="_blank">Learn more about Sophia's story here</a></strong>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ our refuse.
 with every cup. Discover how his unique business practices to reduce waste
 are helping to awaken others to better possibilities for our environment.</p>
 <p></p>
-<p><strong><a href="/what-we-do/keepsgclean/environmentandus/beinspired/wei-jie's-story" rel="noopener noreferrer nofollow" target="_blank">Learn more about Wei Jie's story here</a></strong>
+<p><strong><a href="/what-we-do/keepsgclean/environmentandus/beinspired/wei-jies-story" rel="noopener noreferrer nofollow" target="_blank">Learn more about Wei Jie's story here</a></strong>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ organised by SG Food Rescue, and creating new recipes by rescuing unwanted
 produce given away by food vendors. Get inspired by Sumita’s story and
 get on the path to adopting greener habits in our everyday lives.</p>
 <p></p>
-<p><strong><a href="/environmentandus/beinspired/sumita's-story" rel="noopener noreferrer nofollow" target="_blank">Learn more about Sumita's story here</a></strong>
+<p><strong><a href="/what-we-do/keepsgclean/environmentandus/beinspired/sumitas-story" rel="noopener noreferrer nofollow" target="_blank">Learn more about Sumita's story here</a></strong>
 </p>
 </td>
 </tr>
@@ -130,7 +130,7 @@ extra creative with her styling, as she has to work with what she finds.
 At the end of day, this sustainable habit helps her to reduce waste at
 the same time.</p>
 <p></p>
-<p><strong><a href="/environmentandus/beinspired/sofias-story" rel="noopener noreferrer nofollow" target="_blank">Learn more about Sofia's story here</a></strong>
+<p><strong><a href="/what-we-do/keepsgclean/environmentandus/beinspired/sofias-story" rel="noopener noreferrer nofollow" target="_blank">Learn more about Sofia's story here</a></strong>
 </p>
 </td>
 </tr>
