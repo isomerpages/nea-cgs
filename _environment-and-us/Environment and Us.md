@@ -12,5 +12,5 @@ Each of us can make a difference.
 <br>Let's take a look at how some individuals and businesses, do what is good
 for the environment and for themselves, everyday. Who knows, their stories
 might inspire you to make greener choices too!</p>
-<h3><a href="/what-we-do/keepsgclean/environmentandus/beinspired/get-inspired" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE &gt;&gt;</a></h3>
+<h4><a href="/what-we-do/keepsgclean/environmentandus/beinspired/get-inspired" rel="noopener noreferrer nofollow" target="_blank">LEARN MORE &gt;&gt;</a></h4>
 <p></p>
