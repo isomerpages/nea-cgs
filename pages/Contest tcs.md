@@ -3887,8 +3887,7 @@ the rules and Terms hereof at its sole and absolute discretion</p>
 <p><strong>What Would Bloobin Say? (February) Contest T&amp;Cs&nbsp;</strong>
 </p>
 <p><strong>Prizes:</strong>&nbsp;Bloobin Eco Gift Pack (inclusive of 1 Bloobin
-Plushie, 1 <a rel="noopener noreferrer nofollow" target="_blank">Starbucks Reusable Cup and 1 Starbucks Netted Bag</a>)
-x 20 winners</p>
+Plushie, 1 Starbucks Reusable Cup and 1 Starbucks Netted Bag) x 20 winners</p>
 <p><strong>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -3907,8 +3906,8 @@ these Contest Terms and Conditions.</p>
 Would Bloobin Say?” Facebook or Instagram post</p>
 </li>
 <li>
-<p>Participants are allowed to comment as many times as they like. <a rel="noopener noreferrer nofollow" target="_blank">Each comment counts as one entry.</a>
-</p>
+<p>Participants are allowed to comment as many times as they like. Each comment
+counts as one entry.</p>
 </li>
 <li>
 <p>A total of 20 winners (10 on Instagram and 10 on Facebok) will be selected
@@ -4657,9 +4656,9 @@ and to disqualify any entry not submitted in accordance with these Terms
 or which tampers with the entry process.</p>
 </li>
 <li>
-<p>Each prize will be mailed to the given address by <a rel="noopener noreferrer nofollow" target="_blank">registered post</a>.
-Clean &amp; Green Singapore is not responsible for lost or damaged items
-during transit. Unclaimed prizes will be forfeited.&nbsp;</p>
+<p>Each prize will be mailed to the given address by registered post. Clean
+&amp; Green Singapore is not responsible for lost or damaged items during
+transit. Unclaimed prizes will be forfeited.&nbsp;</p>
 </li>
 <li>
 <p>Prizes cannot be exchanged for cash or other items.</p>
