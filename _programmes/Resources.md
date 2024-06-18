@@ -52,8 +52,7 @@ by Food Waste Reduction)</p>
 <p>Asian Mum Tinggkat (Reducing Disposables)
 <br><a href="https://www.instagram.com/p/CDQGizcJfN2/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/CDQGizcJfN2/</a>
 </p>
-<p><a href="https://www.instagram.com/p/CDQGizcJfN2/" rel="noopener noreferrer nofollow" target="_blank">Semakau</a> Landfill
-(Reducing Disposables)
+<p>Semakau Landfill (Reducing Disposables)
 <br><a href="https://www.instagram.com/p/CDF0xSfpd3n/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/CDF0xSfpd3n/</a>
 </p>
 <p>Every family has a dustbin (Food Waste Reduction)
