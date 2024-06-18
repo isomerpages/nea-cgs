@@ -58,4 +58,15 @@ by Food Waste Reduction)</p>
 <p>Every family has a dustbin (Food Waste Reduction)
 <br><a href="https://www.instagram.com/p/CCzycD7pkn3/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/CCzycD7pkn3/</a>
 </p>
-<p></p>
+<h4>Photo Album</h4>
+<p>How domestic waste is disposed of in SG (Reducing Disposables)
+<br><a href="https://bit.ly/2XznzV4" rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/2XznzV4</a>
+</p>
+<h4>TikTok</h4>
+<p>Let’s save the earth and go for a zero waste lifestyle!! (Reducing Disposables)
+<br><a href="https://vt.tiktok.com/Uoom7G/" rel="noopener noreferrer nofollow" target="_blank">https://vt.tiktok.com/Uoom7G/</a>
+</p>
+<p>My mum always tells me that tip <a href="https://www.tiktok.com/tag/5?_d=secCgsIARCbDRgBIAMoARI%2BCjwRPZuFDJbiLklvhqBriWEW3kiPsVBFZ5py6GE2fkHI8kUwFfD0a0wIq45FQM5yPkG9kUizAIPn2qJ5P%2FQaAA%3D%3D&amp;app=tiktok&amp;iid=6823404549865703169&amp;language=en&amp;mid=6733693538464287493&amp;preview_pb=0&amp;region=SG&amp;share_item_id=6853687339563191553&amp;timestamp=1595750212&amp;tt_from=copy&amp;u_code=0&amp;utm_campaign=client_share&amp;utm_medium=ios&amp;utm_source=copy&amp;source=h5_t" rel="noopener noreferrer nofollow" target="_blank">#5 </a>is
+important (Reducing Disposables)
+<br><a href="https://vt.tiktok.com/y1o74A/" rel="noopener noreferrer nofollow" target="_blank">https://vt.tiktok.com/y1o74A/</a>
+</p>
