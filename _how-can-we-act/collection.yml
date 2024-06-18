@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/SK tes ewaste Recycling Journey.md
       - Events/.keep
       - Events/Events.md
       - "Events/Open My Factory: ALBA EWaste Logistics and Sorting Hub.md"
