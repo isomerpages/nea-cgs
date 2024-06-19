@@ -22,14 +22,10 @@ Day (YED)* activities; and</p>
 <p>The setup of new environment groups in the IHLs</p>
 </li>
 </ol>
-<p>*Youth for Environment Day (YED) is a key annual platform organised by
-NEA to engage youths to champion environmental ownership and to renew their
-commitment to care for the environment. YED provides opportunities for
-youths to lead, organise and participate in environmental programmes to
-show their passion and commitment towards global and local environment
-issues.</p>
-<p>Click <a href="/programmes/youth-for-the-environment-day/home" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information about the YED</p>
+<p><em>*Youth for Environment Day (YED) is a key annual platform organised by NEA to engage youths to champion environmental ownership and to renew their commitment to care for the environment. YED provides opportunities for youths to lead, organise and participate in environmental programmes to show their passion and commitment towards global and local environment issues.</em>
+</p>
+<p><em>Click <a href="/programmes/youth-for-the-environment-day/home" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information about the YED</em>
+</p>
 <h3>WHO CAN APPLY FOR THE FUND</h3>
 <p>The EFIHL is open to the publicly-funded Polytechnics and Universities
 in Singapore.</p>
@@ -94,8 +90,8 @@ by a faculty member who is the FYP supervisor.</p>
 </tr>
 </tbody>
 </table>
-<p>*inclusive of National Institute of Education
-<br>**inclusive of Yale-NUS College</p>
+<p><em>*inclusive of National Institute of Education <br>**inclusive of Yale-NUS College</em>
+</p>
 <h3>HOW TO APPLY FOR THE FUND</h3>
 <h4>Environment Group</h4>
 <ol data-tight="true" class="tight">
@@ -153,9 +149,8 @@ ongoing applications. Applications are evaluated on a first-come-first-served
 basis.</p>
 </li>
 </ol>
-<p>*"Project qualifying period” refers to the period between the project
-start and end date when expenditure is incurred for the purpose of implementing
-the project and meeting its deliverables.</p>
+<p><em>*"Project qualifying period” refers to the period between the project start and end date when expenditure is incurred for the purpose of implementing the project and meeting its deliverables.</em>
+</p>
 <h3>RECOMMENDED GRANT GUIDELINES</h3>
 <h4>Environment Group</h4>
 <p>Each successful environment group applicant is eligible for a maximum
