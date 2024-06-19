@@ -4,11 +4,6 @@ permalink: /recycleright/resources/
 variant: tiptap
 description: ""
 ---
-<p>Select the type of resource you are looking for:</p>
-<p>► <a href="/recycleright/resources#brandguides" rel="noopener noreferrer nofollow" target="_blank">Bloobin Character Guide&nbsp;</a>
-<br>► <a href="/recycleright/resources#publicitymaterials" rel="noopener noreferrer nofollow" target="_blank">Publicity Materials</a>
-<br>►<a href="/recycleright/resources#activityguides" rel="noopener noreferrer nofollow" target="_blank">School Engagement Activity Guides</a>
-</p>
 <h4>Bloobin Character Guide</h4>
 <p>For use of Bloobin, please contact: <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>3PMCD_Enquiries@nea.gov.sg</u></a>
 </p>
