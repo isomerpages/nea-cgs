@@ -24,7 +24,10 @@ links.&nbsp;</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/youth-for-environmental-sustainability/resources/funding"><img style="width: 100%" height="auto" width="100%" alt="YES Funding Support" src="/images/YES/yes_funding_support7907affd827148d3aa85818949e20ef8.png"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="YES Funding Support" src="/images/YES/yes_funding_support7907affd827148d3aa85818949e20ef8.png">
+</div>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/youth-for-environmental-sustainability/resources/past-yed"><img style="width: 100%" height="auto" width="100%" alt="YED Archive" src="/images/YES/yed_archive.png"></a>
 </td>
