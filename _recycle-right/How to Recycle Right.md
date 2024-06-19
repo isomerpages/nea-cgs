@@ -4,19 +4,9 @@ permalink: /recycleright/how-to-recycle-right/
 variant: tiptap
 description: ""
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bloobin_Surprise" src="/images/Recycle Right/bloobin_surprise_tmb_medium.png">
+<img style="width: 30%;" height="auto" width="100%" alt="Bloobin_Surprise" src="/images/Recycle Right/bloobin_surprise_tmb_medium.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p>40% of the items in the recycling bins cannot be recycled due to contamination
 by food and drink remnants, tissues, reusables and trash, putting everyone's
 good effort to waste.</p>
@@ -26,10 +16,6 @@ them as general trash bins, the more likely we can collectively improve
 our recycling rates and reduce the waste incinerated and sent to Semakau
 Landfill.</p>
 <p>Watch what Bloobin has to say about our recycling habits!</p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jAeqGbJIfJE"></iframe>
 </div>
