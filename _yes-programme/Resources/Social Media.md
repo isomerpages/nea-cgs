@@ -12,7 +12,7 @@ third_nav_title: Resources
 <p>The YES Movement was launched by Minister Grace Fu on 8 July!
 <br>View it on&nbsp;<strong><a href="https://www.facebook.com/watch/?v=2970340043182844" rel="noopener noreferrer nofollow" target="_blank">Facebook</a></strong>&nbsp;or<strong>&nbsp;<a href="https://www.instagram.com/tv/CRDVACmhUg1/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a></strong>.&nbsp;</p>
 <a class="isomer-image-wrapper" href="https://www.facebook.com/watch/?v=2970340043182844">
-<img style="width: 100%" height="auto" width="100%" alt="YES SGAG Screenshot" src="/images/YES/yes_sgag_screenshot_tmb_esize_500_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="YES SGAG Screenshot" src="/images/YES/yes_sgag_screenshot_tmb_esize_500_.png">
 </a>
 <h4><strong>More content coming soon!</strong></h4>
 <div class="isomer-image-wrapper">
