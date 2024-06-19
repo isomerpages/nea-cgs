@@ -23,7 +23,7 @@ or as an organisation or school.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="/what-we-do/keepsgclean/take-action/volunteer" rel="noopener noreferrer nofollow" target="_blank">Volunteer</a></strong>
+<p><strong><a href="/how-can-we-act/volunteer/home" rel="noopener noreferrer nofollow" target="_blank">Volunteer</a></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
