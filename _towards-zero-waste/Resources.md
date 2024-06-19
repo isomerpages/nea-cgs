@@ -28,7 +28,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="/what-we-do/towardszerowaste/sayyes" rel="noopener noreferrer nofollow" target="_blank">Say YES to Waste Less</a></strong>
+<p><strong><a href="/what-we-do/towardszerowaste/sayyes/home" rel="noopener noreferrer nofollow" target="_blank">Say YES to Waste Less</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SYTWL" src="/images/Towards Zero Waste/sytwl_tmb_ze_250_250.png">
