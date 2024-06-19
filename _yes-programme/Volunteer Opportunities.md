@@ -7,6 +7,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="YES_Header_Final-Volunteer_v2" src="/images/YES/yes_header_final_volunteer_v2.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="YES Volunteer Collage SG Clean" src="/images/YES/yes_volunteer_collage_sg_clean.png">
+</div>
+<p><em>SG CLEAN Ambassador reaching out to residents.&nbsp;</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
