@@ -81,10 +81,7 @@ third_nav_title: Clean Public Toilets
 <p><strong>Keep the Floor Clean</strong>
 <br>Click below image to download artwork</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/contextual_stickers_dry.png"><img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Dry" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_dry_tmb_small.png"></a>
 <p><strong>Bin Litter Properly</strong>
-<br>Click below image to download artwork</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Bin" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_bin_tmb_small.png">
-</div>
+<br>Click below image to download artwork</p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/contextual_stickers_bin_tmb_small.png"><img style="width: 100%" height="auto" width="100%" alt="Contextual Stickers_Bin" src="/images/Keep SG Clean/Clean Public Toilets/contextual_stickers_bin_tmb_small.png"></a>
 </td>
 </tr>
 </tbody>
