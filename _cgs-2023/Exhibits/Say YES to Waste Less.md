@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Exhibits
 ---
-<a class="isomer-image-wrapper" href="/what-we-do/towardszerowaste/sayyes/our-partners"><img style="width: 100%" height="auto" width="100%" alt="Say-Yes-to-Waste-Less_1" src="/images/CGS 2023/Exhibits/say_yes_to_waste_less_20_1.jpg"></a>
+<a class="isomer-image-wrapper" href="/what-we-do/towardszerowaste/sayyes/our-partners-2023"><img style="width: 100%" height="auto" width="100%" alt="Say-Yes-to-Waste-Less_1" src="/images/CGS 2023/Exhibits/say_yes_to_waste_less_20_1.jpg"></a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Say-Yes-to-Waste-Less_2" src="/images/CGS 2023/Exhibits/say_yes_to_waste_less_20_2.jpg">
 </div>
