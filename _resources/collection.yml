@@ -1,5 +1,5 @@
 collections:
-  resources3:
+  resources:
     output: true
     order:
       - Resources/Air Pollution.md
