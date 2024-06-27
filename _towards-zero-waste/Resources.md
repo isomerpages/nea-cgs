@@ -14,8 +14,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong><a href="https://www.towardszerowaste.sg/" rel="noopener noreferrer nofollow" target="_blank">Year Towards Zero Waste</a></strong>
-</p>
+<p>Year Towards Zero Waste</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ytzw" src="/images/Towards Zero Waste/ytzw_tmb_ze_250_250.png">
 </div>
@@ -35,33 +34,11 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="https://www.towardszerowaste.sg/" rel="noopener noreferrer nofollow" target="_blank">Recycle Right</a></strong>
-</p>
+<p>Recycle Right</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="3Rs" src="/images/Towards Zero Waste/3rs_tmb_ze_250_250.png">
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.towardszerowaste.sg/resources/" rel="noopener noreferrer nofollow" target="_blank">Resources</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.towardszerowaste.sg/resources/videos/denise-keller-recycling-right" rel="noopener noreferrer nofollow" target="_blank">Video 1</a>
-</p>
-<p></p>
-<p><a href="https://www.towardszerowaste.sg/resources/videos/denise-keller-recycling-right-blue-bin" rel="noopener noreferrer nofollow" target="_blank">Video 2</a>
-</p>
-</td>
 </tr>
 </tbody>
 </table>
