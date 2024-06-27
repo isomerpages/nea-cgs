@@ -20,7 +20,7 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong><a href="/what-we-do/towardszerowaste/food-waste-reduction" rel="noopener noreferrer nofollow" target="_blank">Food Waste Reduction</a></strong>
+<p><strong><a href="/what-we-do/towardszerowaste/sayyes/resourcespage" rel="noopener noreferrer nofollow" target="_blank">Food Waste Reduction</a></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LYF" src="/images/Towards Zero Waste/lyf_tmb_ze_250_250.png">
