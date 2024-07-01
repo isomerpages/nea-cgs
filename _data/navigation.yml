@@ -3,21 +3,29 @@ links:
   - title: Who We Are
     url: /who-we-are/
   - title: What we do
-    url: /what-we-do/what-we-do/cgs2023/home/
+    url: /what-we-do/cgs2023/home/
     sublinks:
       - title: CGS 2023
-        url: /what-we-do/what-we-do/cgs2023/home/
+        url: /what-we-do/cgs2023/home/
       - title: Keep Singapore Clean
         url: /what-we-do/keepsgclean/home
+      - title: Environment and Us
+        url: /what-we-do/keepsgclean/environmentandus
+      - title: Programmes
+        url: /what-we-do/programmes/
+      - title: Towards Zero Waste
+        url: /what-we-do/towardszerowaste/ourfocusareas
+      - title: Say YES to Waste Less
+        url: /what-we-do/towardszerowaste/sayyes/whatyoucando
+      - title: Recycle Right
+        url: /recycleright/how-to-recycle-right
   - title: How can we act
     collection: how-can-we-act
   - title: Resources
-    collection: resources
+    resource_room: true
   - title: CGS Experiences
     url: /cgs-experiences/
   - title: Year of Public Hygiene
     url: /year-of-public-hygiene/
   - title: Yes
     collection: yes-programme
-  - title: Resources 2
-    resource_room: true
