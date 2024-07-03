@@ -20,13 +20,13 @@ sections:
       key_highlights:
         - title: Keep Singapore Clean
           description: Find out more
-          url: https://google.com
+          url: what-we-do/keepsgclean/home
         - title: Moving towards Zero Waste
           description: Our Role to Play
-          url: https://gmail.com
+          url: /what-we-do/towardszerowaste/ourfocusareas
         - title: Volunteer With Us
           description: Sign up as a volunteer with us
-          url: /privacy/
+          url: /how-can-we-act/volunteer/home/
       variant: floating
       size: sm
       backgroundColor: gray
@@ -50,10 +50,8 @@ sections:
   - infopic:
       title: Contact Us
       id: infopic
-      description: |-
-        If you have any enquiries or feedback, you may wish to:
-
-        Submit your enquiries online via the Online Feedback Form
+      description: "If you have any enquiries or feedback, you may wish to:  Submit
+        your enquiries online via the Online Feedback Form"
       button: Online Feedback Form
       url: http://www.nea.gov.sg/feedback
       image: /images/Home/cpt_homepage.png
