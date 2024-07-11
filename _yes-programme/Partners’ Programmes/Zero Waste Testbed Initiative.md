@@ -32,15 +32,10 @@ it.
 <br>
 <br>*The initiative is also open to other youths if they form a team involving
 at least 1 NUS student or 1 young NUS alumni (within 1 year of graduation).</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/partners_icon_transparent.png">
 </div>
-<p>
-<br><strong>We welcome partners to share their programmes for youths with us, in support of the YES programme. Interested parties can reach us via&nbsp;<a href="https://form.gov.sg/60d54eecdfd78e001290be6f" rel="noopener noreferrer nofollow" target="_blank">this link</a>.</strong>
-</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/1_yes_footer_final.jpg">
 </div>
