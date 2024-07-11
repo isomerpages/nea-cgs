@@ -61,8 +61,7 @@ food waste</p>
 <p></p>
 <p>A clean and litter-free event creates a more pleasant experience for the
 participants and also reflects well on the organiser. Find out how to mitigate
-litter at mass events with the&nbsp;<a href="#" rel="noopener noreferrer nofollow" target="_blank">Create Cleaner Events Playbook.</a>
-</p>
+litter at mass events with the&nbsp;<a href="https://www.publichygienecouncil.sg/files/Resources/create_cleaner_events_playbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Create Cleaner Events Playbook</a>.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
