@@ -41,7 +41,7 @@ sections:
         - title: About Us
           description: CGS aims to inspire Singaporeans to care for our environment by
             adopting a clean, green & sustainable lifestyle.
-        - title: A liveable and endearing home
+        - title: A Liveable and Endearing Home
           description: Safeguarding green and blue spaces; embracing smart technology and
             eco-friendly features in our towns and homes.
         - title: A Vibrant and Sustainable City
