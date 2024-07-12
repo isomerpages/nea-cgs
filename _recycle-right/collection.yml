@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Resources.md
-      - Meet Bloobin.md
