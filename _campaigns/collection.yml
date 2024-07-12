@@ -2,6 +2,7 @@ collections:
   campaigns:
     output: true
     order:
+      - Clean Public Toilets/Resources.md
       - Clean Public Toilets/'Nice or Not' Exhibit.md
       - Clean Public Toilets/Clean Public Toilets.md
       - Clean Public Toilets/.keep
