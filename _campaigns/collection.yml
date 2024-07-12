@@ -2,6 +2,7 @@ collections:
   campaigns:
     output: true
     order:
+      - Recycle Right/Know Your Contaminants.md
       - Recycle Right/Check my Item.md
       - Recycle Right/How to Recycle Right.md
       - Recycle Right/.keep
