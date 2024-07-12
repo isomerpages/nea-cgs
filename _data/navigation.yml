@@ -34,6 +34,8 @@ links:
         url: /what-we-do/keepsgclean/environmentandus
   - title: Resources
     resource_room: true
+  - title: Events
+    url: /how-can-we-act/events
   - title: CGS Experiences
     url: /cgs-experiences/
   - title: Year of Public Hygiene
