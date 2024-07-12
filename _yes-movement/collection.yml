@@ -1,5 +1,5 @@
 collections:
-  yes-programme:
+  yes-movement:
     output: true
     order:
       - About YES.md
