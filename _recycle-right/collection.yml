@@ -1,5 +1,4 @@
 collections:
   recycle-right:
     output: true
-    order:
-      - Resources.md
+    order: []
