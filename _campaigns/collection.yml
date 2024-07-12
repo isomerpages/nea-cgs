@@ -2,6 +2,7 @@ collections:
   campaigns:
     output: true
     order:
+      - Recycle Right/.keep
       - Towards Zero Waste/Our Focus Areas.md
       - Towards Zero Waste/Resources.md
       - Towards Zero Waste/.keep
