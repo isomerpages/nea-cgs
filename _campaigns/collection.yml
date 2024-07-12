@@ -2,4 +2,5 @@ collections:
   campaigns:
     output: true
     order:
+      - Clean Public Toilets/Clean Public Toilets.md
       - Clean Public Toilets/.keep
