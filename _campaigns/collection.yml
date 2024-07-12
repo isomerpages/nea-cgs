@@ -2,6 +2,7 @@ collections:
   campaigns:
     output: true
     order:
+      - Towards Zero Waste/Our Focus Areas.md
       - Towards Zero Waste/Resources.md
       - Towards Zero Waste/.keep
       - Clean Public Toilets/Play Game.md
