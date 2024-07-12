@@ -1,4 +1,5 @@
 collections:
   campaigns:
     output: true
-    order: []
+    order:
+      - Clean Public Toilets/.keep
