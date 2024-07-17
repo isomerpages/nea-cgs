@@ -151,40 +151,12 @@ disposables.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/docs/default-source/default-document-library/sytwl-style-guide-30-aug-2021-final.pdf?sfvrsn=4e9fe7c1_2" rel="noopener noreferrer nofollow" target="_blank">Logo Guide</a>
+<p><a href="/files/Say YES to Waste Less/SYTWL_Style_Guide_30Aug_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Logo Guide</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/images/Say%20YES%20to%20Waste%20Less/Resources/sytwl_generic.png" rel="noopener noreferrer nofollow" target="_blank">Say YES to Waste Less Logo</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BW Lockups" src="/images/Say YES to Waste Less/Resources/bw_lockups_tmb_thumb200.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Customisable Templates" src="/images/Say YES to Waste Less/Resources/customisable_templates_tmb_thumb200.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Coloured Lockups" src="/images/Say YES to Waste Less/Resources/coloured_lockups_tmb_thumb200.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B&amp;W Action Lock-Ups</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Customisable Templates for Action Lock-Ups</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Coloured Action Lock-Ups</p>
 </td>
 </tr>
 </tbody>
