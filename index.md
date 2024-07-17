@@ -12,11 +12,12 @@ notification: "[SCAM ALERT] Beware of scammers impersonating NEA, or Clean &
   https://scamalert.sg/ for more advice."
 sections:
   - hero:
-      title: Pledge to be a nice Public Toilet User
-      subtitle: To be truly nice, is to do the nice things even when no one’s around.
-      background: /images/Home/cpt_homepage.png
-      button: Contact Us
-      url: /contact-us/
+      title: Year of Public Hygiene
+      subtitle: Find out how you can play a part as we step up efforts to ensure we
+        continue to enjoy a clean environment.
+      background: /images/Home/cos2024_yoph_cgs_banner_v4.jpg
+      button: Year of Public Hygiene
+      url: https://www.nea.gov.sg/our-services/year-of-public-hygiene
       key_highlights:
         - title: Keep Singapore Clean
           description: Find out more
