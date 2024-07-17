@@ -3,7 +3,7 @@ url: https://www.cgs.gov.sg
 favicon: /images/Templates/nea_logo_lock_up.png
 colors:
   primary-color: "#00a950"
-  secondary-color: "#f65a18"
+  secondary-color: "#d85925"
   media-colors:
     - title: media-color-one
       color: "#374455"
