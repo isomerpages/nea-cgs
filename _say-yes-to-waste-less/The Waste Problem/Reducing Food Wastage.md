@@ -16,7 +16,7 @@ food to eat.&nbsp;</p>
 </div>
 <p>Let’s be more mindful of food wastage by buying and ordering only what
 we can finish.</p>
-<p>Learn and practise the tips in this <strong><a href="http://www.cgs.gov.sg/docs/default-source/fwr/FWRguide.pdf?sfvrsn=5ca9620f_14" rel="noopener noreferrer nofollow" target="_blank">Handy guide</a></strong> to
+<p>Learn and practise the tips in this <strong><a href="https://www.nea.gov.sg/docs/default-source/envision/food-waste/love-your-food-handy-guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Handy guide</a></strong> to
 reduce food wastage. This will also help Singapore move towards a Zero
 Waste Nation today!</p>
 <table style="minWidth: 50px">
