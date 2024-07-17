@@ -24,7 +24,7 @@ third_nav_title: Recycle Right
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bloobin Character Guide" src="/images/Recycle Right/Resources/bloobin_character_guide_tmb_esize__300.jpg">
 </div>
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Click here for full guide</a>
+<p><a href="/files/Recycle Right/Bloobin_Character_Guide_Final_low_res_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for full guide</a>
 </p>
 </td>
 </tr>
