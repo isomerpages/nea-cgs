@@ -57,16 +57,4 @@ sections:
       url: http://www.nea.gov.sg/feedback
       image: /images/Home/contact.png
       alt: Contact Us
-  - textcards:
-      title: Find us at
-      id: textcards
-      cards:
-        - title: myENV
-          description: Available on Google Play
-          linktext: Learn more
-          url: https://play.google.com/store/apps/details?id=sg.gov.nea&hl=en
-        - title: MFA SG
-          description: Available on the app store
-          linktext: Learn more
-          url: https://itunes.apple.com/sg/app/mfa-sg/id516857661?mt=8
 ---
