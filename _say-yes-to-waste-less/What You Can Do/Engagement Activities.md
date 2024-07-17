@@ -27,7 +27,7 @@ third_nav_title: What You Can Do
 <h4>Upper Primary Activity Guide</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="#" rel="noopener noreferrer nofollow" target="_blank">Click here for the full activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/SYTWL_Upper_Primary_Activity_Guide_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the full activity guide</a>]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Upper Primary Cover Page" src="/images/Say YES to Waste Less/Engagement Activities/upper_primary_cover_page_tmb_medium.jpg">
 </div>
@@ -38,7 +38,7 @@ third_nav_title: What You Can Do
 <h4>Secondary/JC Activity Guide</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="#" rel="noopener noreferrer nofollow" target="_blank">Click here for the full activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/SYTWL_Secondary_JC_Activity_Guide_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the full activity guide</a>]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Secondary JC Cover Page" src="/images/Say YES to Waste Less/Engagement Activities/secondary_jc_cover_page_tmb_medium.jpg">
 </div>
