@@ -1,8 +1,11 @@
 logo: /images/Templates/nea_logo_lock_up.png
 links:
-  - title: About Us
+  - title: Who we are
     url: /who-we-are/
-  - title: Campaigns
+    sublinks:
+      - title: CGS Awards
+        url: /news-awards/
+  - title: Campaigns & Programmes
     url: /what-we-do/cgs2023/home/
     sublinks:
       - title: Keep Singapore Clean
@@ -19,24 +22,24 @@ links:
         url: /what-we-do/towardszerowaste/sayyes/whatyoucando
       - title: Recycle Right
         url: /recycleright/how-to-recycle-right
-  - title: CGS Day
-    url: /what-we-do/cgs2023/cgs-2023
-  - title: Programmes
-    url: /what-we-do/programmes/
+      - title: Programmes
+        url: /what-we-do/programmes/
   - title: How Can We Act
     url: /how-can-we-act/volunteer/home
     sublinks:
-      - title: Volunteer
-        url: /how-can-we-act/volunteer/home
-      - title: Environment and Us
-        url: /what-we-do/keepsgclean/environmentandus
       - title: CGS Experiences
         url: /cgs-experiences
+      - title: Events
+        url: /how-can-we-act/events
+      - title: Environment and Us
+        url: /what-we-do/keepsgclean/environmentandus
+      - title: Volunteer
+        url: /how-can-we-act/volunteer/home
       - title: Year of Public Hygiene
         url: /year-of-public-hygiene/
   - title: Resources
     resource_room: true
-  - title: Events
-    url: /how-can-we-act/events
+  - title: CGS Day
+    url: /what-we-do/cgs2023/cgs-2023
   - title: YES Movement
     collection: yes-movement
