@@ -305,7 +305,7 @@ function to start using them for your Instagram Stories!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Cover Activity Book RGB-01" src="/images/Recycle Right/Resources/cover_activity_book_rgb_01_tmb_medium.jpg">
 </div>
 <p><a href="https://www.cgs.gov.sg/docs/default-source/resources/nea_recycleright_activityguide(4to8)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for&nbsp;Activity Book 1</a>
-<br><a href="https://www.cgs.gov.sg/docs/default-source/resources/bloobin-pre-school-to-lower-primary-activity-book_hires.pdf?sfvrsn=d9ac1b26_2" rel="noopener noreferrer nofollow" target="_blank">Click here for Activity Book 2</a>
+<br><a href="/files/Recycle Right/bloobin_pre_school_to_lower_primary_activity_book_hires_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Activity Book 2</a>
 </p>
 </td>
 </tr>
@@ -318,7 +318,7 @@ function to start using them for your Instagram Stories!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Bloobin Comic" src="/images/Recycle Right/Resources/bloobin_comic_tmb_medium.png">
 </div>
-<p><a href="https://www.cgs.gov.sg/docs/default-source/resources/bloobin-upper-pri-interactive-comic_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Comic Book</a>
+<p><a href="/files/Recycle Right/bloobin_upper_pri_interactive_comic_final_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Comic Book</a>
 </p>
 </td>
 </tr>
@@ -331,7 +331,7 @@ function to start using them for your Instagram Stories!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="NEA_RecycleRight UppPri to JC Guide" src="/images/Recycle Right/Resources/nea_recycleright_upppri_to_jc_guide_tmb_esize_350_.jpg">
 </div>
-<p><a href="https://www.cgs.gov.sg/docs/default-source/resources/recycle-right-activity-guide-(ages-9-to-18).zip?sfvrsn=c2140395_2" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for full guide</u></a>
+<p><a href="/files/Recycle Right/SYTWL_Upper_Primary_Activity_Guide_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for full guide</u></a>
 </p>
 </td>
 </tr>
@@ -344,7 +344,7 @@ function to start using them for your Instagram Stories!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="AR Card Game" src="/images/Recycle Right/Resources/ar_card_game_tmb_medium.png">
 </div>
-<p><a href="https://www.cgs.gov.sg/docs/default-source/resources/bloobin-ar-card-game.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here </a>or
+<p><a href="/files/Recycle Right/RR_Bloobin_AR_Card_Game_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here </a>or
 contact <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">3PMCD_Enquiries@nea.gov.sg</a> for
 more info.</p>
 </td>
