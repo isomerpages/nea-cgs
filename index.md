@@ -37,7 +37,7 @@ sections:
       subtitle: About
       id: infocols
       linktext: Find out more
-      url: /contact/
+      url: /who-we-are/
       infoboxes:
         - title: About Us
           description: Developing infrastructure, programmes & jobs to support the move
@@ -56,7 +56,7 @@ sections:
       button: Online Feedback Form
       url: http://www.nea.gov.sg/feedback
       image: /images/Home/contact.png
-      alt: Image alt text
+      alt: Contact Us
   - textcards:
       title: Find us at
       id: textcards
