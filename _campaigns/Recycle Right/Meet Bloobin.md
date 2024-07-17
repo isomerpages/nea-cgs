@@ -83,7 +83,7 @@ them for your Instagram Stories!</p>
 contact <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>3PMCD_Enquiries@nea.gov.sg</u></a>.
 You may also use our <a href="/recycleright/resources" rel="noopener noreferrer nofollow" target="_blank"><u>existing materials here</u></a>.</p>
 <p>For more information on or applications of Bloobin, please refer to the
-<a href="#" rel="noopener noreferrer nofollow" target="_blank"><u>Bloobin Character Guide</u>
+<a href="/files/Recycle Right/Bloobin_Character_Guide_Final_low_res_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Bloobin Character Guide</u>
 </a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="bloobin-in-awe" src="/images/Recycle Right/bloobin_in_awe_removebg_preview_tmb_thumb200.png">
