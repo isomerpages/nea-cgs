@@ -55,7 +55,7 @@ sections:
         your enquiries online via the Online Feedback Form"
       button: Online Feedback Form
       url: http://www.nea.gov.sg/feedback
-      image: /images/Home/cpt_homepage.png
+      image: /images/Home/contact.png
       alt: Image alt text
   - textcards:
       title: Find us at
