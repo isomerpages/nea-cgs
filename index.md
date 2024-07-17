@@ -39,8 +39,8 @@ sections:
       url: /contact/
       infoboxes:
         - title: About Us
-          description: CGS aims to inspire Singaporeans to care for our environment by
-            adopting a clean, green & sustainable lifestyle.
+          description: Developing infrastructure, programmes & jobs to support the move
+            towards a Zero Waste Nation & a leading green economy.
         - title: A Liveable and Endearing Home
           description: Safeguarding green and blue spaces; embracing smart technology and
             eco-friendly features in our towns and homes.
