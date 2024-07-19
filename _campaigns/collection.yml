@@ -2,6 +2,7 @@ collections:
   campaigns:
     output: true
     order:
+      - BLOCK Dengue/.keep
       - Recycle Right/Resources.md
       - Recycle Right/Meet Bloobin.md
       - Recycle Right/Know Your Contaminants.md
