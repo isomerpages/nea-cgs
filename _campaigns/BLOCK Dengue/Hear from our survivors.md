@@ -225,4 +225,4 @@ and terrible headaches.</p>
 </tr>
 </tbody>
 </table>
-<p>"</p>
+<p></p>
