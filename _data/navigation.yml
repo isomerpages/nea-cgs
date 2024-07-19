@@ -37,9 +37,9 @@ links:
         url: /how-can-we-act/volunteer/home
       - title: Year of Public Hygiene
         url: /year-of-public-hygiene/
-  - title: Resources
-    resource_room: true
   - title: CGS Day
     url: /what-we-do/cgs2023/cgs-2023
   - title: YES Movement
     collection: yes-movement
+  - title: Resources
+    resource_room: true
