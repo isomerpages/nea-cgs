@@ -19,15 +19,18 @@ dengue.&nbsp;</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/verlane_khoo_tmb_ze_900_700.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p>VERLANE KHO, 21</p>
-<p>“Dengue covered my whole body in rashes, and my skin was sore to the touch!</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h3>VERLANE KHO, 21</h3>
+<p></p>
+<p><strong>“Dengue covered my whole body in rashes, and my skin was sore to the touch!"</strong>
+</p>
+<p></p>
 <p>On top of rashes, I also had chronic headaches and high fever, which peaked
 at 42 degrees Celsius. The worst part was feeling so sick yet needing to
 drag myself to the polyclinic to get my blood tests done daily for a week,
@@ -36,7 +39,7 @@ killers.</p>
 <p>All I could do was lie in bed and hope it would get over soon. It was
 literally hell for that whole week. I could not wait for the entire ordeal
 to be over.”</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -46,7 +49,11 @@ to be over.”</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ALVIN MAH, 39</p>
+<p>"Dengue made me suffer from high on-and-off fever, terrible bone aches,
+and painful eyes.</p>
+<p>I could be fine one moment, and the fever would be back minutes later.
+I felt very, very weak constantly.”</p>
 </td>
 </tr>
 <tr>
