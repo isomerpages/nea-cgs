@@ -2,6 +2,7 @@ collections:
   campaigns:
     output: true
     order:
+      - BLOCK Dengue/Hear from our survivors.md
       - BLOCK Dengue/Overview.md
       - BLOCK Dengue/.keep
       - Recycle Right/Resources.md
