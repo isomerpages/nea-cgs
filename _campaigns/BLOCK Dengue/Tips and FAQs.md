@@ -22,7 +22,7 @@ your dengue virus to others.</p>
 <p>For more tips and resources, visit <a href="/BLOCK%20Dengue/overview" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h3>FREQUENTLY ASKED QUESTIONS</h3>
-<p><strong> 1.  Is insect repellent effective in preventing bites from the Aedes mosquito?</strong>
+<p><strong>1. Is insect repellent effective in preventing bites from the Aedes mosquito?</strong>
 </p>
 <p>Topical insect repellent, when applied directly into one’s skin or clothing,
 is effective as it forms a protective barrier against mosquitoes. It protects
@@ -115,5 +115,16 @@ and areas with high <em>Aedes aegypti mosquito </em>population.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/step_by_step_guide.png">
+</div>
+<p><strong>9.&nbsp;I/ my child is allergic to insect repellent. How else can I protect myself/ my child from dengue?</strong>
+</p>
+<p>You can prevent yourself/ your child from being bitten by mosquitoes by
+wearing long sleeves and long pants, and spraying insecticide in dark corners
+around the house.</p>
+<p>You can also prevent mosquito breeding in your home by regularly practising
+the following Mozzie Wipeout ‘<strong>B-L-O-C-K</strong>’ steps:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/stop_dengue_with_b_l_o_c_k_fb_cover_final.jpg">
 </div>
 <p></p>
