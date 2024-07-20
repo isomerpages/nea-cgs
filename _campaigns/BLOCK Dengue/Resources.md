@@ -55,11 +55,11 @@ third_nav_title: BLOCK Dengue
 <div data-type="detailsContent" class="isomer-details-content">
 <p>English (Gary)</p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w-vPRd1823o?si=rUUVGjYon8RobL39"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QCz2VVVRj3s"></iframe>
 </div>
 <p>English (Shima)</p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w-vPRd1823o?si=rUUVGjYon8RobL39"></iframe>
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/46xD-391ghc"></iframe>
 </div>
 <p>English (Alisha)</p>
 <div class="iframe-wrapper">
