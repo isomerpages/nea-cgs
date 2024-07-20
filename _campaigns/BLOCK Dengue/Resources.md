@@ -180,17 +180,11 @@ third_nav_title: BLOCK Dengue
 <p><strong>Dengue Survivor Poster (Malay)</strong>
 </p>
 <p><em>Click on image to download</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_mal_poster_tmb_small.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-005-t22h_shima_a2-poster_path.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_mal_poster_tmb_small.jpg"></a>
 <p><strong>Dengue Survivor Poster (Tamil)</strong>
 </p>
 <p><em>Click on image to download</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_tam_poster_tmb_small.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-005-t22h_alisha_a2-poster_path.pdf"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_tam_poster_tmb_small.jpg"></a>
 <p><strong>B-L-O-C-K and S-A-WFlyer (EMCT)</strong>
 </p>
 <p><em>Click on image to download</em>
