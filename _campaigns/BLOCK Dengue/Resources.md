@@ -274,20 +274,20 @@ third_nav_title: BLOCK Dengue
 <p></p>
 <p><strong>NEA x Ugly Food</strong>
 </p>
-<p><em>Click here to download</em>
+<p><em>Click <a href="/files/Block Dengue/Resources/nea_x_uglyfood_poster_compressed2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_x_ugly_food_poster_tmb_small.jpg">
 </div>
 <p><strong>S-A-W Flyer</strong>
 </p>
-<p><em>Click on image to download</em>
+<p><em>Click <a href="/files/Block Dengue/Resources/dengue_self_protection_saw_flyer_pdf_safe_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/saw_flyer_tmb_small.jpg">
 </div>
 <p><strong>Plant Nursery Poster</strong>
-<br><em>Click on image to download</em>
+<br><em>Click <a href="/files/Block Dengue/Resources/nea_014_t22c_dengue_lny_2023_nursery_posters.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/plant_nursery_poster_tmb_small.jpg">
