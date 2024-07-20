@@ -168,10 +168,7 @@ third_nav_title: BLOCK Dengue
 <p><strong>Dengue Survivor Poster (English)</strong>
 </p>
 <p><em>Click on image to download</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_007_t23h_dengue_a2_poster.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/images/Block%20Dengue/Resources/nea_007_t23h_dengue_a2_poster.jpg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_007_t23h_dengue_a2_poster.jpg"></a>
 <p></p>
 <p><strong>Dengue Survivor Poster (Chinese)</strong>
 </p>
@@ -198,13 +195,8 @@ third_nav_title: BLOCK Dengue
 </p>
 <p><em>Click on image to download</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_em_tmb_small.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_ct_tmb_small.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/images/Block%20Dengue/Resources/nea_005_t22r_a5leaflet_2pp_em.jpg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_em.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/images/Block%20Dengue/Resources/nea_005_t22r_a5leaflet_2pp_ct.jpg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_ct.jpg"></a>
 <p><strong>MOE Soaper 5 x BLOCK Poster (Portrait)</strong>
 </p>
 <p><em>Click on image to download</em>
