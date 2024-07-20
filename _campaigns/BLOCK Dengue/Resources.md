@@ -194,17 +194,11 @@ third_nav_title: BLOCK Dengue
 <p><strong>MOE Soaper 5 x BLOCK Poster (Portrait)</strong>
 </p>
 <p><em>Click on image to download</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_portrait_tmb_small.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-005-t22r_a5leaflet_2pp_emct.pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_portrait_tmb_small.jpg"></a>
 <p><strong>MOE Soaper 5 x BLOCK Poster (Landscape)</strong>
 </p>
 <p><em>Click on image to download</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_landscape_tmb_small.jpg">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/soaper-5_block_landscape.pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_landscape_tmb_small.jpg"></a>
 <p><strong>Migrant Worker Poster (English)</strong>
 </p>
 <p><em>Click on image to download</em>
