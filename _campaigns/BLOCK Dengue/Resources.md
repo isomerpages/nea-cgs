@@ -356,7 +356,7 @@ third_nav_title: BLOCK Dengue
 </div>
 </details>
 </div>
-<p><strong>For more resources, please click </strong><a href="/resources/dengue/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>. </strong>
+<p><strong>For more resources, please click </strong><a href="/resources/dengue/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
 </p>
 <p></p>
 <p></p>
