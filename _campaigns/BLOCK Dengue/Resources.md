@@ -162,8 +162,7 @@ third_nav_title: BLOCK Dengue
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Dengue Survivor Posters</strong>
-</summary>
+<summary>Dengue Survivor Posters</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Dengue Survivor Poster (English)</strong>
 </p>
@@ -216,37 +215,58 @@ third_nav_title: BLOCK Dengue
 <p><strong>MOE Soaper 5 x BLOCK Poster (Landscape)</strong>
 </p>
 <p><em>Click on image to download</em>
-</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/soaper-5_block_landscape.pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_landscape_tmb_small.jpg"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_landscape_tmb_small.jpg">
+</div>
 <p>
 <br><strong>Migrant Worker Poster (English)</strong>
 </p>
 <p><em>Click <a href="/files/Block Dengue/Resources/nea_dengue_migrant_worker_poster_en.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
-</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-dengue-migrant-worker-poster-en.pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_prevention_en_tmb_small.png"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_prevention_en_tmb_small.png">
+</div>
 <p></p>
 <p><strong>Migrant Worker Poster (Chinese)</strong>
 </p>
 <p><em>Click <a href="/files/Block Dengue/Resources/nea_007_t23v_dengue_collaterals_migrant_worker_eposter_v2__chinese_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
-</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-007-t23v-dengue-collaterals-migrant-worker-eposter-v2-(chinese).pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/chinese_tmb_small.png"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/chinese_tmb_small.png">
+</div>
 <p>
 <br><strong>Migrant Worker Poster (Tamil)</strong>
 </p>
 <p><em>Click <a href="/files/Block Dengue/Resources/nea_007_t23v_dengue_collaterals_migrant_worker_eposter_v2__tamil_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
-</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-007-t23v-dengue-collaterals-migrant-worker-eposter-v2-(tamil).pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/tamil_tmb_small.png"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/tamil_tmb_small.png">
+</div>
 <p>
 <br><strong>Migrant Worker Poster (Burmese)</strong>
 </p>
-<p><em>Click on image to download</em>
-</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-007-t23v-dengue-collaterals-migrant-worker-eposter-(burmese).pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/burmese_tmb_small.png"></a>
+<p><em>Click <a href="/files/Block Dengue/Resources/nea_007_t23v_dengue_collaterals_migrant_worker_eposter__burmese_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/burmese_tmb_small.png">
+</div>
 <p>
 <br><strong>Migrant Worker Poster (Bengali)</strong>
 </p>
 <p><em>Click <a href="/files/Block Dengue/Resources/nea_007_t23v_dengue_collaterals_migrant_worker_eposter__bengali_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
-</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-007-t23v-dengue-collaterals-migrant-worker-eposter-(bengali).pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/bengali_tmb_small.png"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/bengali_tmb_small.png">
+</div>
 <p></p>
 <p><strong>Migrant Worker Poster (Thai)</strong>
 </p>
 <p><em>Click <a href="/files/Block Dengue/Resources/nea_007_t23v_dengue_collaterals_migrant_worker_eposter__thai_.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to download</em>
-</p><a class="isomer-image-wrapper" href="/files/Resources/Block Dengue/nea-007-t23v-dengue-collaterals-migrant-worker-eposter-(thai).pdf"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/thai_tmb_small.png"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/thai_tmb_small.png">
+</div>
 <p></p>
 <p><strong>Migrant Worker Poster (Vietnamese)</strong>
 </p>
@@ -292,6 +312,46 @@ third_nav_title: BLOCK Dengue
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/plant_nursery_poster_tmb_small.jpg">
 </div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Educational Resources</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Dengue Colouring Sheet</strong>
+</p>
+<p><em>Click here to download</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/colouring_dengue9074c56eab6844658c775fd822e21113_tmb_small.jpg">
+</div>
+<p><strong>Dengue Digital Puzzle </strong>
+</p>
+<p><em>Click here to download</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/puzzle_dengue08a4d3484dc24c7fb5a62c9de29f6c42_tmb_small.jpg">
+</div>
+<p></p>
+<p><strong>Dengue Crossword Puzzle</strong>
+</p>
+<p><em>Click here to download</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_crossword_tmb_small.jpg">
+</div>
+<p></p>
+<p><strong>Dengue Quiz</strong>
+</p>
+<p><em>Click <a href="https://cms.isomer.gov.sg/files/Block%20Dengue/Resources/nea_014_t22c_dengue_lny_2023_nursery_posters.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to download</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_quiz_tmb_small.jpg">
+</div>
+<p></p>
 </div>
 </details>
 </div>
