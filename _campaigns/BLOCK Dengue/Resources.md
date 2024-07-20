@@ -319,15 +319,16 @@ third_nav_title: BLOCK Dengue
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Dengue Colouring Sheet</strong>
 </p>
-<p><em>Click here to download</em>
+<p><em>Click <a href="/files/Block Dengue/Resources/nea___dengue_phase_2___digital_colouring_sheet_pdf_export__170323_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/colouring_dengue9074c56eab6844658c775fd822e21113_tmb_small.jpg">
 </div>
-<p><strong>Dengue Digital Puzzle </strong>
+<p></p>
+<p><strong>Dengue Digital Puzzle</strong>
 </p>
-<p><em>Click here to download</em>
+<p><em>Click <a href="/files/Block Dengue/Resources/nea___dengue_phase_2___digital_puzzle_sheet_pdf_export__170323_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -336,7 +337,7 @@ third_nav_title: BLOCK Dengue
 <p></p>
 <p><strong>Dengue Crossword Puzzle</strong>
 </p>
-<p><em>Click here to download</em>
+<p><em>Click <a href="/files/Block Dengue/Resources/nea_dengue_crossword_puzzle_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -345,7 +346,7 @@ third_nav_title: BLOCK Dengue
 <p></p>
 <p><strong>Dengue Quiz</strong>
 </p>
-<p><em>Click <a href="https://cms.isomer.gov.sg/files/Block%20Dengue/Resources/nea_014_t22c_dengue_lny_2023_nursery_posters.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to download</em>
+<p><em>Click <a href="/files/Block Dengue/Resources/nea_dengue_quiz_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -355,4 +356,7 @@ third_nav_title: BLOCK Dengue
 </div>
 </details>
 </div>
+<p><strong>For more resources, please click </strong><a href="/resources/dengue/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>. </strong>
+</p>
+<p></p>
 <p></p>
