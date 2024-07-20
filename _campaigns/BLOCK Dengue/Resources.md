@@ -255,23 +255,26 @@ third_nav_title: BLOCK Dengue
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/viet_tmb_small.png">
 </div>
+<p></p>
 <p><strong>B-L-O-C-K Steps</strong>
 </p>
-<p><em>Click on image to download</em>
+<p><em>Click </em><a href="/images/Block%20Dengue/Resources/stop_dengue_with_b_l_o_c_k_fb_cover_final.jpg" rel="noopener noreferrer nofollow" target="_blank">here</a><em> to download</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/stop_dengue_with_b_l_o_c_k_fb_cover_final.jpg">
 </div>
+<p></p>
 <p><strong>S-A-W Steps</strong>
 </p>
-<p><em>Click on image to download</em>
+<p><em>Click </em><a href="/images/Block%20Dengue/Resources/saw_visual_for_nea_website.png" rel="noopener noreferrer nofollow" target="_blank">here</a><em> to download</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/saw_steps_tmb_small.png">
 </div>
+<p></p>
 <p><strong>NEA x Ugly Food</strong>
 </p>
-<p><em>Click on image to download</em>
+<p><em>Click here to download</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_x_ugly_food_poster_tmb_small.jpg">
