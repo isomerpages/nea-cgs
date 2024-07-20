@@ -50,6 +50,39 @@ third_nav_title: BLOCK Dengue
 </p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Dengue Survivor Videos</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>English (Gary)</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w-vPRd1823o?si=rUUVGjYon8RobL39"></iframe>
+</div>
+<p>English (Shima)</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w-vPRd1823o?si=rUUVGjYon8RobL39"></iframe>
+</div>
+<p>English (Alisha)</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w-vPRd1823o?si=rUUVGjYon8RobL39"></iframe>
+</div>
+<p>Chinese (Gary)</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w-vPRd1823o?si=rUUVGjYon8RobL39"></iframe>
+</div>
+<p>Malay (Shima)</p>
+<div class="iframe-wrapper">
+<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w-vPRd1823o?si=rUUVGjYon8RobL39"></iframe>
+</div>
+<p>Tamil (Alisha)</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <h2>Videos</h2>
 <p><strong>English</strong>
