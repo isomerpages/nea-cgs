@@ -170,7 +170,7 @@ third_nav_title: BLOCK Dengue
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_007_t23h_dengue_a2_poster.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_007_t23h_dengue_a2_poster.jpg">
 </div>
 <p></p>
 <p><strong>Dengue Survivor Poster (Chinese)</strong>
@@ -178,7 +178,7 @@ third_nav_title: BLOCK Dengue
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_chi_poster_tmb_small.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_chi_poster_tmb_small.jpg">
 </div>
 <p><strong>Dengue Survivor Poster (Malay)</strong>
 </p>
@@ -199,108 +199,108 @@ third_nav_title: BLOCK Dengue
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_em_tmb_small.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_em_tmb_small.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_ct_tmb_small.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_ct_tmb_small.jpg">
 </div>
 <p><strong>MOE Soaper 5 x BLOCK Poster (Portrait)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_portrait_tmb_small.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_portrait_tmb_small.jpg">
 </div>
 <p><strong>MOE Soaper 5 x BLOCK Poster (Landscape)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_landscape_tmb_small.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/soaper_5_block_landscape_tmb_small.jpg">
 </div>
 <p><strong>Migrant Worker Poster (English)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_prevention_en_tmb_small.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_prevention_en_tmb_small.png">
 </div>
 <p><strong>Migrant Worker Poster (Chinese)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/chinese_tmb_small.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/chinese_tmb_small.png">
 </div>
 <p><strong>Migrant Worker Poster (Tamil)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/tamil_tmb_small.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/tamil_tmb_small.png">
 </div>
 <p><strong>Migrant Worker Poster (Burmese)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/burmese_tmb_small.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/burmese_tmb_small.png">
 </div>
 <p><strong>Migrant Worker Poster (Bengali)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/bengali_tmb_small.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/bengali_tmb_small.png">
 </div>
 <p><strong>Migrant Worker Poster (Thai)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/thai_tmb_small.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/thai_tmb_small.png">
 </div>
 <p><strong>Migrant Worker Poster (Vietnamese)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/viet_tmb_small.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/viet_tmb_small.png">
 </div>
 <p><strong>B-L-O-C-K Steps</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/stop_dengue_with_b_l_o_c_k_fb_cover_final.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/stop_dengue_with_b_l_o_c_k_fb_cover_final.jpg">
 </div>
 <p><strong>S-A-W Steps</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/saw_steps_tmb_small.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/saw_steps_tmb_small.png">
 </div>
 <p><strong>NEA x Ugly Food</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_x_ugly_food_poster_tmb_small.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_x_ugly_food_poster_tmb_small.jpg">
 </div>
 <p><strong>S-A-W Flyer</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/saw_flyer_tmb_small.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/saw_flyer_tmb_small.jpg">
 </div>
 <p><strong>Plant Nursery Poster</strong>
 <br><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/plant_nursery_poster_tmb_small.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/plant_nursery_poster_tmb_small.jpg">
 </div>
 </div>
 </details>
