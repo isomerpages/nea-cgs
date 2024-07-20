@@ -26,4 +26,18 @@ third_nav_title: BLOCK Dengue
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UFtEFKP6wU8?si=CbHBECy7327whoC1"></iframe>
 </div>
-<p></p>
+<h2>Posters</h2>
+<p><strong>2024 Dengue Prevention Campaign Poster (A2)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 Dengue Prevention Campaign Poster" src="/images/Block Dengue/Resources/h284185_nea_national_dengue_a4sz.jpg">
+</div>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>2024 Dengue Prevention Campaign Poster (A4)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2024 Dengue Prevention Campaign Poster" src="/images/Block Dengue/Resources/h284185_nea_national_dengue_a4sz.jpg">
+</div>
+<p><em>Click on image to download</em>
+</p>
