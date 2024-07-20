@@ -53,36 +53,76 @@ third_nav_title: BLOCK Dengue
 <details class="isomer-details">
 <summary>Dengue Survivor Videos</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>English (Gary)</p>
+<p><strong>English (Gary)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QCz2VVVRj3s"></iframe>
 </div>
-<p>English (Shima)</p>
+<p><strong>English (Shima)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/46xD-391ghc"></iframe>
 </div>
-<p>English (Alisha)</p>
+<p><strong>English (Alisha)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fGTSx2S1xlU"></iframe>
 </div>
-<p>Chinese (Gary)</p>
+<p><strong>Chinese (Gary)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ubTnpRaArus"></iframe>
 </div>
-<p>Malay (Shima)</p>
+<p><strong>Malay (Shima)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nqYWxRw0hH8"></iframe>
 </div>
-<p>Tamil (Alisha)</p>
+<p><strong>Tamil (Alisha)</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-q1uMk4dQX8"></iframe>
 </div>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>B-L-O-C-K Steps Video</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p><strong>English</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FlnuB7tkUe4"></iframe>
+</div>
+<p><strong>Malay</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J-vJwoYWFuA"></iframe>
+</div>
+<p><strong>Chinese</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6S8W8bxecfE"></iframe>
+</div>
+<p><strong>Tamil</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O6g59O_RCms"></iframe>
+</div>
+<p><strong>Bahasa Indonesia</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ogN8pWw8DcM%20frameborder="></iframe>
+</div>
+<p><strong>Burmese</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lw9BeEb1znA"></iframe>
+</div>
+<p><strong>Tagalog</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8o-CRHru5G4"></iframe>
+</div>
 </div>
 </details>
 </div>
