@@ -125,6 +125,49 @@ third_nav_title: BLOCK Dengue
 </div>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Mozzie Wipeout B-LO-C-K Jingle Lyrics Video</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a-l8X6hLjzM"></iframe>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>NEA x Ugly Food - B-L-O-C-K Jingle Video</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zRd7mc1Ja4w"></iframe>
+</div>
+<p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Apply Mosquito Repellent to Protect Yourself</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQ98NiSSohc"></iframe>
+</div>
+<p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Safe and Effective Use of Insecticide at Home</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<div class="iframe-wrapper">
+<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8Omrqokv1s4"></iframe>
+</div>
+<p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Dengue Survivor Posters</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <h2>Videos</h2>
 <p><strong>English</strong>
