@@ -171,7 +171,11 @@ third_nav_title: BLOCK Dengue
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_a2_poster_tmb_small.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_a2_poster_tmb_small.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_007_t23h_dengue_a2_poster.jpg">
 </div>
 <p><strong>Dengue Survivor Poster (Chinese)</strong>
 </p>
@@ -179,21 +183,21 @@ third_nav_title: BLOCK Dengue
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_chi_poster_tmb_small.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_chi_poster_tmb_small.jpg">
 </div>
 <p><strong>Dengue Survivor Poster (Malay)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_mal_poster_tmb_small.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_mal_poster_tmb_small.jpg">
 </div>
 <p><strong>Dengue Survivor Poster (Tamil)</strong>
 </p>
 <p><em>Click on image to download</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_tam_poster_tmb_small.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_tam_poster_tmb_small.jpg">
 </div>
 <p><strong>B-L-O-C-K and S-A-WFlyer (EMCT)</strong>
 </p>
