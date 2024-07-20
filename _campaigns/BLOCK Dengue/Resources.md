@@ -165,7 +165,98 @@ third_nav_title: BLOCK Dengue
 <summary><strong>Dengue Survivor Posters</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Dengue Survivor Poster (English)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/dengue_a2_poster_tmb_small.jpg">
+</div>
+<p><strong>Dengue Survivor Poster (Chinese)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_chi_poster_tmb_small.jpg">
+</div>
+<p><strong>Dengue Survivor Poster (Malay)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_mal_poster_tmb_small.jpg">
+</div>
+<p><strong>Dengue Survivor Poster (Tamil)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/survivor_tam_poster_tmb_small.jpg">
+</div>
+<p><strong>B-L-O-C-K and S-A-WFlyer (EMCT)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Resources/nea_005_t22r_a5leaflet_2pp_em_tmb_small.jpg">
+</div>
+<p><strong>MOE Soaper 5 x BLOCK Poster (Portrait)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>MOE Soaper 5 x BLOCK Poster (Landscape)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>Migrant Worker Poster (English)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>Migrant Worker Poster (Chinese) </strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>Migrant Worker Poster (Tamil)  </strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>Migrant Worker Poster (Burmese)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>Migrant Worker Poster (Bengali) </strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>Migrant Worker Poster (Thai)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>Migrant Worker Poster (Vietnamese)</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>B-L-O-C-K Steps</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>S-A-W Steps</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>NEA x Ugly Food</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>S-A-W Flyer</strong>
+</p>
+<p><em>Click on image to download</em>
+</p>
+<p><strong>Plant Nursery Poster</strong>
+<br><em>Click on image to download</em>
+</p>
 </div>
 </details>
 </div>
