@@ -91,37 +91,37 @@ third_nav_title: BLOCK Dengue
 <p><strong>English</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FlnuB7tkUe4"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FlnuB7tkUe4"></iframe>
 </div>
 <p><strong>Malay</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J-vJwoYWFuA"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J-vJwoYWFuA"></iframe>
 </div>
 <p><strong>Chinese</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6S8W8bxecfE"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6S8W8bxecfE"></iframe>
 </div>
 <p><strong>Tamil</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O6g59O_RCms"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O6g59O_RCms"></iframe>
 </div>
 <p><strong>Bahasa Indonesia</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ogN8pWw8DcM%20frameborder="></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ogN8pWw8DcM%20frameborder="></iframe>
 </div>
 <p><strong>Burmese</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lw9BeEb1znA"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lw9BeEb1znA"></iframe>
 </div>
 <p><strong>Tagalog</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8o-CRHru5G4"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8o-CRHru5G4"></iframe>
 </div>
 </div>
 </details>
@@ -130,7 +130,7 @@ third_nav_title: BLOCK Dengue
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a-l8X6hLjzM"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a-l8X6hLjzM"></iframe>
 </div>
 </div>
 </details>
@@ -138,7 +138,7 @@ third_nav_title: BLOCK Dengue
 <summary>NEA x Ugly Food - B-L-O-C-K Jingle Video</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zRd7mc1Ja4w"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zRd7mc1Ja4w"></iframe>
 </div>
 <p>&nbsp;</p>
 </div>
@@ -147,7 +147,7 @@ third_nav_title: BLOCK Dengue
 <summary>Apply Mosquito Repellent to Protect Yourself</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQ98NiSSohc"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQ98NiSSohc"></iframe>
 </div>
 <p>&nbsp;</p>
 </div>
@@ -156,7 +156,7 @@ third_nav_title: BLOCK Dengue
 <summary>Safe and Effective Use of Insecticide at Home</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe style="box-sizing: border-box; font-family: Poppins, sans-serif; outline: none !important; position: absolute; top: 0px; left: 0px;" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8Omrqokv1s4"></iframe>
+<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8Omrqokv1s4"></iframe>
 </div>
 <p>&nbsp;</p>
 </div>
