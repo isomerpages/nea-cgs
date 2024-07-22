@@ -36,16 +36,16 @@ links:
       - title: Year of Public Hygiene
         url: /year-of-public-hygiene/
   - title: CGS Day
-    url: /permalink
+    url: /what-we-do/cgs2023/home/
     sublinks:
       - title: CGS Awards
         url: /news-awards/
       - title: CGS 2023 Overview
         url: /what-we-do/cgs2023/home/
-      - title: New submenu
-        url: /permalink
-      - title: New submenu
-        url: /permalink
+      - title: Community Environment
+        url: /what-we-do/cgs2023/community-environment/
+      - title: Other Awards
+        url: /what-we-do/cgs2023/awards/community-in-bloom-ambassador-awards/
   - title: YES Movement
     collection: yes-movement
   - title: Resources
