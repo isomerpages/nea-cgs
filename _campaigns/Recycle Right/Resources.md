@@ -318,8 +318,6 @@ function to start using them for your Instagram Stories!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Bloobin Comic" src="/images/Recycle Right/Resources/bloobin_comic_tmb_medium.png">
 </div>
-<p><a href="/files/Recycle Right/bloobin_upper_pri_interactive_comic_final_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Comic Book</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -344,8 +342,7 @@ function to start using them for your Instagram Stories!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="AR Card Game" src="/images/Recycle Right/Resources/ar_card_game_tmb_medium.png">
 </div>
-<p><a href="/files/Recycle Right/RR_Bloobin_AR_Card_Game_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here </a>or
-contact <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">3PMCD_Enquiries@nea.gov.sg</a> for
+<p>Contact <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">3PMCD_Enquiries@nea.gov.sg</a> for
 more info.</p>
 </td>
 </tr>
