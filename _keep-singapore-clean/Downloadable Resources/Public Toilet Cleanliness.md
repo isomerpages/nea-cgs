@@ -127,7 +127,7 @@ sustainable environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Captain Green: The Birthday Surprise</a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/cgs/the-birthday-surprise---low-res-preview.pdf" rel="noopener noreferrer nofollow" target="_blank">Captain Green: The Birthday Surprise</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -212,7 +212,7 @@ sustainable environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Compilation of Public Toilet Cleanliness Stickers</a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/cgs/compilation-of-ptc-stickers-jpg.zip" rel="noopener noreferrer nofollow" target="_blank">Compilation of Public Toilet Cleanliness Stickers</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
