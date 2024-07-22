@@ -3,8 +3,8 @@ links:
   - title: Who we are
     url: /who-we-are/
     sublinks:
-      - title: CGS Awards
-        url: /news-awards/
+      - title: Who we are
+        url: /who-we-are/
   - title: Campaigns & Programmes
     url: /what-we-do/cgs2023/home/
     sublinks:
@@ -41,6 +41,11 @@ links:
         url: /year-of-public-hygiene/
   - title: CGS Day
     url: /what-we-do/cgs2023/cgs-2023
+  - title: CGS Day
+    url: /permalink
+    sublinks:
+      - title: CGS Awards
+        url: /news-awards/
   - title: YES Movement
     collection: yes-movement
   - title: Resources
