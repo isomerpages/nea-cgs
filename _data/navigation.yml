@@ -8,33 +8,33 @@ links:
   - title: Campaigns & Programmes
     url: /what-we-do/cgs2023/home/
     sublinks:
-      - title: Keep Singapore Clean
-        url: /what-we-do/keepsgclean/home
-      - title: Dengue Prevention
-        url: /blockdengue/home
       - title: Cleaner Public Toilets
         url: /what-we-do/keepsgclean/cleanpublictoilets/home
-      - title: Programmes
-        url: /what-we-do/programmes/
-      - title: Towards Zero Waste
-        url: /what-we-do/towardszerowaste/ourfocusareas
+      - title: Dengue Prevention
+        url: /blockdengue/home
       - title: Say YES to Waste Less
         url: /what-we-do/towardszerowaste/sayyes/whatyoucando
       - title: Recycle Right
         url: /recycleright/how-to-recycle-right
+      - title: Towards Zero Waste
+        url: /what-we-do/towardszerowaste/ourfocusareas
+      - title: Keep Singapore Clean
+        url: /what-we-do/keepsgclean/home
+      - title: Programmes
+        url: /what-we-do/programmes/
   - title: How Can We Act
     url: /how-can-we-act/volunteer/home
     sublinks:
       - title: CGS Experiences
         url: /cgs-experiences
-      - title: Events
-        url: /how-can-we-act/events
-      - title: Environment and Us
-        url: /what-we-do/keepsgclean/environmentandus
       - title: Volunteer
         url: /how-can-we-act/volunteer/home
       - title: Year of Public Hygiene
         url: /year-of-public-hygiene/
+      - title: Environment and Us
+        url: /what-we-do/keepsgclean/environmentandus
+      - title: Events
+        url: /how-can-we-act/events
   - title: CGS Day
     url: /what-we-do/cgs2023/home/
     sublinks:
