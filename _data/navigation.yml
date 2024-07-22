@@ -24,8 +24,6 @@ links:
         url: /what-we-do/towardszerowaste/sayyes/whatyoucando
       - title: Recycle Right
         url: /recycleright/how-to-recycle-right
-      - title: Programmes
-        url: /what-we-do/programmes/
   - title: How Can We Act
     url: /how-can-we-act/volunteer/home
     sublinks:
@@ -46,6 +44,10 @@ links:
     sublinks:
       - title: CGS Awards
         url: /news-awards/
+      - title: CGS 2023 Overview
+        url: /what-we-do/cgs2023/home/
+      - title: New submenu
+        url: /permalink
   - title: YES Movement
     collection: yes-movement
   - title: Resources
