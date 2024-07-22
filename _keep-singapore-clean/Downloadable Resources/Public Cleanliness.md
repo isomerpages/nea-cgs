@@ -87,7 +87,7 @@ sustainable environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="#" rel="noopener noreferrer nofollow" target="_blank">Uniformed Group Badge Programme - Cleanliness</a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/cgs/cleanliness---ug-badge.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniformed Group Badge Programme - Cleanliness</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
