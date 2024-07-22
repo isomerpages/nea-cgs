@@ -24,7 +24,7 @@ third_nav_title: Recycle Right
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bloobin Character Guide" src="/images/Recycle Right/Resources/bloobin_character_guide_tmb_esize__300.jpg">
 </div>
-<p><a href="/files/Recycle Right/Bloobin_Character_Guide_Final_low_res_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for full guide</a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/cgs/bloobin-character-guide_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for full guide</a>
 </p>
 </td>
 </tr>
@@ -304,8 +304,8 @@ function to start using them for your Instagram Stories!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Cover Activity Book RGB-01" src="/images/Recycle Right/Resources/cover_activity_book_rgb_01_tmb_medium.jpg">
 </div>
-<p><a href="https://www.cgs.gov.sg/docs/default-source/resources/nea_recycleright_activityguide(4to8)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for&nbsp;Activity Book 1</a>
-<br><a href="/files/Recycle Right/bloobin_pre_school_to_lower_primary_activity_book_hires_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Activity Book 2</a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/cgs/nea_recycleright_activityguide(4to8)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for&nbsp;Activity Book 1</a>
+<br><a href="https://www.nea.gov.sg/docs/default-source/cgs/bloobin-pre-school-to-lower-primary-activity-book_hires.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Activity Book 2</a>
 </p>
 </td>
 </tr>
@@ -331,7 +331,7 @@ function to start using them for your Instagram Stories!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="NEA_RecycleRight UppPri to JC Guide" src="/images/Recycle Right/Resources/nea_recycleright_upppri_to_jc_guide_tmb_esize_350_.jpg">
 </div>
-<p><a href="/files/Recycle Right/SYTWL_Upper_Primary_Activity_Guide_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for full guide</u></a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/cgs/recycle-right-activity-guide-(ages-9-to-18).zip" rel="noopener noreferrer nofollow" target="_blank">Click here for full guide</a>
 </p>
 </td>
 </tr>
