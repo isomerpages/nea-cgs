@@ -31,7 +31,7 @@ Day (YED)* activities; and</p>
 in Singapore.</p>
 <p>Any environment or Final Year Project (FYP) groups recognised by the IHL
 can apply for the grant.&nbsp;</p>
-<p><u>Definition of Environment Group</u>
+<p><strong><u>Definition of Environment Group</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -44,7 +44,7 @@ and encourage environmentally-friendly behaviours.</p>
 to have a staff member to serve as a staff adviser to the group.</p>
 </li>
 </ol>
-<p><u>Definition of an FYP Group</u>
+<p><strong><u>Definition of an FYP Group</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
@@ -176,9 +176,9 @@ themes)</p>
 </li>
 </ol>
 <h3>FORMS</h3>
-<p><strong><a href="http://www.cgs.gov.sg/docs/default-source/programmes/yed/efihl-application---env-grp-workplan.docx?sfvrsn=24c46a0f_2" rel="noopener noreferrer nofollow" target="_blank">Workplan Proposal</a></strong>
+<p><strong><a href="https://www.nea.gov.sg/docs/default-source/cgs/efihl-application---env-grp-workplan.docx" rel="noopener noreferrer nofollow" target="_blank">Workplan Proposal</a></strong>
 </p>
-<p><strong><a href="http://www.cgs.gov.sg/docs/default-source/programmes/yed/efihl-application---env-grp-completion-report.docx?sfvrsn=20c46a0f_2" rel="noopener noreferrer nofollow" target="_blank">Project Completion Report</a></strong>
+<p><strong><a href="https://www.nea.gov.sg/docs/default-source/cgs/efihl-application---env-grp-completion-report.docx" rel="noopener noreferrer nofollow" target="_blank">Project Completion Report</a></strong>
 </p>
 <h3>EXAMPLES OF SUPPORTED PROJECTS</h3>
 <table style="minWidth: 50px">
