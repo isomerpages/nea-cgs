@@ -14,8 +14,6 @@ links:
         url: /blockdengue/home
       - title: Clean Public Toilets
         url: /what-we-do/keepsgclean/cleanpublictoilets/home
-      - title: Environment and Us
-        url: /what-we-do/keepsgclean/environmentandus
       - title: Programmes
         url: /what-we-do/programmes/
       - title: Towards Zero Waste
@@ -38,14 +36,14 @@ links:
       - title: Year of Public Hygiene
         url: /year-of-public-hygiene/
   - title: CGS Day
-    url: /what-we-do/cgs2023/cgs-2023
-  - title: CGS Day
     url: /permalink
     sublinks:
       - title: CGS Awards
         url: /news-awards/
       - title: CGS 2023 Overview
         url: /what-we-do/cgs2023/home/
+      - title: New submenu
+        url: /permalink
       - title: New submenu
         url: /permalink
   - title: YES Movement
