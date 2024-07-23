@@ -2,7 +2,7 @@
 title: Hear from our survivors
 permalink: /blockdengue/survivors/
 variant: tiptap
-description: ""
+description: Hear from our survivors
 third_nav_title: BLOCK Dengue
 ---
 <p>Behind every survivor lies a story of their ordeal. Hear from our survivors

@@ -2,7 +2,7 @@
 title: Volunteer Overview
 permalink: /how-can-we-act/volunteer/home/
 variant: tiptap
-description: ""
+description: Volunteer Overview
 third_nav_title: Volunteer
 ---
 <a class="isomer-image-wrapper" href="/how-can-we-act/volunteer/roles"><img style="width: 100%" height="auto" width="100%" alt="NEA_Homepage_FA_About Us-01" src="/images/How Can We Act/Volunteer/nea_homepage_fa_about_us_01.jpg"></a>

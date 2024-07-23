@@ -2,7 +2,7 @@
 title: About NEA Volunteer Corps
 permalink: /how-can-we-act/volunteer/about/
 variant: tiptap
-description: ""
+description: About NEA Volunteer Corps
 third_nav_title: Volunteer
 ---
 <h3>About NEA Volunteer Corps</h3>

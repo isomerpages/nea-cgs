@@ -2,7 +2,7 @@
 title: What You Can Do
 permalink: /what-we-do/towardszerowaste/sayyes/whatyoucando/
 variant: tiptap
-description: ""
+description: What You Can Do
 third_nav_title: What You Can Do
 ---
 <div class="isomer-image-wrapper">

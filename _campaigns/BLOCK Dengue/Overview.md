@@ -2,7 +2,7 @@
 title: Overview
 permalink: /blockdengue/home/
 variant: tiptap
-description: ""
+description: BLOCK Dengue Overview
 third_nav_title: BLOCK Dengue
 ---
 <p></p>

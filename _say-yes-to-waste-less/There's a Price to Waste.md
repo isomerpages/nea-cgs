@@ -2,7 +2,7 @@
 title: There's a Price to Waste
 permalink: /what-we-do/towardszerowaste/sayyes/theres-a-price-to-waste/
 variant: tiptap
-description: ""
+description: There's a Price to Waste
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="There's a Price to Waste" src="/images/Say YES to Waste Less/1___cropped_for_microsite.jpg">

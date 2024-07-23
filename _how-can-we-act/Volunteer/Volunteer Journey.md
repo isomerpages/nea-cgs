@@ -2,7 +2,7 @@
 title: Volunteer Journey
 permalink: /how-can-we-act/volunteer/volunteer-journey/
 variant: tiptap
-description: ""
+description: Volunteer Journey
 third_nav_title: Volunteer
 ---
 <div class="isomer-image-wrapper">

@@ -2,7 +2,7 @@
 title: Volunteer Roles
 permalink: /how-can-we-act/volunteer/roles/
 variant: tiptap
-description: ""
+description: Volunteer Roles
 third_nav_title: Volunteer
 ---
 <div class="isomer-image-wrapper">
