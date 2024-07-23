@@ -2,25 +2,4 @@ collections:
   resources:
     output: true
     order:
-      - Resources/Air Pollution.md
-      - Resources/CGS2016.md
-      - Resources/Cleanliness.md
-      - Resources/Climate Change.md
-      - Resources/Dengue.md
-      - Resources/Energy Efficiency.md
-      - Resources/Environment Fund for Schools.md
-      - Resources/Food Hygiene.md
-      - Resources/Food Waste Reduction.md
-      - Resources/How to Switch to LED guide.md
-      - Resources/Noise Pollution.md
-      - Resources/Public.md
-      - Resources/Public Cleanliness.md
-      - "Resources/Public Toilets 3Rs: Reduce Reuse and Recycle.md"
-      - Resources/Recycling.md
-      - Resources/Smoking.md
-      - Resources/Toilet Cleanliness.md
-      - Resources/Vector Control.md
-      - Resources/Waste Management.md
-      - Resources/Zika.md
-      - Resources/.keep
       - Resource Library.md
