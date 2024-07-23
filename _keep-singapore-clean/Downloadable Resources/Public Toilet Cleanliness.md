@@ -131,11 +131,11 @@ sustainable environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www-nea-gov-sg-admin.cwp.sg/images/default-source/resources/-t1-do-not-squat-on-toilet-bowls.jpg" rel="noopener noreferrer nofollow" target="_blank">Do not squat on toilet bowls comic strip poster</a>
+<p><a href="https://www.nea.gov.sg/images/default-source/resources/-t1-do-not-squat-on-toilet-bowls.jpg" rel="noopener noreferrer nofollow" target="_blank">Do not squat on toilet bowls comic strip poster</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www-nea-gov-sg-admin.cwp.sg/images/default-source/resources/-t3-flush-thoroughly-after-use.jpg" rel="noopener noreferrer nofollow" target="_blank">Flush thoroughly after use comic strip poster</a>
+<p><a href="https://www.nea.gov.sg/images/default-source/resources/-t3-flush-thoroughly-after-use.jpg" rel="noopener noreferrer nofollow" target="_blank">Flush thoroughly after use comic strip poster</a>
 </p>
 </td>
 </tr>
@@ -163,7 +163,7 @@ sustainable environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www-nea-gov-sg-admin.cwp.sg/images/default-source/resources/-t4-put-litter-into-bins.jpg" rel="noopener noreferrer nofollow" target="_blank">Put litter into bins comic strip poster</a>
+<p><a href="https://www.nea.gov.sg/images/default-source/resources/-t4-put-litter-into-bins.jpg" rel="noopener noreferrer nofollow" target="_blank">Put litter into bins comic strip poster</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +204,7 @@ sustainable environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www-nea-gov-sg-admin.cwp.sg/images/default-source/resources/-t5-out-toilet-keep-it-clean.jpg" rel="noopener noreferrer nofollow" target="_blank">How to keep toilets clean and dry comic strip poster</a>
+<p><a href="https://www.nea.gov.sg/images/default-source/resources/-t5-out-toilet-keep-it-clean.jpg" rel="noopener noreferrer nofollow" target="_blank">How to keep toilets clean and dry comic strip poster</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
