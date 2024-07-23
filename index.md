@@ -19,12 +19,12 @@ sections:
       button: Year of Public Hygiene
       url: https://www.nea.gov.sg/our-services/year-of-public-hygiene
       key_highlights:
-        - title: Keep Singapore Clean
-          description: Find out more
-          url: what-we-do/keepsgclean/home
-        - title: Moving towards Zero Waste
-          description: Our Role to Play
-          url: /what-we-do/towardszerowaste/ourfocusareas
+        - title: Year of Public Hygiene
+          description: Let's keep Singapore clean!
+          url: /year-of-public-hygiene/
+        - title: Recycle Right
+          description: Check, Clean and Recycle
+          url: /recycleright/how-to-recycle-right/
         - title: Volunteer With Us
           description: Sign up as a volunteer with us
           url: /how-can-we-act/volunteer/home/
