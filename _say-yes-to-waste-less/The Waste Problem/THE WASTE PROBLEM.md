@@ -35,5 +35,3 @@ waste less together!</p>
 </div>
 <p>Listen to the full song on <a href="https://soundcloud.com/user-993449382/sayyestowasteless" rel="noopener noreferrer nofollow" target="_blank">SoundCloud</a> or
 <a href="https://open.spotify.com/album/6InLAUqy70Clxi9719kkor" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>.</p>
-<p>Or, <a href="https://www.nea.gov.sg/docs/default-source/cgs/nea_sayyestowasteless.mp3" rel="noopener noreferrer nofollow" target="_blank">click here if you wish to download</a> the
-song for a daily reminder to #SayYEStoWasteLess!</p>
