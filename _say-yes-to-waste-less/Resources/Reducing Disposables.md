@@ -140,32 +140,6 @@ disposables.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Save Semakau Video" src="/images/Say YES to Waste Less/Resources/save_semakau_video_tmb_ze_350_350.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.towardszerowaste.gov.sg/resources/videos/save-semakau" rel="noopener noreferrer nofollow" target="_blank">Save Semakau Video</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
