@@ -40,8 +40,8 @@ sections:
       url: /who-we-are/
       infoboxes:
         - title: About Us
-          description: Developing infrastructure, programmes & jobs to support the move
-            towards a Zero Waste Nation & a leading green economy.
+          description: To inspire Singaporeans to care for and protect our environment by
+            adopting a clean, green and sustainable lifestyle.
         - title: A Liveable and Endearing Home
           description: Safeguarding green and blue spaces; embracing smart technology and
             eco-friendly features in our towns and homes.
