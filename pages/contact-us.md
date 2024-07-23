@@ -2,31 +2,56 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Clean & Green Singapore
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "40 Scotts Road #20-00"
+      - Singapore 288231
+      - "Tel: 1800-2255 632"
+    operating_hours: []
+    maps_link: ""
+    title: NEA Headquarters
+  - address:
+      - 4545 Jalan Bukit Merah
+      - Singapore 159466
+      - "Tel: 6272 4266"
+    operating_hours: []
+    maps_link: ""
+    title: Central Regional Office
+  - address:
+      - No. 18 Attap Valley Road
+      - Singapore 759910
+      - "Tel: 6756 7678"
+    operating_hours: []
+    maps_link: ""
+    title: North West Regional Office
+  - address:
+      - 5 Albert Winsemius Lane
+      - Singapore 126787
+      - "Tel: 6466 0544"
+    operating_hours: []
+    maps_link: ""
+    title: South West Regional Office
+  - address:
+      - 172 Sin Ming Drive
+      - Singapore 575715
+      - "Tel: 6455 3177"
+    operating_hours: []
+    maps_link: ""
+    title: North East Regional Office
+  - address:
+      - 70 Tannery Lane
+      - Singapore 347810
+      - "Tel: 6747 4811"
+    operating_hours: []
+    maps_link: ""
+    title: South East Regional Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6225 5632
+      - email: ""
+      - other: You may download the myENV mobile application via this <a
+          href="https://onelink.to/a8r2v7">link</a>
+    title: General Enquiries & Feedback
+feedback: ""
 ---

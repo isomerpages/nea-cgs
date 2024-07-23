@@ -1,0 +1,24 @@
+collections:
+  environment-and-us:
+    output: true
+    order:
+      - Get Started/Reducing EWaste.md
+      - Get Started/General Waste Reduction.md
+      - Get Started/Reducing Food Waste.md
+      - Get Started/Reducing Disposables.md
+      - Get Started/.keep
+      - Take Action/Useful Links.md
+      - Take Action/Organisations and Schools.md
+      - Take Action/Individual.md
+      - Take Action/Take Action.md
+      - Take Action/.keep
+      - Be Inspired/Sumita's Story.md
+      - Be Inspired/Wei Jie's Story.md
+      - Be Inspired/Sophia's Story.md
+      - Be Inspired/Sofia's Story.md
+      - Be Inspired/Pei Shan and Augustine's Story.md
+      - Be Inspired/Get Inspired.md
+      - Be Inspired/.keep
+      - Join Us.md
+      - Did You Know.md
+      - Environment and Us.md

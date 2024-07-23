@@ -1,0 +1,10 @@
+collections:
+  keep-singapore-clean:
+    output: true
+    order:
+      - Downloadable Resources/Public Cleanliness.md
+      - Downloadable Resources/Public Toilet Cleanliness.md
+      - Downloadable Resources/.keep
+      - Clean Public Toilets/Downloadable Resources.md
+      - Clean Public Toilets/.keep
+      - Keep SG Clean.md

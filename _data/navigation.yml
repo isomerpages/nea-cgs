@@ -1,15 +1,60 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Templates/nea_logo_lock_up.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Who we are
+    url: /who-we-are/
+    sublinks:
+      - title: Who we are
+        url: /who-we-are/
+  - title: Campaigns & Programmes
+    url: /what-we-do/cgs2023/home/
+    sublinks:
+      - title: Cleaner Public Toilets
+        url: /what-we-do/keepsgclean/cleanpublictoilets/home
+      - title: Dengue Prevention
+        url: /blockdengue/home
+      - title: Say YES to Waste Less
+        url: /what-we-do/towardszerowaste/sayyes/whatyoucando
+      - title: Recycle Right
+        url: /recycleright/how-to-recycle-right
+      - title: Towards Zero Waste
+        url: /what-we-do/towardszerowaste/ourfocusareas
+      - title: Keep Singapore Clean
+        url: /what-we-do/keepsgclean/home
+      - title: Programmes
+        url: /what-we-do/programmes/
+  - title: How Can We Act
+    url: /how-can-we-act/volunteer/home
+    sublinks:
+      - title: CGS Experiences
+        url: /cgs-experiences
+      - title: Volunteer
+        url: /how-can-we-act/volunteer/home
+      - title: Year of Public Hygiene
+        url: /year-of-public-hygiene/
+      - title: Environment and Us
+        url: /what-we-do/keepsgclean/environmentandus
+      - title: Events
+        url: /how-can-we-act/events
+  - title: CGS Day
+    url: /what-we-do/cgs2023/home/
+    sublinks:
+      - title: CGS 2023 Overview
+        url: /what-we-do/cgs2023/home/
+      - title: Eco Schools
+        url: /what-we-do/cgs2023/eco-schools/environment-protection-primary-school/
+      - title: Exhibits
+        url: /what-we-do/cgs2023/exhibits/keep-singapore-clean/
+      - title: Community Environment
+        url: /what-we-do/cgs2023/community-environment/
+      - title: CGS Awards
+        url: /news-awards/
+      - title: Other Awards
+        url: /what-we-do/cgs2023/awards/community-in-bloom-ambassador-awards/
+      - title: Sponsors & Supporting Partners
+        url: /what-we-do/cgs2023/sponsors-supporting-partners/
+      - title: Workshops & Activities
+        url: /what-we-do/cgs2023/workshops-activities/
+  - title: YES Movement
+    collection: yes-movement
+  - title: Resources
+    resource_room: true
