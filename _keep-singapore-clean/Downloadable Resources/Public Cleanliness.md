@@ -27,7 +27,7 @@ sustainable environment.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Public Health Policy" src="/images/Keep SG Clean/Downloadable Resources/public_health_policy_tmb_thumb200.png">
+<img style="width: 88%;" height="auto" width="100%" alt="Office-common-area-cleaning-procedures" src="/images/Keep SG Clean/Downloadable Resources/86_office_common_area_cleaning_procedures_tmb_thumb200.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,9 +36,7 @@ sustainable environment.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="Office-common-area-cleaning-procedures" src="/images/Keep SG Clean/Downloadable Resources/86_office_common_area_cleaning_procedures_tmb_thumb200.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -47,7 +45,7 @@ sustainable environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mewr.gov.sg/policy/caring-for-public-health" rel="noopener noreferrer nofollow" target="_blank">Public Health Policy</a>
+<p><a href="https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-industry" rel="noopener noreferrer nofollow" target="_blank">Guide on Office Common Area Cleaning Procedures</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,8 +53,7 @@ sustainable environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-industry" rel="noopener noreferrer nofollow" target="_blank">Guide on Office Common Area Cleaning Procedures</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
