@@ -2,6 +2,7 @@ collections:
   campaigns:
     output: true
     order:
+      - Say YES to Waste Less/.keep
       - BLOCK Dengue/.keep
       - BLOCK Dengue/Overview.md
       - BLOCK Dengue/Hear from our survivors.md
