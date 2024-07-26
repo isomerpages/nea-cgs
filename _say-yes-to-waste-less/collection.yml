@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - SYTWL Deals.md
-      - There's a Price to Waste.md
       - Resources/Reducing Wastage.md
       - Resources/Reducing Disposables.md
       - Resources/Resources.md
