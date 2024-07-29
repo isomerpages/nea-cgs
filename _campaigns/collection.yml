@@ -2,11 +2,11 @@ collections:
   campaigns:
     output: true
     order:
-      - BLOCK Dengue/.keep
-      - BLOCK Dengue/Overview.md
-      - BLOCK Dengue/Hear from our survivors.md
-      - BLOCK Dengue/Tips and FAQs.md
-      - BLOCK Dengue/Resources.md
+      - Dengue Prevention/.keep
+      - Dengue Prevention/Overview.md
+      - Dengue Prevention/Hear from our survivors.md
+      - Dengue Prevention/Tips and FAQs.md
+      - Dengue Prevention/Resources.md
       - Clean Public Toilets/.keep
       - Clean Public Toilets/Play Game.md
       - Clean Public Toilets/Past Campaign.md
