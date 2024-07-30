@@ -5,6 +5,20 @@ variant: tiptap
 description: ""
 third_nav_title: Resources
 ---
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Say YES to Waste Less</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
 <p>Thank you for your interest in being part of the Say YES to Waste Less
 movement. Here are some materials to help you play your part in reducing
 disposables.</p>
@@ -161,4 +175,9 @@ disposables.</p>
 </tr>
 </tbody>
 </table>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
