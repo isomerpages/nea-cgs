@@ -3,7 +3,7 @@ title: Hear from our survivors
 permalink: /blockdengue/survivors/
 variant: tiptap
 description: Hear from our survivors
-third_nav_title: BLOCK Dengue
+third_nav_title: Dengue Prevention
 ---
 <p>Behind every survivor lies a story of their ordeal. Hear from our survivors
 below and don't take dengue lightly!&nbsp;All it takes is a mosquito bite

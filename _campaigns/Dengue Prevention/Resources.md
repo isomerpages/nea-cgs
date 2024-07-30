@@ -3,7 +3,7 @@ title: Resources
 permalink: /blockdengue/resources/
 variant: tiptap
 description: Resources
-third_nav_title: BLOCK Dengue
+third_nav_title: Dengue Prevention
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

@@ -3,6 +3,7 @@ title: Partners
 permalink: /what-we-do/towardszerowaste/sayyes/our-partners-2023/
 variant: tiptap
 description: ""
+third_nav_title: Say YES to Waste Less
 ---
 <p>More than 120 partners (F&amp;B outlets, malls, supermarkets, e-services,
 hotels, corporates, NGOs and community), have joined the Say YES to Waste

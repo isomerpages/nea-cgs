@@ -3,7 +3,7 @@ title: Tips and FAQs
 permalink: /blockdengue/tips/
 variant: tiptap
 description: Tips and FAQs
-third_nav_title: BLOCK Dengue
+third_nav_title: Dengue Prevention
 ---
 <h3>TIPS</h3>
 <ul data-tight="true" class="tight">

@@ -3,7 +3,7 @@ title: Overview
 permalink: /blockdengue/home/
 variant: tiptap
 description: BLOCK Dengue Overview
-third_nav_title: BLOCK Dengue
+third_nav_title: Dengue Prevention
 ---
 <p></p>
 <div class="isomer-image-wrapper">

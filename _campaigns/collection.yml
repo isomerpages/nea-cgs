@@ -2,23 +2,30 @@ collections:
   campaigns:
     output: true
     order:
-      - BLOCK Dengue/.keep
-      - BLOCK Dengue/Overview.md
-      - BLOCK Dengue/Hear from our survivors.md
-      - BLOCK Dengue/Tips and FAQs.md
-      - BLOCK Dengue/Resources.md
-      - Recycle Right/Resources.md
-      - Recycle Right/Meet Bloobin.md
-      - Recycle Right/Know Your Contaminants.md
-      - Recycle Right/Check my Item.md
-      - Recycle Right/How to Recycle Right.md
-      - Recycle Right/.keep
-      - Towards Zero Waste/Our Focus Areas.md
-      - Towards Zero Waste/Resources.md
-      - Towards Zero Waste/.keep
+      - Dengue Prevention/.keep
+      - Dengue Prevention/Overview.md
+      - Dengue Prevention/Hear from our survivors.md
+      - Dengue Prevention/Tips and FAQs.md
+      - Dengue Prevention/Resources.md
+      - Clean Public Toilets/.keep
       - Clean Public Toilets/Play Game.md
       - Clean Public Toilets/Past Campaign.md
       - Clean Public Toilets/Resources.md
       - Clean Public Toilets/'Nice or Not' Exhibit.md
       - Clean Public Toilets/Clean Public Toilets.md
-      - Clean Public Toilets/.keep
+      - Say YES to Waste Less/.keep
+      - Say YES to Waste Less/The Waste Problem.md
+      - Say YES to Waste Less/There's a Price to Waste.md
+      - Say YES to Waste Less/Partners.md
+      - Say YES to Waste Less/SYTWL Deals.md
+      - Say YES to Waste Less/What You Can Do.md
+      - Say YES to Waste Less/Resources.md
+      - Recycle Right/.keep
+      - Recycle Right/How to Recycle Right.md
+      - Recycle Right/Know Your Contaminants.md
+      - Recycle Right/Meet Bloobin.md
+      - Recycle Right/Check my Item.md
+      - Recycle Right/Resources.md
+      - Towards Zero Waste/.keep
+      - Towards Zero Waste/Our Focus Areas.md
+      - Towards Zero Waste/Resources.md
