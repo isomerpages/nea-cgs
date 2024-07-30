@@ -2,7 +2,6 @@ collections:
   say-yes-to-waste-less:
     output: true
     order:
-      - Resources/Resources.md
       - Resources/.keep
       - The Waste Problem/THE WASTE PROBLEM.md
       - The Waste Problem/Reducing Food Wastage.md
