@@ -37,4 +37,7 @@ waste less together!</p>
 <p>Listen to the full song on <a href="https://soundcloud.com/user-993449382/sayyestowasteless" rel="noopener noreferrer nofollow" target="_blank">SoundCloud</a> or
 <a href="https://open.spotify.com/album/6InLAUqy70Clxi9719kkor" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>.</p>
 <p></p>
+<h4>Reducing Food Wastage </h4>
+<p></p>
+<h4>Reducing Disposables</h4>
 <p></p>
