@@ -61,7 +61,6 @@ Waste Nation today!</p>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.instagram.com/emoidenfoodstall/?hl=en"><img style="width: 100%" height="auto" width="100%" alt="Faizal" src="/images/Say YES to Waste Less/faizal.png"></a>
 <p><em>Muhamad Faizal Bin Ettapurath Moiden, Owner &amp; Chef of Haji E-Moiden Food Stall</em>
 </p>
-<p></p>
 <p>A 2nd generation hawker since 2005 who is conscious about food wastage
 and only buy fresh ingredients daily for next day’s sale. He also avoids
 bulk buying or keeping food products for long periods of time.</p>
@@ -82,8 +81,7 @@ in the reduction of food wastage and food insecurity.</p>
 </div>
 <p><em>Fabian Liao, Senior Farm Manager of Quan Fa Organic Farm</em>
 </p>
-<p>
-<br>A 2nd generation farmer who only understood how much hard work goes into
+<p>A 2nd generation farmer who only understood how much hard work goes into
 growing the food that we see on the table after joining the farming industry.</p>
 </td>
 <td rowspan="1" colspan="1">
