@@ -2,7 +2,6 @@ collections:
   say-yes-to-waste-less:
     output: true
     order:
-      - SYTWL Deals.md
       - Resources/Reducing Wastage.md
       - Resources/Reducing Disposables.md
       - Resources/Resources.md
