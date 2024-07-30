@@ -13,15 +13,12 @@ third_nav_title: Resources
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="2" colspan="3">
 <h4>Reducing Wastage</h4>
+<p></p>
 </th>
 </tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
+<tr></tr>
 </tbody>
 </table>
 <p></p>
