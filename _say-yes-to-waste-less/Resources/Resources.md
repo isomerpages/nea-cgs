@@ -14,11 +14,28 @@ third_nav_title: Resources
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Say YES to Waste Less</p>
+<h4>Reducing Wastage</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<h4>Resources</h4>
 <p>Thank you for your interest in being part of the Say YES to Waste Less
 movement. Here are some materials to help you play your part in reducing
 disposables.</p>
@@ -179,5 +196,6 @@ disposables.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
