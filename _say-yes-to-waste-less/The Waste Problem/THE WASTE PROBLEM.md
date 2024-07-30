@@ -106,7 +106,6 @@ it.</p>
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JOGNLNFc8ys"></iframe>
 </div>
 <hr>
-<p></p>
 <h2>Reducing Disposables</h2>
 <p>Every year, we discard around 200,000 million kg of disposables. At the
 current rate of waste disposal, our only landfill, Semakau Landfill, will
