@@ -2,7 +2,6 @@ collections:
   say-yes-to-waste-less:
     output: true
     order:
-      - Resources/Reducing Wastage.md
       - Resources/Reducing Disposables.md
       - Resources/Resources.md
       - Resources/.keep
