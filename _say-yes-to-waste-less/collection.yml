@@ -1,5 +1,4 @@
 collections:
   say-yes-to-waste-less:
     output: true
-    order:
-      - What You Can Do/.keep
+    order: []
