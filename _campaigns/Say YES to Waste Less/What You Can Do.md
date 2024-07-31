@@ -1,6 +1,6 @@
 ---
 title: What You Can Do
-permalink: /what-we-do/towardszerowaste/sayyes/whatyoucando/
+permalink: /sayyes/whatyoucando/
 variant: tiptap
 description: What You Can Do
 third_nav_title: Say YES to Waste Less

@@ -1,6 +1,6 @@
 ---
 title: SYTWL Deals
-permalink: /what-we-do/towardszerowaste/sayyes/savemore/
+permalink: /sayyes/savemore/
 variant: tiptap
 description: ""
 third_nav_title: Say YES to Waste Less

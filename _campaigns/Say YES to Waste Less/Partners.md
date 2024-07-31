@@ -1,6 +1,6 @@
 ---
 title: Partners
-permalink: /what-we-do/towardszerowaste/sayyes/our-partners-2023/
+permalink: /sayyes/our-partners/
 variant: tiptap
 description: ""
 third_nav_title: Say YES to Waste Less

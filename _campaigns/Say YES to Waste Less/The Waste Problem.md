@@ -1,6 +1,6 @@
 ---
 title: The Waste Problem
-permalink: /what-we-do/towardszerowaste/sayyes/home/
+permalink: /sayyes/the-waste-problem/
 variant: tiptap
 description: ""
 third_nav_title: Say YES to Waste Less

@@ -1,6 +1,6 @@
 ---
 title: There's a Price to Waste
-permalink: /what-we-do/towardszerowaste/sayyes/theres-a-price-to-waste/
+permalink: /sayyes/theres-a-price-to-waste/
 variant: tiptap
 description: There's a Price to Waste
 third_nav_title: Say YES to Waste Less
