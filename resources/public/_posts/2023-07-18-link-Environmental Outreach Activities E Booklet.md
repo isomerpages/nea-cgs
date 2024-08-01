@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.nea.gov.sg/docs/default-source/cgs/sytwl_lower-primary-activity-guide_final.pdf
+external: https://https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/ite-booklet-final_21-dec.pdf
 ---
