@@ -1,6 +1,6 @@
 ---
 title: Partners’ Programmes
-permalink: /youth-for-environmental-sustainability/nea-yes-leaders-programme/
+permalink: /youth-for-environmental-sustainability/programmes/
 variant: tiptap
 description: ""
 third_nav_title: Partners’ Programmes
