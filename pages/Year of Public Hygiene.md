@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 ---
 <a class="isomer-image-wrapper" href="https://www.nea.gov.sg/our-services/year-of-public-hygiene"><img style="width: 100%" height="auto" width="100%" alt="COS2024 YoPH CGS Banner v1" src="/images/Year of Public Hygiene/cos2024_yoph_cgs_banner_v1.jpg"></a>
-<p><strong>How you can play a part</strong>
-</p>
+<h4>How you can play a part</h4>
 <p>Whether you are an individual looking to give back or an organisation
 seeking to make an impact, there's a place for you to contribute and be
 part of our Year of Public Hygiene! Here are some community activities
@@ -78,3 +77,26 @@ Clean &amp; Green Singapore Day</p>
 </li>
 </ul>
 <p></p>
+<p></p>
+<h4>Green Guardians of Singapore </h4>
+<p>A comic book featuring Captain Green and the Keep Singapore Clean Supermons</p>
+<p></p>
+<p>NUS Cities, in collaboration with the National Environment Agency and
+Public Hygiene Council, unveiled a captivating booklet titled “The Green
+Guardians of Singapore” in support of the Year of Public Hygiene in August
+2024.</p>
+<p>&nbsp;</p>
+<p>“The Green Guardians of Singapore” immerses readers in the fictional tale
+of Captain Green and the Keep Singapore Clean Supermons as they shield
+Singapore from an environmental crisis provoked by alien invaders. These
+invaders wield hypnotic powers to transform citizens into careless litterbugs,
+resulting in widespread pollution, illness, and economic stagnation. The
+cheerful and eco-conscious frog, Captain Green, joins forces with the Supermons
+- Trashemon, Toilemon, and Trayremon - to reclaim the city's cleanliness
+and green spaces.</p>
+<p>Through compelling storytelling and informative content, the booklet aims
+to ignite a sense of responsibility in its readers, inspiring them to contribute
+to a cleaner, greener, and more resilient Singapore.</p>
+<p>&nbsp;</p>
+<p>Here’s the online version of <u>“The Green Guardians of Singapore”</u> &lt;hyperlink&gt;
+and enjoy the story</p>
