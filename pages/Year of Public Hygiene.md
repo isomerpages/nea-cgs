@@ -78,7 +78,8 @@ Clean &amp; Green Singapore Day</p>
 <p></p>
 <p></p>
 <h4>Green Guardians of Singapore</h4>
-<p>A comic book featuring Captain Green and the Keep Singapore Clean Supermons</p>
+<p>An illustrated storybook featuring Captain Green and the Keep Singapore
+Clean Supermons</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Green Guardians of Singapore E-booklet" src="/images/1724223092579_061d9c5f_3d62_4216_9ba5_1dda338414a5_1.jpg">
