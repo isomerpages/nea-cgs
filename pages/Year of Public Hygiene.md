@@ -78,7 +78,8 @@ Clean &amp; Green Singapore Day</p>
 <p></p>
 <p></p>
 <h4>Green Guardians of Singapore</h4>
-<p>A comic book featuring Captain Green and the Keep Singapore Clean Supermons</p>
+<p>An illustrated storybook featuring Captain Green and the Keep Singapore
+Clean Supermons</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Green Guardians of Singapore E-booklet" src="/images/1724223092579_061d9c5f_3d62_4216_9ba5_1dda338414a5_1.jpg">
@@ -101,3 +102,9 @@ to ignite a sense of responsibility in its readers, inspiring them to contribute
 to a cleaner, greener, and more resilient Singapore.</p>
 <p>Here’s the online version of <a href="https://heyzine.com/flip-book/SGGreenGuardians" rel="noopener noreferrer nofollow" target="_blank">"The Green Guardians of Singapore"</a>.
 Enjoy the story!</p>
+<p>Alternatively, you may scan the following QR Code or click <a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/the-green-guardians-of-singapore-20aug24-digital.pdf" rel="noopener nofollow" target="_blank">here</a> to
+download the book.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="The Green Guardians of Singapore QR code" src="/images/Year of Public Hygiene/GG_QR_Code.png">
+</div>
+<p></p>
