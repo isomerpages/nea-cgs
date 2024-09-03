@@ -146,4 +146,4 @@ they face in the process.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enforcement_2.jpg">
 </div>
-<p></p>
+<p>“Thank you for holding the meaningful event”</p>
