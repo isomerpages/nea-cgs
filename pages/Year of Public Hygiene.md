@@ -108,4 +108,10 @@ download the book.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="The Green Guardians of Singapore QR code" src="/images/Year of Public Hygiene/GG_QR_Code_R1.png">
 </div>
+<h4>CGS Experiences</h4>
+<p><strong>Behind-the-Scenes: Public Cleaning Performance Audits</strong>
+</p>
+<p>Participants find out more about the work that goes on, behind-the-scenes,
+to keep public spaces clean, and how NEA leverages technology to do this.</p>
+<p></p>
 <p></p>
