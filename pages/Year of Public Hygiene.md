@@ -118,7 +118,12 @@ to keep public spaces clean, and how NEA leverages technology to do this.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Cleaning_audit_14Jun.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/BTS_Cleaning_Performance_Audit_1.jpg">
+</div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/BTS_Cleaning_Performance_Audit_2.jpg">
+</div>
+<p><em>“I enjoyed them a lot! I think if possible, similar programmes can be conducted in the future to raise awareness about cleanliness and other related matters”</em>
+</p>
