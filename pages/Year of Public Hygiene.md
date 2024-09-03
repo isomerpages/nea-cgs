@@ -114,4 +114,11 @@ download the book.</p>
 <p>Participants find out more about the work that goes on, behind-the-scenes,
 to keep public spaces clean, and how NEA leverages technology to do this.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Cleaning_audit_14Jun.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
