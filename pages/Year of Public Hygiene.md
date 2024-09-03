@@ -136,7 +136,14 @@ how NEA officers conduct enforcement for littering offences, and the challenges
 they face in the process.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enforcement_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enforcement_1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enf__Workshop_29_Jun.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enforcement_2.jpg">
+</div>
 <p></p>
