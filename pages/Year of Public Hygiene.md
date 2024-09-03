@@ -127,3 +127,23 @@ to keep public spaces clean, and how NEA leverages technology to do this.</p>
 </div>
 <p><em>“I enjoyed them a lot! I think if possible, similar programmes can be conducted in the future to raise awareness about cleanliness and other related matters”</em>
 </p>
+<p></p>
+<p></p>
+<p><strong>Behind-the-Scenes: NEA Littering Enforcement</strong>
+</p>
+<p>Through the exclusive behind-the-scenes workshop, participants learned
+how NEA officers conduct enforcement for littering offences, and the challenges
+they face in the process.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enforcement_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enf__Workshop_29_Jun.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enforcement_2.jpg">
+</div>
+<p>“Thank you for holding the meaningful event”</p>
