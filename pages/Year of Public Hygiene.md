@@ -134,3 +134,9 @@ to keep public spaces clean, and how NEA leverages technology to do this.</p>
 <p>Through the exclusive behind-the-scenes workshop, participants learned
 how NEA officers conduct enforcement for littering offences, and the challenges
 they face in the process.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Littering_Enforcement_1.jpg">
+</div>
+<p></p>
+<p></p>
