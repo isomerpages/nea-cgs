@@ -194,4 +194,5 @@ and how to protect it.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Eco_Paddle_with_Ola_1.jpg">
 </div>
-<p></p>
+<p><em>“This was a valuable experience, and I'm excited to connect with other Go Green SG participants and collaborate on future sustainability efforts for Singapore. If there are opportunities to become more involved in leading these activities, I'd be very interested in contributing in that capacity.  Together, we can make a significant impact on Singapore's sustainability goals.”</em>
+</p>
