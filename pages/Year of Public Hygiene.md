@@ -154,3 +154,11 @@ they face in the process.</p>
 management, and work with stakeholders to keep public spaces clean and
 hygienic.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Vector_21_Jun.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Vector_2.jpg">
+</div>
+<p></p>
