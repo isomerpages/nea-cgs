@@ -128,7 +128,6 @@ to keep public spaces clean, and how NEA leverages technology to do this.</p>
 <p><em>“I enjoyed them a lot! I think if possible, similar programmes can be conducted in the future to raise awareness about cleanliness and other related matters”</em>
 </p>
 <p></p>
-<p></p>
 <p><strong>Behind-the-Scenes: NEA Littering Enforcement</strong>
 </p>
 <p>Through the exclusive behind-the-scenes workshop, participants learned
@@ -166,4 +165,16 @@ hygienic.</p>
 </div>
 <p><em>“Keep it up!”</em>
 </p>
+<p><strong>A breath of fresh air: Tour of Singapore’s Ambient Air Quality Monitoring Stations</strong>
+</p>
+<p>Participant learned how ambient air quality is being monitored in stations
+across Singapore.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Air_quality_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/20240625_104039.jpg">
+</div>
 <p></p>
