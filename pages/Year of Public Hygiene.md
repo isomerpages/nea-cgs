@@ -181,4 +181,6 @@ across Singapore.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Air_quality_1.jpg">
 </div>
+<p><em>“Thank you! It was really insightful and interesting.”</em>
+</p>
 <p></p>
