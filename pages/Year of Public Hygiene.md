@@ -206,3 +206,12 @@ and reservoirs, and helped play a part in keeping them clean!</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Project_Blue_Wave_2.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Project_Blue_Wave_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/20240706_145003.jpg">
+</div>
+<p><em>"I enjoyed the programme and am glad to have participated. The entire event was well-organised, and even though it was a small effort, every little step forward counts."</em>
+</p>
