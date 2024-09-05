@@ -167,7 +167,7 @@ hygienic.</p>
 </p>
 <p><strong>A breath of fresh air: Tour of Singapore’s Ambient Air Quality Monitoring Stations</strong>
 </p>
-<p>Participant learned how ambient air quality is being monitored in stations
+<p>Participantss learned how ambient air quality is being monitored in stations
 across Singapore.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -183,10 +183,11 @@ across Singapore.&nbsp;</p>
 </div>
 <p><em>“Thank you! It was really insightful and interesting.”</em>
 </p>
-<p>Eco paddle with Ola</p>
-<p>Litter-picking is fun! Join us on kayaks to conduct a coastal clean-up
-at Sentosa and nearby islands. Learn more about Singapore’s marine biodiversity
-and how to protect it.</p>
+<p><strong>Eco paddle with Ola</strong>
+</p>
+<p>Participants conducted a coastal clean-up at Sentosa and nearby islands
+on kayaks and learnt about Singapore’s marine biodiversity and how to protect
+it.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Eco_Paddle_with_Ola_2.jpg">
 </div>
@@ -194,5 +195,14 @@ and how to protect it.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Eco_Paddle_with_Ola_1.jpg">
 </div>
-<p><em>“This was a valuable experience, and I'm excited to connect with other Go Green SG participants and collaborate on future sustainability efforts for Singapore. If there are opportunities to become more involved in leading these activities, I'd be very interested in contributing in that capacity.  Together, we can make a significant impact on Singapore's sustainability goals.”</em>
+<p><em>“This was a valuable experience, and I'm excited to connect with other Go Green SG participants and collaborate on future sustainability efforts for Singapore. If there are opportunities to become more involved in leading these activities, I'd be very interested in contributing in that capacity. Together, we can make a significant impact on Singapore's sustainability goals.”</em>
 </p>
+<p><strong>Project Blue Wave</strong>
+</p>
+<p>Participants went on kayaks to explore the beautiful scenery of our lakes
+and reservoirs, and helped play a part in keeping them clean!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Project_Blue_Wave_2.jpg">
+</div>
+<p></p>
