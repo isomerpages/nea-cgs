@@ -183,4 +183,15 @@ across Singapore.&nbsp;</p>
 </div>
 <p><em>“Thank you! It was really insightful and interesting.”</em>
 </p>
+<p>Eco paddle with Ola</p>
+<p>Litter-picking is fun! Join us on kayaks to conduct a coastal clean-up
+at Sentosa and nearby islands. Learn more about Singapore’s marine biodiversity
+and how to protect it.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Eco_Paddle_with_Ola_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Eco_Paddle_with_Ola_1.jpg">
+</div>
 <p></p>
