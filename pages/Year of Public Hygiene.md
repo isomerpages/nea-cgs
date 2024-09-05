@@ -178,3 +178,7 @@ across Singapore.&nbsp;</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/20240625_104039.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Air_quality_1.jpg">
+</div>
+<p></p>
