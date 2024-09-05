@@ -148,4 +148,9 @@ they face in the process.</p>
 </div>
 <p><em>“Thank you for holding the meaningful event”</em>
 </p>
+<p><strong>Behind-the-scenes: Effective Refuse Management for Vector Control</strong>
+</p>
+<p>Participants observed how NEA officers conduct surveillance on refuse
+management, and work with stakeholders to keep public spaces clean and
+hygienic.</p>
 <p></p>
