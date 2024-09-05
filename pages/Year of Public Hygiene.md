@@ -159,6 +159,11 @@ hygienic.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Vector_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year of Public Hygiene/Vector_2.jpg">
 </div>
+<p><em>“Keep it up!”</em>
+</p>
 <p></p>
