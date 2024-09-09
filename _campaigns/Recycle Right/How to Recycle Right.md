@@ -20,7 +20,8 @@ Landfill.</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jAeqGbJIfJE"></iframe>
 </div>
-<p>You can find out more about <a href="/recycleright/meet-bloobin" rel="noopener noreferrer nofollow" target="_blank"><u>Bloobin here</u></a>.&nbsp;</p>
+<p>You can find out more about <a href="/recycleright/meet-bloobin" rel="noopener noreferrer nofollow" target="_blank"><u>Bloobin here</u></a>.&nbsp;For more
+of Bloobin's tips, check out his playlist <a href="https://www.youtube.com/playlist?list=PLYekcPPnJa8a9RcOnlt-fAgJrxPwLmKg9" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="how-do-i-start-removebg-preview" src="/images/Recycle Right/how_do_i_start_removebg_preview.png">
