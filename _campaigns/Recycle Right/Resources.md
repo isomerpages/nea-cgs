@@ -88,6 +88,15 @@ to 10 working days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Know Your Neighbourhood Bins</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Lunar New Year Poster</strong>
 <br>(in 4 languages)</p>
 </td>
