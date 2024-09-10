@@ -29,7 +29,7 @@ and contribute to Singapore’s long-term sustainability. Partners who have
 relevant programmes, challenges and volunteering opportunities can publicise
 their activities on our YES microsite, providing a convenient one-stop
 portal for our youths.</p>
-<p>Interested partners can contact us via <a href="https://form.gov.sg/60d54eecdfd78e001290be6f" rel="noopener noreferrer nofollow" target="_blank">this form</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="YES_Footer_Final-YES" src="/images/YES/yes_footer_final_yes.jpg">
 </div>
