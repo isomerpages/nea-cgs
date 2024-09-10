@@ -50,7 +50,7 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>[Click to view full image.]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/untitled.png">
 </div>
