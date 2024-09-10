@@ -113,7 +113,7 @@ to 10 working days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>d</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -386,9 +386,7 @@ function to start using them for your Instagram Stories!</p>
 <br>(Suitable for ages 13 and above)</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="AR Card Game" src="/images/Recycle Right/Resources/ar_card_game_tmb_medium.png">
-</div>
+<p>Recycling Drive Poster Template</p>
 <p><a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/rr-bloobin-ar-card-game_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
 </p>
 <p>Contact <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">3PMCD_Enquiries@nea.gov.sg</a> for
