@@ -137,10 +137,10 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Cloop.png">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -199,6 +199,19 @@ use of the video.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Main tn" src="/images/Recycle Right/Resources/main_tn_tmb_medium.jpg">
 </div>
 <p>View video <a href="https://youtu.be/p-qZCUBp1Go" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>'No Food No Liquids' Video</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/thumbnail.png">
+</div>
+<p>Videw video <a href="https://youtu.be/0h5HAxv48ls" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
