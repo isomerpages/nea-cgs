@@ -108,6 +108,15 @@ to 10 working days.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Cloop.png">
 </div>
 <p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
