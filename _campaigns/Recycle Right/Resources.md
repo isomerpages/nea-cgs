@@ -282,7 +282,4 @@ function to start using them for your Instagram Stories!</p>
 </table>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Recycling_20Drive_20Poster_20Template.png">
-</div>
 <p></p>
