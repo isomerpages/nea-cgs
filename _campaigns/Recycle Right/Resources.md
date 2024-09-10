@@ -138,6 +138,9 @@ to 10 working days.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Cloop.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -234,4 +237,5 @@ function to start using them for your Instagram Stories!</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
