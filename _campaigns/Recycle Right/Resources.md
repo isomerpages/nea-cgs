@@ -46,6 +46,18 @@ to 10 working days.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>"No Food, No Liquids" Poster</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Click to view full image.]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/untitled.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Treat Bloobin Better Poster</strong>
 </p>
 </td>
@@ -121,6 +133,36 @@ to 10 working days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Know Your Neighbourhood Bins</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Click to view full image.]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Cloop.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Greensquare.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Recycling Drive Poster Template</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Click to view full image.]</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Recycling_20Drive_20Poster_20Template.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>A5 Info Visual</strong>
 </p>
 </td>
@@ -151,77 +193,14 @@ to 10 working days.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Segregated Recycling Poster</strong> for
-<br>Organisations/Entities (Consolidated)</p>
+<p><strong>Wobblers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_recycleright_corporatekv_lores_rgb.pdf"><img style="width: 50%;" height="auto" width="100%" alt="NEA_RecycleRight_CorporateKV1-01_Jan_thumbnail" src="/images/Recycle Right/Resources/nea_recycleright_corporatekv1_01_jan_thumbnail4c16dcff_1c58_4a70_92ff_316b36c0c080_tmb_small.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Segregated Recycling Posters</strong> for
-<br>Organisations/Entities (such as malls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Click to view full image]</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Paper</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_malls_paper_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Malls_Paper_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_malls_paper_rgb_tmb_small.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p>Plastic</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_malls_plastic_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Malls_Plastic_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_malls_plastic_rgb_tmb_small.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Metal</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_malls_metal_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Malls_Metal_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_malls_metal_rgb_tmb_small.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Segregated Recycling Posters</strong> for
-<br>Organisations/Entities (such as offices)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>[Click to view full image]</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Paper</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_offices_paper_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Paper_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_paper_rgb_tmb_small.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p>Plastic</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_offices_plastic_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Plastic_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_plastic_rgb_tmb_small.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Glass</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_offices_glass_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Glass_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_glass_rgb_tmb_small.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p>Metal</p><a class="isomer-image-wrapper" href="/files/Recycle%20Right/nea_rrblitz_recyclingguide_offices_metal_v02_compressed.pdf"><img style="width: 100%" height="auto" width="100%" alt="NEA_RRBlitz_RecyclingGuide_Offices_Metal_RGB" src="/images/Recycle Right/Resources/nea_rrblitz_recyclingguide_offices_metal_rgb_tmb_small.jpg"></a>
-</td>
-</tr>
-</tbody>
-</table>
+<p>[Click to view full image.]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/RR_20Supermarket_20Wobblers.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -250,6 +229,19 @@ use of the video.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="Main tn" src="/images/Recycle Right/Resources/main_tn_tmb_medium.jpg">
 </div>
 <p>View video <a href="https://youtu.be/p-qZCUBp1Go" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>'No Food No Liquids' Video</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/thumbnail.png">
+</div>
+<p>Videw video <a href="https://youtu.be/0h5HAxv48ls" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
@@ -288,68 +280,6 @@ function to start using them for your Instagram Stories!</p>
 </tr>
 </tbody>
 </table>
-<h4>School Engagement Activity Guides</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Pre-School &amp; Lower Primary Activity Guide</strong>
-<br>(Suitable for ages 4 to 8)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Cover Activity Book RGB-01" src="/images/Recycle Right/Resources/cover_activity_book_rgb_01_tmb_medium.jpg">
-</div>
-<p><a href="https://www.nea.gov.sg/docs/default-source/cgs/nea_recycleright_activityguide(4to8)_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for&nbsp;Activity Book 1</a>
-<br><a href="https://www.nea.gov.sg/docs/default-source/cgs/bloobin-pre-school-to-lower-primary-activity-book_hires.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for Activity Book 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Upper Primary Interactive Comic Book</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Bloobin Comic" src="/images/Recycle Right/Resources/bloobin_comic_tmb_medium.png">
-</div>
-<p><a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/nea---upper-pri-interactive-comic_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Upper Primary, Secondary &amp; Junior College Activity Guide</strong>
-<br>(Suitable for ages 9 to 18)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="NEA_RecycleRight UppPri to JC Guide" src="/images/Recycle Right/Resources/nea_recycleright_upppri_to_jc_guide_tmb_esize_350_.jpg">
-</div>
-<p><a href="https://www.nea.gov.sg/docs/default-source/cgs/recycle-right-activity-guide-(ages-9-to-18).zip" rel="noopener noreferrer nofollow" target="_blank">Click here for full guide</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>‘Trash Overflow’ AR Card Game</strong>
-<br>(Suitable for ages 13 and above)</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="AR Card Game" src="/images/Recycle Right/Resources/ar_card_game_tmb_medium.png">
-</div>
-<p><a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/rr-bloobin-ar-card-game_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
-</p>
-<p>Contact <a href="mailto:3PMCD_Enquiries@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">3PMCD_Enquiries@nea.gov.sg</a> for
-more info.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
 <p></p>
