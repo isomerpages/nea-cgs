@@ -39,9 +39,10 @@ can be downloaded at <a href="/resources" rel="noopener noreferrer nofollow" tar
 <h3>Miscellaneous</h3>
 <h4>Dengue Prevention</h4>
 <p>For dengue prevention, you can increase the awareness to the pre-schoolers
-by screening videos from <a href="http://dengue.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dengue.gov.sg</a> during lessons and remind
-them to bring the dengue message home to their family members to practise
-the “5-step Mozzie Wipe-out” to remove mosquito breeding habitats at home:</p>
+by screening videos from <a href="https://www.cgs.gov.sg/blockdengue/home/" rel="noopener noreferrer nofollow" target="_blank">here</a> during lessons
+and remind them to bring the dengue message home to their family members
+to practise the “5-step Mozzie Wipe-out” to remove mosquito breeding habitats
+at home:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Change water in vases/bowls on alternate days</p>
@@ -56,7 +57,7 @@ the “5-step Mozzie Wipe-out” to remove mosquito breeding habitats at home:</
 <p>Clear blockages and put BTI insecticide in roof gutters monthly</p>
 </li>
 <li>
-<p>Remove water from flower pot plates on alternate days</p>
+<p>Remove water from flowerpot plates on alternate days</p>
 </li>
 </ol>
 <h4>Sustainable Singapore Gallery</h4>
