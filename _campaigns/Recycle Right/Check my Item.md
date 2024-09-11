@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Recycle Right
 ---
 <h2>Bloobin AI Chatbot</h2>
-<p>Chat with Bloobin on <a href="go.gov.sg/askbloobin" rel="noopener nofollow" target="_blank">WhatsApp</a> or
-<a href="go.gov.sg/askbloobintg" rel="noopener nofollow" target="_blank">Telegram</a>to check what can/ cannot be recycled.</p>
+<p>Chat with Bloobin on <a href="https://go.gov.sg/askbloobin" rel="noopener nofollow" target="_blank">WhatsApp</a> or
+<a href="https://go.gov.sg/askbloobintg" rel="noopener nofollow" target="_blank">Telegram</a>to check what can/ cannot be recycled.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bloobin AI Chatbot" src="/images/Recycle Right/askbloobin_20QR_20sheet.jpg">
 </div>
