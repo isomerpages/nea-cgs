@@ -51,6 +51,11 @@ to 10 working days.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Click to view full image.]</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/no_food_no_liquids_poster.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/untitled.png">
 </div>
