@@ -1,8 +1,11 @@
 ---
-title: Resource Library
-permalink: /resources/resource-library/
+title: Check & Protect Checklist
+permalink: /check-protect-checklist/
+date: 2024-09-11
+layout: post
+description: Check & Protect Checklist
+image: ""
 variant: tiptap
-description: ""
 ---
 <h3>Download the Check &amp; Protect checklist and join the fight against Dengue now!</h3>
 <table style="minWidth: 75px">
