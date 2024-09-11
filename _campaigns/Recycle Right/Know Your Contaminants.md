@@ -14,7 +14,7 @@ and liquid waste, Styrofoam, tissue paper, electronic waste, furniture
 and items meant for reuse, such as clothing, toys and shoes.</p>
 <h4>Food &amp; Liquid Waste</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0h5HAxv48ls?si=OmIMwpmNGZh9ORMw"></iframe>
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0h5HAxv48ls?si=OmIMwpmNGZh9ORMw"></iframe>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
