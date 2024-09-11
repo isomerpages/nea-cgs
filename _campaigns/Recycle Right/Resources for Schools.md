@@ -62,7 +62,7 @@ third_nav_title: Recycle Right
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/ar_card_game_tmb_medium.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/ar_card_game_tmb_medium.png">
 </div>
 <p><a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/rr-bloobin-ar-card-game_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
 </p>
