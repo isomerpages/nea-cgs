@@ -206,7 +206,7 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="/images/Recycle-Right/Resources/RR24_EDM.png"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/RR24_EDM.png"></a>
+<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/RR24_EDM.png"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/RR24_EDM.png"></a>
 </td>
 </tr>
 <tr>
