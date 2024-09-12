@@ -16,7 +16,7 @@ third_nav_title: Recycle Right
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Segregated Recycling Poster </strong>
+<p><strong>Segregated Recycling Poster</strong>
 </p>
 <p>for Organisations/ Entities (Focusing on Food and Liquids Contamination)</p>
 </td>
@@ -38,7 +38,7 @@ third_nav_title: Recycle Right
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Segregated Recycling Posters</strong> 
+<p><strong>Segregated Recycling Posters</strong>
 </p>
 <p>for Organisations/Entities (such as malls)</p>
 </td>
@@ -72,7 +72,7 @@ third_nav_title: Recycle Right
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Segregated Recycling Posters</strong> 
+<p><strong>Segregated Recycling Posters</strong>
 </p>
 <p>for Organisations/Entities (such as offices)</p>
 </td>
