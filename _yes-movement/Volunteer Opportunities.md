@@ -70,7 +70,7 @@ not only assists job seekers by compiling green jobs, making them more
 accessible and visible, but also assists employers by connecting them with
 talents in the green industries.</p>
 <p></p>
-<p><strong>Do visit&nbsp;<a href="https://greencollar.careers/" rel="noopener noreferrer nofollow" target="_blank">Green Collar's</a>&nbsp;online website where these green jobs (internships, contract, part time and full time roles) are listed for job-seeking individuals to view.</strong>
+<p><strong>Do visit&nbsp;<a href="https://www.greennudge.sg/media-categories/green-careers" rel="noopener noreferrer nofollow" target="_blank">Green Collar's</a>&nbsp;online website where these green jobs (internships, contract, part time and full time roles) are listed for job-seeking individuals to view.</strong>
 </p>
 </td>
 </tr>
@@ -304,7 +304,7 @@ and take your sustainability ideas to the next level. The bootcamp will
 be followed by a 6-month mentor support to set you up as a youth sustainability
 influencer.</p>
 <p></p>
-<p><strong>If this is a programme that you are interested in, <a href="https://www.wegotthis.world/bootcamp" rel="noopener noreferrer nofollow" target="_blank">sign up&nbsp;here</a>! Application closes on 10 August 2021.&nbsp;</strong>
+<p><strong>If this is a programme that you are interested in, <a href="https://www.wwf.sg/wegotthis/" rel="noopener noreferrer nofollow" target="_blank">sign up&nbsp;here</a>! Application closes on 10 August 2021.&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -348,7 +348,7 @@ study public response and increase impact!</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Sign up to volunteer with us here:&nbsp;<a href="https://www.zerowastesg.com/volunteer" rel="noopener noreferrer nofollow" target="_blank">https://www.zerowastesg.com/volunteer</a><a href="http://www.zerowastesg.com/volunteer/" rel="noopener noreferrer nofollow" target="_blank"><br></a></strong>
+<p><strong>Sign up to volunteer with us here:&nbsp;<a href="https://www.zerowastesg.com/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.zerowastesg.com/volunteer<br></a></strong>
 </p>
 <p><strong>Check out&nbsp;<a href="https://www.zerowastesg.com/volunteer" rel="noopener noreferrer nofollow" target="_blank">www.zerowastesg.com</a>&nbsp;or&nbsp;<a href="http://www.zerowastesg.com/volunteer/" rel="noopener noreferrer nofollow" target="_blank">www.byosingapore.com</a>&nbsp;to find out more!</strong>
 </p>

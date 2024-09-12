@@ -38,10 +38,6 @@ by Food Waste Reduction)</p>
 <p><a href="/what-we-do/towardszerowaste/sayyes/resourcespage" rel="noopener noreferrer nofollow" target="_blank">Say YES to Waste Less</a>
 </p>
 </li>
-<li>
-<p><a href="https://www.towardszerowaste.gov.sg/resources" rel="noopener noreferrer nofollow" target="_blank">Towards Zero Waste</a>
-</p>
-</li>
 </ul>
 </td>
 </tr>
