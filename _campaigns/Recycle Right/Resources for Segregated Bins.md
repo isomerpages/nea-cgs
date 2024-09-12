@@ -16,6 +16,19 @@ third_nav_title: Recycle Right
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Segregated Recycling Poster </strong>
+</p>
+<p>for Organisations/ Entities (Focusing on Food and Liquids Contamination)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Click to view full image]</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/RR_20Corporate_20Poster_20_template_.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Segregated Recycling Poster</strong> for
 <br>Organisations/Entities (Consolidated)</p>
 </td>
@@ -25,8 +38,9 @@ third_nav_title: Recycle Right
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Segregated Recycling Posters</strong> for
-<br>Organisations/Entities (such as malls)</p>
+<p><strong>Segregated Recycling Posters</strong> 
+</p>
+<p>for Organisations/Entities (such as malls)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Click to view full image]</p>
@@ -58,8 +72,9 @@ third_nav_title: Recycle Right
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Segregated Recycling Posters</strong> for
-<br>Organisations/Entities (such as offices)</p>
+<p><strong>Segregated Recycling Posters</strong> 
+</p>
+<p>for Organisations/Entities (such as offices)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Click to view full image]</p>
