@@ -206,11 +206,12 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/wog_edm.png"><img style="width: 50%;" height="auto" width="100%" alt="WOG eDM" src="/images/Recycle Right/Resources/wog_edm_tmb_small.png"></a>
+<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/sites/nea-cgs/media/images/mediaDirectory/images%2FRecycle%20Right%2FResources/editMediaSettings/RR24_EDM.png"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/RR24_EDM.png"></a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Wobblers</strong>
 </p>
 </td>
