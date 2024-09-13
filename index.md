@@ -12,11 +12,11 @@ notification: "[SCAM ALERT] Beware of scammers impersonating NEA, or Clean &
   https://scamalert.sg/ for more advice."
 sections:
   - hero:
-      title: Year of Public Hygiene
-      subtitle: Find out how you can play a part as we step up efforts to ensure we
-        continue to enjoy a clean environment.
-      background: /images/Home/cos2024_yoph_cgs_banner_v4.jpg
-      button: Year of Public Hygiene
+      title: Bloobin needs your help
+      subtitle: Save Bloobin from contaminants by checking if your item is recyclable
+        using the Bloobin AI Chatbot on WhatsApp or Telegram.
+      background: /images/Recycle Right/CGS_RR2024_Website_Banner.png
+      button: Chat Now!
       url: https://www.nea.gov.sg/our-services/year-of-public-hygiene
       key_highlights:
         - title: Year of Public Hygiene
