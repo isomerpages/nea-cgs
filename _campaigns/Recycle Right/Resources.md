@@ -145,16 +145,10 @@ to 10 working days.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Cloop.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Community_20Recycling_20Poster_20__20Cloop.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Cloop.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Greensquare.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Community_20Recycling_20Poster_20__20Greensquare.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Greensquare.png"></a>
 </th>
 </tr>
 </tbody>
