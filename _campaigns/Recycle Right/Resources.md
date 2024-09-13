@@ -204,10 +204,7 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image.]</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/RR_20Supermarket_20Wobblers.jpg">
-</div>
+<p>[Click to view full image.]</p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/RR_20Supermarket_20Wobblers.jpg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/RR_20Supermarket_20Wobblers.jpg"></a>
 </td>
 </tr>
 <tr>
