@@ -245,7 +245,7 @@ use of the video.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/thumbnail.png">
 </div>
-<p>Videw video <a href="https://youtu.be/0h5HAxv48ls" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>View video <a href="https://youtu.be/0h5HAxv48ls" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
