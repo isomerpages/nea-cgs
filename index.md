@@ -17,7 +17,7 @@ sections:
         using the Bloobin AI Chatbot on WhatsApp or Telegram.
       background: /images/Recycle Right/CGS_RR2024_Website_Banner.png
       button: Chat Now!
-      url: https://go.gov.sg/askbloobin
+      url: https://www.cgs.gov.sg/recycleright/check-my-item/
       key_highlights:
         - title: Year of Public Hygiene
           description: Let's keep Singapore clean!
