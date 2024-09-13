@@ -17,7 +17,7 @@ sections:
         using the Bloobin AI Chatbot on WhatsApp or Telegram.
       background: /images/Recycle Right/CGS_RR2024_Website_Banner.png
       button: Chat Now!
-      url: https://www.nea.gov.sg/our-services/year-of-public-hygiene
+      url: https://go.gov.sg/askbloobin
       key_highlights:
         - title: Year of Public Hygiene
           description: Let's keep Singapore clean!
@@ -30,7 +30,7 @@ sections:
           url: /how-can-we-act/volunteer/home/
       variant: floating
       size: sm
-      backgroundColor: gray
+      backgroundColor: white
       alignment: right
   - infocols:
       title: Clean & Green Singapore (CGS)
