@@ -21,10 +21,7 @@ third_nav_title: Recycle Right
 <p>for Organisations/ Entities (Focusing on Food and Liquids Contamination)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image]</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/RR_20Corporate_20Poster_20_template_.png">
-</div>
+<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/RR_20Corporate_20Poster_20_template_.png"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/RR_20Corporate_20Poster_20_template_.png"></a>
 </td>
 </tr>
 <tr>
