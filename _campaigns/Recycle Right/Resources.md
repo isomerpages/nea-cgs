@@ -51,10 +51,7 @@ to 10 working days.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Click to view full image.]</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/no_food_no_liquids_poster.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/no_food_no_liquids_poster.png"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/no_food_no_liquids_poster.png"></a>
 <p></p>
 </td>
 </tr>
@@ -148,16 +145,10 @@ to 10 working days.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Cloop.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Community_20Recycling_20Poster_20__20Cloop.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Cloop.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Greensquare.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Community_20Recycling_20Poster_20__20Greensquare.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Community_20Recycling_20Poster_20__20Greensquare.png"></a>
 </th>
 </tr>
 </tbody>
@@ -173,10 +164,7 @@ to 10 working days.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[Click to view full image.]</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Recycling_20Drive_20Poster_20Template.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Recycling_20Drive_20Poster_20Template.png"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Recycling_20Drive_20Poster_20Template.png"></a>
 </td>
 </tr>
 <tr>
@@ -206,7 +194,7 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="/images/Recycle-Right/Resources/RR24_EDM.png"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/RR24_EDM.png"></a>
+<p>[Click to view full image]</p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/Resources/RR24_EDM.png"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/RR24_EDM.png"></a>
 </td>
 </tr>
 <tr>
@@ -216,10 +204,7 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Click to view full image.]</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/RR_20Supermarket_20Wobblers.jpg">
-</div>
+<p>[Click to view full image.]</p><a class="isomer-image-wrapper" href="/images/Recycle%20Right/RR_20Supermarket_20Wobblers.jpg"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/RR_20Supermarket_20Wobblers.jpg"></a>
 </td>
 </tr>
 <tr>
@@ -260,7 +245,7 @@ use of the video.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/thumbnail.png">
 </div>
-<p>Videw video <a href="https://youtu.be/0h5HAxv48ls" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>View video <a href="https://youtu.be/0h5HAxv48ls" rel="noopener nofollow" target="_blank">here</a>.</p>
 </td>
 </tr>
 <tr>
