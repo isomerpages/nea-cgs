@@ -8,8 +8,9 @@ third_nav_title: Recycle Right
 <h2>Bloobin AI Chatbot</h2>
 <p>Chat with Bloobin on <a href="https://go.gov.sg/askbloobin" rel="noopener nofollow" target="_blank">WhatsApp</a> or
 <a href="https://go.gov.sg/askbloobintg" rel="noopener nofollow" target="_blank">Telegram</a>to check what can/ cannot be recycled.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bloobin AI Chatbot" src="/images/Recycle Right/askbloobin_20QR_20sheet.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/askbloobin_QR_sheet.jpg">
 </div>
 <p>Not sure how to start chatting with Bloobin? Watch the video below to
 find out!</p>
