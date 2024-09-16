@@ -37,7 +37,7 @@ third_nav_title: Recycle Right
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Bloobin Comic" src="/images/Recycle Right/Resources/bloobin_comic_tmb_medium.png">
 </div>
-<p><a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/nea---upper-pri-interactive-comic_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/bloobin-upper-pri-interactive-comic_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
 </p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ third_nav_title: Recycle Right
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/ar_card_game_tmb_medium.png">
 </div>
-<p><a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/rr-bloobin-ar-card-game_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/bloobin-ar-card-game.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
 </p>
 <p></p>
 </td>
