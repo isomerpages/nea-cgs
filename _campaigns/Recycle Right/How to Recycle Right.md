@@ -36,7 +36,7 @@ separate your recyclables from general waste.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="CHECK" src="/images/Recycle Right/check_tmb_esize_600_.png">
 </div>
-<p>To CHECK if your item can or cannot be recycled, simply use the <a href="/recycleright/check-my-item" rel="noopener noreferrer nofollow" target="_blank"><u>Recycling Search Engine</u></a>&nbsp;or
+<p>To CHECK if your item can or cannot be recycled, simply use the <a href="https://www.nea.gov.sg/recycling-search-engine/" rel="noopener noreferrer nofollow" target="_blank"><u>Recycling Search Engine</u></a>&nbsp;or
 check out the Bloobin’s<a href="/files/Recycle%20Right/recycling_guide_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> Recycling Guide</u></a> to
 seek his advice. He may also throw in a few helpful recycling tips!</p>
 <h3>WHAT HAPPENS AFTER RECYCLABLES ARE COLLECTED FROM HOUSING ESTATES?</h3>
