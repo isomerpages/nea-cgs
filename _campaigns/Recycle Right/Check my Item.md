@@ -15,7 +15,7 @@ third_nav_title: Recycle Right
 <p>Not sure how to start chatting with Bloobin? Watch the video below to
 find out!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JOuCV81K8Ng?si=Rca0yyeNLVOVPbwA"></iframe>
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JOuCV81K8Ng?si=Rca0yyeNLVOVPbwA"></iframe>
 </div>
 <p></p>
 <h2>Recycling Search Engine</h2>
