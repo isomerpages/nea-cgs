@@ -92,6 +92,9 @@ to 10 working days.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/NEA_Recycle_Right_Educational_KV_EM.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/NEA_Recycle_Right_Educational_KV_EM.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
