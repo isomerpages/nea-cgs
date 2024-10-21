@@ -83,7 +83,7 @@ to 10 working days.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/images/Recycle%20Right/Resources/NEA_Recycle_Right_Educational_KV_CT.jpg" rel="noopener noreferrer nofollow" target="_blank">Chinese and Tamil</a>
+<p><a href="/images/Recycle%20Right/Resources/NEA_Recycle_Right_Educational_KV_CT_png" rel="noopener noreferrer nofollow" target="_blank">Chinese and Tamil</a>
 </p>
 </td>
 </tr>
@@ -92,10 +92,16 @@ to 10 working days.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/NEA_Recycle_Right_Educational_KV_EM.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/NEA_Recycle_Right_Educational_KV_EM.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/NEA_Recycle_Right_Educational_KV_CT.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/NEA_Recycle_Right_Educational_KV_CT_png.jpg">
 </div>
 </td>
 </tr>
