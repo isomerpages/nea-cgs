@@ -79,11 +79,11 @@ to 10 working days.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/images/Recycle%20Right/Resources/NEA_Recycle_Right_Educational_KV_EM" rel="noopener noreferrer nofollow" target="_blank">English and Malay</a>
+<p><a href="/images/Recycle%20Right/Resources/NEA_Recycle_Right_Educational_KV_EM.png" rel="noopener noreferrer nofollow" target="_blank">English and Malay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/images/Recycle%20Right/Resources/NEA_Recycle_Right_Educational_KV_CT_png" rel="noopener noreferrer nofollow" target="_blank">Chinese and Tamil</a>
+<p><a href="/images/Recycle%20Right/Resources/NEA_Recycle_Right_Educational_KV_CT_png.jpg" rel="noopener noreferrer nofollow" target="_blank">Chinese and Tamil</a>
 </p>
 </td>
 </tr>
