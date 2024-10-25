@@ -184,9 +184,7 @@ of the following:</p>
 in the table above. Photographs for all activities must be submitted to
 NEA when the activities are completed.</p>
 <h4>Application</h4>
-<p>Kindly download the application form <a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/efs-application-form-24oct.docx" rel="noopener nofollow" target="_blank">here</a>
-<a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/efs-application-form-24oct.docx" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+<p>Kindly download the application form <a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/efs-application-form-24oct.docx" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Please contact Mr Alan Kua at 6731 9804 or email:&nbsp;<a href="mailto:kua_chun_houn@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kua_chun_houn@nea.gov.sg</a>&nbsp;if
 you have any questions or require additional information.</p>
 <p></p>
