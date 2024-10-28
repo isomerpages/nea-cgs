@@ -43,7 +43,7 @@ and the Environment &amp; Ministry of Transport</p>
 <p>Mr Clarence Ti, National University of Singapore, Deputy President (Administration)</p>
 </li>
 </ul>
-<h2>CGS Community Events 2024 </h2>
+<h2>CGS Community Events 2024</h2>
 <h4>ECO Paddle with Ola</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/Photo_1.jpg">
@@ -62,6 +62,12 @@ of ACE (FACE), Mount Faber Leisure Group, NEA Volunteer Corps, Public Hygiene
 Council, Sentosa Development Corporation, Singapore Paddle Club, and Soffell
 Singapore.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/Photo_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/Photo_3.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Clean-and-green_Tree-planting_1" src="/images/CGS 2023/CGS 2023/clean_and_green_tree_planting_1.jpg">
 </div>
