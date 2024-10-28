@@ -4,6 +4,70 @@ permalink: /what-we-do/cgs2023/sponsors-supporting-partners/
 variant: tiptap
 description: ""
 ---
+<h3>Organisers</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEA_Logo_Colour.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NParks_Logo_new_tagline_colour.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUS_logo_full_colour_RGB_horizontal_borderless.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SWCDC_Logo_FC_RGB_1080px.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sponsors and Supporting Partners" src="/images/CGS 2023/Sponsors &amp; Supporting Partners/cgs2023_microsite__sponsors_and_supporting_partners__01.jpg">
 </div><a class="isomer-image-wrapper" href="https://www.exxonmobil.com.sg/"><img style="width: 100%" height="auto" width="100%" alt="ExonMobil" src="/images/CGS 2023/Sponsors &amp; Supporting Partners/cgs2023_microsite__sponsors_and_supporting_partners__02.jpg"></a>
