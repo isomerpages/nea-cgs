@@ -2,8 +2,8 @@ collections:
   cgs-2023:
     output: true
     order:
-      - CGS Experiences.md
       - CGS 2024 Overview.md
+      - CGS Experiences.md
       - Awards/.keep
       - Awards/Community In Bloom Ambassadors Awards.md
       - Awards/Environmental Services Awards.md
@@ -17,9 +17,9 @@ collections:
       - "Eco Schools/Project ECO 2023 Public Health : Primary School.md"
       - "Eco Schools/Project ECO 2023 Public Health : Secondary School.md"
       - Eco Schools/4th asean eco school awards.md
+      - Exhibits/.keep
       - Exhibits/Keep Singapore Clean.md
       - Exhibits/Climate Change.md
-      - Exhibits/.keep
       - Exhibits/Clean Public Toilets.md
       - Exhibits/Dengue Prevention.md
       - Exhibits/Recycle Right.md
