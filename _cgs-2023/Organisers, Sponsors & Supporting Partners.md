@@ -149,7 +149,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Gain_City_page_0001.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Gain_City_page_0001.jpg">
 </div>
 </th>
 </tr>
@@ -237,7 +237,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Ola_Beach_Club.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Ola_Beach_Club.png">
 </div>
 </td>
 </tr>
