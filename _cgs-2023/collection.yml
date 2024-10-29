@@ -2,7 +2,6 @@ collections:
   cgs-2023:
     output: true
     order:
-      - Campaigns.md
       - CGS Day 2024.md
       - CGS 2024 Overview.md
       - CGS Experiences.md
@@ -18,6 +17,7 @@ collections:
       - "Eco Schools/Project ECO 2023 Public Health : Primary School.md"
       - "Eco Schools/Project ECO 2023 Public Health : Secondary School.md"
       - Eco Schools/4th asean eco school awards.md
+      - Campaigns.md
       - Exhibits/.keep
       - Exhibits/Keep Singapore Clean.md
       - Exhibits/Climate Change.md
