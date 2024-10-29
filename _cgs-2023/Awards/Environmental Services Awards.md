@@ -405,16 +405,4 @@ to upskill. In 2024, 390 ES employees received the ES Achievement Award.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_01_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_01_v2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_05_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_05_v2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_10_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_10_v2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Awards/footer_3.jpg">
-</div>
 <p></p>
