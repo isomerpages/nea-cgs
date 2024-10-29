@@ -92,4 +92,37 @@ stakeholders who have contributed to e-waste management.</p>
 </div>
 <h4>Community Clean Up @ Upper Boon Keng</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07432.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07262.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/v2.jpg">
+</div>
+<p>On 19 October 2024, the Upper Boon Keng community came together for a
+remarkable display of civic responsibility and environmental stewardship
+at the Community Clean Up @ Upper Boon Keng. Held at the Upper Boon Keng
+Market &amp; Food Centre, the event saw 50 dedicated volunteers from diverse
+backgrounds united in their commitment to a Clean &amp; Green Singapore.</p>
+<p>Senior Minister of State for the Ministry of Sustainability and the Environment,
+Dr. Koh Poh Koon, and Minister for the Ministry of Digital Development
+and Information, Josephine Teo, who also serves as the Adviser to Kolam
+Ayer Grassroots Organisations (GROs), led by example by joining enthusiastic
+volunteers in their efforts to keep the neighbourhood clean.</p>
+<p>The event brought together a cross-section of society, including SG Clean
+Ambassadors, Kolam Ayer GROs, migrant workers from MOM-ACE, and representatives
+from the Federation of Merchants' Associations Singapore (FMAS) and Kao
+Singapore. Their collective efforts not only improved the area's cleanliness
+but also served as a visible reminder of the importance of maintaining
+public spaces.</p>
+<p>A highlight of the event was the distribution of Magiclean disinfectants,
+generously sponsored by Kao Singapore, to the hawkers at Upper Boon Keng
+Market &amp; Food Centre. This initiative emphasised the significance of
+good hygiene practices in the food and beverage industry.</p>
+<p>The Community Clean Up @ Upper Boon Keng exemplifies the Singapore spirit,
+showcasing what can be achieved when communities unite for a common purpose:
+to create a Clean &amp; Green Singapore for everyone.</p>
+<p></p>
 <p></p>
