@@ -304,7 +304,6 @@ to upskill. In 2024, 390 ES employees received the ES Achievement Award.</p>
 <p></p>
 <p><strong>ES Star Awards (Operations Support)</strong>
 </p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
