@@ -74,7 +74,6 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Coca_Cola_SIMA_Logo__Latest__01_1.png">
 </div>
@@ -92,7 +91,6 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Soffell_Logo_PNG_preview.png">
 </div>
@@ -137,6 +135,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/ALBA_logo.jpg">
 </div>
@@ -150,7 +149,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Gain_City_page_0001.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Gain_City_page_0001.jpg">
 </div>
 </th>
 </tr>
@@ -176,13 +175,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/GB_Logo_4C.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/GB_Logo_4C.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Jalan_Besar_Boon_Keng_Ville_RN__insert_this___PA_logo_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Jalan_Besar_Boon_Keng_Ville_RN__insert_this___PA_logo_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -226,19 +225,19 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/mycommunity_logo.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/mycommunity_logo.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/NUS_Cities_Multi_01__1_.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/NUS_Cities_Multi_01__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Ola_Beach_Club.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Ola_Beach_Club.png">
 </div>
 </td>
 </tr>
@@ -263,11 +262,13 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/PAssion_Wave.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/PHC_LOGO_FINAL_RGB.jpg">
@@ -279,6 +280,7 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Signify_Logo_1.png">
@@ -311,7 +313,6 @@ description: ""
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/SK_tes_Communication_R_O.png">
 </div>
