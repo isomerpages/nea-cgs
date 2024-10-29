@@ -71,12 +71,21 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Coca_Cola_SIMA_Logo__Latest__01_1.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/exmo_red11.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/E_Kao_Wordmark_Slogan_Arc_Green_RGB.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
