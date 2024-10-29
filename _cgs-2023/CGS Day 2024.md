@@ -97,12 +97,6 @@ stakeholders who have contributed to e-waste management.</p>
 <h4>Community Clean Up @ Upper Boon Keng</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07432.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07262.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/v2.jpg">
 </div>
 <p>On 19 October 2024, the Upper Boon Keng community came together for a
@@ -129,11 +123,17 @@ good hygiene practices in the food and beverage industry.</p>
 showcasing what can be achieved when communities unite for a common purpose:
 to create a Clean &amp; Green Singapore for everyone.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07432.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC07262.jpg">
+</div>
+<h4>Race to Sustainability! 2024</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/1__Flag_Off__DSC08069_.jpg">
 </div>
-<h4>Race to Sustainability! 2024</h4>
 <p></p>
 <p>On 23 October 2024, Gardens by the Bay hosted its flagship educational
 programme, Race to Sustainability! This year’s theme centres on exploring
