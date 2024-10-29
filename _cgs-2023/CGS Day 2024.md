@@ -68,6 +68,30 @@ Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/Photo_3.jpg">
 </div>
+<h4>International E-Waste Day 2024 (IEWD)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+</div>
+<p>The theme for International E-Waste Day (IEWD) 2024 is on Data Security,
+with the tagline “Secure e-waste recycling: Let’s make a difference together”.</p>
+<p>Co-organised by the National Environment Agency and ALBA E-Waste Smart
+Recycling, the appointed operator of the Producer Responsibility Scheme
+for E-Waste, this year’s event was held on 13 October 2024 at Westgate
+Mall. Dr Amy Khor, Senior Minister of State for Sustainability and the
+Environment was the Guest of Honour for this event.</p>
+<p>IEWD 2024 was organised to raise public awareness on e-waste recycling
+and to encourage members of public to recycle their e-waste. It also served
+as a platform to recognise and celebrate the efforts and support from various
+stakeholders who have contributed to e-waste management.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Clean-and-green_Tree-planting_1" src="/images/CGS 2023/CGS 2023/clean_and_green_tree_planting_1.jpg">
 </div>
