@@ -40,9 +40,56 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/" rel="noopener nofollow" target="_blank">NEA</a>
+<p><a href="https://www.nea.gov.sg/" rel="noopener nofollow" target="_blank">National Environment Agency</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nparks.gov.sg/" rel="noopener nofollow" target="_blank">National Parks Board</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://nus.edu.sg/" rel="noopener nofollow" target="_blank">National University of Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://southwest.cdc.gov.sg/" rel="noopener nofollow" target="_blank">South West Community Development Council </a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Sponsors</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
