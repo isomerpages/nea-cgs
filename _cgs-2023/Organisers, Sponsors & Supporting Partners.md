@@ -52,7 +52,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://southwest.cdc.gov.sg/" rel="noopener nofollow" target="_blank">South West Community Development Council </a>
+<p><a href="https://southwest.cdc.gov.sg/" rel="noopener nofollow" target="_blank">South West Community Development Council</a>
 </p>
 </td>
 </tr>
