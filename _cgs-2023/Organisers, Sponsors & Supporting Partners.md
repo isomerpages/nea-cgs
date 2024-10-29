@@ -92,7 +92,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kao.com/sg/index.html" rel="noopener nofollow" target="_blank">Kao Singapore Pte. Ltd.</a>
+<p><a href="https://www.kao.com/sg/index.html" rel="noopener nofollow" target="_blank">Kao Singapore Ptd. Ltd.</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
