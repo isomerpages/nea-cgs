@@ -130,3 +130,31 @@ showcasing what can be achieved when communities unite for a common purpose:
 to create a Clean &amp; Green Singapore for everyone.</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/1__Flag_Off__DSC08069_.jpg">
+</div>
+<h4>Race to Sustainability! 2024</h4>
+<p></p>
+<p>On 23 October 2024, Gardens by the Bay hosted its flagship educational
+programme, Race to Sustainability! This year’s theme centres on exploring
+sustainability through imagination and creative play and also supports
+the Year of Public Hygiene.</p>
+<p>Minister for Sustainability and the Environment, Ms Grace Fu, flagged
+off the Race to nearly 5,000 students from 20 schools. For the first time,
+Race to Sustainability! is also open to lower primary and tertiary students.</p>
+<p>Participants engaged in a variety of interactive activities designed to
+deepen their understanding of climate change and environmental stewardship.
+Students explored the Gardens, solving puzzles at various stations and
+learning about Singapore's efforts to balance development with environmental
+conservation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/2__Min_at_Interactive_Panel__DSC08207_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/3__NEA_Booth__IMG_20241023_WA0137_.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
