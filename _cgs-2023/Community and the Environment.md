@@ -4,8 +4,9 @@ permalink: /what-we-do/cgs2023/community-environment/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="07_Community The Environment" src="/images/CGS 2023/Community Environment/07_community_the_environment.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Top Banners/Microsite_Banner_Community.png">
 </div>
 <h3><strong>CENTRAL SINGAPORE DISTRICT</strong></h3>
 <p><strong>Project Earth</strong>
