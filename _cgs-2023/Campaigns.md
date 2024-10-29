@@ -4,6 +4,12 @@ permalink: /campaigns/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Top Banners/Microsite_Banner_Campaigns.png">
+</div>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
