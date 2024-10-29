@@ -397,8 +397,5 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sponsors and Supporting Partners" src="/images/CGS 2023/Sponsors &amp; Supporting Partners/cgs2023_microsite__sponsors_and_supporting_partners__01.jpg">
-</div>
 <p></p>
 <p></p>
