@@ -41,7 +41,4 @@ gardening movement.</p>
 </li>
 </ul>
 <p>For more information, please visit <a href="https://gardeningsg.nparks.gov.sg/page-index/programming/cib-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">https://gardeningsg.nparks.gov.sg/page-index/programming/cib-ambassadors/</a>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Awards/footer_3.jpg">
-</div>
 <p></p>
