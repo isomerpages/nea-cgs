@@ -87,8 +87,9 @@ stakeholders who have contributed to e-waste management.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5.jpg">
 </div>
-<p></p>
+<p>ommunity Clean Up @ Upper Boon KengCommuity Clean Up @ Uppe Boon Keng</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.jpg">
 </div>
+<p>Community Clean Up @ Upper Boon Keng</p>
 <p></p>
