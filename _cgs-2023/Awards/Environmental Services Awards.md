@@ -32,6 +32,150 @@ had demonstrated service excellence, had been promoted or recognised for
 long service by their employers, and possess a positive mindset and willingness
 to upskill. In 2024, 390 ES employees received the ES Achievement Award.</p>
 <p>Congratulations to all ES Awards recipients!</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/n</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Full Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Company</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Siew Huay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Agape Services Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Lingdi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Agape Services Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hussin Bin Mohd Zain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UEMS Solutions Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teo King Quay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UEMS Solutions Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Fatris Bin Abdullah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aardwolf Pestkare (S) Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Zaidy Iskandar Bin Yaszid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aardwolf Pestkare (S) Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Lay Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ikari Services Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Peng Soo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RE Sustainability Cleantech Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chai Chia Phin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RE Sustainability Cleantech Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ramlan Bin Nawawi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SembWaste Pte. Ltd.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Cheng Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainable Asset Management Solutions PTE LTD</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_01_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_01_v2.jpg">
 </div>
