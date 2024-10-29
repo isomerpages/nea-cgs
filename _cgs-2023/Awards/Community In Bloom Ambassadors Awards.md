@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Awards
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="04_Awards" src="/images/CGS 2023/Awards/04_awards.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Top Banners/Microsite_Banner_Awards.png">
 </div>
 <h3><strong>Community In Bloom Ambassadors Awards</strong></h3>
 <p>The CIB Ambassador Awards recognises individuals who promote the love
