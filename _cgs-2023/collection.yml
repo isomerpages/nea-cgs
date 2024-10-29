@@ -2,12 +2,12 @@ collections:
   cgs-2023:
     output: true
     order:
+      - CGS Day 2024.md
       - CGS 2024 Overview.md
       - CGS Experiences.md
       - Awards/.keep
       - Awards/Community In Bloom Ambassadors Awards.md
       - Awards/Environmental Services Awards.md
-      - CGS Day 2024.md
       - Community and the Environment.md
       - Eco Schools/.keep
       - "Eco Schools/Project ECO 2023 Environment Protection :  Primary
