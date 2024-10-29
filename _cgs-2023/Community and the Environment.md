@@ -78,7 +78,4 @@ South West District’s environmental initiatives!</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Footer_2" src="/images/CGS 2023/Community Environment/footer_2.jpg">
-</div>
 <p></p>
