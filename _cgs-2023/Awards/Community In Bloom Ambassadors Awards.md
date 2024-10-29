@@ -9,43 +9,38 @@ third_nav_title: Awards
 <img style="width: 100%" height="auto" width="100%" alt="04_Awards" src="/images/CGS 2023/Awards/04_awards.jpg">
 </div>
 <h3><strong>Community In Bloom Ambassadors Awards</strong></h3>
-<p>The National Parks Board’s (NParks) Community in Bloom (CIB) programme
-aims to promote a gardening culture among Singapore residents by encouraging
-and facilitating gardening efforts by the community. It is part of a larger
-effort to bring greenery and nature closer to the community which goes
-towards achieving NParks’ vision to transform Singapore into a City in
-Nature.</p>
-<p>Ambassadors are selected by a panel of judges comprising representatives
-from NParks, National Volunteer and Philanthropy Centre (NVPC), People’s
-Association (PA), and the Singapore Environment Council (SEC).</p>
-<p>Congratulations to the CIB Ambassadors appointed in 2023!</p>
+<p>The CIB Ambassador Awards recognises individuals who promote the love
+for gardening amongst the community through various initiatives such as
+outreach and facilitating gardening-based community projects.</p>
+<p></p>
+<p>Since its introduction in 2008, the Awards have celebrated the efforts
+of our volunteers going above and beyond in contributing to Singapore's
+gardening movement.</p>
+<p>Congratulations to the CIB Ambassadors appointed in 2024!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Julie Lim Mei Ying</p>
+<p>David Mong Keng Weng</p>
 </li>
 <li>
-<p>Elsie Chua Guek Muay</p>
+<p>Jewel Chang Xuan Ning</p>
 </li>
 <li>
-<p>Zhang Jing</p>
+<p>Lau Leng Leng, Nancy</p>
 </li>
 <li>
-<p>Rehna Mohammed Minhaj</p>
+<p>Selena Ang Lay Kim</p>
 </li>
 <li>
-<p>Jonathan Sim Wei Ming</p>
+<p>Tay Seng Tong Jon</p>
 </li>
 <li>
-<p>Fen Ng</p>
+<p>Toh Mei Xuan</p>
 </li>
 <li>
-<p>Tee Kok Chuan, PBM</p>
-</li>
-<li>
-<p>Chow Lai Kuen (Constance)</p>
+<p>Jason Tan Chuan Chuan</p>
 </li>
 </ul>
-<p>For more information, please visit <a href="https://go.gov.sg/cib-ambassadors" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cib-ambassadors</a>.</p>
+<p>For more information, please visit <a href="https://gardeningsg.nparks.gov.sg/page-index/programming/cib-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">https://gardeningsg.nparks.gov.sg/page-index/programming/cib-ambassadors/</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Awards/footer_3.jpg">
 </div>
