@@ -4,6 +4,10 @@ permalink: /what-we-do/cgs2024/cgs-2024/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Top Banners/Microsite_Banner_CGS24.png">
+</div>
 <h1>Clean &amp; Green Singapore Day 2024</h1>
 <h4>Launch of CleanPod and Clean-up at West Coast Park</h4>
 <p>This year’s Clean and Green Singapore (CGS) Day is hosted by the South
