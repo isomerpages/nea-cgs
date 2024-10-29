@@ -12,7 +12,6 @@ third_nav_title: Awards
 <p>The CIB Ambassador Awards recognises individuals who promote the love
 for gardening amongst the community through various initiatives such as
 outreach and facilitating gardening-based community projects.</p>
-<p></p>
 <p>Since its introduction in 2008, the Awards have celebrated the efforts
 of our volunteers going above and beyond in contributing to Singapore's
 gardening movement.</p>
