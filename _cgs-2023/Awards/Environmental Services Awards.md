@@ -33,6 +33,8 @@ long service by their employers, and possess a positive mindset and willingness
 to upskill. In 2024, 390 ES employees received the ES Achievement Award.</p>
 <p>Congratulations to all ES Awards recipients!</p>
 <p></p>
+<p><strong>ES Star Awards (Frontline)</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -175,33 +177,239 @@ to upskill. In 2024, 390 ES employees received the ES Achievement Award.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>ES Star Awards (Supervisory)</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Full Name&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Company</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Chiew Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Agape Services Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo Teing Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Agape Services Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Khor Hooi Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISS Facility Services Private Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Noorhuda binte Jasman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aardwolf Pestkare (S) Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Buck Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ikari Services Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Romaita Bin Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Verminator Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Kok Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KL Enviro PTE LTD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jegatheesh S/O Sandra Segaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SembWaste Pte. Ltd.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Wee Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SembWaste Pte. Ltd.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<p><strong>ES Star Awards (Operations Support)</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/n</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Full Name&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Company</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noor Azmi Bin Ranai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CBM Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lean Teng Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISS Facility Services Private Limited</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Loo Siew Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>UEMS Solutions Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liew Xin Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aardwolf Pestkare (S) Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wayne Lee Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ikari Services Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kee Kai Shing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Verminator Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charlotte Lim Zhi Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sembcorp Environment Pte. Ltd.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_01_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_01_v2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental Services Workforce Day" src="/images/CGS 2023/Awards/environmental_services_workforce_day_02.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_03_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_03_v2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental Services Workforce Day" src="/images/CGS 2023/Awards/environmental_services_workforce_day_04.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_05_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_05_v2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental Services Workforce Day" src="/images/CGS 2023/Awards/environmental_services_workforce_day_06.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental Services Workforce Day" src="/images/CGS 2023/Awards/environmental_services_workforce_day_07.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental Services Workforce Day" src="/images/CGS 2023/Awards/environmental_services_workforce_day_08.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environmental Services Workforce Day" src="/images/CGS 2023/Awards/environmental_services_workforce_day_09_r1.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_10_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_10_v2.jpg">
