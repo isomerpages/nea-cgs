@@ -115,12 +115,18 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Abraclean_Logo_1.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Dettol_Logo.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -147,6 +153,9 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/GB_Logo_4C.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -288,6 +297,9 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/FMAS_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
