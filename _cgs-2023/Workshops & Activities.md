@@ -4,9 +4,12 @@ permalink: /what-we-do/cgs2023/workshops-activities/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Workshops Activities" src="/images/CGS 2023/Workshops &amp; Activities/08_workshops_activities.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Top Banners/Microsite_Banner_Workshops.png">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/X5mcn-tY-qQ" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workshop: Upcycled local toys by Didier Ng" src="/images/CGS 2023/Workshops &amp; Activities/workshopsv5_resized__08_tmb_ze_250_250.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workshop: Upcycled local toys by Didier Ng</div><div class="isomer-card-description">Supported by National Arts Council</div><div class="isomer-card-link">Play Video</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://youtu.be/kEEbrdkYsXI" class="isomer-card">
 <div class="isomer-card-image">
