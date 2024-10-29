@@ -16,12 +16,12 @@ and excellence of ES companies and employees. Supported by the Environmental
 Management Association of Singapore (EMAS), Waste Management &amp; Recycling
 Association of Singapore (WMRAS), Singapore Pest Management Association
 (SPMA), and National Trades Union Congress (NTUC), the ES Awards comprises
-two awards – the ES Star Award and the ES Achievement Award (previously
+of two awards – the ES Star Award and the ES Achievement Award (previously
 known as Certificate of Excellence).</p>
 <p>The ES Star Award recognises the commitment, work excellence, and contributions
 of exemplary ES employees across the ES industry (comprising cleaning services,
 waste management, and pest management sectors) in three categories (frontline,
-supervisory, and operations support). In 2023, 27 individuals received
+supervisory, and operations support). In 2024, 27 individuals received
 the ES Star Award and were exemplary for demonstrating exceptional service
 excellence, good teamwork and leadership, a proactive attitude to upskilling
 themselves, and outstanding contributions to innovation, productivity and
@@ -30,8 +30,7 @@ environmental sustainability, in their profession.</p>
 commitment and exemplary work performance. Recipients include those who
 had demonstrated service excellence, had been promoted or recognised for
 long service by their employers, and possess a positive mindset and willingness
-to upskill. &nbsp;In 2023, 352 ES employees received the ES Achievement
-Award.</p>
+to upskill. In 2024, 390 ES employees received the ES Achievement Award.</p>
 <p>Congratulations to all ES Awards recipients!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Environmental-Services-Workforce-Day_01_v2" src="/images/CGS 2023/Awards/environmental_services_workforce_day_01_v2.jpg">
