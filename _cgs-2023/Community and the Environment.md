@@ -18,8 +18,9 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/central_CDC.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CGS 2023/central_CDC.png">
 </div>
 </th>
 <td rowspan="1" colspan="1">
@@ -31,7 +32,7 @@ Central District’s environmental initiatives!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/North_East_CDC_Logo.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CGS 2023/North_East_CDC_Logo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,8 +43,9 @@ North East District’s environmental initiatives!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/NWCDC_Logo_Colour_high_res.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CGS 2023/NWCDC_Logo_Colour_high_res.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +55,6 @@ North West District’s environmental initiatives!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/SECDC17_logo_FA_colour.jpg">
 </div>
@@ -66,8 +67,9 @@ South East District’s environmental initiatives!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/SWCDC_Logo_FC_RGB_1080px.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CGS 2023/SWCDC_Logo_FC_RGB_1080px.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
