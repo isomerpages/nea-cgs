@@ -18,21 +18,25 @@ Management Association of Singapore (EMAS), Waste Management &amp; Recycling
 Association of Singapore (WMRAS), Singapore Pest Management Association
 (SPMA), and National Trades Union Congress (NTUC), the ES Awards comprises
 of two awards – the ES Star Award and the ES Achievement Award (previously
-known as Certificate of Excellence).</p>
-<p>The ES Star Award recognises the commitment, work excellence, and contributions
+known as Certificate of Excellence).
+<br>
+<br>The ES Star Award recognises the commitment, work excellence, and contributions
 of exemplary ES employees across the ES industry (comprising cleaning services,
 waste management, and pest management sectors) in three categories (frontline,
 supervisory, and operations support). In 2024, 27 individuals received
 the ES Star Award and were exemplary for demonstrating exceptional service
 excellence, good teamwork and leadership, a proactive attitude to upskilling
 themselves, and outstanding contributions to innovation, productivity and
-environmental sustainability, in their profession.</p>
-<p>The ES Achievement Award recognises ES employees for their contributions,
+environmental sustainability, in their profession.
+<br>
+<br>The ES Achievement Award recognises ES employees for their contributions,
 commitment and exemplary work performance. Recipients include those who
 had demonstrated service excellence, had been promoted or recognised for
 long service by their employers, and possess a positive mindset and willingness
-to upskill. In 2024, 390 ES employees received the ES Achievement Award.</p>
-<p>Congratulations to all ES Awards recipients!</p>
+to upskill. &nbsp;In 2024, 390 ES employees received the ES Achievement
+Award.
+<br>
+<br>Congratulations to all ES Awards recipients!</p>
 <p></p>
 <p><strong>ES Star Awards (Frontline)</strong>
 </p>
