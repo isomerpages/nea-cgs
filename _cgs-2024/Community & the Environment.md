@@ -20,8 +20,9 @@ description: ""
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CGS 2023/central_CDC.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CGS 2023/central_CDC.png">
 </div>
+<p></p>
 </th>
 <td rowspan="1" colspan="1">
 <p><a href="https://centralsingapore.cdc.gov.sg/programmes/wellness-and-sustainability/physicalwellness-sustainability" rel="noopener nofollow" target="_blank">Find out more </a>about
@@ -32,8 +33,9 @@ Central District’s environmental initiatives!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/CGS 2023/North_East_CDC_Logo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CGS 2023/North_East_CDC_Logo.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://northeast.cdc.gov.sg/programmes/sustainability/north-east-green-adventure/" rel="noopener nofollow" target="_blank">Find out more </a>about
@@ -47,6 +49,7 @@ North East District’s environmental initiatives!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CGS 2023/NWCDC_Logo_Colour_high_res.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/sustainable-main-page" rel="noopener nofollow" target="_blank">Find out more </a>about
