@@ -12,11 +12,11 @@ third_nav_title: Awards
 <h3><strong>Community In Bloom Ambassadors Awards</strong></h3>
 <p>The CIB Ambassador Awards recognises individuals who promote the love
 for gardening amongst the community through various initiatives such as
-outreach and facilitating gardening-based community projects.</p>
-<p>Since its introduction in 2008, the Awards have celebrated the efforts
-of our volunteers going above and beyond in contributing to Singapore's
-gardening movement.</p>
-<p>Congratulations to the CIB Ambassadors appointed in 2024!</p>
+outreach and facilitating gardening-based community projects. Since its
+introduction in 2008, the Awards have celebrated the efforts of our volunteers
+going above and beyond in contributing to Singapore's gardening movement.
+<br>
+<br>Congratulations to the CIB Ambassadors appointed in 2024!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>David Mong Keng Weng</p>
