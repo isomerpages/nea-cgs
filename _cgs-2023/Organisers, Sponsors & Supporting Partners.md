@@ -174,14 +174,18 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/GB_Logo_4C.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Jalan_Besar_Boon_Keng_Ville_RN__insert_this___PA_logo_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/PA_Logo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
