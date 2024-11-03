@@ -1,6 +1,6 @@
 ---
 title: Organisers, Sponsors & Supporting Partners
-permalink: /what-we-do/cgs2023/sponsors-supporting-partners/
+permalink: /what-we-do/cgs2024/sponsors-supporting-partners/
 variant: tiptap
 description: ""
 ---
