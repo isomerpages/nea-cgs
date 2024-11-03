@@ -1,5 +1,5 @@
 collections:
-  cgs-2023:
+  cgs-2024:
     output: true
     order:
       - CGS Day 2024.md
