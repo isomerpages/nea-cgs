@@ -1,6 +1,6 @@
 ---
 title: Community In Bloom Ambassadors Awards
-permalink: /what-we-do/cgs2023/awards/community-in-bloom-ambassador-awards/
+permalink: /what-we-do/cgs2024/awards/community-in-bloom-ambassador-awards/
 variant: tiptap
 description: ""
 third_nav_title: Awards

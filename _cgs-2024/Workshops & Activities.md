@@ -1,6 +1,6 @@
 ---
 title: Workshops & Activities
-permalink: /what-we-do/cgs2023/workshops-activities/
+permalink: /what-we-do/cgs2024/workshops-activities/
 variant: tiptap
 description: ""
 ---

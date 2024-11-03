@@ -1,6 +1,6 @@
 ---
 title: CGS Experiences
-permalink: /cgs-experiences/
+permalink: /cgs2024/cgs-experiences/
 variant: tiptap
 description: ""
 ---

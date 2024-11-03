@@ -1,6 +1,6 @@
 ---
 title: Campaigns
-permalink: /campaigns/
+permalink: /cgs2024/campaigns/
 variant: tiptap
 description: ""
 ---

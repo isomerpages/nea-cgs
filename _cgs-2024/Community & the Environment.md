@@ -1,6 +1,6 @@
 ---
 title: Community & the Environment
-permalink: /what-we-do/cgs2023/community-environment/
+permalink: /what-we-do/cgs2024/community-environment/
 variant: tiptap
 description: ""
 ---
