@@ -10,6 +10,79 @@ description: ""
 </div>
 <p></p>
 <h2>CGS Community Events 2024</h2>
+<p></p>
+<p><strong><u>Launch of CleanPod and Clean-up at West Coast Park</u></strong>
+</p>
+<p>This year’s Clean and Green Singapore (CGS) Day is hosted by the South
+West Community Development Council (CDC) and held in partnership with National
+University of Singapore (NUS).</p>
+<p></p>
+<p>In support of 2024 as the Year of Public Hygiene, CGS Day this year was
+kickstarted with the opening of a new Public Hygiene Council (PHC) CleanPod
+at West Coast Park, by Guest of Honour, Deputy Prime Minister (DPM) Heng
+Swee Keat, together with Senior Minister of State, Ministry of Community,
+Culture and Youth and Ministry of Trade and Industry, Mayor of South West
+District Ms Low Yen Ling. CleanPods are sheds located across parks, beaches,
+and housing estates, where the public can access litter-picking tools such
+as tongs and pails, to organise their own community clean-ups. DPM Heng
+and Mayor Low joined residents, local grassroots, PA Youth Movement and
+NUS student volunteers in putting the new CleanPod to immediate use, with
+a community clean-up of the park.</p>
+<p></p>
+<p>They were joined by:</p>
+<p>• Ms Grace Fu, Minister for Sustainability and the Environment and Minister-in-charge
+of Trade Relations</p>
+<p>• Mr Desmond Lee, Minister for National Development &amp; Minister-in-charge
+of Social Services Integration</p>
+<p>• Dr Amy Khor, Senior Minister of State, Ministry of Sustainability and
+the Environment &amp; Ministry of Transport</p>
+<p>• Mr Baey Yam Keng, Senior Parliamentary Secretary, Ministry of Sustainability
+and the Environment &amp; Ministry of Transport</p>
+<p>• Mr Don Wee, Adviser to Chua Chu Kang GRC Grassroots Organisations (Brickland)</p>
+<p>• Ms Rachel Ong, Adviser to Telok Blangah Grassroots Organisations</p>
+<p>• Mr Andrew Khng, Chairman of the Public Hygiene Council (PHC)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/image010.jpg">
+</div>
+<p><strong><u>Tree Planting</u></strong>
+</p>
+<p>Under the OneMillionTrees Movement by National Parks Board (NParks), NUS
+has committed to planting 100,000 trees on their campus by 2030. DPM Heng,
+together with Mayor Low, joined NUS staff and students to plant the 50,000th
+tree, bringing NUS to the halfway mark of their goal. The tree planted
+this year is <em>Margaritaria indica</em>, with an existing individual in
+NUS campus listed as a Heritage Tree in Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/image017.jpg">
+</div>
+<p><strong><u>Environmental Services Star and Community-In-Bloom Ambassador Awards Ceremony</u></strong>
+</p>
+<p>To recognise the efforts of individuals and Environmental Services employees
+who have made exceptional efforts in caring for Singapore’s environment,
+DPM Heng also presented the Environmental Services Star Awards and the
+Community-In-Bloom Ambassador Awards. These awards celebrate the outstanding
+achievements and inspiring environmental contributions of individuals in
+creating a Clean, Green and sustainable Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/image020.jpg">
+</div>
+<p><strong><u>Exhibition Showcase</u></strong>
+</p>
+<p>South West CDC showcased a series of programmes and initiatives such as
+Clean Up @ South West, Green Spaces @ South West, Young Technopreneur Challenge
+and Sustainability Living Testbed Initiative under the Sustainable South
+West Masterplan.</p>
+<p></p>
+<p>NUS showcased efforts towards a biophilic and Zero Waste Campus supporting
+<a href="https://sustainability.nus.edu.sg/campus-sustainability/" rel="nofollow noopener noreferrer" target="_blank"><u>Campus Sustainability Roadmap 2030</u>
+</a>.&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/image021.jpg">
+</div>
 <h4>ECO Paddle with Ola</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/Photo_1.jpg">
