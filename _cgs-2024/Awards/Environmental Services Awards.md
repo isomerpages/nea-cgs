@@ -37,7 +37,8 @@ to upskill. &nbsp;In 2024, 390 ES employees received the ES Achievement
 Award.
 <br>
 <br>Congratulations to all ES Awards recipients!</p>
-<p></p>
+<p><a href="/files/Environmental_Services_Awards_2024_Winners.pdf" rel="noopener nofollow" target="_blank">Environmental Services Awards 2024 Winners</a>
+</p>
 <p><strong>ES Star Awards (Frontline)</strong>
 </p>
 <table style="minWidth: 75px">

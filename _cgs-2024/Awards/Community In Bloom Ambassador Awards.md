@@ -1,5 +1,5 @@
 ---
-title: Community In Bloom Ambassadors Awards
+title: Community In Bloom Ambassador Awards
 permalink: /what-we-do/cgs2024/awards/community-in-bloom-ambassador-awards/
 variant: tiptap
 description: ""
@@ -9,7 +9,7 @@ third_nav_title: Awards
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Top Banners/Microsite_Banner_Awards.png">
 </div>
-<h3><strong>Community In Bloom Ambassadors Awards</strong></h3>
+<h3><strong>Community In Bloom Ambassador Awards</strong></h3>
 <p>The CIB Ambassador Awards recognises individuals who promote the love
 for gardening amongst the community through various initiatives such as
 outreach and facilitating gardening-based community projects. Since its
