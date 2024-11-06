@@ -43,7 +43,7 @@ and the Environment &amp; Ministry of Transport</p>
 <p>• Mr Andrew Khng, Chairman of the Public Hygiene Council (PHC)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/image010.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Pic_2_min.jpg">
 </div>
 <p><strong><u>Tree Planting</u></strong>
 </p>
@@ -55,7 +55,7 @@ this year is <em>Margaritaria indica</em>, with an existing individual in
 NUS campus listed as a Heritage Tree in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/image017.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Pic_3_min.jpg">
 </div>
 <p><strong><u>Environmental Services Star and Community-In-Bloom Ambassador Awards Ceremony</u></strong>
 </p>
@@ -67,7 +67,7 @@ achievements and inspiring environmental contributions of individuals in
 creating a Clean, Green and sustainable Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/image020.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Pic_5_min.jpg">
 </div>
 <p><strong><u>Exhibition Showcase</u></strong>
 </p>
@@ -81,7 +81,7 @@ West Masterplan.</p>
 </a>.&nbsp;&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/image021.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Pic_9_min.jpg">
 </div>
 <h4>ECO Paddle with Ola</h4>
 <div class="isomer-image-wrapper">
