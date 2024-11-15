@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Scam Alert" src="/images/Contest%20tcs/scam_alert.png">
 </div>
-<p><strong> #SustainaGramSG: Phone OFF (Nov 2024) Contest T&amp;Cs&nbsp;<br><br>Prize:</strong> Corgiyolk
+<p><strong>#SustainaGramSG: Phone OFF (Nov 2024) Contest T&amp;Cs&nbsp;<br><br>Prize:</strong> Corgiyolk
 Lunch Box and Hippoandpiggi Thermal Mug&nbsp; <strong>[1 winner]<br><br>Terms &amp; Conditions</strong>
 </p>
 <ul data-tight="true" class="tight">
