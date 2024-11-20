@@ -53,7 +53,7 @@ each time you use the toilet!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A4 Poster (English and Malay)</strong>
+<p><strong>A4 Poster (Chinese and Tamil)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/02.png">
