@@ -35,10 +35,7 @@ each time you use the toilet!</p>
 <li>
 <p><strong>Bin</strong> litter properly&nbsp;</p>
 </li>
-</ul><a class="isomer-image-wrapper" href="https://go.gov.sg/letsbenice"><img style="width: 30%;" height="auto" width="100%" alt="Pledge Now" src="/images/Keep SG Clean/Clean Public Toilets/pledge_now.png"></a>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/letsbenice">
-<img style="width: 30%;" height="auto" width="100%" alt="Play Now" src="/images/Keep SG Clean/Clean Public Toilets/play_now.png">
-</a>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -48,13 +45,19 @@ each time you use the toilet!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>A4 Poster (English and Malay)</strong>
-</p><a class="isomer-image-wrapper" href="/files/Keep%20SG%20Clean/nea_cpt_a4_poster_fa_em_compressed.pdf"><img style="width: 50%;" height="auto" width="100%" alt="(Eng + Malay) NEA CPT_A4 Poster" src="/images/Keep SG Clean/Clean Public Toilets/eng_malay__nea_cpt_a4_poster_tmb_medium.jpg"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01.png">
+</div>
 <p><em>Click on image to view</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>A4 Poster (English and Malay)</strong>
-</p><a class="isomer-image-wrapper" href="/files/Keep%20SG%20Clean/nea_cpt_a4_poster_fa_ct_compressed.pdf"><img style="width: 50%;" height="auto" width="100%" alt="(Chi + Tamil) NEA CPT_A4 Poster" src="/images/Keep SG Clean/Clean Public Toilets/chi_tamil__nea_cpt_a4_poster_tmb_medium.jpg"></a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02.png">
+</div>
 <p><em>Click on image to view</em>
 </p>
 </td>
