@@ -15,7 +15,7 @@ sections:
       title: Everyone wins when our toilets are clean
       background: /images/241121_NEA_Clean_Toilets_C_GS_Website_Banner_R2_1.png
       button: Find out more
-      url: https://www.cgs.gov.sg/what-we-do/keepsgclean/cleanerpublictoilets/home/
+      url: https://www.cgs.gov.sg/what-we-do/keepsgclean/cleanpublictoilets/home/
       key_highlights:
         - title: Year of Public Hygiene
           description: Let's keep Singapore clean!
