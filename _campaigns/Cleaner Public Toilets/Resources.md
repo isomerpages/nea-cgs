@@ -35,6 +35,21 @@ third_nav_title: Cleaner Public Toilets
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Action stickers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="/images/keep%sg%clean/clean%public%toilets/241113_NEA_Toilet_Stickers_FA_01.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_01.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/images/keep%sg%clean/clean%public%toilets/241113_NEA_Toilet_Stickers_FA_04.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_04.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_02.png">
+</div>
+<p></p><a class="isomer-image-wrapper" href="/images/keep%sg%clean/clean%public%toilets/241113_NEA_Toilet_Stickers_FA_02.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_03.png"></a>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
