@@ -20,18 +20,18 @@ public health and improving everyone's well-being.</p>
 (<strong>Clean, Flush, Dry and Bin</strong>) each time you use the toilet:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keep the toilet seats <strong>clean</strong>
+<p>Keep the toilet seats <strong>CLEAN</strong>
 </p>
 </li>
 <li>
-<p><strong>Flush</strong> toilet fully</p>
+<p><strong>FLUSH</strong> toilet fully</p>
 </li>
 <li>
-<p>Keep the floor <strong>dry</strong>
+<p>Keep the floor <strong>DRY</strong>
 </p>
 </li>
 <li>
-<p><strong>Bin</strong> litter properly&nbsp;</p>
+<p><strong>BIN</strong> litter properly&nbsp;</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
