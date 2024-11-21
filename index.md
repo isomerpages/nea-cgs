@@ -13,7 +13,7 @@ notification: "[SCAM ALERT] Beware of scammers impersonating NEA, or Clean &
 sections:
   - hero:
       title: Everyone wins when our toilets are clean
-      background: /images/241119_NEA_Clean_Toilets_C_GS_Website_Banner_R1.png
+      background: /images/241121_NEA_Clean_Toilets_C_GS_Website_Banner_R2_1.png
       button: Find out more
       url: https://www.cgs.gov.sg/what-we-do/keepsgclean/cleanerpublictoilets/home/
       key_highlights:

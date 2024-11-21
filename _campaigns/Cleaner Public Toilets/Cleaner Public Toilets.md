@@ -6,34 +6,32 @@ description: ""
 third_nav_title: Cleaner Public Toilets
 ---
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aGgerZobzms"></iframe>
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Nzsm_xo7rgI?si=GsiEwxenCCqLaxdd"></iframe>
 </div>
-<p>This year's campaign aims to raise cleanliness and hygiene standards of
-public toilets by entrenching good toilet habits&nbsp;as a social norm.
-With the slogan "<strong><em>Are you nice when no one is around?"</em></strong><em>, </em>the
-campaign draws parallels to practising acts of kindness without reward
-and recognition and nudges people to be more aware of their actions behind
-the closed doors of the toilet cubicle.</p>
-<p>To be truly nice, is to do the nice things even when no one’s around.</p>
-<p>Let’s be socially responsible&nbsp;in keeping public toilets clean and
-pleasant for the next user, as clean public toilets play an important role
-in contributing to good public health and hygiene.</p>
-<p>Practise the four clean toilet actions (<strong>Clean, Flush, Dry and Bin</strong>)
-each time you use the toilet!</p>
+<p>Imagine stepping into a clean public toilet and knowing exactly what winning
+feels like! Our slogan for this year’s campaign, <strong><em>“Everyone wins when our toilets are clean!”</em></strong>,
+champions the idea that maintaining clean toilets is a team effort where
+everyone comes out a winner. When we all play our part, every toilet visit
+becomes a victory for everyone!</p>
+<p>Join our winning streak by keeping public toilets clean and pleasant.
+We're not just scoring points for good hygiene; we're contributing to better
+public health and improving everyone's well-being.</p>
+<p>You can be a champion of cleanliness by doing these 4 winning actions
+(<strong>Clean, Flush, Dry and Bin</strong>) each time you use the toilet:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keep the toilet seats <strong>clean</strong>
+<p>Keep the toilet seats <strong>CLEAN</strong>
 </p>
 </li>
 <li>
-<p><strong>Flush</strong> toilet fully</p>
+<p><strong>FLUSH</strong> toilet fully</p>
 </li>
 <li>
-<p>Keep the floor <strong>dry</strong>
+<p>Keep the floor <strong>DRY</strong>
 </p>
 </li>
 <li>
-<p><strong>Bin</strong> litter properly&nbsp;</p>
+<p><strong>BIN</strong> litter properly&nbsp;</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
