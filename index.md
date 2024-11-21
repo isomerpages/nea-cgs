@@ -30,9 +30,8 @@ sections:
       size: sm
       backgroundColor: white
       alignment: right
-      subtitle: Adopt clean toilet habits for a healthier, happier community.
-        Together, let’s make clean toilets a shared responsibility and social
-        norm
+      subtitle: Scoring a clean toilet is easier when everyone plays their part. Let’s
+        make cleaner toilets a sure-win for all!
   - infocols:
       title: Clean & Green Singapore (CGS)
       subtitle: About
