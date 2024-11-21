@@ -30,6 +30,9 @@ sections:
       size: sm
       backgroundColor: white
       alignment: right
+      subtitle: Adopt clean toilet habits for a healthier, happier community.
+        Together, let’s make clean toilets a shared responsibility and social
+        norm
   - infocols:
       title: Clean & Green Singapore (CGS)
       subtitle: About
