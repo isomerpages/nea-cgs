@@ -12,12 +12,10 @@ notification: "[SCAM ALERT] Beware of scammers impersonating NEA, or Clean &
   https://scamalert.sg/ for more advice."
 sections:
   - hero:
-      title: Bloobin needs your help
-      subtitle: Save Bloobin from contaminants by checking if your item is recyclable
-        using the Bloobin AI Chatbot on WhatsApp or Telegram.
-      background: /images/Recycle Right/CGS_RR2024_Website_Banner.png
-      button: Chat Now!
-      url: https://www.cgs.gov.sg/recycleright/check-my-item/
+      title: Everyone wins when our toilets are clean
+      background: /images/241119_NEA_Clean_Toilets_C_GS_Website_Banner_R1.png
+      button: Find out more
+      url: https://www.cgs.gov.sg/what-we-do/keepsgclean/cleanerpublictoilets/home/
       key_highlights:
         - title: Year of Public Hygiene
           description: Let's keep Singapore clean!
@@ -32,6 +30,9 @@ sections:
       size: sm
       backgroundColor: white
       alignment: right
+      subtitle: Adopt clean toilet habits for a healthier, happier community.
+        Together, let’s make clean toilets a shared responsibility and social
+        norm
   - infocols:
       title: Clean & Green Singapore (CGS)
       subtitle: About
