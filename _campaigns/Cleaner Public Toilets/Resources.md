@@ -44,7 +44,7 @@ third_nav_title: Cleaner Public Toilets
 <p></p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/241113_NEA_Toilet_Stickers_FA_01.png"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_01.png"></a>
 <p></p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/241113_NEA_Toilet_Stickers_FA_04.png"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_04.png"></a>
 <p></p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/241113_NEA_Toilet_Stickers_FA_02.png"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_02.png"></a>
-<p></p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/241113_NEA_Toilet_Stickers_FA_02.png"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_03.png"></a>
+<p></p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/241113_NEA_Toilet_Stickers_FA_03.png"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241113_NEA_Toilet_Stickers_FA_03.png"></a>
 </td>
 </tr>
 </tbody>
