@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Cleaner Public Toilets
 ---
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aGgerZobzms"></iframe>
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Nzsm_xo7rgI?si=GsiEwxenCCqLaxdd"></iframe>
 </div>
 <p>This year's campaign aims to raise cleanliness and hygiene standards of
 public toilets by entrenching good toilet habits&nbsp;as a social norm.
