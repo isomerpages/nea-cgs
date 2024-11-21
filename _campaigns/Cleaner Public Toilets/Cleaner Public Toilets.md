@@ -1,6 +1,6 @@
 ---
 title: Cleaner Public Toilets
-permalink: /what-we-do/keepsgclean/cleanerpublictoilets/home/
+permalink: /what-we-do/keepsgclean/cleanpublictoilets/home/
 variant: tiptap
 description: ""
 third_nav_title: Cleaner Public Toilets
