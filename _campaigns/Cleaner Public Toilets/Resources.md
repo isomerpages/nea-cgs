@@ -13,8 +13,21 @@ third_nav_title: Cleaner Public Toilets
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<h4>Everyone wins when our toilets are clean</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p>English and Malay</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01.png">
+</div>
+<p>Chinese and Tamil</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
-<h4>“Are you nice when no one is around?”<br>Campaign Video</h4>
+<h4>“Are you nice </h4>
+<h4>when no one is around?”<br>Campaign Video</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>English</strong>
