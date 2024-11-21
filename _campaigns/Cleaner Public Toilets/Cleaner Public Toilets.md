@@ -34,32 +34,5 @@ public health and improving everyone's well-being.</p>
 <p><strong>BIN</strong> litter properly&nbsp;</p>
 </li>
 </ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>A4 Poster (English and Malay)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01.png">
-</div>
-<p><em>Click on image to view</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>A4 Poster (Chinese and Tamil)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02.png">
-</div>
-<p><em>Click on image to view</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/241113_NEA_Toilet_Stickers_FA_01.png241107_NEA_Clean_Toilets_A2_KV_RGB_ENG_ONLY.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241107_NEA_Clean_Toilets_A2_KV_RGB_ENG_ONLY.png"></a>
 <p></p>
