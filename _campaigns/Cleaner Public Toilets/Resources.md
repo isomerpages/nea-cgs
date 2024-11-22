@@ -22,7 +22,9 @@ third_nav_title: Cleaner Public Toilets
 <p></p>
 <p><strong>Chinese and Tamil</strong>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/images/02.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/02.png"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/241118_NEA_Clean_Toilets_A2_KV_CHI_AND_TAMIL_Pathed.jpg">
+</div>
 </td>
 </tr>
 <tr>
