@@ -36,7 +36,3 @@ public health and improving everyone's well-being.</p>
 </ul>
 <p></p><a class="isomer-image-wrapper" href="/images/Keep%20SG%20Clean/Clean%20Public%20Toilets/241113_NEA_Toilet_Stickers_FA_01.png241107_NEA_Clean_Toilets_A2_KV_RGB_ENG_ONLY.png"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Keep SG Clean/Clean Public Toilets/241107_NEA_Clean_Toilets_A2_KV_RGB_ENG_ONLY.png"></a>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/241118_NEA_Clean_Toilets_A2_KV_CHI_AND_TAMIL_Pathed.jpg">
-</div>
-<p></p>
