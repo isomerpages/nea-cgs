@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Cleaner Public Toilets
 ---
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Nzsm_xo7rgI?si=GsiEwxenCCqLaxdd"></iframe>
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cyeiJwxby_Y?si=xL5O9-Lm4183c798"></iframe>
 </div>
 <p>Imagine stepping into a clean public toilet and knowing exactly what winning
 feels like! Our slogan for this year’s campaign, <strong><em>“Everyone wins when our toilets are clean!”</em></strong>,
