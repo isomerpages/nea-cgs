@@ -348,9 +348,7 @@ study public response and increase impact!</p>
 </li>
 </ol>
 <p></p>
-<p><strong>Sign up to volunteer with us here:&nbsp;<a href="https://www.zerowastesg.com/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.zerowastesg.com/volunteer<br></a></strong>
-</p>
-<p><strong>Check out&nbsp;<a href="https://www.zerowastesg.com/volunteer" rel="noopener noreferrer nofollow" target="_blank">www.zerowastesg.com</a>&nbsp;or&nbsp;<a href="http://www.zerowastesg.com/volunteer/" rel="noopener noreferrer nofollow" target="_blank">www.byosingapore.com</a>&nbsp;to find out more!</strong>
+<p><strong>Sign up to volunteer with us here:&nbsp;<a href="https://www.zerowastesg.com/contact-us" rel="noopener noreferrer nofollow" target="_blank">https://www.zerowastesg.com/volunteer</a></strong>
 </p>
 </td>
 </tr>
