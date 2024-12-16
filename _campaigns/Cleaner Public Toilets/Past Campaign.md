@@ -9,9 +9,6 @@ third_nav_title: Cleaner Public Toilets
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aGgerZobzms"></iframe>
 </div>
-<h3>Play Game</h3>
-<p><a href="https://www.letsbenice.sg/?utm_source=posters&amp;utm_medium=print&amp;utm_campaign=letsbenice" rel="noopener noreferrer nofollow" target="_blank">Click Here &gt;&gt;</a>
-</p>
 <h3>2022 CAMPAIGN</h3>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9aI1lcsEZ_M"></iframe>
