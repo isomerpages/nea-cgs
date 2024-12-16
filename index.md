@@ -15,7 +15,7 @@ sections:
       title: Help Bloobin fight food and liquid contaminants
       background: /images/Home/Web__CGS_Festive_1920___720px.png
       button: CHAT NOW
-      url: go.gov.sg/askbloobin
+      url: https://api.whatsapp.com/message/YAGQ6P45Z33UH1?autoload=1&app_absent=0
       key_highlights:
         - title: Year of Public Hygiene
           description: Let's keep Singapore clean!
