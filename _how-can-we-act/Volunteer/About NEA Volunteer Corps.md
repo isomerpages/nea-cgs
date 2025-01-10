@@ -88,22 +88,22 @@ to address environmental issues such as littering and smoking.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGA Rama" src="/images/How Can We Act/Volunteer/sga_rama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/How Can We Act/Volunteer/CPT_2024_2.jpg">
 </div>
-<p><em>Ramachandran (2<sup>nd</sup> from right) leading a team of SG Clean Ambassadors for outreach activity</em>
+<p><em>Ramachandran (3rd&nbsp;from left) leading a team of Clean &amp; Green Singapore Ambassadors for outreach activity</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Mr Mathiyazhagan Ramachandran</h4>
 <p></p>
-<p>Mr Mathiyazhagan Ramachandran joined the SG Clean Ambassador Network in
-August 2020 to help drive awareness on the SG Clean movement, and promote
-social norms to keep Singapore Clean. Since then, he has also participated
-in other campaigns to help raise awareness on various public health and
-environmental protection messages within the community. Ramachandran has
-also been appointed as a Volunteer Leader, leading a team of SG Clean Ambassadors
-to conduct outreach at various hawker centres and transport hubs.</p>
+<p>Mr Mathiyazhagan Ramachandran has served as a Clean &amp; Green Singapore
+Ambassador since August 2020. Since then, he has actively participated
+in campaigns to raise awareness about public health and environmental protection
+within the community. As a Volunteer Leader, he leads a team of Clean &amp;
+Green Singapore Ambassadors in conducting outreach efforts at hawker centres
+and transport hubs.</p>
 </td>
 </tr>
 </tbody>
