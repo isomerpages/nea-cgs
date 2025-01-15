@@ -56,7 +56,8 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Here</p>
+<p><a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/yes-leaders-programme/application-form-2025-cohort-3.docx" rel="noopener nofollow" target="_blank">Here</a>
+</p>
 </th>
 </tr>
 <tr>
@@ -65,7 +66,7 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Here</strong>
+<p><strong><a href="/files/YES/2__FAQ_NEA_YES_Leaders_Programme_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
 </p>
 </td>
 </tr>
@@ -75,7 +76,7 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Here</strong>
+<p><strong><a href="go.gov.sg/yeslpinfo" rel="noopener nofollow" target="_blank">Here</a></strong>
 </p>
 </td>
 </tr>
@@ -85,7 +86,7 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Here</strong>
+<p><strong><a href="https://www.nea.gov.sg/media/news/news/index/first-batch-of-youth-for-the-environmental-sustainability-(yes)-leaders-tackled-waste-challenges" rel="noopener nofollow" target="_blank">Here</a></strong>
 </p>
 </td>
 </tr>
