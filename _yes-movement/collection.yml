@@ -2,9 +2,9 @@ collections:
   yes-movement:
     output: true
     order:
-      - NEA YES Leaders Programme/Corhort 1.md
-      - NEA YES Leaders Programme/NEA YES Leaders Programme.md
       - NEA YES Leaders Programme/.keep
+      - NEA YES Leaders Programme/NEA YES Leaders Programme.md
+      - NEA YES Leaders Programme/Corhort 1.md
       - About YES.md
       - Hungry for Change Challenge.md
       - YCLP NEA YES Edition.md
