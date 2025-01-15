@@ -2,7 +2,6 @@ collections:
   yes-movement:
     output: true
     order:
-      - NEA YES Leaders Programme.md
       - Cohort 1.md
       - About YES.md
       - Hungry for Change Challenge.md
