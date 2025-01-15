@@ -2,8 +2,8 @@ collections:
   yes-movement:
     output: true
     order:
-      - Test/NEA YES Leaders Programme.md
-      - Test/.keep
+      - NEA YES Leaders Programme/NEA YES Leaders Programme.md
+      - NEA YES Leaders Programme/.keep
       - About YES.md
       - Hungry for Change Challenge.md
       - YCLP NEA YES Edition.md
