@@ -2,6 +2,7 @@ collections:
   yes-movement:
     output: true
     order:
+      - Test/NEA YES Leaders Programme.md
       - Test/.keep
       - About YES.md
       - Hungry for Change Challenge.md
