@@ -12,10 +12,11 @@ notification: "[SCAM ALERT] Beware of scammers impersonating NEA, or Clean &
   https://scamalert.sg/ for more advice."
 sections:
   - hero:
-      title: Help Bloobin fight food and liquid contaminants
-      background: /images/Home/Web__CGS_Festive_1920___720px.png
-      button: CHAT NOW
-      url: https://api.whatsapp.com/message/YAGQ6P45Z33UH1?autoload=1&app_absent=0
+      title: Join the NEA YES Leaders Programme today.
+      background: /images/YES/YES Leaders Programme Cohort
+        3/CGS_Main_page_masthead_1200x630px_FA.png
+      button: Find out more
+      url: https://www.cgs.gov.sg/youth-for-environmental-sustainability/nea-yes-leaders-programme/
       key_highlights:
         - title: Year of Public Hygiene
           description: Let's keep Singapore clean!
@@ -30,8 +31,8 @@ sections:
       size: sm
       backgroundColor: white
       alignment: right
-      subtitle: Check if your item is recyclable using the Bloobin AI Chatbot on
-        WhatsApp or Telegram.
+      subtitle: Just like our YES Leaders showcased here, you too could soon be
+        realising your own sustainability project with our funding and support!
   - infocols:
       title: Clean & Green Singapore (CGS)
       subtitle: About
