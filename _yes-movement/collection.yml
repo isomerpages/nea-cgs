@@ -2,21 +2,21 @@ collections:
   yes-movement:
     output: true
     order:
+      - About YES.md
       - NEA YES Leaders Programme/.keep
       - NEA YES Leaders Programme/NEA YES Leaders Programme.md
       - NEA YES Leaders Programme/Corhort 1.md
-      - About YES.md
       - Hungry for Change Challenge.md
       - YCLP NEA YES Edition.md
       - Youth Sustainability Film Prog.md
-      - Partners’ Programmes/Partners’ Programmes.md
       - Partners’ Programmes/.keep
+      - Partners’ Programmes/Partners’ Programmes.md
       - Partners’ Programmes/Sustainable Cities Challenge.md
       - Partners’ Programmes/Zero Waste Testbed Initiative.md
       - Volunteer Opportunities.md
       - Programmes.md
-      - Resources/Resources.md
       - Resources/.keep
+      - Resources/Resources.md
       - Resources/Past YED.md
       - Resources/Social Media.md
       - Resources/Educational Resource Materials.md
