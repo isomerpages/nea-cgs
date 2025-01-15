@@ -75,7 +75,7 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="go.gov.sg/yeslpinfo" rel="noopener nofollow" target="_blank">Here</a></strong>
+<p><strong><a href="https://form.gov.sg/677b89e886407a9162aeaad3" rel="noopener nofollow" target="_blank">Here</a></strong>
 </p>
 </td>
 </tr>
