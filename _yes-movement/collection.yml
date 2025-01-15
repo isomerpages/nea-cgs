@@ -2,8 +2,8 @@ collections:
   yes-movement:
     output: true
     order:
-      - NEA YES Leaders Programme.md
       - About YES.md
+      - NEA YES Leaders Programme.md
       - Hungry for Change Challenge.md
       - YCLP NEA YES Edition.md
       - Youth Sustainability Film Prog.md
