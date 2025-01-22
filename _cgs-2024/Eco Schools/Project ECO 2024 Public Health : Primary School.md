@@ -17,7 +17,7 @@ a focus on B.L.O.C.K. and S.A.W. messages, encouraged all students to complete
 an SLS lesson on <em>dengue </em>prevention, worked with NParks and Urban
 Farm @ Citysprouts to reduce stagnant water in their community gardens
 and conducted outreach to nearby residents and a kindergarten.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Furthermore, the team also recognised that mosquito breeding could arise
 from poor housekeeping in homes. The team conducted assembly talks to encourage
 their peers to check their homes for potential breeding habitats and at
