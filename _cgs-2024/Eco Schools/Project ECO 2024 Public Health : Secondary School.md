@@ -5,97 +5,194 @@ variant: tiptap
 description: ""
 third_nav_title: Eco Schools
 ---
-<h3><strong>Project E.C.O. (Educate. Challenge. Organise.)<br>Public Health Category – Secondary School</strong></h3>
-<p><strong>St Andrew's Secondary School – Gold Award</strong>
+<h3><strong>Project E.C.O 2024 – Public Health - Secondary</strong></h3>
+<p><strong>CHIJ St. Joseph’s Convent – Gold</strong>
 </p>
-<p>The project aimed to achieve an overall improvement in cleanliness of
-the school toilets. The students conducted interviews with the school cleaners
-and their peers to gain insights before designing posters with targeted
-key messages. A sharing was conducted during assembly to reach out to their
-peers. The students first conducted research on the importance of promoting
-clean public toilets from a wider public perspective. They then conducted
-a toilet cleanliness perception survey with their peers. With the information
-collected, they tailored their campaign to the needs of their peers, raising
-awareness on the importance of clean school toilets.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SASS_1" src="/images/CGS 2023/Eco Schools/sass_1.jpg">
-</div>
-<p><em>Project Team E.C.O introducing themselves to the school</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SASS_2" src="/images/CGS 2023/Eco Schools/sass_2.jpg">
-</div>
-<p><em>Team Project E.C.O. sharing on the results of the student poll they conducted prior to the assembly.</em>
-</p>
-<p>Their main approach was to first develop a sense of empathy for school
-cleaners in the students and to encourage students to apply what they have
-learnt. One noticeable highlight would include the engagement of the whole
-school in a Kahoot! game and a mass dance, together with the use of social
-media platforms to increase outreach.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SASS_3" src="/images/CGS 2023/Eco Schools/sass_3.png">
-</div>
-<p><em>Example of posters created by the team to build a culture of toilet cleanliness in the school.</em>
-</p>
-<p>The school is working with Potong Pasir Community Club and SMRT (Potong
-Pasir MRT Station) on possible platforms for collaboration (i.e. sharing
-of posters).</p>
+<p>The project aimed to foster shared responsibility for cleanliness in the
+school canteen. After conducting survey through observations, the team
+introduced the "Adopt-a-Table" initiative, where lower Secondary classes
+maintained and monitored the cleanliness of their adopted tables, promoting
+ownership and shared responsibility rather than reliance on cleaners.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students cleaning the tables adopted by their class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An example of a poster created by the Eco-Stewards to remind schoolmates
+to keep the canteen tables clean</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students participating in a community clean-up activity</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The team introduced the initiative to their peers during assembly, highlighting
+the Year of Public Hygiene, their survey findings and their tagline “Return,
+Throw, Wipe” to motivate their peers to contribute towards keeping the
+canteen clean. As part of the project, each class’s Eco-Steward submitted
+photos of their adopted tables for rating, promoting active participation
+in canteen cleanliness.</p>
+<p>The initiative laid a strong foundation for cultivating student ownership
+of the school environment. To build upon current efforts and progress,
+the team led a community clean-up activity and proposed strategies such
+as a peer monitoring system to encourage collective responsibility that
+would extend beyond school to homes and communities.</p>
 <hr>
-<p><strong>Nan Chiau High School – Silver Award</strong>
+<p>&nbsp;<strong>Nanyang Girls’ High School – Silver</strong>
 </p>
-<p>A group from Nan Chiau High School’s Green Club led a project to raise
-awareness about dengue prevention in the school and within the community.
-An exhibition booth was set up with interactive elements and informative
-posters to educate students and members of the public on preventive measures
-against dengue. The students carried out community outreach at Sengkang
-General Hospital’s Clean &amp; Green Day 2023.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NC1" src="/images/CGS 2023/Eco Schools/nc1.png">
-</div>
-<p><em>A group of students at their booth at Sengkang General Hospital’s Clean &amp; Green Day.</em>
-</p>
-<p>In school, Green Champions were appointed to check for stagnant water
-outside their classrooms and educate students on proper dengue preventive
-measures. Educational posters were created by the students and displayed
-in the school’s premises. Dengue preventive bookmarks were created and
-distributed during the school’s open house to the public.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NC2" src="/images/CGS 2023/Eco Schools/nc2.png">
-</div>
-<p><em>Students interacting with member of the public on dengue prevention.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NC3" src="/images/CGS 2023/Eco Schools/nc3.png">
-</div>
-<p><em>Bookmarks on dengue prevention that were distributed at the exhibition booth.</em>
-</p>
+<p>The project team’s five-month long project aimed to educate about <em>dengue</em> fever
+and its impact on Singapore's public health. Prompted by rising <em>dengue</em> cases,
+the team conducted a survey to assess the level of <em>dengue </em>awareness
+among the public. The survey found that 50% of respondents felt that it
+was important to start educating children from below 10 years old about <em>dengue</em>.
+Hence, the team embarked on a project to develop a comprehensive programme
+for pre-schoolers</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The project team led the K1 children from New Life Preschool @ Bukit Panjang
+through an engaging programme to raise awareness about <em>dengue</em> prevention.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The programme was successfully implemented at New Life Preschool @Bukit
+Panjang and included interactive activities such as storytelling, larvae
+hunt, colouring activity and quizzes. The children demonstrated increased
+understanding of <em>dengue</em> prevention steps. A booklet with information
+on <em>dengue</em> prevention was also distributed to the parents.</p>
+<p>To further extend their reach within the school community, the team created
+an Instagram page and sent schoolwide emails to share about <em>dengue</em> prevention
+and public hygiene related messages.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The team concluded the engagement with the pre-schoolers through a colouring
+activity where they reinforced learning points on identifying and preventing
+mosquito breeding.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>An Instagram post created by the team after conducting research about <em>dengue</em>.
+This was part of their effort to communicate scientific knowledge about
+the disease with the public in a bite-size and accessible manner.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The team planned to share their personal experience and learning points
+with other environmental ambassadors in the school, and would continue
+to create infographics and spread awareness on public health topics via
+their social media account @project.ecobuds.&nbsp;</p>
 <hr>
-<p><strong>Serangoon Garden Secondary School– Bronze Award</strong>
+<p>&nbsp;<strong>Yuan Ching Secondary School – Bronze</strong>
 </p>
-<p>The Dengue Outreach project carried out by the Earth Club CCA aimed to
-raise awareness of dengue prevention within the school and community. The
-students conducted research on dengue and designed posters to spread awareness
-on the preventive methods.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGSS1" src="/images/CGS 2023/Eco Schools/sgss1.jpg">
-</div>
-<p><em>Students participating in Circle Time activity to share and listen to their peers’ experience with dengue.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGSS2" src="/images/CGS 2023/Eco Schools/sgss2.jpg">
-</div>
-<p><em>Students working in groups to research and ideate on the posters.</em>
-</p>
-<p>To extend the outreach to residents, the students sought Braddell Heights
-and Serangoon Constituency Offices’ assistance to display the posters within
-the estates. The project was successful in reminding residents to practise
-dengue prevention and provided students with an opportunity to hone their
-engagement skills and creativity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGSS3" src="/images/CGS 2023/Eco Schools/sgss3.jpg">
-</div>
-<p><em>Posters are displayed in the neighborhood to raise awareness on dengue prevention.</em>
-</p>
+<p>The project team embarked on two different projects aimed at improving
+class cleanliness in school and promoting <em>dengue</em> awareness in the
+community.</p>
+<p>A Class Cleanliness Competition was organised to foster responsibility
+and community ownership. The initiative included an awareness campaign
+through school briefing on the current state of cleanliness in classes,
+inter-class competitions, and regular assessments. The project aimed to
+promote long-term behavioural changes and a lasting impact on school cleanliness
+culture.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students interacting with one of the residents of Block 120 Ho Ching Road
+to educate them on the B.L.O.C.K. and S.A.W. steps for <em>dengue </em>prevention</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>To raise <em>dengue </em>awareness within the Taman Jurong community, the
+team briefed students in the Environmental Science Club and rallied them
+to conduct door-to-door visits to distribute informative pamphlets and
+repellents to residents. They educated residents on <em>dengue </em>prevention
+steps like B.L.O.C.K. and S.A.W. and reached out to 262 units. The team
+would continue to explore this outreach as an annual event and tap on social
+media platforms (Instagram - @ycss.eclub) to document learnings and inspire
+new students to join them.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students explaining the information from the pamphlet to residents.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joint collaboration between students from Project E.C.O and the Environmental
+Science Club to conduct outreach at Ho Ching Road.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
 </div>
