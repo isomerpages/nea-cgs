@@ -6,93 +6,190 @@ description: ""
 third_nav_title: Eco Schools
 ---
 <h3><strong>Project E.C.O. (Educate. Challenge. Organise.)<br>Environment Protection Category – Secondary School</strong></h3>
-<p><strong>Springfield Secondary School – Gold Award</strong>
+<p><strong>Saint Andrew’s Secondary School – Gold</strong>
 </p>
-<p>This project aimed to improve the waste management system by improving
-the knowledge of recycling and waste management among students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SFSS_Pic1_EcoHub" src="/images/CGS 2023/Eco Schools/sfss_pic1_ecohub.jpg">
-</div>
-<p><em>Incorporating the Eco-Hub@Springfield into the canteen as a one-stop recycling point and venue for mini-workshops to engage students on eco-stewardship related activities.</em>
+<p></p>
+<p>The project aimed to advocate recycling and foster environmental responsibility
+within the school community. Students researched and developed strategies
+to promote recycle right habits and reduction of plastic waste.</p>
+<p>Student-led initiatives included creation of posters to place around the
+school, hosting regular morning assembly announcements, organising campaign
+such as "Skip the Straw Day", collaborating with canteen vendors to reduce
+plastic waste by not providing straws and to further raise awareness about
+the challenges of recycling due to contamination.
+<br>
 </p>
-<p>Strategies included setting up an Eco-Hub on school premises (which comprised
-the recycling bins for plastics, papers, shoes, e-waste, collection of
-reusable bags), conducting educational programs and holding recycling games.
-The project used the Design Thinking methodology and conducted research
-through observations and surveys. The implemented solutions, such as the
-Eco-Hub and Humanities Week activities, were effective in increasing recycling
-rates in the school.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SFSS_Pic2_HumWeek" src="/images/CGS 2023/Eco Schools/sfss_pic2_humweek.jpg">
-</div>
-<p><em>As part of the school's inaugural Humanities Week, Secondary 1 Geography students upcycled their Personal Learning Devices packaging boxes to create dioramas of mangroves and tropical rainforests.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SFSS_Pic3_Composting" src="/images/CGS 2023/Eco Schools/sfss_pic3_composting.jpg">
-</div>
-<p><em>Environment Ambassadors and Secondary 2 Normal (Technical) Social Studies students planting their home-grown lettuce and learning about the value of composting.</em>
-</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing on the importance of recycling right at assembly</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saints Care Day @ St Andrew’s Secondary School</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Camp STARm where students shared their recycling efforts with students
+from 5 other primary schools in Singapore.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>At a leadership camp, Camp STARm, Green Envoys educated participants from
+other schools on recycling and the environmental impact of using straws,
+distributing pamphlets and organising activities to spread awareness on
+sustainability.</p>
 <hr>
-<p><strong>Clementi Town Secondary School – Silver Award</strong>
+<p><strong>Springfield Secondary School – Silver</strong>
 </p>
-<p>The Environment Champions organised various initiatives to promote environmental
-awareness and sustainability. This included observing Earth Hour, where
-students learned about the importance of conserving energy and combating
-climate change via activities such as turning off lights and fans when
-not in use, quizzes and pledges.</p>
-<p>Additionally, they also organised an Ang Bao collection drive during Chinese
-New Year to collect and recycle unused red packets, with the aim of reducing
-waste. A team of students also participated in the National Youth Upcycling
-Movement, creating upcycled household storage box and teaching younger
-students about sustainability.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CTSS_Photo 2" src="/images/CGS 2023/Eco Schools/ctss_photo_2.jpg">
-</div>
-<p><em>Collection of used and empty red packets which were delivered to the nearest DBS branch for recycling.</em>
+<p>Springfield Secondary School launched a year-long sustainability initiative
+from January to November 2024, focusing on reducing food waste and improving
+energy efficiency, aligned with the principles of Reduce, Reuse, and Recycle.
+Activities included recycling competitions and the installation of ECO-digesters
+to process food waste. The Clean Plate initiative encouraged mindful consumption
+to reduce food waste.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 2 ALP students participated in a hands-on session on effective composting
+methods.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The school assessed its recycling infrastructure, conducted sustainability
+surveys, and organised events like Earth Hour to raise climate awareness.
+A key part of the initiative was community involvement and outreach, where
+Student Environment Ambassadors participated in the Tampines 4Rs Exhibition
+at Our Tampines Hub, promoting composting and sustainable practices. Workshops
+on sustainability and composting were also held for Northoaks Primary School
+Student Leaders/Key Personnels.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environment Ambassadors participated in the launch of the Tampines 4Rs
+Exhibition at Our Tampines Hub (OTH) on 17 November 2024. The event was
+graced by Minister Masagos Zulkifli, Mayor Desmond Choo, and Dr. Charlene
+Chen, the 2nd Advisor to Tampines GRC GROs.</p>
+<p>Instagram post on Tampines 4Rs Exhibition on 17 Nov&nbsp;2024, by Our
+Tampines Hub (OTH):&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/reel/DCqT141Nrwg/?igsh=MnA0Z21scjM1bTAx</a>
 </p>
-<p>Awareness on the importance of environmental sustainability was further
-promoted in various Values-in-Action (VIA) programmes. For example, a group
-of students initiated a food drive to collect and donate soon-to-expire
-food items to Food Bank Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CTSS_Photo 1" src="/images/CGS 2023/Eco Schools/ctss_photo_1.jpg">
-</div>
-<p><em>Students conducting a stock take and quality check of the food donated by students during a food collection drive. These were delivered to Food Bank Singapore.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CTSS_3" src="/images/CGS 2023/Eco Schools/ctss_3.jpg">
-</div>
-<p><em>Students came together to design and create upcycled household item using waste materials such as egg carton to create the Upcycled Storage Box. They also promote their idea through hands-on activities for the Primary schools students at the FaithActs community.</em>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environment Ambassadors and Temasek Holdings staff, were guided by members
+from Edible Garden City to learn how to pot a plant using the propagation
+method.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Student-designed murals reinforced the school’s commitment to sustainability,
+embedding eco-friendly values into its culture. The initiative empowered
+students to advocate for sustainability, inspiring both the school and
+local residents to embrace greener, more sustainable lifestyles.</p>
 <hr>
-<p><strong>Yuan Ching Secondary School – Bronze Award</strong>
-</p>
-<p>The school collaborated with Magorium, a company that utilises a proprietary
-recycling technology, to convert plastic into a sustainable material called
-NEWBitumen in an environmentally safe way to construct greener roads.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YCSS_1" src="/images/CGS 2023/Eco Schools/ycss_1.jpg">
-</div>
-<p><em>Final collection of all the plastics packed and ready to send to Magorium for creating NEW-Bitumen.</em>
-</p>
-<p>To further promote sustainability and reduce plastic waste, the students
-organised Weekly Plastic Collection Drive and competition over two months
-(Aug-Sep 2023) for all classes in school to recycle their plastic waste
-and earn points to win prizes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YCSS_2" src="/images/CGS 2023/Eco Schools/ycss_2.jpg">
-</div>
-<p><em>Project E.C.O. Environmental Protection Team sharing during assembly about the importance of recycling plastics.</em>
-</p>
-<p>They also educated their peers on the different types of plastic and how
-to recycle right. In addition, the school supported the national recycling
-initiative and placed a Bloobox in each of the classrooms for students
-to deposit their recyclables.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="YCSS_3" src="/images/CGS 2023/Eco Schools/ycss_3.jpg">
-</div>
-<p><em>Project E.C.O. Environmental Protection Team at fifth plastic collection drive.</em>
-</p>
+<p><strong>Naval Base Secondary School – Bronze</strong>
+<br>
+<br>The project aimed to raise awareness about reducing textile and paper
+waste in the school and local community through hands-on upcycling activities.</p>
+<p>Eco Ambassadors repurposed old textiles into useful items, i.e tote bags,
+while Secondary 3 Eco Board Councillors taught 50 kindergarten students,
+staff, and parents from PCF Sparkletots&nbsp;how to upcycle clothes into
+bracelets during their Environment Fest.</p>
+<p>Students also processed recycled paper into eco-friendly Teacher’s Day
+gifts, promoting sustainability. The project successfully engaged participants
+in creative upcycling, fostering environmental stewardship and awareness
+about the impact of waste.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collaboration with partners to collect recyclables from the community.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unwanted papers are collected from students, staff and the community to
+be made into recycled paper as part of the annual upcycling gift for staff
+during Teachers’ Day.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>The initiatives have encouraged students to embrace sustainable fashion
+and recycling practices, extending its impact to the wider community. There
+are plans to instil sustainable practices through continued collaboration
+with PCF Sparkletots to organise upcycling workshops for future events.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collaboration with SparkleTots during their Environment Festival to conduct
+an upcycling workshop on making bracelets from old textiles.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
 </div>
