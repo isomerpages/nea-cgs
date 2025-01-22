@@ -5,104 +5,190 @@ variant: tiptap
 description: ""
 third_nav_title: Eco Schools
 ---
-<h3><strong>Project E.C.O. (Educate. Challenge. Organise.)<br>Environment Protection Category – Primary School</strong></h3>
-<p><strong>Radin Mas Primary School – Gold Award</strong>
+<h3><strong><u>Project E.C.O 2024 - Environment Protection – Primary School</u></strong></h3>
+<p><strong>Unity Primary School – Gold</strong>
 </p>
-<p>The project team members launched several recycling drives in their school,
-collecting a variety of recyclables such as paper and plastic bottles.
-These items were then repurposed for the school’s events, e.g. Maker’s
-corner, Design week, and Mid-Autumn celebration.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary School – Gold Award_Environment Science Students" src="/images/CGS 2023/Eco Schools/radin_mas_primary_school_gold_award_environment_science_students.jpg">
-</div>
-<p><em>Environmental Science students preparing the used plastic bottles for upcycling.</em>
-</p>
-<p>The project team also initiated an upcycling project where they transformed
-the bottles collected into planters to grow onions. A booth was set up
-during the school’s Mid-Autumn celebration to engage their peers with hands-on
-experiences in creating bottle planters and encouraged them to make their
-own at home.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary School – Gold Award_Mid-Autumn Festival." src="/images/CGS 2023/Eco Schools/radin_mas_primary_school_gold_award_mid_autumn_festival.jpg">
-</div>
-<p><em>Students and teachers at the school’s Mid-Autumn Festival.</em>
-</p>
-<p>The team extended their outreach by partnering with Radin Mas Community
-Centre to set up a booth during the Grassroots Organisations’ Mid-Autumn
-celebration. The initiative was well received by residents, and more than
-100 plastic bottles were transformed into bottle planters within an hour.
-Many positive responses were received and residents were keen to replicate
-the activity at home.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Radin Mas Primary School – Gold Award_Radin Mas Grassroots Organisation" src="/images/CGS 2023/Eco Schools/radin_mas_primary_school_gold_award_radin_mas_grassroots_organisation.jpg">
-</div>
-<p><em>Engaging the community at Radin Mas Grassroots Organisation’s Mid-Autumn Festival.</em>
-</p>
+<p>The project team embarked on a six-month initiative to promote sustainability
+and waste reduction through recycling and upcycling. They organised booths
+at the school’s annual Science and Green Carnival, inviting parent volunteers
+to join the event. The carnival coincided with the launch of NEA’s Recycle
+Right Campaign 2024, hosted by the school and graced by SPS (MSE), Mr Baey
+Yam Keng.</p>
+<p></p>
+<p>The team collaborated with partnering kindergartens to conduct door-to-door
+visits to collect recyclables and educate residents on proper recycling
+practices. They also engaged three neighbouring PCF kindergartens, teaching
+preschoolers about upcycling through crafts games such as the upcycled
+Claw-It-Up game.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Image</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Caption</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPS Mr Baey Yam Keng engaged the students in a friendly competition with
+a car race made from recyclables during the Science &amp; Green Carnival.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weekly mass recycling drive to encourage students to bring their recyclables
+in exchange for house points. Senior students on duty checked the items
+and educate their junior peers on proper recycling practices.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Members of Greenovation Club, along with partnering kindergarten children,
+conducted door-to-door visits to collect recyclables and educate residents
+on recycling right and <em>dengue</em> prevention.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<p><strong>Chongzheng Primary School – Silver Award</strong>
+<p><strong>Punggol Green Primary School – Silver</strong>
 </p>
-<p>The project team embarked on a 2-month project to address food waste in
-their school. The team first conducted a survey on the Student Learning
-Space (SLS) to gain insights of their peers' eating habits and the food
-waste situation in school. The members then organised roadshows during
-recess to achieve broader visibility and impact.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CzPS1" src="/images/CGS 2023/Eco Schools/czps1.jpg">
-</div>
-<p><em>Phone wallpaper designed by the team to remind everyone to stop food waste</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CzPS2" src="/images/CGS 2023/Eco Schools/czps2.jpg">
-</div>
-<p><em>Stop Food Waste campaign in school</em>
-</p>
-<p>Understanding that food waste is one of the larger waste streams in Singapore,
-the team members extended their outreach to the Student Care Centre in
-Tampines to engage primary school students in the neighbourhood. They further
-reinforced the 'Hi-Five' pledge which was created to reduce food waste
-and shared it on the school's Facebook page. As a continuous effort to
-raise awareness, the team engaged their schoolmates to conduct the ‘Hi-Five’
-pledge during the end-of-year school holiday at home with their family
-members and neighbours through SLS and school’s Facebook page.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CzPS3" src="/images/CGS 2023/Eco Schools/czps3.jpg">
-</div>
-<p><em>Sharing at Student Care Centre</em>
-</p>
+<p></p>
+<p>The students initiated a six-month project to address improper recycling
+practices based on their observations of misuse of recycling bins in the
+neighbourhood. The project aimed to raise awareness on correct recycling
+methods and foster sustainable habits within the school community and homes.</p>
+<p></p>
+<p>In conjunction with Earth Day, the team organised a week-long Green Week
+campaign<s>,</s> to educate students on proper recycling habits. Recess
+activities were conducted to teach students about correct recycling techniques<s>,</s> and
+repurposing materials.</p>
+<p></p>
+<p>To reinforce recycling concepts, the team developed an interactive book
+titled "Pearl's Recycling Adventures”, which guided readers through Punggol's
+eco-friendly landmarks and explores different recycling methods. The book
+was presented to MK@Punggol Green Primary School and audiences at NLB@One
+Punggol, with accompanying activities.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Image</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Caption</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assembly programme “Ally in Wanderland” by PlayInc, in collaboration with
+NParks, explores sustainability through storytelling. Ally, a screen-obsessed
+girl, tumbles into a "rabbit hole" during a hike and meets talking animal
+friends who teach her the value of greenery and our City in Nature.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engaging and inspiring young minds at MOE Kindergarten@PGPS to commit
+to actions and create a positive impact on the environment!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eager to showcase Pearl’s Recycling Adventure, presenting a heartwarming
+story written and illustrated by our talented students at NLB@One Punggol.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
-<p><strong>Mee Toh School – Bronze Award</strong>
+<p><strong>Mee Toh School – Bronze</strong>
 </p>
-<p>Weekly segregated recycling is an integral part of Mee Toh School’s environmental
-sustainability efforts. Students brought recyclables from home every Wednesday
-and sorted them. The project team aimed to further enculturate these practices
-within the school by raising awareness of recycling right. They focused
-on items commonly found in the school canteen, e.g. plastic bottles, tetra
-paks, and aluminum cans, and created a PowerPoint presentation and a 2D
-animation (FlipaClip) to educate their peers on how to recycle right. The
-instructional videos were broadcasted to the student population during
-assembly.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTS2" src="/images/CGS 2023/Eco Schools/mts2.jpg">
-</div>
-<p><em>Collected amount of cleaned tetra paks for recycling.</em>
-</p>
-<p>The project team also took up the responsibility of reinforcing proper
-recycling practices among peers during their recess. The Mee Toh School
-Green Day featured an assembly session on recycling right and the launch
-of a recycling project at the school canteen.&nbsp; All these efforts resulted
-in good recycling right habits in students and lesser contamination of
-recyclables collected.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTS1" src="/images/CGS 2023/Eco Schools/mts1.jpg">
-</div>
-<p><em>An Environment Champion helping fellow schoolmates to cut the tetra paks so that they could wash the packaging for recycling. This helped to reduce contamination of recyclables as well as increase the amount of recyclables collected during recess.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MTS3" src="/images/CGS 2023/Eco Schools/mts3.jpg">
-</div>
-<p><em>A Primary 4 Environment Champion on recess duty to help lower primary students to recycle their tetra paks.</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
-</div>
+<p></p>
+<p>The project team initiated a six-month project to create awareness on
+the importance of recycling with the use of powerpoint slides and quizzes
+on ways to recycle plastic bottles, tetra paks and aluminium cans.</p>
+<p>&nbsp;</p>
+<p>The students conducted an assembly talk during the school’s Green Day
+Campaign, recycling collection drives, the clean plate campaign and an
+Adopt-a-Book campaign.</p>
+<p>&nbsp;</p>
+<p>In addition, the team took part in the school’s Mid-Autumn Festival celebration
+to remind visitors to reduce waste and set up collection points around
+the main activity areas.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Image</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Caption</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environment Champions conducted an engaging assembly talk on waste reduction.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environment Champions are stationed at the canteen area to remind students
+to wash the drink bottles / tetra paks before putting them into the recycling
+bags</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Environment Champions set up interactive game booths to engage visitors
+at the Mid-Autumn Festival to raise awareness about waste reduction and
+recycling.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
