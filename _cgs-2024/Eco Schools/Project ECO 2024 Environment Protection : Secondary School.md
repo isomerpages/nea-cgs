@@ -8,7 +8,6 @@ third_nav_title: Eco Schools
 <h3><strong>Project E.C.O. (Educate. Challenge. Organise.)<br>Environment Protection Category – Secondary School</strong></h3>
 <p><strong>Saint Andrew’s Secondary School – Gold</strong>
 </p>
-<p></p>
 <p>The project aimed to advocate recycling and foster environmental responsibility
 within the school community. Students researched and developed strategies
 to promote recycle right habits and reduction of plastic waste.</p>
