@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Eco Schools
 ---
-<h3><strong><u>Project E.C.O 2024 - Environment Protection – Primary School</u></strong></h3>
+<h3><strong>Project E.C.O 2024 - Environment Protection – Primary School</strong></h3>
 <p><strong>Unity Primary School – Gold</strong>
 </p>
 <p>The project team embarked on a six-month initiative to promote sustainability
@@ -27,14 +27,6 @@ Claw-It-Up game.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Image</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Caption</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,14 +85,6 @@ Punggol, with accompanying activities.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Image</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Caption</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -153,14 +137,6 @@ the main activity areas.</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Image</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Caption</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
