@@ -138,11 +138,11 @@ story written and illustrated by our talented students at NLB@One Punggol.</p>
 <p>The project team initiated a six-month project to create awareness on
 the importance of recycling with the use of powerpoint slides and quizzes
 on ways to recycle plastic bottles, tetra paks and aluminium cans.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>The students conducted an assembly talk during the school’s Green Day
 Campaign, recycling collection drives, the clean plate campaign and an
 Adopt-a-Book campaign.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>In addition, the team took part in the school’s Mid-Autumn Festival celebration
 to remind visitors to reduce waste and set up collection points around
 the main activity areas.</p>
