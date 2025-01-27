@@ -108,7 +108,7 @@ on websites to which this Site is linked.</p>
 <p>Except as set forth below, caching and links to, and the framing of this
 Site or any of the Contents are prohibited:</p>
 <p>Linking to the Homepage: You may link to the Homepage of this Site, upon
-notifying NEA in writing, to <a href="mailto:NG_say-kuan@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Web Admin</a>.</p>
+notifying NEA in writing, to <a href="mailto:chia_soong_ming@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Web Admin</a>.</p>
 <p>Hyperlinking to an internal page of this Site: You must make a specific
 request for, and secure permission from NEA prior to hyperlinking to, or
 framing, this Site or any of the Contents, or engaging in similar activities.</p>
