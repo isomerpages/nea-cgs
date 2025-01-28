@@ -35,7 +35,7 @@ republished, uploaded, posted, transmitted or otherwise distributed in
 any way, without the prior written permission of NEA.</p>
 <p>To reproduce, republish, post, transmit or otherwise distribute any parts
 of the Contents of this Site, the user must seek permission in writing,
-to&nbsp;<a href="mailto:NG_say_kuan@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Web Admin</a>,&nbsp;stating
+to&nbsp;<a href="mailto:chia_soong_ming@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Web Admin</a>,&nbsp;stating
 the:</p>
 <p>Contents for use;
 <br>Intent of use;
