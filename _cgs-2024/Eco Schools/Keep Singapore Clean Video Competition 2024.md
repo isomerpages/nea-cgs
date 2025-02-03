@@ -16,7 +16,6 @@ such as interviews and beach cleanup exercises. Through these efforts,
 they gathered valuable insights into cleanliness initiatives, community
 perceptions and underscoring the need for increased public education on
 environmental stewardship.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Keep_Singapore_Clean_Anderson_JC_Photo_1.png">
 </div>
@@ -30,7 +29,6 @@ environmental stewardship.</p>
 <p>The initiative culminated in a beach cleanup where students collected
 a significant amount of litter, visibly demonstrating the impact of collective
 community efforts and serving as a practical lesson in environmental responsibility.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Keep_Singapore_Clean_Anderson_JC_Photo_3.png">
 </div>
@@ -77,7 +75,6 @@ benefit the environment, the students aimed to encourage people to start
 incorporating these simple acts in their daily lives.</p>
 <p>Furthermore, through the video, the students show how one’s small negative
 action could impact the environment.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/NCHS_Photo_1.png">
 </div>
