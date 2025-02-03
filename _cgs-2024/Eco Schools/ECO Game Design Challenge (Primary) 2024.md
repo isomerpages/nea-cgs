@@ -26,11 +26,11 @@ in a cohesive and engaging manner.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Horizon_Primary_Photo_2.png">
 </div>
-<p><em>Custom-designed cards suggested actions which could be used to address relevant environmental issues, educating players on a clean and green Singapore.</em>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Horizon_Primary_Photo_3.png">
 </div>
+<p><em>Custom-designed cards suggested actions which could be used to address relevant environmental issues, educating players on a clean and green Singapore.</em>
+</p>
 <hr>
 <p><strong>Wellington Primary School – 2<sup>nd</sup> Prize</strong>
 </p>
