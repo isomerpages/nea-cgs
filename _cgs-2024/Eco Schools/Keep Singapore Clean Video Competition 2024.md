@@ -8,8 +8,9 @@ third_nav_title: Eco Schools
 <h1>Keep Singapore Clean: A Video Competition on Public Hygiene</h1>
 <p><strong>Anderson Serangoon Junior College – </strong>1<sup>st</sup> Prize</p>
 <p><strong>Name of video</strong>: ASRJC AVA Beach Cleaning</p>
-<p><em>Video to be embedded:</em>  <a rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=SH5znE9mGX4</a>
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SH5znE9mGX4?si=cmJU7RujPqvF2BLL"></iframe>
+</div>
 <p>The ASRJC AVA Beach Cleaning video aimed to enhance public awareness about
 the importance of maintaining clean beaches. The students embarked on activities
 such as interviews and beach cleanup exercises. Through these efforts,
