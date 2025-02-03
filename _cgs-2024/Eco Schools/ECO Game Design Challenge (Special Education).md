@@ -78,4 +78,7 @@ cards as quickly as possible.&nbsp;</p>
 </div>
 <p><em>A group of students raced to find matching cards and complete the set in the shortest time.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
+</div>
 <p>&nbsp;</p>
