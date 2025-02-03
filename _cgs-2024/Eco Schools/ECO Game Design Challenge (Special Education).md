@@ -43,34 +43,17 @@ and rewarding players with tray return cards for responsible actions. By
 combining engaging gameplay with meaningful lessons, the game fostered
 accountability and encouraged responsible community behaviour, highlighting
 the students' teamwork, creativity, and dedication to positive social change.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;"A compilation of the various game cards, including enforcement
-officers, food cards, drinks cards, special food cards, special drinks
-cards, tray return cards, and chance cards."</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;"Tray Return Dash playing mat, featuring designated areas for the
-tray return pile, draw pile, and discard pile."</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Celebral_Palsy_East_Photo_1.png">
+</div>
+<p><em>&nbsp;"A compilation of the various game cards, including enforcement officers, food cards, drinks cards, special food cards, special drinks cards, tray return cards, and chance cards."</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Celebral_Palsy_East_Photo_2.png">
+</div>
+<p><em>"Tray Return Dash playing mat, featuring designated areas for the tray return pile, draw pile, and discard pile."</em>
+</p>
 <hr>
 <p><strong>Grace Orchard School</strong> - 3<sup>rd</sup> Prize</p>
 <p><strong>Name of Game: </strong>Keeping Public Toilets Clean!</p>
@@ -80,38 +63,19 @@ keep them clean for the next user. The game used words and visuals, making
 it accessible to everyone. A fun way to learn while competing to match
 cards as quickly as possible.&nbsp;</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; A student trying to beat her personal record of 2 minutes and 13
-seconds to finish the set.&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp; A student learnt about good behaviours when using public toilets.&nbsp;&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;A group of students raced to find matching cards and complete the
-set in the shortest time.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Grace_Orchard__Photo_1.png">
+</div>
+<p><em>A student trying to beat her personal record of 2 minutes and 13 seconds to finish the set.&nbsp;&nbsp;</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Grace_Orchard_Photo_2.png">
+</div>
+<p><em>A student learnt about good behaviours when using public toilets.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Grace_Orchard_Photo_3.png">
+</div>
+<p><em>A group of students raced to find matching cards and complete the set in the shortest time.</em>
+</p>
 <p>&nbsp;</p>
