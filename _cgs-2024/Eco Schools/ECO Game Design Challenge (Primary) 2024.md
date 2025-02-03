@@ -18,33 +18,19 @@ to the gameplay</p>
 <p>The game concept allowed for a fun way to promote awareness of public
 hygiene practices, sustainable living, and environmental protection, designed
 in a cohesive and engaging manner.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students learning about the upkeeping of good public hygiene practices
-through play.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Custom-designed cards suggested actions which could be used to address
-relevant environmental issues, educating players on a clean and green Singapore.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Horizon_Primary_Photo_1.png">
+</div>
+<p><em>Students learning about the upkeeping of good public hygiene practices through play.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Horizon_Primary_Photo_2.png">
+</div>
+<p><em>Custom-designed cards suggested actions which could be used to address relevant environmental issues, educating players on a clean and green Singapore.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Horizon_Primary_Photo_3.png">
+</div>
 <hr>
 <p><strong>Wellington Primary School – 2<sup>nd</sup> Prize</strong>
 </p>
@@ -53,30 +39,12 @@ relevant environmental issues, educating players on a clean and green Singapore.
 land and in water. Through the visual representations of the game, players
 learnt the importance of keeping public spaces clean, and to sort recyclables
 from litter. Players also shared the knowledge learnt to their peers.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Picture File</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Caption</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anti-Litter Bugs gameboard</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Wellington_Photo_1.png">
+</div>
+<p><em>Anti-Litter Bugs gameboard</em>
+</p>
 <hr>
 <p><strong>Cantonment Primary School – 3<sup>rd</sup> Prize</strong>
 </p>
@@ -92,38 +60,19 @@ by their peers. Based on feedback received during the school carnival,
 the students made further enhancement to the game with additional cards
 to include more habits and tips.&nbsp; &nbsp;The game encouraged good toilet
 hygiene habits and fostered intergenerational learning.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Testing games at the school carnival</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sharing of Do’s and Don’ts about public toilet cleanliness at the school
-carnival.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>An example of the matching cards</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Cantonment_Photo_1.png">
+</div>
+<p><em>Testing games at the school carnival</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Cantonement_Photo_2.png">
+</div>
+<p><em>Sharing of Do’s and Don’ts about public toilet cleanliness at the school carnival.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Cantonment_Photo_3.png">
+</div>
+<p><em>An example of the matching cards</em>&nbsp;</p>
 <p>&nbsp;</p>
