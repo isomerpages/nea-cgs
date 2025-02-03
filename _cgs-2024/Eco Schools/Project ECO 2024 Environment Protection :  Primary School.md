@@ -20,8 +20,6 @@ visits to collect recyclables and educate residents on proper recycling
 practices. They also engaged three neighbouring PCF kindergartens, teaching
 preschoolers about upcycling through crafts games such as the upcycled
 Claw-It-Up game.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Gold_Unity_Primary_School_photo_1.png">
 </div>
