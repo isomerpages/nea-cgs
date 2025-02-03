@@ -75,4 +75,7 @@ hygiene habits and fostered intergenerational learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Cantonment_Photo_3.png">
 </div>
 <p><em>An example of the matching cards</em>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
+</div>
 <p>&nbsp;</p>
