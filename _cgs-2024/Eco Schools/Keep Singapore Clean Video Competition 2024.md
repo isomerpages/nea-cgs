@@ -91,5 +91,8 @@ to think about the consequences before acting.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/NCHS_Photo_3.png">
 </div>
 <p><em>Students conducting litter picking at a garden.</em>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
