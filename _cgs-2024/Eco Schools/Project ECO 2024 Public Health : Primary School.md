@@ -28,49 +28,26 @@ food containers into fruit baskets and redistributed the collected food
 items to residents in the neighbourhood. Excess clothes collected were
 picked up by partner, Green Sproutz, for further processing.</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Gold_Naval_Base_Primary_Photo_1.png">
+</div>
 <p><em>Assembly talks on reducing waste and good housekeeping at homes.</em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Community outreach to residents to redistribute donated food items from
-students.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Clothes Recycling and Food Collection Drive.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Horticultural session by NParks and Learning Journey to Urban Farm City
-Sprouts.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Gold_Naval_Base_Primary_Photo_2.png">
+</div>
+<p><em>Community outreach to residents to redistribute donated food items from students.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Gold_Naval_Base_Primary_Photo_3.png">
+</div>
+<p><em>Clothes Recycling and Food Collection Drive.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Gold_Naval_Base_Primary_Photo_4_1.png">
+</div>
+<p><em>Horticultural session by NParks and Learning Journey to Urban Farm City Sprouts.</em>
+</p>
 <hr>
 <p><strong>Ai Tong School – Silver</strong>
 <br>The project team carried out a nine-month initiative to educate students
@@ -92,41 +69,21 @@ practices in the community.</p>
 <p>Visit the website created by the students: <a rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/atsthoughtfulnessintoilet</a>
 <br>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assembly sessions engaging the community to be thoughtful and considerate
-toilet users<em>.</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Silver_Ai_Tong_Photo_1.png">
+</div>
+<p><em>Assembly sessions engaging the community to be thoughtful and considerate toilet users.</em>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Installing self-created vinyl decals and an infrared sensor jingle player
-in the toilets to gently remind users to be considerate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Community outreach at Bishan CC using student-designed collaterals</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Silver_Ai_Tong_Photo_2.png">
+</div>
+<p><em>Installing self-created vinyl decals and an infrared sensor jingle player in the toilets to gently remind users to be considerate</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Silver_Ai_Tong_Photo_3.png">
+</div>
+<p><em>Community outreach at Bishan CC using student-designed collaterals</em>
+</p>
 <hr>
 <p><strong>Pei Hwa Presbyterian Primary School – Bronze</strong>
 </p>
@@ -146,40 +103,22 @@ to practise environmental stewardship.</p>
 schoolmates about plogging. The team gave a school-wide presentation during
 assembly and created a video showing the project progress, team reflections
 and to conclude the whole outreach.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Plogging to model the way for the community</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Running an outreach booth to promote Plogging at PassionArts Festival
-held at Clementi Firefly Park</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outreach booth to school mates during recess</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Bronze_Pei_Hwa_Photo_1.png">
+</div>
+<p><em>Plogging to model the way for the community</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Bronze_Pei_Hwa_Photo_2.png">
+</div>
+<p><em>Running an outreach booth to promote Plogging at PassionArts Festival held at Clementi Firefly Park</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/PH_Bronze_Pei_Hwa_Photo_3.png">
+</div>
+<p><em>Outreach booth to school mates during recess</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
 </div>

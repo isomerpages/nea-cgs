@@ -16,50 +16,24 @@ such as interviews and beach cleanup exercises. Through these efforts,
 they gathered valuable insights into cleanliness initiatives, community
 perceptions and underscoring the need for increased public education on
 environmental stewardship.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Engaging residents on cleanliness issues</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students interviewing a member of public to discuss on government actions
-and public cooperation needed for cleaner beaches</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Keep_Singapore_Clean_Anderson_JC_Photo_1.png">
+</div>
+<p><em>Engaging residents on cleanliness issues</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Keep_Singapore_Clean_Anderson_JC_Photo_2.png">
+</div>
+<p><em>Students interviewing a member of public to discuss on government actions and public cooperation needed for cleaner beaches</em>
+</p>
 <p>The initiative culminated in a beach cleanup where students collected
 a significant amount of litter, visibly demonstrating the impact of collective
 community efforts and serving as a practical lesson in environmental responsibility.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collective efforts to keep public spaces clean.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Keep_Singapore_Clean_Anderson_JC_Photo_3.png">
+</div>
+<p><em>Collective efforts to keep public spaces clean.</em>
+</p>
 <hr>
 <p><strong>GIG International School – </strong>2<sup>nd</sup> Prize</p>
 <p><strong>Name of video</strong>: Return Your Tray, Make Kindness the Way!</p>
@@ -72,51 +46,24 @@ public hygiene and how returning trays helped create a cleaner environment.
 The students created a video aimed to spread awareness of the importance
 of tray return as beyond keeping eating places clean but as an act of social
 responsibility, kindness to others, and respect toward cleaners.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Getting ready for the video presentation!</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Keep_Singapore_Clean_GIG_Photo_1.png">
+</div>
+<p><em>Getting ready for the video presentation!</em>
+</p>
 <p>The students planned to organise regular campaigns with reminders to engage
 the school community and foster lasting habits and a cleaner environment.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Returning Trays at eating places</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Addressing students during the school assembly on Tray Return Etiquette
-at eating places</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/GIG2V2.png">
+</div>
+<p><em>Returning Trays at eating places</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Keep_Singapore_Clean_GIG_Photo_3.png">
+</div>
+<p><em>Addressing students during the school assembly on Tray Return Etiquette at eating places</em>
+</p>
 <hr>
 <p><strong>Nan Chiau High School – </strong>3<sup>rd</sup> Prize</p>
 <p><strong>Name of Video:</strong> Sanity in Sanitation</p>
@@ -128,58 +75,24 @@ benefit the environment, the students aimed to encourage people to start
 incorporating these simple acts in their daily lives.</p>
 <p>Furthermore, through the video, the students show how one’s small negative
 action could impact the environment.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Picture File</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Caption</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students filming a scene on washing hands in the toilet.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student delivering closing remarks for the video.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/NCHS_Photo_1.png">
+</div>
+<p><em>Students filming a scene on washing hands in the toilet.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/NCHS_Photo_2.png">
+</div>
+<p><em>Student delivering closing remarks for the video.</em>&nbsp;</p>
 <p>Thus, the students wanted to bring across that every little action can
 impact the environment positively and negatively, and to encourage viewers
 to think about the consequences before acting.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students conducting litter picking at a garden.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/NCHS_Photo_3.png">
+</div>
+<p><em>Students conducting litter picking at a garden.</em>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
+</div>
 <p><strong>&nbsp;</strong>
 </p>

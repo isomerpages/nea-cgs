@@ -20,44 +20,23 @@ visits to collect recyclables and educate residents on proper recycling
 practices. They also engaged three neighbouring PCF kindergartens, teaching
 preschoolers about upcycling through crafts games such as the upcycled
 Claw-It-Up game.</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Gold_Unity_Primary_School_photo_1.png">
+</div>
 <p>SPS Mr Baey Yam Keng engaged the students in a friendly competition with
 a car race made from recyclables during the Science &amp; Green Carnival.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Gold_Unity_Primary_School_photo_2.png">
+</div>
 <p>Weekly mass recycling drive to encourage students to bring their recyclables
 in exchange for house points. Senior students on duty checked the items
 and educate their junior peers on proper recycling practices.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Gold_Unity_Primary_School_photo_3.png">
+</div>
 <p>Members of Greenovation Club, along with partnering kindergarten children,
 conducted door-to-door visits to collect recyclables and educate residents
 on recycling right and <em>dengue</em> prevention.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <p><strong>Punggol Green Primary School – Silver</strong>
 </p>
@@ -78,43 +57,23 @@ eco-friendly landmarks and explores different recycling methods. The book
 was presented to MK@Punggol Green Primary School and audiences at NLB@One
 Punggol, with accompanying activities.</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Silver_Punggol_Green_Primary_Photo_1.png">
+</div>
 <p>Assembly programme “Ally in Wanderland” by PlayInc, in collaboration with
 NParks, explores sustainability through storytelling. Ally, a screen-obsessed
 girl, tumbles into a "rabbit hole" during a hike and meets talking animal
 friends who teach her the value of greenery and our City in Nature.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Silver_Punggol_Green_Primary_Photo_2.png">
+</div>
 <p>Engaging and inspiring young minds at MOE Kindergarten@PGPS to commit
 to actions and create a positive impact on the environment!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Silver_Punggol_Green_Primary_Photo_3.png">
+</div>
 <p>Eager to showcase Pearl’s Recycling Adventure, presenting a heartwarming
 story written and illustrated by our talented students at NLB@One Punggol.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <p><strong>Mee Toh School – Bronze</strong>
 </p>
@@ -131,42 +90,22 @@ Adopt-a-Book campaign.</p>
 to remind visitors to reduce waste and set up collection points around
 the main activity areas.</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Bronze_Mee_Toh_Photo_1.png">
+</div>
 <p>Environment Champions conducted an engaging assembly talk on waste reduction.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Bronze_Mee_Toh_Photo_2.png">
+</div>
 <p>Environment Champions are stationed at the canteen area to remind students
 to wash the drink bottles / tetra paks before putting them into the recycling
 bags</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Bronze_Mee_Toh_Photo_3.png">
+</div>
 <p>Environment Champions set up interactive game booths to engage visitors
 at the Mid-Autumn Festival to raise awareness about waste reduction and
 recycling.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
