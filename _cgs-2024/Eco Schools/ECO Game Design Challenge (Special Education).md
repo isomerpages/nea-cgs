@@ -16,42 +16,21 @@ hygiene tips, highlighted common mistakes, and guided player’s movement,
 making the experience interactive and memorable. This approach encouraged
 good hygiene habits and fostered a greater understanding of maintaining
 clean public restrooms.</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Climbing to victory</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A fun way to learn about public restroom etiquette.</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students having fun playing the game.</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Celebral_Palsy_West_Photo_1.png">
+</div>
+<p><em>Climbing to victory</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Celebral_Palsy_West_Photo_2.png">
+</div>
+<p><em>A fun way to learn about public restroom etiquette.</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/Eco_Game_Design_Celebral_Palsy_West_Photo_3.png">
+</div>
+<p><em>Students having fun playing the game.</em>
+</p>
 <hr>
 <p><strong>Cerebral Palsy Alliance Singapore School (EAST) </strong>– 2<sup>nd</sup> Prize<strong>&nbsp;</strong>
 </p>
