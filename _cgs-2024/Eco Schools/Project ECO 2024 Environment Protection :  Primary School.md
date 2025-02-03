@@ -21,43 +21,24 @@ practices. They also engaged three neighbouring PCF kindergartens, teaching
 preschoolers about upcycling through crafts games such as the upcycled
 Claw-It-Up game.</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Gold_Unity_Primary_School_photo_1.png">
+</div>
 <p>SPS Mr Baey Yam Keng engaged the students in a friendly competition with
 a car race made from recyclables during the Science &amp; Green Carnival.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Gold_Unity_Primary_School_photo_2.png">
+</div>
 <p>Weekly mass recycling drive to encourage students to bring their recyclables
 in exchange for house points. Senior students on duty checked the items
 and educate their junior peers on proper recycling practices.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco 2024/EP_Gold_Unity_Primary_School_photo_3.png">
+</div>
 <p>Members of Greenovation Club, along with partnering kindergarten children,
 conducted door-to-door visits to collect recyclables and educate residents
 on recycling right and <em>dengue</em> prevention.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <hr>
 <p><strong>Punggol Green Primary School – Silver</strong>
 </p>
