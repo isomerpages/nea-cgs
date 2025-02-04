@@ -39,10 +39,10 @@ community efforts and serving as a practical lesson in environmental responsibil
 <p><strong>GIG International School – </strong>2<sup>nd</sup> Prize</p>
 <p><strong>Name of video</strong>: Return Your Tray, Make Kindness the Way!</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FKD1nI3roZ8?si=QHOpqSMud2R8RkVW"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FKD1nI3roZ8?si=Plwl7tJwe_a7FSMO"></iframe>
 </div>
-<p>&nbsp;The students observed that many of their peers assumed that cleaners
-were responsible for clearing trays from the tables at eating places.,</p>
+<p>The students observed that many of their peers assumed that cleaners were
+responsible for clearing trays from the tables at eating places.,</p>
 <p>The students reflected on how to raise awareness amongst their peers about
 public hygiene and how returning trays helped create a cleaner environment.
 The students created a video aimed to spread awareness of the importance
@@ -70,7 +70,7 @@ the school community and foster lasting habits and a cleaner environment.</p>
 <p><strong>Nan Chiau High School – </strong>3<sup>rd</sup> Prize</p>
 <p><strong>Name of Video:</strong> Sanity in Sanitation</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VLDc1VnDhY4?si=6m43T_ZQcvmlNKp3"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VLDc1VnDhY4?si=bOsS9w5OSIC_cqXH"></iframe>
 </div>
 <p>The video conveyed the importance of public hygiene through anti-littering,
 clean public toilet, and tray return. By showing how small actions could
