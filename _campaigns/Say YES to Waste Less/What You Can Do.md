@@ -56,54 +56,6 @@ third_nav_title: Say YES to Waste Less
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Educational Activity</h4>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Activity 1: Follow Wes the waste collection truck and see where your trash goes!</strong>
-<br>(<a href="/images/Say%20YES%20to%20Waste%20Less/Engagement%20Activities/nea_lrd_166374dc907654aea816db16b10423eb2.jpg" rel="noopener noreferrer nofollow" target="_blank">Click to view</a> full
-image)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="NEA LRD Issue 1" src="/images/Say YES to Waste Less/Engagement Activities/nea_lrd_issue_1_tmb_medium.jpg">
-</div>
-<p></p>
-<p><strong>Activity 2: Are you doing your part to reduce waste?</strong>
-<br>(<a href="/images/Say%20YES%20to%20Waste%20Less/Engagement%20Activities/nea_lrd_2.jpg" rel="noopener noreferrer nofollow" target="_blank">Click to view</a> full
-image)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="NEA LRD #2" src="/images/Say YES to Waste Less/Engagement Activities/nea_lrd_2_tmb_medium.jpg">
-</div>
-<p></p>
-<p><strong>Activity&nbsp;3: Circle 10 key words of actions your can take to reduce waste</strong>
-<br>(<a href="/images/Say%20YES%20to%20Waste%20Less/Engagement%20Activities/st20211012_lrd_003_00.jpg" rel="noopener noreferrer nofollow" target="_blank">Click to view</a>&nbsp;full
-image)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="LRD 3" src="/images/Say YES to Waste Less/Engagement Activities/lrd_3_tmb_medium.jpg">
-</div>
-<p></p>
-<p><strong>Activity 4: Are you an eco-warrior?</strong>
-<br>(<a href="/files/Say%20YES%20to%20Waste%20Less/nea_lrd_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Click to view</a>&nbsp;full
-image)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="NEA LRD #4" src="/images/Say YES to Waste Less/Engagement Activities/nea_lrd_4_tmb_medium.jpg">
-</div>
-<p></p>
-<p><strong>Activity 5: Spot the dos and don'ts of reducing waste</strong>
-<br>(<a href="/images/Say%20YES%20to%20Waste%20Less/Engagement%20Activities/nea_lrd_5.jpg" rel="noopener noreferrer nofollow" target="_blank">Click to view</a>&nbsp;full
-image)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="NEA LRD #5" src="/images/Say YES to Waste Less/Engagement Activities/nea_lrd_5_tmb_medium.jpg">
-</div>
-<p></p>
-<p><strong>Activity&nbsp;6: Join Captain Green to find tips to reduce waste</strong>
-<br>(<a href="/images/Say%20YES%20to%20Waste%20Less/Engagement%20Activities/cg_puzzle.png" rel="noopener noreferrer nofollow" target="_blank">Click to view</a>&nbsp;full
-image)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="CG Puzzle" src="/images/Say YES to Waste Less/Engagement Activities/cg_puzzle_tmb_medium.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <h4>Mid Autumn Colouring Activity</h4>
 </td>
 <td rowspan="1" colspan="1">
