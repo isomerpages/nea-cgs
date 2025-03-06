@@ -59,10 +59,13 @@ third_nav_title: Say YES to Waste Less
 <h4>Educational Activity</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join Captain Green to find tips to reduce waste in Singapore [<a href="/images/Say%20YES%20to%20Waste%20Less/What%20You%20Can%20Do/NEA_SYTWL_SchoolEngagement_forNEA_noBorder.jpg" rel="noopener nofollow" target="_blank">Click here for the full image</a>]</p>
+<p>Join Captain Green to find tips to reduce waste in Singapore [<a href="/images/Say%20YES%20to%20Waste%20Less%2FEngagement%20Activities/NEA_SYTWL_SchoolEngagement_forNEA_noBorder.jpg" rel="noopener nofollow" target="_blank">Click here for the full image</a>]</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Find out how to Say YES to Waste Less" src="/images/NEA_SYTWL_SchoolEngagement_forNEA_noBorder.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Engagement Activities/NEA_SYTWL_SchoolEngagement_forNEA_noBorder.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Find out how to Say YES to Waste Less" src="/images/NEA_SYTWL_SchoolEngagement_forNEA_noBorder.jpg">
 </div>
 </td>
 </tr>
