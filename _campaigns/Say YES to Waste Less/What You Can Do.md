@@ -64,9 +64,6 @@ third_nav_title: Say YES to Waste Less
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Engagement Activities/NEA_SYTWL_SchoolEngagement_forNEA_noBorder.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="Find out how to Say YES to Waste Less" src="/images/NEA_SYTWL_SchoolEngagement_forNEA_noBorder.jpg">
-</div>
 </td>
 </tr>
 <tr>
