@@ -71,8 +71,7 @@ when they use the Muuse containers for takeaway.</p>
 </div>
 <p><strong>Foreword Coffee Roasters</strong>
 </p>
-<p><a href="https://forewordcoffee.com/pages/menu" rel="noopener noreferrer nofollow" target="_blank">First Story Cafe Membership Cup</a>
-</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Receive 1x free gelato scoop and 1x free coffee upon purchasing First
