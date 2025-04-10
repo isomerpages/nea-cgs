@@ -6,9 +6,8 @@ description: The Waste Less Supermart
 third_nav_title: Say YES to Waste Less
 ---
 <h3>Join us at the <strong>Waste Less Supermart</strong> at 313@Somerset on 26 and 27 April 2025!</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Waste Less Supermart 313@Somerset 26-27 April 2025" src="/images/Say YES to Waste Less/Event_Poster___9_Apr.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Event_Poster___9_Apr_v2.jpg">
 </div>
 <h4>What can you expect?</h4>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Discover Waste Less Tips</strong> –
