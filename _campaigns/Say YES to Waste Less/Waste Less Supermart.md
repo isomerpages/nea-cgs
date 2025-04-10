@@ -24,9 +24,9 @@ systems that encourage sustainable habits. <em>(Psst. Look out for special SYTWL
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Complimentary drinks when you BYO</strong> –
 Bring your own reusable bottle or cup and redeem a Starbucks iced coffee
-or tea drink!</p>
+or tea drink! Limited quantities available.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Redeem</strong> a SYTWL collapsible
-silicone cup.</p>
+silicone cup. Limited quantities available.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Catch the live filming of our reality
 series, <strong>Waste Less? Say YES!</strong>, featuring Avery, Chen Ning,
 Germaine and Glenn Yong!</p>
