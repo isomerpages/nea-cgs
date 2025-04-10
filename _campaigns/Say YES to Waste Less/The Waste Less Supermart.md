@@ -34,6 +34,7 @@ Germaine and Glenn Yong!</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Participate in free workshops </strong>–
 Design and take home your very own handy carabiner made of bottle caps.</p>
 <h4>Can’t make it for our launch event? You can still visit the Waste Less Supermart at our roving events!</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Roving_Venues.png">
 </div>
