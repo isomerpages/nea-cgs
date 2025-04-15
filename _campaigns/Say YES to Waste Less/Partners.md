@@ -62,9 +62,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bless Community Services logo" src="/images/Say YES to Waste Less/Partners/bless_community_services_logo_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -81,8 +79,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bless.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bless Community Services</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="http://www.breadtalk.com.sg/" rel="noopener noreferrer nofollow" target="_blank">BreadTalk</a>&nbsp;</p>
