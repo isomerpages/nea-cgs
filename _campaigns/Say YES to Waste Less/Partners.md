@@ -406,9 +406,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GreenNudge-Logo-Vertical-Colour-RGB-01" src="/images/Say YES to Waste Less/Partners/greennudge_logo_vertical_colour_rgb_01_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -417,7 +415,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://food.grab.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">GrabFood</a>
+<p><a href="https://food.grab.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">Grab</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -425,8 +423,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.greennudge.sg/" rel="noopener noreferrer nofollow" target="_blank">Green Nudge</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
