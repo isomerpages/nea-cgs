@@ -15,33 +15,6 @@ to educate the public and more.</p>
 <p>If you or your organisation would like to partner with us to help the
 environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.gov.sg/61516f714e6f490012d26a7b" rel="noopener noreferrer nofollow" target="_blank">fill up the form here.</a></strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>CapitaLand</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Frasers Property Singapore</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>LendLease</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Starbucks</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -62,12 +35,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BT Logo_Color" src="/images/Say YES to Waste Less/Partners/bt_logo_color_tmb_thumb200.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -79,10 +52,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="http://www.breadtalk.com.sg/" rel="noopener noreferrer nofollow" target="_blank">BreadTalk</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.breadtalk.com.sg/" rel="noopener noreferrer nofollow" target="_blank">BreadTalk</a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -324,15 +297,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Food Junction" src="/images/Say YES to Waste Less/Partners/food_junction_3_tmb_thumb200.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -341,13 +314,13 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.foodjunction.com/" rel="noopener noreferrer nofollow" target="_blank">Food Junction</a>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
