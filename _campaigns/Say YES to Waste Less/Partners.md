@@ -15,7 +15,6 @@ to educate the public and more.</p>
 <p>If you or your organisation would like to partner with us to help the
 environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.gov.sg/61516f714e6f490012d26a7b" rel="noopener noreferrer nofollow" target="_blank">fill up the form here.</a></strong>
 </p>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -37,13 +36,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bless Community Services logo" src="/images/Say YES to Waste Less/Partners/bless_community_services_logo_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="BT Logo_Color" src="/images/Say YES to Waste Less/Partners/bt_logo_color_tmb_thumb200.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BT Logo_Color" src="/images/Say YES to Waste Less/Partners/bt_logo_color_tmb_thumb200.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -55,11 +52,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.bless.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Bless Community Services</a>
-</p>
+<p><a href="http://www.breadtalk.com.sg/" rel="noopener noreferrer nofollow" target="_blank">BreadTalk</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.breadtalk.com.sg/" rel="noopener noreferrer nofollow" target="_blank">BreadTalk</a>&nbsp;</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -302,18 +298,14 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Food Citizen Logo" src="/images/Say YES to Waste Less/Partners/food_citizen_logo_tmb_thumb200.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Food from the Heart Logo" src="/images/Say YES to Waste Less/Partners/food_from_the_heart_logo_tmb_thumb200.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Food Junction" src="/images/Say YES to Waste Less/Partners/food_junction_3_tmb_thumb200.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -322,15 +314,13 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.foodcitizen.sg/" rel="noopener noreferrer nofollow" target="_blank">Food Citizen</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.foodfromtheheart.sg/" rel="noopener noreferrer nofollow" target="_blank">Food from the Heart</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.foodjunction.com/" rel="noopener noreferrer nofollow" target="_blank">Food Junction</a>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -389,9 +379,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GreenNudge-Logo-Vertical-Colour-RGB-01" src="/images/Say YES to Waste Less/Partners/greennudge_logo_vertical_colour_rgb_01_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -400,7 +388,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://food.grab.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">GrabFood</a>
+<p><a href="https://food.grab.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">Grab</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -408,8 +396,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.greennudge.sg/" rel="noopener noreferrer nofollow" target="_blank">Green Nudge</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
