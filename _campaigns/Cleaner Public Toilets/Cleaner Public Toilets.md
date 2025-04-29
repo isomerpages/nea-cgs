@@ -17,10 +17,10 @@ becomes a victory for everyone!</p>
 We're not just scoring points for good hygiene; we're contributing to better
 public health and improving everyone's well-being.</p>
 <p>You can be a champion of cleanliness by doing these 4 winning actions
-(<strong>Clean, Flush, Dry and Bin</strong>) each time you use the toilet:</p>
+(<strong>Clean, Flush, Dry and Throw</strong>) each time you use the toilet:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keeptoilet seat <strong>CLEAN</strong>
+<p>Keep toilet seat <strong>CLEAN</strong>
 </p>
 </li>
 <li>
