@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/Sustainable Furniture by JOS.md
       - Events/Behind The Scenes of Littering Enforcement Workshop.md
       - Events/SK tes ewaste Recycling Journey.md
       - Events/.keep
