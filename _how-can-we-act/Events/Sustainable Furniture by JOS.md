@@ -12,7 +12,7 @@ third_nav_title: Events
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>JOS &amp; SUNON SHOWROOM &amp; EXPERIENCE CENTER</h4>
+<h3>JOS &amp; SUNON SHOWROOM &amp; EXPERIENCE CENTER</h3>
 </td>
 </tr>
 </tbody>
