@@ -2,6 +2,8 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/.keep
+      - Events/Events.md
       - "Events/Open My Factory: ALBA E Waste Logistics & Sorting Hub.md"
       - Events/Behind The Scenes of Hawker Centre Operations.md
       - Events/Behind The Scenes of Cemetery Services.md
@@ -10,8 +12,6 @@ collections:
       - Events/Sustainable Furniture by JOS.md
       - Events/Behind The Scenes of Littering Enforcement Workshop.md
       - Events/SK tes e waste Recycling Journey.md
-      - Events/.keep
-      - Events/Events.md
       - "Events/Open My Factory: TuasOne Waste to Energy Plant.md"
       - Events/Eco Paddle with Ola.md
       - Events/Journey into Glass Recycling with Abraclean.md
