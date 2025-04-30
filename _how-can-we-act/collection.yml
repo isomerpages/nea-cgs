@@ -2,6 +2,8 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/Behind The Scenes of Mosquito Factory for the Fight against
+        Dengue.md
       - Events/Sustainable Furniture by JOS.md
       - Events/Behind The Scenes of Littering Enforcement Workshop.md
       - Events/SK tes ewaste Recycling Journey.md
