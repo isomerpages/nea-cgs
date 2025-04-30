@@ -19,57 +19,68 @@ third_nav_title: Events
 <div class="isomer-card-link">View Details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/events/eco-paddles-with-ola/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eco Paddle with Ola" src="/images/How Can We Act/Events/Thumbnail_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eco Paddle with Ola</div><div class="isomer-card-description">Ola Beach Club, Sentosa | 18 May to 7 Dec 2025, 10:00AM - 01:00PM</div><div class="isomer-card-link">View Details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/events/journey-into-glass-recycling-with-abraclean" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/events/sustainable-furniture-by-jos/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Journey into Glass Recycling with Abraclean" src="/images/How Can We Act/Events/5_website_thumbnail_abraclean.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sustainable Furniture by JOS" src="/images/How Can We Act/Events/Thumbnail_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Journey into Glass Recycling with Abraclean</div>
-<div class="isomer-card-description">Abraclean (Asia Pacific) Pte Ltd | Saturday, 15 June - 13 July 2024, 09:30AM
-- 12:00PM</div>
-<div class="isomer-card-link">View Details</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/events/air-conditioner-recycling-and-eco-tour-at-gain-city" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Air-conditioner Recycling and Eco Tour at Gain City" src="/images/How Can We Act/Events/8_website_thumbnail_gain_city.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Air-conditioner Recycling and Eco Tour at Gain City</div><div class="isomer-card-description">Gain City Megastore @ Sungei Kadut | Saturday, 15 June - 16 November 2024, 02:00PM - 05:30PM</div><div class="isomer-card-link">View Details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/events/project-blue-wave" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Project Blue Wave" src="/images/How Can We Act/Events/10_website_thumbnail_project_blue_wave.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Project Blue Wave</div>
-<div class="isomer-card-description">Jurong Lake Gardens &amp; Marina Bay | Sunday, 16 June - 30 November 2024,
-09:30AM - 05:00PM</div>
-<div class="isomer-card-link">View Details</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-effective-refuse-management-for-vector-control" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-the-scenes: Effective Refuse Management for Vector Control" src="/images/How Can We Act/Events/2_website_thumbnail_effective_refuse_management.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-the-scenes: Effective Refuse Management for Vector Control</div><div class="isomer-card-description">Friday, 21 June - 04 July 2024, 09:00AM - 10:30PM</div><div class="isomer-card-link">View Details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/events/philips-energy-efficiency-light-lab" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Philips Energy-efficiency Light Lab" src="/images/How Can We Act/Events/7_website_thumbnail_philips_light_lab_visit.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Philips Energy-efficiency Light Lab</div>
-<div class="isomer-card-description">Philips Light Lab @ Toa Payoh | Saturday, 22 June - 14 September 2024,
+<div class="isomer-card-title">Sustainable Furniture by JOS</div>
+<div class="isomer-card-description">JOS &amp; Sunon Showroom &amp; Experience Center | 21 Jun to 15 Nov 2025,
 10:00AM - 11:30AM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/a-breath-of-fresh-air-tour-of-singapore-s-ambient-air-quality-monitoring-stations" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="A breath of fresh air: Tour of Singapore’s Ambient Air Quality Monitoring Stations" src="/images/How Can We Act/Events/4_website_thumbnail_air_quality_monitoring.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A breath of fresh air: Tour of Singapore’s Ambient Air Quality Monitoring Stations</div><div class="isomer-card-description">Yishun Neighbourhood Park | Tuesday, 25 June - 09 July 2024, 10:00AM - 11:30AM</div><div class="isomer-card-link">View Details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/events/sk-tes-e-waste-recycling-journey" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/events/journey-into-glass-recycling-with-abraclean/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Journey into Glass Recycling with Abraclean" src="/images/How Can We Act/Events/Thumbnail_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Journey into Glass Recycling with Abraclean</div><div class="isomer-card-description">Abraclean (Asia Pacific) Pte Ltd | 14 Jun to 22 Nov 2025, 09:00AM - 05:30PM</div><div class="isomer-card-link">View Details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-mosquito-factory-for-the-fight-against-dengue/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SK tes e-waste Recycling Journey" src="/images/How Can We Act/Events/6_website_thumbnail_tes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Mosquito Factory for the Fight against Dengue" src="/images/How Can We Act/Events/Thumbnail_6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Behind-The-Scenes of Mosquito Factory for the Fight against Dengue</div>
+<div class="isomer-card-description">NEA Wolbachia mosquito production facility | 14 Jun to 22 Nov 2025, 09:00
+AM - 05:30 PM&nbsp;</div>
+<div class="isomer-card-link">View Details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/events/philips-energy-efficiency-tour/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Philips Energy Efficiency Tour" src="/images/How Can We Act/Events/Thumbnail_7.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Philips Energy Efficiency Tour</div><div class="isomer-card-description">Philips Light Lab @ Toa Payoh | 7 Jun to 21 Jun 2025, 10:00 AM - 11:30 AM&nbsp; </div><div class="isomer-card-link">View Details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/sk-tes-e-waste-recycling-journey/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SK tes e-waste Recycling Journey" src="/images/How Can We Act/Events/Thumbnail_8.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">SK tes e-waste Recycling Journey</div>
-<div class="isomer-card-description">Tes-Amm (Singapore) Pte Ltd | Saturday, 29 June - 13 July 2024, 09:30AM
-- 12:00PM</div>
+<div class="isomer-card-description">Tes-Amm (Singapore) Pte Ltd | 17 May to 28 Jun 2025, 09:30 AM - 12:00
+PM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-littering-enforcement-workshop" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-the-scenes: Littering Enforcement [Workshop]" src="/images/How Can We Act/Events/1_website_thumbnail_nea_enforcement.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-the-scenes: Littering Enforcement [Workshop]</div><div class="isomer-card-description">Environment Building | Saturday, 29 June - 13 July 2024, 03:00PM - 04:30PM</div><div class="isomer-card-link">View Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-cemetery-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Cemetery Services" src="/images/How Can We Act/Events/Thumbnail_9.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-The-Scenes of Cemetery Services </div><div class="isomer-card-description">Various locations | 6 Sep to 8 Nov 2025, 10:00 AM - 12:00 PM&nbsp;</div><div class="isomer-card-link">View Details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-hawker-centre-operations/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Hawker Centre Operations" src="/images/How Can We Act/Events/Thumbnail_10.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Behind-The-Scenes of Hawker Centre Operations</div>
+<div class="isomer-card-description">Various locations | 24 May to 21 Jun 2025, 07:00 AM - 09:00 AM&nbsp;</div>
+<div class="isomer-card-link">View Details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/events/open-my-factory-tuasone-waste-to-energy-plant/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Open My Factory: TuasOne Waste-to-Energy Plant" src="/images/How Can We Act/Events/Thumbnail_11.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Open My Factory: TuasOne Waste-to-Energy Plant</div><div class="isomer-card-description">TuasOne Waste-To-Energy Plant | 30 May to 28 Nov 2025, 01:30 PM - 04:30 PM </div><div class="isomer-card-link">View Details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-cctv-surveillance-for-high-rise-littering/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Behind-the-Scenes of CCTV Surveillance for High-rise Littering" src="/images/How Can We Act/Events/Thumbnail_12.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Behind-the-Scenes of CCTV Surveillance for High-rise Littering</div>
+<div class="isomer-card-description">NEA Western Regional Office | 16 May 2025, 03:00 PM - 04:30 PM&nbsp;</div>
+<div class="isomer-card-link">View Details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/events/open-my-factory-alba-e-waste-logistics-sorting-hub/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Open My Factory: ALBA E-Waste Logistics &amp; Sorting Hub" src="/images/How Can We Act/Events/Thumbnail_13.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Open My Factory: ALBA E-Waste Logistics &amp; Sorting Hub</div><div class="isomer-card-description">ALBA E-Waste Smart Recycling Pte Ltd | 4 Jul to 7 Nov 2025, 09:30 PM - 12:30 PM&nbsp; </div><div class="isomer-card-link">View Details</div></div></a>
 </div>
 <p></p>
