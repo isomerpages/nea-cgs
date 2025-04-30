@@ -7,8 +7,8 @@ third_nav_title: Events
 ---
 <h3>BEHIND-THE-SCENES OF LITTERING ENFORCEMENT WORKSHOP</h3>
 <p>📆 7 Jun to 28 Jun 2025, 03:00 PM - 04:30 PM
-<br>📍 Environment Building
-<br>Join us for a "litter-ally" awesome workshop with our NEA enforcement
+<br>📍 Environment Building</p>
+<p>Join us for a "litter-ally" awesome workshop with our NEA enforcement
 officers, who help keep our environment clean, for everyone to enjoy!</p>
 <p>In this hands-on session, you’ll get the inside scoop on how these everyday
 heroes tackle antisocial behaviour, one litterbug at a time. It’s not just
