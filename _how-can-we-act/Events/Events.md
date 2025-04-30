@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Events
 ---
 <h3>ALL EVENTS</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-littering-enforcement-workshop/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Littering Enforcement Workshop" src="/images/How Can We Act/Events/Thumbnail_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-The-Scenes of Littering Enforcement Workshop</div><div class="isomer-card-description">nvironment Building | 7 Jun to 28 Jun 2025, 03:00PM - 04:30PM</div><div class="isomer-card-link">View Details</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-littering-enforcement-workshop/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Littering Enforcement Workshop" src="/images/How Can We Act/Events/Thumbnail_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-The-Scenes of Littering Enforcement Workshop</div><div class="isomer-card-description">Environment Building | 7 Jun to 28 Jun 2025, 03:00PM - 04:30PM</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/air-conditioner-recycling-and-eco-tour-at-gain-city/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
