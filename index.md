@@ -18,9 +18,6 @@ sections:
       button: Find out more
       url: https://www.cgs.gov.sg/youth-for-environmental-sustainability/nea-yes-leaders-programme/
       key_highlights:
-        - title: Year of Public Hygiene
-          description: Let's keep Singapore clean!
-          url: /year-of-public-hygiene/
         - title: Recycle Right
           description: Check, Clean and Recycle
           url: /recycleright/how-to-recycle-right/

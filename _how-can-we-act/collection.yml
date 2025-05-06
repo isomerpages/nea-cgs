@@ -2,21 +2,22 @@ collections:
   how-can-we-act:
     output: true
     order:
-      - "Events/Behind the scenes: Littering Enforcement (Workshop).md"
-      - Events/SK tes ewaste Recycling Journey.md
       - Events/.keep
       - Events/Events.md
-      - "Events/OPEN MY FACTORY: TUASONE WASTE TO ENERGY (INCINERATION) PLANT.md"
-      - "Events/Behind the scenes: Public Cleaning Performance Audit.md"
-      - Events/Eco Paddle with Ola.md
-      - Events/Journey into Glass Recycling with Abraclean.md
+      - Events/Behind The Scenes of Littering Enforcement Workshop.md
       - Events/Air conditioner Recycling and Eco Tour at Gain City.md
-      - Events/Project Blue Wave.md
-      - "Events/Behind the scenes: Effective Refuse Management for Vector
-        Control.md"
-      - Events/Philips Energy efficiency Light Lab.md
-      - "Events/A breath of fresh air: Tour of Singapore’s Ambient Air Quality
-        Monitoring Stations.md"
+      - Events/Eco Paddle with Ola.md
+      - Events/Sustainable Furniture by JOS.md
+      - Events/Journey into Glass Recycling with Abraclean.md
+      - Events/Behind The Scenes of Mosquito Factory for the Fight against
+        Dengue.md
+      - Events/Philips Energy Efficiency Tour.md
+      - Events/SK tes e waste Recycling Journey.md
+      - Events/Behind The Scenes of Cemetery Services.md
+      - Events/Behind The Scenes of Hawker Centre Operations.md
+      - "Events/Open My Factory: TuasOne Waste to Energy Plant.md"
+      - Events/Behind the Scenes of CCTV Surveillance for High rise Littering.md
+      - "Events/Open My Factory: ALBA E Waste Logistics & Sorting Hub.md"
       - Volunteer/.keep
       - Volunteer/Volunteer Overview.md
       - Volunteer/Volunteer Journey.md
