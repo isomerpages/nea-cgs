@@ -1,6 +1,6 @@
 ---
 title: "Open My Factory: ALBA E Waste Logistics & Sorting Hub"
-permalink: /open-my-factory-alba-e-waste-logistics-sorting-hub/
+permalink: /events/open-my-factory-alba-e-waste-logistics-sorting-hub/
 variant: tiptap
 description: "Open My Factory: ALBA E-Waste Logistics & Sorting Hub"
 third_nav_title: Events
