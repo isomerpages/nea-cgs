@@ -40,8 +40,7 @@ your knowledge on sustainable living!
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-909407130207?aff=oddtdtcreator</a>
-<a href="https://www.eventbrite.sg/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-909407130207?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
+<p><a href="https://www.eventbrite.sg/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-909407130207?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-909407130207?aff=oddtdtcreator&nbsp;</a>
 </p>
 </td>
 </tr>
