@@ -5,7 +5,7 @@ variant: tiptap
 description: Behind-the-Scenes of CCTV Surveillance for High-rise Littering
 third_nav_title: Events
 ---
-<h3>BEHIND-THE-SCENES OF CCTV SURVEILLANCE OF HIGH-RISE LITTERING </h3>
+<h3>BEHIND-THE-SCENES OF CCTV SURVEILLANCE OF HIGH-RISE LITTERING</h3>
 <p>📆 16 May 2025, 03:00 PM - 04:30 PM&nbsp;
 <br>📍 NEA Western Regional Office</p>
 <p>Ready to discover how cameras are fighting high-rise litter?</p>
@@ -16,6 +16,6 @@ you the full lowdown on how enforcement keeps our city sparkling clean.</p>
 <p>Online registration opens on 12 May 2025 at 10 AM. Don’t miss out - book
 your spot and get the inside scoop on Singapore’s high-tech, litter-busting
 superheroes!</p>
-<p><a href="https://www.eventbrite.sg/e/behind-the-scenes-effective-refuse-management-for-vector-control-tickets-909436146997" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/behind-the-scenes-of-cctv-surveillance-on-high-rise-littering-tickets-1338127919629?aff=oddtdtcreator </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/behind-the-scenes-of-cctv-surveillance-for-high-rise-littering-tickets-1338127919629?aff=oddtdtcreator</a>
 </p>
 <p></p>
