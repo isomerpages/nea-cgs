@@ -12,7 +12,12 @@ third_nav_title: Events
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>JOS &amp; SUNON SHOWROOM &amp; EXPERIENCE CENTER</h3>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Sustainable Furniture by JOS</h3>
 </td>
 </tr>
 </tbody>
