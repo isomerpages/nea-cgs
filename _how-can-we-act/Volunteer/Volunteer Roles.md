@@ -20,7 +20,7 @@ such services in a cost-effective manner and principles of auditing the
 cleaning performance of service providers. Community Auditors can submit
 their findings and observations online for NEA to conduct follow-ups with
 the service providers.</p>
-<p><strong>To participate in the Community Auditor programme, please register your interest at <a href="https://www.go.gov.sg/regint4cap" rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/regint4cap</a>.</strong>
+<p><strong>To participate in the Community Auditor programme, please register your interest at <a rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/regint4ca</a>.</strong>
 </p>
 <hr>
 <h3>Community Volunteer</h3>
