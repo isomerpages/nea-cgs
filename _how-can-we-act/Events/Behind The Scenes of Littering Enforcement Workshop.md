@@ -17,6 +17,6 @@ officer responsible for making sure everyone does their part to make Singapore�
 spaces shine.</p>
 <p>Registration opens online on 12 May 2025 at 10 AM. Don’t miss your chance
 - it’s going to be a clean sweep!</p>
-<p><a href="https://www.eventbrite.sg/e/behind-the-scenes-of-cctv-surveillance-for-high-rise-littering-tickets-1338127919629?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/behind-the-scenes-of-cctv-surveillance-for-high-rise-littering-tickets-1338127919629?aff=oddtdtcreator</a>
+<p><a href="https://www.eventbrite.sg/e/behind-the-scenes-of-littering-enforcement-workshop-tickets-909432516137" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/behind-the-scenes-of-littering-enforcement-workshop-tickets-909432516137</a>
 </p>
 <p></p>
