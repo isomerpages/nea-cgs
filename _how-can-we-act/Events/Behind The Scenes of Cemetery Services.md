@@ -16,5 +16,6 @@ are thoughtfully planned to provide a place for remembrance while addressing
 land scarcity concerns.</p>
 <p>Online registration opens in June. We hope to update with more details
 soon.</p>
+<p></p>
 <p><a href="https://mycommunity.org.sg/programmes/" rel="noopener noreferrer nofollow" target="_blank">mycommunity.org.sg/programmes/</a>
 </p>
