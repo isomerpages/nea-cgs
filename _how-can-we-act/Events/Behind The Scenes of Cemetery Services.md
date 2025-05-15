@@ -14,7 +14,7 @@ services.</p>
 behind these memorial spaces. Discover how these peaceful, accessible locations
 are thoughtfully planned to provide a place for remembrance while addressing
 land scarcity concerns.</p>
-<p>Online registration opens on 12 May 2025 at 10 AM. Don’t miss your chance
-to learn more about these serene spaces and their role in our community.</p>
+<p>Online registration opens in June. We hope to update with more details
+soon.</p>
 <p><a href="https://mycommunity.org.sg/programmes/" rel="noopener noreferrer nofollow" target="_blank">mycommunity.org.sg/programmes/</a>
 </p>
