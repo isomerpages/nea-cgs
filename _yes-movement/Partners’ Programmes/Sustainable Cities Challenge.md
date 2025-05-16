@@ -23,7 +23,7 @@ improvements. Through the competition, they will gain a deeper understanding
 of the built environment, and the impact that design and technology have
 on sustainability.</p>
 <p>Visit the Sustainable Cities Challenge microsite for more information:
-<a href="https://www.crea8sustainability.sg/about-sustainable-cities-challenge/" rel="noopener noreferrer nofollow" target="_blank">https://www.crea8sustainability.sg/about-sustainable-cities-challenge/</a>
+<a href="https://www.crea8sustainability.sg/crea8-gallery-3/sustainable-cities-challenge/" rel="noopener noreferrer nofollow" target="_blank">https://www.crea8sustainability.sg/crea8-gallery-3/sustainable-cities-challenge/</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Partners Icon Transparent" src="/images/YES/partners_icon_transparent.png">
@@ -34,4 +34,5 @@ on sustainability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="1. YES_Footer_Final" src="/images/YES/yes_footer_green_club.png">
 </div>
+<p></p>
 <p></p>
