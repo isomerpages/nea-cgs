@@ -20,7 +20,7 @@ such services in a cost-effective manner and principles of auditing the
 cleaning performance of service providers. Community Auditors can submit
 their findings and observations online for NEA to conduct follow-ups with
 the service providers.</p>
-<p><strong>To participate in the Community Auditor programme, please register your interest at <a rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/regint4ca</a>.</strong>
+<p><strong>To participate in the Community Auditor programme, please register your interest at <a href="https://www.go.gov.sg/regint4ca" rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/regint4ca</a>.</strong>
 </p>
 <hr>
 <h3>Community Volunteer</h3>
@@ -110,7 +110,7 @@ as the National Day Parade and River Hongbao.&nbsp;</p>
 public health campaigns such as Dengue Prevention, Cleaner Public Toilets
 and environmental sustainability campaigns such as Say YES to Waste Less
 and Recycle Right, as well.</p>
-<p><strong>Interested members of the public or partner organisations can sign up at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cgsambassadors</a>&nbsp;or email&nbsp;<a href="https://go.gov.sg/cleangreensingaporeambassadors" rel="noopener noreferrer nofollow" target="_blank"><u>NEA_Volunteer@nea.gov.sg</u></a>&nbsp;for further enquiries.</strong>
+<p><strong>Interested members of the public or partner organisations can sign up at&nbsp;<a href="https://go.gov.sg/cgsambassadors" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cgsambassadors</a>&nbsp;or email&nbsp;<a href="https://go.gov.sg/cleangreensingaporeambassadors" rel="noopener noreferrer nofollow" target="_blank"><u>NEA_Volunteer@nea.gov.sg</u></a>&nbsp;for further enquiries.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Volunteer roles_Footer_FA" src="/images/How Can We Act/Volunteer/volunteer_roles_footer_fa.jpg">
