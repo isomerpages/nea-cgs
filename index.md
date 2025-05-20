@@ -13,8 +13,7 @@ notification: "[SCAM ALERT] Beware of scammers impersonating NEA, or Clean &
 sections:
   - hero:
       title: Join the NEA YES Leaders Programme today.
-      background: /images/YES/YES Leaders Programme Cohort
-        3/CGS_Main_page_masthead_1200x630px_FA.png
+      background: /images/NEA_SYTWL_Mastheads_V2R1_01.jpg
       button: Find out more
       url: https://www.cgs.gov.sg/youth-for-environmental-sustainability/nea-yes-leaders-programme/
       key_highlights:
