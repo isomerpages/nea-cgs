@@ -5,6 +5,9 @@ variant: tiptap
 description: BLOCK Dengue Overview
 third_nav_title: Dengue Prevention
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Dengue Prevention Campaign Poster" src="/images/Block Dengue/DP_2025_CGS_Webpage_Poster_A4.jpg">
+</div>
 <h3>This is No Small Matter. Dengue Prevention is in Your Hands.</h3>
 <p>Remember "little mosquitoes can be lethal"? It is easy to underestimate
 something small like the <em>Aedes</em> mosquito, but the severe consequences
