@@ -360,7 +360,7 @@ third_nav_title: Dengue Prevention
 <div data-type="detailsContent" class="isomer-details-content">
 <p>2025 Dengue Prevention Campaign Poster (A2)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Dengue Prevention Campaign Poster A2" src="/images/Block Dengue/DP_2025_CGS_Webpage_Poster_A2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Dengue Prevention Campaign Poster A2" src="/images/Block Dengue/2025_Dengue_KV_A2.jpg">
 </div>
 <p><em>Right-click on image to download</em>
 <br>
