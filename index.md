@@ -12,9 +12,8 @@ notification: "[SCAM ALERT] Beware of scammers impersonating NEA, or Clean &
   https://scamalert.sg/ for more advice."
 sections:
   - hero:
-      title: Join the NEA YES Leaders Programme today.
-      background: /images/YES/YES Leaders Programme Cohort
-        3/CGS_Main_page_masthead_1200x630px_FA.png
+      title: Dengue Prevention is in Your Hands
+      background: /images/Block Dengue/Dengue_CnG_Website_Banner_1200x630__2_.jpg
       button: Find out more
       url: https://www.cgs.gov.sg/youth-for-environmental-sustainability/nea-yes-leaders-programme/
       key_highlights:
@@ -31,8 +30,9 @@ sections:
       size: sm
       backgroundColor: white
       alignment: right
-      subtitle: Just like our YES Leaders showcased here, you too could soon be
-        realising your own sustainability project with our funding and support!
+      subtitle: Our collective effort makes a big difference. Every action, no matter
+        how small it seems, contributes to reducing the risk and impact of
+        dengue in Singapore.
   - infocols:
       title: Clean & Green Singapore (CGS)
       subtitle: About
