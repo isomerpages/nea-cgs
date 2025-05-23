@@ -355,6 +355,26 @@ third_nav_title: Dengue Prevention
 <p></p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>2025 Dengue Prevention Campaign Posters</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>2025 Dengue Prevention Campaign Poster (A2)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Thumbnail for 2025 Dengue Prevention Campaign Poster A2" src="/images/Block Dengue/Resources/2025_Dengue_KV_A2.jpg">
+</div>
+<p><em>Click on image to download</em>
+<br>
+<br>2025 Dengue Prevention Campaign Poster (A4)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Thumbnail for 2025 Dengue Prevention Campaign Poster A4" src="/images/Block Dengue/Resources/2025_Dengue_KV_A4.jpg">
+</div>
+<p><em>Click on image to download</em>
+</p>
+</div>
+</details>
 </div>
 <p><strong>For more resources, please click </strong><a href="/resources/dengue/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
 </p>
