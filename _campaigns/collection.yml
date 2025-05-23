@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Dengue Prevention/.keep
-      - Dengue Prevention/Overview.md
+      - Dengue Prevention/Dengue Prevention.md
       - Dengue Prevention/Hear from our survivors.md
       - Dengue Prevention/Tips and FAQs.md
       - Dengue Prevention/Resources.md
