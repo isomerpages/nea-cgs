@@ -15,7 +15,7 @@ sections:
       title: Dengue Prevention is in Your Hands
       background: /images/Block Dengue/Dengue_CnG_Website_Banner_1200x630__2_.jpg
       button: Find out more
-      url: https://www.cgs.gov.sg/youth-for-environmental-sustainability/nea-yes-leaders-programme/
+      url: https://www.cgs.gov.sg/blockdengue/home/
       key_highlights:
         - title: Recycle Right
           description: Check, Clean and Recycle
