@@ -24,6 +24,9 @@ sections:
         - title: Volunteer With Us
           description: Sign up as a volunteer with us
           url: /how-can-we-act/volunteer/home/
+        - title: Dengue Prevention
+          description: This is no small matter
+          url: https://www.cgs.gov.sg/blockdengue/home/
       variant: floating
       size: sm
       backgroundColor: white
