@@ -356,8 +356,7 @@ third_nav_title: Dengue Prevention
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2025 Dengue Prevention Campaign Posters</strong>
-</summary>
+<summary>2025 Dengue Prevention Campaign Posters</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>2025 Dengue Prevention Campaign Poster (A2)</p>
 <div class="isomer-image-wrapper">
