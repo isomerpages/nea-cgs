@@ -368,6 +368,7 @@ third_nav_title: Dengue Prevention
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Dengue Prevention Campaign Poster A4" src="/images/Block Dengue/Resources/2025_dengue_kv_a4 thumbnail.jpg">
 </div>
+<p></p>
 <p><em>Right-click on image to download</em>
 </p>
 </div>
