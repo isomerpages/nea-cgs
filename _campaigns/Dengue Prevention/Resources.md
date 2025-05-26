@@ -5,6 +5,23 @@ variant: tiptap
 description: Resources
 third_nav_title: Dengue Prevention
 ---
+<p><strong>For more resources, please click </strong><a href="/resources/dengue/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025 Dengue Prevention Campaign Posters</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>2025 Dengue Prevention Campaign Poster (A2)</p><a class="isomer-image-wrapper" href="/images%2FBlock%20Dengue/editMediaSettings/2025_Dengue_KV_A2.jpg"><img style="width: 100%" height="auto" width="100%" alt="Thumbnail for 2025 Dengue Prevention Campaign Poster A2" src="/images/Block Dengue/2025_Dengue_KV_A2.jpg"></a>
+<p><em>Click on image to download</em>
+</p>
+<p></p>
+<p>2024 Dengue Prevention Campaign Poster (A4)</p>
+<p></p><a class="isomer-image-wrapper" href="/images%2FBlock%20Dengue/editMediaSettings/2025_Dengue_KV_A4.jpg"><img style="width: 100%" height="auto" width="100%" alt="Thumbnail for 2025 Dengue Prevention Campaign Poster A4" src="/images/Block Dengue/2025_Dengue_KV_A4.jpg"></a>
+<p><em>Click on image to download</em>
+</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2024 Dengue Prevention Campaign Video</summary>
@@ -368,7 +385,5 @@ third_nav_title: Dengue Prevention
 </div>
 </details>
 </div>
-<p><strong>For more resources, please click </strong><a href="/resources/dengue/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
-</p>
 <p></p>
 <p></p>
