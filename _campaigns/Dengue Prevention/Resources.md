@@ -6,7 +6,7 @@ description: Resources
 third_nav_title: Dengue Prevention
 ---
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2025 Dengue Prevention Campaign Posters</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -18,6 +18,27 @@ third_nav_title: Dengue Prevention
 <p></p><a class="isomer-image-wrapper" href="/files/Block%20Dengue/Resources/2025_Dengue_KV_A4.pdf"><img style="width: 100%" height="auto" width="100%" alt="Thumbnail for 2025 Dengue Prevention Campaign Poster A4" src="/images/Block Dengue/2025_Dengue_KV_A4.jpg"></a>
 <p><em>Click on image to download</em>
 </p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2025 Dengue Prevention Campaign Videos</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>2025 Dengue Prevention Campaign Video (English)</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6hrejE-FTIw?si=n_uH5IAprQChDbNK"></iframe>
+</div>
+<p>2025 Dengue Prevention Campaign Video (Malay)</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WJ-t8TskOKw?si=0Su4LRPSiPXvGVq4"></iframe>
+</div>
+<p>2025 Dengue Prevention Campaign Video (Chinese)</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iF-tPpAckaE?si=I7qXbI2oMs1CLMbF"></iframe>
+</div>
+<p>2025 Dengue Prevention Campaign Video (Tamil)</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P_6zorfUKus?si=cT-lJ_qnQ0EFDCjq"></iframe>
+</div>
 </div>
 </details>
 </div>
