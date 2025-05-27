@@ -5,51 +5,23 @@ variant: tiptap
 description: Resources
 third_nav_title: Dengue Prevention
 ---
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025 Dengue Prevention Campaign Posters</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>2025 Dengue Prevention Campaign Poster (A2)</p><a class="isomer-image-wrapper" href="/images%2FBlock%20Dengue/editMediaSettings/2025_Dengue_KV_A2.jpg"><img style="width: 100%" height="auto" width="100%" alt="Thumbnail for 2025 Dengue Prevention Campaign Poster A2" src="/images/Block Dengue/2025_Dengue_KV_A2.jpg"></a>
+<p><em>Click on image to download</em>
+</p>
+<p></p>
+<p>2024 Dengue Prevention Campaign Poster (A4)</p>
+<p></p><a class="isomer-image-wrapper" href="/images%2FBlock%20Dengue/editMediaSettings/2025_Dengue_KV_A4.jpg"><img style="width: 100%" height="auto" width="100%" alt="Thumbnail for 2025 Dengue Prevention Campaign Poster A4" src="/images/Block Dengue/2025_Dengue_KV_A4.jpg"></a>
+<p><em>Click on image to download</em>
+</p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>2024 Dengue Prevention Campaign Video</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>English</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w-vPRd1823o?si=rUUVGjYon8RobL39"></iframe>
-</div>
-<p><strong>Malay</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-s6yHDkZs3k?si=qJ4kGoQV2XOY06q4"></iframe>
-</div>
-<p><strong>Chinese</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PKBLS35F9fY?si=ndfDB6ZAbKxG6_23"></iframe>
-</div>
-<p><strong>Tamil</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UFtEFKP6wU8?si=CbHBECy7327whoC1"></iframe>
-</div>
-</div>
-</details>
-<details class="isomer-details">
-<summary>2024 Dengue Prevention Campaign Posters</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>2024 Dengue Prevention Campaign Poster (A2)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 Dengue Prevention Campaign Poster" src="/images/Block Dengue/Resources/h284185_nea_national_dengue_a4sz.jpg">
-</div>
-<p><em>Click on image to download</em>
-</p>
-<p><strong>2024 Dengue Prevention Campaign Poster (A4)</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 Dengue Prevention Campaign Poster" src="/images/Block Dengue/Resources/h284185_nea_national_dengue_a4sz.jpg">
-</div>
-<p><em>Click on image to download</em>
-</p>
-</div>
-</details>
 <details class="isomer-details">
 <summary>Dengue Survivor Videos</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -355,20 +327,7 @@ third_nav_title: Dengue Prevention
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary>2025 Dengue Prevention Campaign Posters</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>2025 Dengue Prevention Campaign Poster (A2)</p><a class="isomer-image-wrapper" href="/files%2FBlock%20Dengue%2FResources/editMediaSettings/2025_Dengue_KV_A2.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Dengue Prevention Campaign Poster A2" src="/images/Block Dengue/2025_Dengue_KV_A2.jpg"></a>
-<p><em>Right-click on image to download</em>
-<br>
-<br>2025 Dengue Prevention Campaign Poster (A4)</p><a class="isomer-image-wrapper" href="/files%2FBlock%20Dengue%2FResources/editMediaSettings/2025_Dengue_KV_A4.pdf"><img style="width: 100%" height="auto" width="100%" alt="2025 Dengue Prevention Campaign Poster A4" src="/images/Block Dengue/Resources/2025_dengue_kv_a4 thumbnail.jpg"></a>
-<p></p>
-<p><em>Right-click on image to download</em>
-</p>
-</div>
-</details>
 </div>
 <p><strong>For more resources, please click </strong><a href="/resources/dengue/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
 </p>
-<p></p>
 <p></p>
