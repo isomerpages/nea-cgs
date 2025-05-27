@@ -19,7 +19,7 @@ your dengue virus to others.</p>
 <p>Effective ingredients for mosquito repellents: Deet, Picaridin or IR3535</p>
 </li>
 </ul>
-<p>For more tips and resources, visit <a href="/BLOCK%20Dengue/overview" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For more tips and resources, visit <a href="https://www.nea.gov.sg/dengue-zika/stop-dengue-now" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <hr>
 <h3>FREQUENTLY ASKED QUESTIONS</h3>
 <p><strong>1. Is insect repellent effective in preventing bites from the Aedes mosquito?</strong>
