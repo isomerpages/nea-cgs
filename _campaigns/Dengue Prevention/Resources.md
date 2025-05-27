@@ -29,15 +29,15 @@ third_nav_title: Dengue Prevention
 </div>
 <p>2025 Dengue Prevention Campaign Video (Malay)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WJ-t8TskOKw?si=0Su4LRPSiPXvGVq4"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WJ-t8TskOKw?si=0Su4LRPSiPXvGVq4"></iframe>
 </div>
 <p>2025 Dengue Prevention Campaign Video (Chinese)</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iF-tPpAckaE?si=I7qXbI2oMs1CLMbF"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iF-tPpAckaE?si=I7qXbI2oMs1CLMbF"></iframe>
 </div>
 <p>2025 Dengue Prevention Campaign Video (Tamil)</p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P_6zorfUKus?si=cT-lJ_qnQ0EFDCjq"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P_6zorfUKus?si=cT-lJ_qnQ0EFDCjq"></iframe>
 </div>
 </div>
 </details>
