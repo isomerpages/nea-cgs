@@ -8,7 +8,7 @@ description: Clean & Green Singapore - Terms and Conditions (Social Media Contes
 <img style="width: 100%" height="auto" width="100%" alt="Scam Alert Banner" src="/images/scam_alert.png">
 </div>
 <h3>June Giveaway – Energy Efficiency - One Earth, One move – Contest T&amp;Cs</h3>
-<h4>Prize: @Hippoandpiggi Thermal Mug [1 winner] </h4>
+<h4>Prize: @Hippoandpiggi Thermal Mug [1 winner]</h4>
 <h4>Terms &amp; Conditions</h4>
 <ul>
 <li>
@@ -23,9 +23,8 @@ these Contest Terms and Conditions.</p>
 </li>
 <li>
 <p>Participants must be following @cleanandgreensingapore, like the post
-on Instagram, comment the correct number of Captain Green mascots they
-can spot, and one habit they practise to keep tables clean when dining
-at shared spaces like hawker centres</p>
+on Instagram, and comment with one thing at home that they always remember
+to turn off.</p>
 </li>
 <li>
 <p>Each participant is allowed only one submission. In case of multiple entries,
