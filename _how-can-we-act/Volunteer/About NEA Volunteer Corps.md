@@ -28,8 +28,9 @@ hygiene, as well as lead an environmentally friendly lifestyle</p>
 <p>A clean, green and sustainable environment for Singapore, supported by
 a community of active volunteers</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/faCIb3HdxFc"></iframe>
+<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MVzq8S8klLc?si=78oBCvv5uFAK4VIT"></iframe>
 </div>
+<p></p>
 <h3>Celebrating our volunteers’ contributions</h3>
 <p>The annual NEA Volunteer Corps Awards recognises and honours the commitment
 and dedication of our volunteers.</p>
