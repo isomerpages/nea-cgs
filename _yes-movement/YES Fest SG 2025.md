@@ -34,11 +34,11 @@ prizes.</p>
 </li>
 </ul>
 <p>This free festival is for all- adults, families, youths and students!
-YES Fest is a key event of the national <a rel="noopener noreferrer nofollow" target="_blank">YOUth for Environmental Sustainability (YES) Movement</a>,
-organised by the <a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency of Singapore</a> (NEA).
+YES Fest is a key event of the national <a href="https://www.cgs.gov.sg/youth-for-environmental-sustainability/about-yes/" rel="noopener nofollow" target="_blank">YOUth for Environmental Sustainability</a> (YES)
+Movement, organised by the <a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency of Singapore</a> (NEA).
 The event is co-created by NEA and members of the YES Leaders Network,
 with CapitaLand’s <a href="https://www.capitaland.com/sg/malls/funan/en.html" rel="noopener noreferrer nofollow" target="_blank">Funan</a> as venue
-partner. <a rel="noopener noreferrer nofollow" target="_blank">YES Leaders Programme</a> is
+partner. <a href="https://www.cgs.gov.sg/youth-for-environmental-sustainability/nea-yes-leaders-programme/" rel="noopener noreferrer nofollow" target="_blank">YES Leaders Programme</a> is
 an anchor programme of the YES Movement. The event is in support of SG60,
 Singapore Green Plan 2030 and Clean &amp; Green Singapore.</p>
 <h4><strong>Mission Zone: Explore YES Leaders Programme Projects Exhibition</strong></h4>
