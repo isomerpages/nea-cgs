@@ -10,7 +10,7 @@ description: The YOUth for Environmental Sustainability Festival is open to the
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/KV.jpg">
 </div>
-<h3><strong>Unleash Your Inner Eco-Hero: YOUth for Environmental Sustainability Festival </strong></h3>
+<h3><strong>Unleash Your Inner Eco-Hero: YOUth for Environmental Sustainability Festival</strong></h3>
 <p><strong>June 20-22, 2025 | Funan | Admission: Free</strong>
 </p>
 <p>A group of SG youth leaders have answered the call to combat today's climate
