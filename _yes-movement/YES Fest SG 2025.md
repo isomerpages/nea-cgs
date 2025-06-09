@@ -17,7 +17,7 @@ description: The YOUth for Environmental Sustainability Festival is open to the
 and environmental threats! Unlocking their eco-powers with the help of
 NEA's <strong>YES Leaders Programme</strong>, they have overcome many obstacles
 to become <strong>eco-heroes for greening their communities</strong>!</p>
-<p>Come join us at <strong>YOUth for Environmental Sustainability Festival (affectionally known as YES Fest!) </strong>and
+<p>Come join us at <strong>YOUth for Environmental Sustainability Festival (affectionately known as YES Fest!) </strong>and
 awaken your own inner eco-powers! Come together with family and friends,
 and embark on your very own eco-hero adventure and redeem attractive prizes:</p>
 <ul data-tight="true" class="tight">
@@ -26,7 +26,7 @@ and embark on your very own eco-hero adventure and redeem attractive prizes:</p>
 eco-points.</p>
 </li>
 <li>
-<p>Try your hands at our <strong>Gachapon prize machine</strong> for instant
+<p>Try your hand at our <strong>Gachapon prize machine</strong> for instant
 prizes.</p>
 </li>
 <li>
