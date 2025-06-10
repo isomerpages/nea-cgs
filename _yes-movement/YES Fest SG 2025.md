@@ -211,7 +211,8 @@ see waste as a useful resource.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration will start on the week of 9 June 2025.&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +234,8 @@ sustainable planet, one compost pile at a time.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration will start on the week of 9 June 2025.&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -256,7 +258,8 @@ you a resourceful leader and a true hero for your home and the environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration will start on the week of 9 June 2025.&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -265,47 +268,47 @@ you a resourceful leader and a true hero for your home and the environment.</p>
 <p><strong>ADDITIONAL NOTES</strong>
 </p>
 <p>Registration will be on a first-come, first-served basis. No walk-in participants
-will be accepted to the workshops.</p>
+will be accepted to any workshop. &nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Upon successful registration, a confirmation email will be sent to you
-within 3 working days. Registration is only confirmed upon receipt of a
-confirmation email for the workshop.</p>
+within 3 working days. Registration for any workshop is confirmed only
+upon receipt of a confirmation email from NEA.</p>
 </li>
 <li>
 <p>NEA reserves the right to cancel or modify workshop details without prior
 notice.</p>
 </li>
 <li>
-<p>Registrations for all workshops will close on 18<sup>th </sup>June 2025,
-23:59</p>
+<p>Registrations for all workshops will close on 18<sup>th&nbsp;</sup>June
+2025, 23:59</p>
 </li>
 <li>
-<p>Please arrive 15 minutes before the session and show the confirmation
+<p>Please arrive 15 minutes before the session begins and show your confirmation
 email to the organiser on-site.</p>
 </li>
 </ul>
-<p></p>
 <p><em>Parental Consent</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Children below 18 years old need to obtain parental consent for participation
-in all workshops via the registration form.</p>
+<p>Children below 18 years old need to obtain parental consent via the registration
+form for participation in any workshop.</p>
 </li>
 <li>
-<p>Where workshops allow participants age from 7 and above, all children
-between the ages of 7 to 12 years old should be accompanied by at least
-one adult.</p>
+<p>Where workshops allow participants ages 7 and above, all children between
+the ages of 7 to 12 years old should be accompanied by at least one adult.</p>
 </li>
 </ul>
 <p>&nbsp;<em>Media: Photos &amp; Videos</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>By registering for this event, you have agreed that photos and videos
-taken during the workshop can be used by the National Environment Agency
-or our appointed agency for marketing and publicity purposes.</p>
+<p>By registering for this event, you consent to you and your child(ren)/ward(s)
+being photographed and filmed during the workshop and agree that photos
+and videos taken during the workshop can be used and/or published by the
+National Environment Agency and its appointed agencies for documentation
+and publicity purposes.</p>
 </li>
 </ul>
 <p></p>
