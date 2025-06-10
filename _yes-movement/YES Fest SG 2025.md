@@ -118,7 +118,8 @@ as a useful resource.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration will start on the week of 9 June 2025.&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +142,8 @@ help build a more sustainable future, one painted carton at a time.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration will start on the week of 9 June 2025.&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +165,8 @@ health and the environment by reducing waste.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration will start on the week of 9 June 2025.&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+</p>
 </td>
 </tr>
 </tbody>
