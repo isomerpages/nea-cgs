@@ -118,7 +118,7 @@ as a useful resource.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -142,7 +142,7 @@ help build a more sustainable future, one painted carton at a time.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -165,7 +165,7 @@ health and the environment by reducing waste.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -214,7 +214,7 @@ see waste as a useful resource.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -237,7 +237,7 @@ sustainable planet, one compost pile at a time.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
@@ -261,7 +261,7 @@ you a resourceful leader and a true hero for your home and the environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">https://go.gov.sg/YESFest25Workshop</a>
+<p><a href="https://go.gov.sg/YESFest25Workshop" rel="noopener nofollow" target="_blank">Register here</a>
 </p>
 </td>
 </tr>
