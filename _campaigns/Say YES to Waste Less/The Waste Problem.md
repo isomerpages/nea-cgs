@@ -107,9 +107,9 @@ it.</p>
 </div>
 <hr>
 <h2>Reducing Disposables</h2>
-<p>Every year, we discard around 200,000 million tonnes of disposables. At
-the current rate of waste disposal, our only landfill, Semakau Landfill,
-will be fully filled by 2035. We can’t go on like this.</p>
+<p>Every year, we discard around 200,000 tonnes of disposables. At the current
+rate of waste disposal, our only landfill, Semakau Landfill, will be fully
+filled by 2035. We can’t go on like this.</p>
 <p>Our national goal is to reduce the amount of waste sent to Semakau Landfill
 by 30 per cent per capita per day by 2030. Under the <a href="https://www.greenplan.gov.sg/targets" rel="noopener noreferrer nofollow" target="_blank">Singapore Green Plan 2030 (SGP)</a>,
 we are frontloading this to achieve a 20 per cent reduction in waste-to-landfill
