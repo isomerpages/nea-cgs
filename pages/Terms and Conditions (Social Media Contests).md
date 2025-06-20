@@ -72,8 +72,8 @@ prizes with items of similar value without prior notice.</p>
 associated with, Instagram.</p>
 </li>
 <li>
-<p><strong>[1 winner]</strong> will be announced on the contest post, as a
-new comment.</p>
+<p><strong>[3 winners]</strong> will be announced on the contest post, as
+a new comment.</p>
 </li>
 <li>
 <p>The winner will be asked to direct message Clean &amp; Green Singapore
