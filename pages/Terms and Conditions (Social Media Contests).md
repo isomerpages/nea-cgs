@@ -8,7 +8,7 @@ description: Clean & Green Singapore - Terms and Conditions (Social Media Contes
 <img style="width: 100%" height="auto" width="100%" alt="Scam Alert Banner" src="/images/scam_alert.png">
 </div>
 <h3>June Giveaway – Energy Efficiency - One Earth, One move – Contest T&amp;Cs</h3>
-<h4>Prize: @Hippoandpiggi Thermal Mug [1 winner]</h4>
+<h4>Prize: @Hippoandpiggi Thermal Mug [3 winner]</h4>
 <h4>Terms &amp; Conditions</h4>
 <ul>
 <li>
@@ -16,7 +16,7 @@ description: Clean & Green Singapore - Terms and Conditions (Social Media Contes
 these Contest Terms and Conditions.</p>
 </li>
 <li>
-<p>The contest period runs from 5 June to 19 June 2025, both dates inclusive.</p>
+<p>The contest period runs from 19 June to 26 June 2025, both dates inclusive.</p>
 </li>
 <li>
 <p>Only entries that fulfil the contest criteria will be eligible.</p>
@@ -72,8 +72,8 @@ prizes with items of similar value without prior notice.</p>
 associated with, Instagram.</p>
 </li>
 <li>
-<p><strong>[1 winner]</strong> will be announced on the contest post, as a
-new comment.</p>
+<p><strong>[3 winners]</strong> will be announced on the contest post, as
+a new comment.</p>
 </li>
 <li>
 <p>The winner will be asked to direct message Clean &amp; Green Singapore
