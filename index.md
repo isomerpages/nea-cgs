@@ -6,11 +6,9 @@ description: Clean and Green Singapore (CGS) aims to inspire Singaporeans to
   sustainable lifestyle.
 image: /images/Templates/nea_logo_lock_up.png
 permalink: /
-notification: "[ALERT] Beware of scammers impersonating NEA, or Clean & Green
-  Singapore (CGS). Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call or ask for personal and
-  sensitive information such as bank account or credit card details. Call the
-  24/7 ScamShield Helpline at 1799 if you are unsure if something is a scam."
+notification: "[ALERT] Govt officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 to check if something is a scam."
 sections:
   - hero:
       title: Dengue Prevention is in Your Hands
