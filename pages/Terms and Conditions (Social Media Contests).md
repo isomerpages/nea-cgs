@@ -16,7 +16,7 @@ description: Clean & Green Singapore - Terms and Conditions (Social Media Contes
 these Contest Terms and Conditions.</p>
 </li>
 <li>
-<p>The contest period runs from 19 June to 26 June 2025, both dates inclusive.</p>
+<p>The contest period runs from 5 June to 26 June 2025, both dates inclusive.</p>
 </li>
 <li>
 <p>Only entries that fulfil the contest criteria will be eligible.</p>
