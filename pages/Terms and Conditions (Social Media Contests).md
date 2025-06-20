@@ -8,7 +8,7 @@ description: Clean & Green Singapore - Terms and Conditions (Social Media Contes
 <img style="width: 100%" height="auto" width="100%" alt="Scam Alert Banner" src="/images/scam_alert.png">
 </div>
 <h3>June Giveaway – Energy Efficiency - One Earth, One move – Contest T&amp;Cs</h3>
-<h4>Prize: @Hippoandpiggi Thermal Mug [1 winner]</h4>
+<h4>Prize: @Hippoandpiggi Thermal Mug [3 winner]</h4>
 <h4>Terms &amp; Conditions</h4>
 <ul>
 <li>
