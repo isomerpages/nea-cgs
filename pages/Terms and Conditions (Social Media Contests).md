@@ -136,9 +136,8 @@ these Contest Terms and Conditions.</p>
 <p>Only entries that fulfil the contest criteria will be eligible.</p>
 </li>
 <li>
-<p>Participants must be following @cleanandgreensingapore, like the post
-on Instagram, and comment with one thing at home that they always remember
-to turn off.</p>
+<p>Participants must be following @cleanandgreensg, like the post on Instagram,
+and comment with one thing at home that they always remember to turn off.</p>
 </li>
 <li>
 <p>Each participant is allowed only one submission. In case of multiple entries,
@@ -253,10 +252,10 @@ these Contest Terms and Conditions.</p>
 <p>Only entries that fulfil the contest criteria will be eligible.</p>
 </li>
 <li>
-<p>Participants must be following @cleanandgreensingapore, like the post
-on Instagram, comment the correct number of Captain Green mascots they
-can spot, and one habit they practise to keep tables clean when dining
-at shared spaces like hawker centres</p>
+<p>Participants must be following @cleanandgreensg, like the post on Instagram,
+comment the correct number of Captain Green mascots they can spot, and
+one habit they practise to keep tables clean when dining at shared spaces
+like hawker centres</p>
 </li>
 <li>
 <p>Each participant is allowed only one submission. In case of multiple entries,
