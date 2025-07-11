@@ -22,9 +22,8 @@ these Contest Terms and Conditions.</p>
 <p>Only entries that fulfil the contest criteria will be eligible.</p>
 </li>
 <li>
-<p>Participants must be following @cleanandgreensingapore, like the post
-on Instagram, and comment the correct number of recyclables spotted on
-the poster.</p>
+<p>Participants must be following @cleanandgreensg, like the post on Instagram,
+and comment the correct number of recyclables spotted on the poster.</p>
 </li>
 <li>
 <p>Each participant is allowed only one submission. In case of multiple entries,
