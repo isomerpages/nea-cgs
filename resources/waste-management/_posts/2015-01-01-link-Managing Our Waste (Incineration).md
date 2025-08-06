@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.mse.gov.sg/policies/clean-land
+external: https://www.mse.gov.sg/policies/waste-management
 ---
