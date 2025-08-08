@@ -16,7 +16,7 @@ becomes a victory for everyone!</p>
 <p>Join our winning streak by keeping public toilets clean and pleasant.
 We're not just scoring points for good hygiene; we're contributing to better
 public health and improving everyone's well-being.</p>
-<p>You can be a champion of cleanliness by doing these 4 winning actions
+<p>You can be a champion of cleanliness by doing these four winning actions
 (<strong>Clean, Flush, Dry and Throw</strong>) each time you use the toilet
 :</p>
 <ul data-tight="true" class="tight">
