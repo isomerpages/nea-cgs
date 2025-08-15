@@ -2,9 +2,9 @@ collections:
   how-can-we-act:
     output: true
     order:
-      - Events/Blue Ocean, Green Actions.md
       - Events/.keep
       - Events/Events.md
+      - Events/Blue Ocean, Green Actions.md
       - Events/Behind The Scenes of Littering Enforcement Workshop.md
       - Events/Air conditioner Recycling and Eco Tour at Gain City.md
       - Events/Eco Paddle with Ola.md
