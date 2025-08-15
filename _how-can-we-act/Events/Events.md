@@ -82,5 +82,17 @@ PM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/events/open-my-factory-alba-e-waste-logistics-sorting-hub/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Open My Factory: ALBA E-Waste Logistics &amp; Sorting Hub" src="/images/How Can We Act/Events/Thumbnail_13.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Open My Factory: ALBA E-Waste Logistics &amp; Sorting Hub</div><div class="isomer-card-description">ALBA E-Waste Smart Recycling Pte Ltd | 4 Jul to 7 Nov 2025, 09:30 PM - 12:30 PM&nbsp;</div><div class="isomer-card-link">View Details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="oceanarium" src="/images/How Can We Act/Events/SGO_HammerheadShark.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Blue Ocean, Green Actions</div>
+<div class="isomer-card-description">Singapore Oceanarium | 13 Sep - 21 Dec, 10am to 11.30am</div>
+<div class="isomer-card-link">View details</div>
+</div>
+</a>
 </div>
 <p></p>
