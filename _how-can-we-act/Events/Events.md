@@ -85,7 +85,7 @@ PM</div>
 <a rel="noopener noreferrer nofollow" href="/events/blue-ocean-green-actions" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="oceanarium" src="/images/How Can We Act/Events/SGO_HammerheadShark.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="oceanarium" src="/images/Thumbnail_for_Calendar_of_event_on_SGO.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
