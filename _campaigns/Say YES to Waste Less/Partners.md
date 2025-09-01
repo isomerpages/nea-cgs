@@ -239,9 +239,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CISingapore Grey-Horizontal" src="/images/Say YES to Waste Less/Partners/cisingapore_grey_horizontal_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -261,8 +259,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.conservation.org/singapore" rel="noopener noreferrer nofollow" target="_blank">Conservation International Singapore</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.currytimes.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Curry Times</a>
@@ -417,7 +414,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forewordcoffee.com/" rel="noopener noreferrer nofollow" target="_blank">Foreword Coffee Roasters</a>
+<p><a href="https://forewordcoffee.com/" rel="noopener noreferrer nofollow" target="_blank">Foreword Coffee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
