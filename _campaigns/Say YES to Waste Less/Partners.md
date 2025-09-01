@@ -362,6 +362,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Food_Bank_Singapore.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -376,7 +379,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p><a href="https://www.foodjunction.com/" rel="noopener noreferrer nofollow" target="_blank">Food Junction</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://foodbank.sg/" rel="noopener nofollow" target="_blank">Food Bank Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
