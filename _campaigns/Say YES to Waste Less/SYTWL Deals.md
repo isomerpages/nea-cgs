@@ -69,10 +69,14 @@ when they use the Muuse containers for takeaway.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Foreword Coffee Roasters" src="/images/Say YES to Waste Less/SYTWL Deals/roasters___black_horizontal_tmb_thumb160.png">
 </div>
-<p><strong>Foreword Coffee Roasters</strong>
+<p><a href="https://forewordcoffee.com/" rel="noopener nofollow" target="_blank">Foreword Coffee</a>
 </p>
 <p></p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Customers who bring their own cups enjoy a 10% discount on drinks at any
+of their cafes.</p>
+</li>
 <li>
 <p>Receive 1x free gelato scoop and 1x free coffee upon purchasing First
 Story Cafe reusable cup&nbsp;</p>
@@ -83,9 +87,8 @@ the First Story Cafe reusable cup for takeaway orders</p>
 </li>
 <li>
 <p>Customers are entitled to 1x free gelato scoop OR free coffee upon collection
-of 8 stamps on their loyalty card
-<br>
-</p>
+of 8 stamps on their loyalty card</p>
+<p></p>
 </li>
 </ul>
 <p>Promotion applicable for takeaways at their flagship cafe in Serangoon
@@ -309,12 +312,16 @@ to offset their shopping purchase or carpark charges.</p>
 </div>
 <p><strong><a href="https://thesustainabilityproject.life/shop/" rel="noopener noreferrer nofollow" target="_blank">The Sustainability Project</a></strong>
 </p>
-<p>From 18 May to 24 June 2024:</p>
+<p>From 13 Sep to 12 Oct 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enjoy 10% off their Bring Your Own (BYO) items (i.e. Bento box, Stojo
-range, Sol cups/bottles, reusable bubble tea cup and stashers)
-<br>Use the promo code SYTWL.</p>
+range, Sol cups/bottles, reusable bubble tea cup and stashers)</p>
+</li>
+<li>
+<p>Buy 1 ticket, bring 1 friend for free for Beeswax wrap and T-shirt tote
+bag workshops
+<br>Use the promo code "SYTWL"</p>
 </li>
 </ul>
 </td>
@@ -335,9 +342,9 @@ customers bring their own cup.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="treatsure" src="/images/Say YES to Waste Less/SYTWL Deals/treatsure_logo_rgb_tmb_thumb160.png">
 </div>
-<p><strong>treatsure</strong>
+<p><a href="https://www.treatsure.co/" rel="noopener nofollow" target="_blank">Treatsure</a>
 </p>
-<p>Enjoy 50-cents off your meal with treatsure's resusable box at over 10
+<p>Enjoy 50-cents off your meal with treatsure's resusable box at over 20
 hotels and restaurant partner locations.</p>
 <p>Consumers who bring their own bag to self-pickup surplus groceries from
 their 7 Tanjong Pagar Plaza concept store will receive a free gift.</p>
@@ -350,11 +357,12 @@ their 7 Tanjong Pagar Plaza concept store will receive a free gift.</p>
 </div>
 <p><strong><a href="https://unpackt.com.sg/" rel="noopener noreferrer nofollow" target="_blank">UnPackt</a></strong>
 </p>
-<p>From 14 May - 24 June 2024:</p>
+<p>From 13 Sep to 12 Oct 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Enjoy 10% off cafe menu for customers who bring their own reusable containers
+<p>Enjoy 10% off BYO items for customers who bring their own reusable containers
 <br>Promotion applicable for takeaways.</p>
+<p>Use the promo code "SYTWL"</p>
 </li>
 </ul>
 </td>
