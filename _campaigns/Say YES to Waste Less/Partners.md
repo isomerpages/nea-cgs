@@ -41,6 +41,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Bedok_CC.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -55,7 +58,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p><a href="http://www.breadtalk.com.sg/" rel="noopener noreferrer nofollow" target="_blank">BreadTalk</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/weluvbedok/" rel="noopener nofollow" target="_blank">Bedok Grassroots Organisations</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -70,14 +74,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MUJI Cafe and Meal" src="/images/Say YES to Waste Less/Partners/muji_cafe_and_meal___k100_02_tmb_thumb200.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CapitaLand logo (RGB)" src="/images/Say YES to Waste Less/Partners/capitaland_logo__rgb__tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,10 +90,47 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Brickland-Tengah Grassroots Organisations</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.caritas-singapore.org/" rel="noopener nofollow" target="_blank">Caritas Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MUJI Cafe and Meal" src="/images/Say YES to Waste Less/Partners/muji_cafe_and_meal___k100_02_tmb_thumb200.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CapitaLand logo (RGB)" src="/images/Say YES to Waste Less/Partners/capitaland_logo__rgb__tmb_thumb200.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="http://cafemeal.muji.com/sg/" rel="noopener noreferrer nofollow" target="_blank">Café Muji &amp; Meal</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.capitaland.com/" rel="noopener noreferrer nofollow" target="_blank">CapitaLand</a>&nbsp;</p>
+<p><a href="https://www.capitaland.com/" rel="noopener noreferrer nofollow" target="_blank">CapitaLand</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
