@@ -431,25 +431,36 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Fridgerestock.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gardenia Logo" src="/images/Say YES to Waste Less/Partners/gardenia_logo_tmb_thumb200.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Grab_Final_Master_Logo_2019_RGB_(green)" src="/images/Say YES to Waste Less/Partners/grab_final_master_logo_2019_rgb__green__tmb_thumb200.png">
 </div>
+<p><a href="https://www.frc.sg/" rel="noopener nofollow" target="_blank"><u>Fridge Restock Community SG</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GPCH_Logo_2021-V_EN_Pantone_1C" src="/images/Say YES to Waste Less/Partners/gpch_logo_2021_v_en_pantone_1c_tmb_thumb200.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.frc.sg/" rel="noopener nofollow" target="_blank"><u>Fridge Restock Community SG</u></a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://gardenia.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Gardenia</a>
 </p>
@@ -459,11 +470,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.parkhotelgroup.com/singapore/grand-park-city-hall/" rel="noopener noreferrer nofollow" target="_blank">Grand Park City Hall</a>
+<p><a href="https://www.parkhotelgroup.com/singapore/grand-park-city-hall/" rel="noopener noreferrer nofollow" target="_blank"><u>Grand Park City Hall</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -490,7 +498,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://greensproutzsg.com/" rel="noopener noreferrer nofollow" target="_blank">Green Sproutz Singapore</a>
+<p><a href="https://www.parkhotelgroup.com/singapore/grand-park-city-hall/" rel="noopener noreferrer nofollow" target="_blank"><u>Grand Park City HallGrand Park City Hall</u></a>
+<a href="https://greensproutzsg.com/" rel="noopener noreferrer nofollow" target="_blank">Green Sproutz Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
