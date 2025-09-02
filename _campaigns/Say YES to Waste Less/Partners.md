@@ -523,6 +523,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Green_Sproutz_Singapore.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -537,7 +540,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://greensproutzsg.com/" rel="noopener nofollow" target="_blank">Green Sproutz Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1388,4 +1392,5 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://greensproutzsg.com/" rel="noopener nofollow" target="_blank">Green Sproutz Singapore</a>
+</p>
