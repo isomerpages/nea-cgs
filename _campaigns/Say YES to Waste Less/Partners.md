@@ -446,8 +446,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Grab_Final_Master_Logo_2019_RGB_(green)" src="/images/Say YES to Waste Less/Partners/grab_final_master_logo_2019_rgb__green__tmb_thumb200.png">
 </div>
-<p><a href="https://www.frc.sg/" rel="noopener nofollow" target="_blank"><u>Fridge Restock Community SG</u></a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -513,6 +512,38 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <td rowspan="1" colspan="1">
 <p><a href="https://www.greensquare.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Greensquare</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Green_Nudge.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.greennudge.sg/" rel="noopener nofollow" target="_blank">Green Nudge</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
