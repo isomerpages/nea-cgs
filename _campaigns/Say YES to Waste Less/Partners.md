@@ -948,8 +948,14 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/NTUC_Health_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NWCDC Logo Colour_high res" src="/images/Say YES to Waste Less/Partners/nwcdc_logo_colour_high_res_tmb_thumb200.jpg">
+</div>
 <p></p>
 </td>
 </tr>
@@ -962,50 +968,54 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p>Nee Soon East Community Club Management Committee (CCMC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://ntuchealth.sg/" rel="noopener nofollow" target="_blank">NTUC Health</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="http://northwest.cdc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">North West Community Development Council</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NWCDC Logo Colour_high res" src="/images/Say YES to Waste Less/Partners/nwcdc_logo_colour_high_res_tmb_thumb200.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NWCDC Logo Colour_high res" src="/images/Say YES to Waste Less/Partners/nwcdc_logo_colour_high_res_tmb_thumb200.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Novotel Singapore on Kitchener Logo_PNG" src="/images/Say YES to Waste Less/Partners/novotel_singapore_on_kitchener_logo_png_tmb_thumb200.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OCK Hori Hi-res" src="/images/Say YES to Waste Less/Partners/ock_hori_hi_res_tmb_thumb200.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OneFarrer Logo_AI File_2018-01 (1)" src="/images/Say YES to Waste Less/Partners/onefarrer_logo_ai_file_2018_01__1__tmb_thumb200.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="http://northwest.cdc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">North West CDC</a>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://all.accor.com/hotel/C269/index.en.shtml" rel="noopener noreferrer nofollow" target="_blank">NOVOTEL Singapore on Kitchener</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.oldchangkee.com/" rel="noopener noreferrer nofollow" target="_blank">Old Chang Kee</a>
+<p><a href="https://www.oldchangkee.com/" rel="noopener noreferrer nofollow" target="_blank">Old Chang Ke</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.onefarrer.com/" rel="noopener noreferrer nofollow" target="_blank">One Farrer Hotel</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
