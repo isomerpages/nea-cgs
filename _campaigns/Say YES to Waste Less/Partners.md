@@ -551,7 +551,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://hfcsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">Hotel Fort Canning</a>
-<a href="https://www.instagram.com/theismailisea" rel="noopener nofollow" target="_blank">Ismaili CIVIC</a>
 </p>
 </td>
 </tr>
@@ -573,6 +572,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ismaili CIVIC logo" src="/images/Say YES to Waste Less/Partners/ismaili_civic_logo_tmb_thumb200.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -589,7 +591,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.instagram.com/theismailisea" rel="noopener nofollow" target="_blank">Ismaili CIVIC</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -609,14 +612,13 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ismaili CIVIC logo" src="/images/Say YES to Waste Less/Partners/ismaili_civic_logo_tmb_thumb200.png">
-</div>
+<p><a href="http://www.joandstitch.com/" rel="noopener nofollow" target="_blank"><u>Jo&amp;Stitch</u></a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ikea.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">IKEA</a>
+<p><a href="https://www.ikea.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">EKE</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -628,15 +630,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/theismailisea" rel="noopener noreferrer nofollow" target="_blank"><u>Ismaili CIVIC</u></a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="James Cook" src="/images/Say YES to Waste Less/Partners/james_cook_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
