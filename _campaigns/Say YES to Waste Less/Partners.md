@@ -591,8 +591,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/theismailisea" rel="noopener nofollow" target="_blank">Ismaili CIVIC</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -612,14 +611,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.joandstitch.com/" rel="noopener nofollow" target="_blank"><u>Jo&amp;Stitch</u></a>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Jo_Stitch_Logo.jpg">
+</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ikea.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">EKE</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://singapore.intercontinental.com/" rel="noopener noreferrer nofollow" target="_blank">InterContinental Singapore</a>
@@ -630,7 +630,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="http://www.joandstitch.com/" rel="noopener nofollow" target="_blank">Jo&amp;Stitch</a>
+</p>
 </td>
 </tr>
 <tr>
