@@ -904,9 +904,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/National_Council_of_Churches_Singapore.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/NKF_Logo_Transparent__PNG_.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -915,7 +921,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://northeast.cdc.gov.sg/programmes/sustainability/north-east-green-adventure/" rel="noopener noreferrer nofollow" target="_blank"><u>North East CDC</u></a>
+<p><a href="https://northeast.cdc.gov.sg/programmes/sustainability/north-east-green-adventure/" rel="noopener nofollow" target="_blank">North East Commnity Development Council</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -925,6 +931,41 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <td rowspan="1" colspan="1">
 <p><a href="https://nkfs.org/" rel="noopener nofollow" target="_blank">National Kidney Foundation</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Naval_Base_Secondary_School.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Nee_Soon_East_CCMC.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.navalbasesec.moe.edu.sg/" rel="noopener nofollow" target="_blank"><u>Naval Base Secondary School</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nee Soon East Community Club Management Committee (CCMC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1492,3 +1533,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p><a href="https://greensproutzsg.com/" rel="noopener nofollow" target="_blank">Green Sproutz Singapore</a>
 <a href="https://www.instagram.com/greensg_collab/" rel="noopener nofollow" target="_blank">GreenSG Collab</a><a href="https://www.ikea.com/sg/en/" rel="noopener nofollow" target="_blank">IKEA</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/National_Council_of_Churches_Singapore.png">
+</div>
+<p></p>
