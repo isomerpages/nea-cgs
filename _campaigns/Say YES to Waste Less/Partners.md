@@ -531,6 +531,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hotel Fort Canning" src="/images/Say YES to Waste Less/Partners/hotel_fort_canning_tmb_thumb200.jpg">
+</div>
 <p></p>
 </td>
 </tr>
@@ -544,10 +547,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hoong Kah North Grassroots Organisations</p>
+<p>Hong Kah North Grassroots Organisations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://hfcsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">Hotel Fort Canning</a>
+<a href="https://www.instagram.com/theismailisea" rel="noopener nofollow" target="_blank">Ismaili CIVIC</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -567,9 +572,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hotel Fort Canning" src="/images/Say YES to Waste Less/Partners/hotel_fort_canning_tmb_thumb200.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -586,8 +589,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://hfcsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">Hotel Fort Canning</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -626,7 +628,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/theismailisea" rel="noopener noreferrer nofollow" target="_blank"><u>Ismaili CIVIC</u></a>
+<p><a href="https://www.facebook.com/theismailisea" rel="noopener noreferrer nofollow" target="_blank"><u>Ismaili CIVIC</u></a>
 </p>
 </td>
 </tr>
