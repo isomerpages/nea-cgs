@@ -865,8 +865,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="North East CDC Logo" src="/images/Say YES to Waste Less/Partners/north_east_cdc_logo_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Methodist_Welfare_Services.png">
 </div>
 </td>
 </tr>
@@ -884,7 +885,45 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://northeast.cdc.gov.sg/programmes/sustainability/north-east-green-adventure/" rel="noopener noreferrer nofollow" target="_blank">North East CDC</a>
+<p><a href="https://mws.sg/" rel="noopener nofollow" target="_blank">Methodist Welfare Services</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/My_Naked_Bar_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="North East CDC Logo" src="/images/Say YES to Waste Less/Partners/north_east_cdc_logo_tmb_thumb200.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.mynakedbar.com/" rel="noopener nofollow" target="_blank"><u>My Naked Bar</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://northeast.cdc.gov.sg/programmes/sustainability/north-east-green-adventure/" rel="noopener noreferrer nofollow" target="_blank"><u>North East CDC</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.nccs.org.sg/" rel="noopener nofollow" target="_blank">National Council of Churches of Singapore (NCCS)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://nkfs.org/" rel="noopener nofollow" target="_blank">National Kidney Foundation</a>
 </p>
 </td>
 </tr>
