@@ -104,20 +104,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MUJI Cafe and Meal" src="/images/Say YES to Waste Less/Partners/muji_cafe_and_meal___k100_02_tmb_thumb200.jpg">
 </div>
@@ -1141,6 +1127,34 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <td rowspan="1" colspan="1">
 <p><a href="https://peace-of-art.sg/" rel="noopener noreferrer nofollow" target="_blank">Peace of Art SG</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
