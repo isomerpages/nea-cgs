@@ -1139,7 +1139,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://peace-of-art.sg/" rel="noopener noreferrer nofollow" target="_blank">Peace of Art</a>
+<p><a href="https://peace-of-art.sg/" rel="noopener noreferrer nofollow" target="_blank">Peace of Art SG</a>
 </p>
 </td>
 </tr>
