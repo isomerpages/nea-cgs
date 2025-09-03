@@ -1008,7 +1008,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.oldchangkee.com/" rel="noopener noreferrer nofollow" target="_blank">Old Chang Ke</a>
+<p><a href="https://www.oldchangkee.com/" rel="noopener noreferrer nofollow" target="_blank">Old Chang Kee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
