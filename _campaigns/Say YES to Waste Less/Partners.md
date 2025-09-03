@@ -769,9 +769,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/MASJID_AL_TAQUA.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Masjid_Darul_Ghufran.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -786,10 +792,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.altaquamosque.sg/" rel="noopener nofollow" target="_blank">Masjid Al-Taqua</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://darulghufran.org/" rel="noopener nofollow" target="_blank"><u>Masjid Darul Ghufran</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.m1.com.sg/" rel="noopener noreferrer nofollow" target="_blank">M1 Limited</a>
