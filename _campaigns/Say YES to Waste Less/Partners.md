@@ -646,14 +646,16 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lendlease" src="/images/Say YES to Waste Less/Partners/lendlease_tmb_ze_150_150.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Kampong_Chai_Chee_Logo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LepakInSG Logo" src="/images/Say YES to Waste Less/Partners/lepakinsg_logo_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="LiHO TEA Logo" src="/images/Say YES to Waste Less/Partners/liho_tea_logo_tmb_thumb200.png">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -666,33 +668,38 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.lendlease.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Lendlease</a>
+<p></p>
+<p><a href="https://www.facebook.com/PingAnGreen" rel="noopener nofollow" target="_blank">Kampong Chai Chee Grassroots Organisations </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://lepakinsg.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">LepakInSG</a>
+<p><a href="https://royaltgroup.com/our-brands/liho.html" rel="noopener noreferrer nofollow" target="_blank">LiHO TEA</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LeVeL33 logo" src="/images/Say YES to Waste Less/Partners/level33_logo_tmb_thumb200.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LiHO TEA Logo" src="/images/Say YES to Waste Less/Partners/liho_tea_logo_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="Lendlease" src="/images/Say YES to Waste Less/Partners/lendlease_tmb_ze_150_150.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LepakInSG Logo" src="/images/Say YES to Waste Less/Partners/lepakinsg_logo_tmb_thumb200.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Locaba logo" src="/images/Say YES to Waste Less/Partners/locaba_logo_tmb_thumb200.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LOREAL_0088982_ORI" src="/images/Say YES to Waste Less/Partners/loreal_0088982_ori_tmb_thumb200.jpg">
 </div>
 </td>
 </tr>
@@ -702,12 +709,43 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://royaltgroup.com/our-brands/liho.html" rel="noopener noreferrer nofollow" target="_blank">LiHO TEA</a>
+<p><a href="https://www.lendlease.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Lendlease</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://locaba.sg/" rel="noopener noreferrer nofollow" target="_blank">Locaba Bakery</a>
+<p><a href="https://lepakinsg.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">LepakInSG</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://locaba.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Locaba BakerMoLocaba Bakery</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LOREAL_0088982_ORI" src="/images/Say YES to Waste Less/Partners/loreal_0088982_ori_tmb_thumb200.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.loreal.com/en/singapore/" rel="noopener noreferrer nofollow" target="_blank">L'Oreal</a>
