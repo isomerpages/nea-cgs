@@ -669,7 +669,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p><a href="https://www.facebook.com/PingAnGreen" rel="noopener nofollow" target="_blank">Kampong Chai Chee Grassroots Organisations </a>
+<p><a href="https://www.facebook.com/PingAnGreen" rel="noopener nofollow" target="_blank">Kampong Chai Chee Grassroots Organisations</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -723,45 +723,55 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LOREAL_0088982_ORI" src="/images/Say YES to Waste Less/Partners/loreal_0088982_ori_tmb_thumb200.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LOREAL_0088982_ORI" src="/images/Say YES to Waste Less/Partners/loreal_0088982_ori_tmb_thumb200.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="LVND Hotels Pte Ltd (Ibis Styles)" src="/images/Say YES to Waste Less/Partners/lvnd_hotels_pte_ltd__ibis_styles__tmb_thumb200.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.loreal.com/en/singapore/" rel="noopener noreferrer nofollow" target="_blank">L'Oreal</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lush ONLY black" src="/images/Say YES to Waste Less/Partners/lush_only_black_tmb_thumb200.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LVND Hotels Pte Ltd (Ibis Styles)" src="/images/Say YES to Waste Less/Partners/lvnd_hotels_pte_ltd__ibis_styles__tmb_thumb200.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Masjid_Al_Ansar.png">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.loreal.com/en/singapore/" rel="noopener noreferrer nofollow" target="_blank"><u>L'Oreal</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://all.accor.com/hotel/9411/index.en.shtml" rel="noopener noreferrer nofollow" target="_blank"><u>LVND Hotels Pte Ltd (Ibis Styles Singapore on MacPherson)</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.lushsg.com/" rel="noopener noreferrer nofollow" target="_blank">LUSH</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><a href="https://alansarmosque.sg/" rel="noopener nofollow" target="_blank"><u>Masjid Al-Ansar</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -776,12 +786,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.lushsg.com/" rel="noopener noreferrer nofollow" target="_blank">LUSH</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://all.accor.com/hotel/9411/index.en.shtml" rel="noopener noreferrer nofollow" target="_blank">LVND Hotels Pte Ltd (Ibis Styles Singapore on MacPherson)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.m1.com.sg/" rel="noopener noreferrer nofollow" target="_blank">M1 Limited</a>
