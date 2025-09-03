@@ -591,7 +591,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/theismailisea" rel="noopener nofollow" target="_blank">Ismaili CIVIC</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -619,7 +620,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.ikea.com/sg/en/" rel="noopener nofollow" target="_blank">IKEA</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://singapore.intercontinental.com/" rel="noopener noreferrer nofollow" target="_blank">InterContinental Singapore</a>
