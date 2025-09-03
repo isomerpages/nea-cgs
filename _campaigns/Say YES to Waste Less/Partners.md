@@ -41,6 +41,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Bedok_CC.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -55,7 +58,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p><a href="http://www.breadtalk.com.sg/" rel="noopener noreferrer nofollow" target="_blank">BreadTalk</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/weluvbedok/" rel="noopener nofollow" target="_blank">Bedok Grassroots Organisations</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -70,13 +74,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MUJI Cafe and Meal" src="/images/Say YES to Waste Less/Partners/muji_cafe_and_meal___k100_02_tmb_thumb200.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CapitaLand logo (RGB)" src="/images/Say YES to Waste Less/Partners/capitaland_logo__rgb__tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Caritas_Singapore_Logo.jpg">
 </div>
 </td>
 </tr>
@@ -90,10 +93,69 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Brickland-Tengah Grassroots Organisations</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.caritas-singapore.org/" rel="noopener nofollow" target="_blank">Caritas Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MUJI Cafe and Meal" src="/images/Say YES to Waste Less/Partners/muji_cafe_and_meal___k100_02_tmb_thumb200.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CapitaLand logo (RGB)" src="/images/Say YES to Waste Less/Partners/capitaland_logo__rgb__tmb_thumb200.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/CHIJ_St__Joseph_s_Convent.gif">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Commenhers_Logo.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="http://cafemeal.muji.com/sg/" rel="noopener noreferrer nofollow" target="_blank">Café Muji &amp; Meal</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.capitaland.com/" rel="noopener noreferrer nofollow" target="_blank">CapitaLand</a>&nbsp;</p>
+<p><a href="https://www.capitaland.com/" rel="noopener noreferrer nofollow" target="_blank">CapitaLand</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.chijstjosephsconvent.moe.edu.sg/" rel="noopener nofollow" target="_blank">CHIJ St. Joseph’s Convent</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.commenhers.com" rel="noopener nofollow" target="_blank">Commenhers</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +186,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cdac.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Chinese Development Assistance Council (CDAC)</a>
+<p><a href="https://www.cdac.org.sg/spot-beyond" rel="noopener noreferrer nofollow" target="_blank">Chinese Development Assistance Council (CDAC)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,9 +239,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CISingapore Grey-Horizontal" src="/images/Say YES to Waste Less/Partners/cisingapore_grey_horizontal_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -199,8 +259,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.conservation.org/singapore" rel="noopener noreferrer nofollow" target="_blank">Conservation International Singapore</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.currytimes.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Curry Times</a>
@@ -303,8 +362,14 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Food_Bank_Singapore.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Food_from_the_Heart.png">
+</div>
 <p></p>
 </td>
 </tr>
@@ -317,10 +382,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p><a href="https://www.foodjunction.com/" rel="noopener noreferrer nofollow" target="_blank">Food Junction</a>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://foodbank.sg/" rel="noopener nofollow" target="_blank">Food Bank Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.foodfromtheheart.sg/" rel="noopener nofollow" target="_blank">Food from the Heart</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -355,7 +422,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forewordcoffee.com/" rel="noopener noreferrer nofollow" target="_blank">Foreword Coffee Roasters</a>
+<p><a href="https://forewordcoffee.com/" rel="noopener noreferrer nofollow" target="_blank">Foreword Coffee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -364,25 +431,35 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Fridgerestock.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gardenia Logo" src="/images/Say YES to Waste Less/Partners/gardenia_logo_tmb_thumb200.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Grab_Final_Master_Logo_2019_RGB_(green)" src="/images/Say YES to Waste Less/Partners/grab_final_master_logo_2019_rgb__green__tmb_thumb200.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GPCH_Logo_2021-V_EN_Pantone_1C" src="/images/Say YES to Waste Less/Partners/gpch_logo_2021_v_en_pantone_1c_tmb_thumb200.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.frc.sg/" rel="noopener nofollow" target="_blank"><u>Fridge Restock Community SG</u></a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://gardenia.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Gardenia</a>
 </p>
@@ -392,11 +469,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.parkhotelgroup.com/singapore/grand-park-city-hall/" rel="noopener noreferrer nofollow" target="_blank">Grand Park City Hall</a>
+<p><a href="https://www.parkhotelgroup.com/singapore/grand-park-city-hall/" rel="noopener noreferrer nofollow" target="_blank"><u>Grand Park City Hall</u></a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -423,7 +497,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://greensproutzsg.com/" rel="noopener noreferrer nofollow" target="_blank">Green Sproutz Singapore</a>
+<p><a href="https://www.parkhotelgroup.com/singapore/grand-park-city-hall/" rel="noopener noreferrer nofollow" target="_blank"><u>Grand Park City HallGrand Park City Hall</u></a>
+<a href="https://greensproutzsg.com/" rel="noopener noreferrer nofollow" target="_blank">Green Sproutz Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -437,6 +512,42 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <td rowspan="1" colspan="1">
 <p><a href="https://www.greensquare.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Greensquare</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Green_Nudge.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Green_Sproutz_Singapore.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.greennudge.sg/" rel="noopener nofollow" target="_blank">Green Nudge</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://greensproutzsg.com/" rel="noopener nofollow" target="_blank">Green Sproutz Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hoong Kah North Grassroots Organisations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1281,4 +1392,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://greensproutzsg.com/" rel="noopener nofollow" target="_blank">Green Sproutz Singapore</a>
+<a href="https://www.instagram.com/greensg_collab/" rel="noopener nofollow" target="_blank">GreenSG Collab</a>
+</p>
