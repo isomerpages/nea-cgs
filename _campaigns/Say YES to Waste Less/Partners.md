@@ -844,7 +844,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mono.sg/" rel="noopener noreferrer nofollow" target="_blank">MoNo Foods</a>
+<p><a href="https://www.mono.sg/" rel="noopener noreferrer nofollow" target="_blank">MoNo.SG</a>
 </p>
 </td>
 </tr>
