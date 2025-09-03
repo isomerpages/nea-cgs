@@ -999,6 +999,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Our_Green_MoCA_Logo.png">
+</div>
 <p></p>
 </td>
 </tr>
@@ -1012,10 +1015,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.onefarrer.com/" rel="noopener nofollow" target="_blank">One Farrer Hotel</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/share/1KSCEsT9An/" rel="noopener nofollow" target="_blank">Our Green MoCA</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1540,10 +1545,5 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 </tbody>
 </table>
-<p><a href="https://greensproutzsg.com/" rel="noopener nofollow" target="_blank">Green Sproutz Singapore</a>
-<a href="https://www.instagram.com/greensg_collab/" rel="noopener nofollow" target="_blank">GreenSG Collab</a><a href="https://www.ikea.com/sg/en/" rel="noopener nofollow" target="_blank">IKEA</a>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/National_Council_of_Churches_Singapore.png">
-</div>
+<p></p>
 <p></p>
