@@ -1045,7 +1045,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.panpacific.com/" rel="noopener noreferrer nofollow" target="_blank">Pan Pacific Hotel Groups</a>
+<p><a href="https://www.panpacific.com/" rel="noopener noreferrer nofollow" target="_blank">Pan Pacific Hotels Groups</a>
 </p>
 </td>
 </tr>
@@ -1073,11 +1073,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pp-orchard-sg.html" rel="noopener noreferrer nofollow" target="_blank">Pan Pacific Orchard</a>
+<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pp-orchard-sg/location/sustainability.html" rel="noopener noreferrer nofollow" target="_blank">Pan Pacific Orchard</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.panpacific.com/en/serviced-suites/pp-ss-orchard.html" rel="noopener noreferrer nofollow" target="_blank">Pan Pacific Serviced Suites, Singapore</a>
+<p><a href="https://www.panpacific.com/en/countries/singapore.html" rel="noopener noreferrer nofollow" target="_blank">Pan Pacific Serviced Suites, Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1085,7 +1085,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.paradoxhotels.com/singapore" rel="noopener noreferrer nofollow" target="_blank">Paradox Singapore Merchant Court</a>
+<p><a href="https://www.paradoxhotels.com/singapore" rel="noopener noreferrer nofollow" target="_blank">Paradox Singapore </a>
 </p>
 </td>
 </tr>
@@ -1113,15 +1113,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pr-collection-marina-bay.html" rel="noopener noreferrer nofollow" target="_blank">PARKROYAL COLLECTION Marina Bay</a>
+<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pr-collection-marina-bay/sustainability.html" rel="noopener noreferrer nofollow" target="_blank">PARKROYAL COLLECTION Marina Bay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pr-collection-pickering.html" rel="noopener noreferrer nofollow" target="_blank">PARKROYAL COLLECTION Pickering</a>
+<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pr-collection-pickering/location/sustainability.html" rel="noopener noreferrer nofollow" target="_blank">PARKROYAL COLLECTION Pickering</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pr-beach-road.html" rel="noopener noreferrer nofollow" target="_blank">PARKROYAL on Beach Road</a>
+<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pr-beach-road/the-hotel/sustainability.html" rel="noopener noreferrer nofollow" target="_blank">PARKROYAL on Beach Road</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1145,13 +1145,16 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.facebook.com/EarthDayPRCT/" rel="noopener nofollow" target="_blank">Pasir Ris Sustainability Action Group</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.preciousaac.com/" rel="noopener nofollow" target="_blank">Precious Active Ageing Centre</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.parkregisbyprincesingapore.com/" rel="noopener nofollow" target="_blank">Park Regis by Prince Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1199,9 +1202,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="REACH Community Services Ltd" src="/images/Say YES to Waste Less/Partners/reach_logo_final_full_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -1221,8 +1222,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://reach.org.sg/" rel="noopener noreferrer nofollow" target="_blank">REACH Community Services Ltd</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.rwsentosa.com/en/about-resorts-world-sentosa/sustainability" rel="noopener noreferrer nofollow" target="_blank">Resorts World Sentosa</a>
