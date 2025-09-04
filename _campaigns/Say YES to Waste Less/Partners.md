@@ -1085,7 +1085,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.paradoxhotels.com/singapore" rel="noopener noreferrer nofollow" target="_blank">Paradox Singapore </a>
+<p><a href="https://www.paradoxhotels.com/singapore" rel="noopener noreferrer nofollow" target="_blank">Paradox Singapore</a>
 </p>
 </td>
 </tr>
@@ -1157,7 +1157,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.paul-singapore.com/" rel="noopener nofollow" target="_blank">PAUL Singapore</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1222,7 +1223,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="http://www.pazzion.com/" rel="noopener nofollow" target="_blank">PAZZION &amp; PAZZION Café</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.rwsentosa.com/en/about-resorts-world-sentosa/sustainability" rel="noopener noreferrer nofollow" target="_blank">Resorts World Sentosa</a>
