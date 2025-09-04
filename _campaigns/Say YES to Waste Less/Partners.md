@@ -1163,19 +1163,77 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prime Supermarket" src="/images/Say YES to Waste Less/Partners/prime_logo_tmb_thumb200.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/Partners/pullman_singapore_orchard_hotel_logo9bb4635d849f443687a6ad073a1c2b97_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="QiJi" src="/images/Say YES to Waste Less/Partners/qiji_tmb_thumb200.jpg">
-</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.pullmansingaporehillstreet.com/" rel="noopener nofollow" target="_blank">Pullman Singapore Hill Street</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.pullmansingaporeorchard.com/" rel="noopener noreferrer nofollow" target="_blank">Pullman Singapore Orchard</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.pazzion.com/" rel="noopener nofollow" target="_blank">PAZZION &amp; PAZZION Café</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.primesupermarket.com/" rel="noopener noreferrer nofollow" target="_blank">Prime Supermarket</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.petloverscentre.com/" rel="noopener nofollow" target="_blank">Pet Lovers Centre</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.qiji.com.sg/" rel="noopener noreferrer nofollow" target="_blank">QiJi Pte Ltd</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://quanshuiwetmarket.com/" rel="noopener nofollow" target="_blank">Quan Shui Wet Market</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.raffles.com/singapore/" rel="noopener nofollow" target="_blank">Raffles Hotel Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -1185,15 +1243,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.primesupermarket.com/" rel="noopener noreferrer nofollow" target="_blank">Prime Supermarket</a>
+<p><a href="https://www.rqam.com.sg/" rel="noopener nofollow" target="_blank">Raffles Quay Asset Management</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://all.accor.com/hotel/B9H8/index.en.shtml" rel="noopener noreferrer nofollow" target="_blank">Pullman Singapore Orchard</a>
+<p><a href="http://www.royalplaza.com.sg/" rel="noopener nofollow" target="_blank">Royal Plaza on Scotts</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.qiji.com.sg/" rel="noopener noreferrer nofollow" target="_blank">QiJi</a>
+<p><a href="https://www.rwsentosa.com/en/about-resorts-world-sentosa/sustainability" rel="noopener noreferrer nofollow" target="_blank">Resorts World Sentosa</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1206,9 +1264,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Resorts World Sentosa" src="/images/Say YES to Waste Less/Partners/rws2024_logotype_en_local_market_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -1223,11 +1279,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.pazzion.com/" rel="noopener nofollow" target="_blank">PAZZION &amp; PAZZION Café</a>
+<p><a href="https://semula-asia.com/" rel="noopener nofollow" target="_blank">Semula</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.rwsentosa.com/en/about-resorts-world-sentosa/sustainability" rel="noopener noreferrer nofollow" target="_blank">Resorts World Sentosa</a>
+<p><a href="https://www.singaporeair.com/en_UK/us/about-us/sustainability/" rel="noopener nofollow" target="_blank">Singapore Airlines Limited</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1246,14 +1302,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Secondsguru" src="/images/Say YES to Waste Less/Partners/secondsguru_logo_5000px_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Shangri-La Rasa Sentosa (Sentosa Beach Resort Pte Ltd)" src="/images/Say YES to Waste Less/Partners/shangri_la_rasa_sentosa_singapore__primary__tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -1267,15 +1319,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://secondsguru.com/" rel="noopener noreferrer nofollow" target="_blank">Secondsguru</a>
+<p><a href="https://www.singaporetech.edu.sg/sustainability" rel="noopener nofollow" target="_blank">Singapore Institute of Technology</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.shangri-la.com/en/singapore/rasasentosaresort/" rel="noopener noreferrer nofollow" target="_blank">Shangri-La Rasa Sentosa (Sentosa Beach Resort Pte Ltd)</a>
+<p><a href="https://www.shangri-la.com/en/singapore/shangrila/" rel="noopener nofollow" target="_blank">Shangri-la Hotel</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://corporate.shengsiong.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Sheng Siong</a>
+<p><a href="https://corporate.shengsiong.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Sheng Siong Supermarket</a>
 </p>
 </td>
 </tr>
@@ -1397,6 +1449,162 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <td rowspan="1" colspan="1">
 <p><a href="https://swapaholic.com/" rel="noopener noreferrer nofollow" target="_blank">Swapaholic</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://singlife.com/en" rel="noopener nofollow" target="_blank">Singlife</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="​www.slurpybear.com" rel="noopener nofollow" target="_blank">Slurpy Bear</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.smrt.com.sg/" rel="noopener nofollow" target="_blank">SMRT Corporation Ltd</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://sg.sodexo.com/" rel="noopener nofollow" target="_blank">Sodexo Singapore Pte Ltd</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://redcross.sg/" rel="noopener nofollow" target="_blank">Singapore Red Cross</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://southeast.cdc.gov.sg/" rel="noopener nofollow" target="_blank">South East Community Development Council </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.spgroup.com.sg/" rel="noopener nofollow" target="_blank">SP Group</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.spaespritgroup.com/" rel="noopener nofollow" target="_blank">SPA Esprit</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.sttelemedia.com/" rel="noopener nofollow" target="_blank">ST Telemedia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.starbucks.com.sg/go-green-with-starbucks" rel="noopener nofollow" target="_blank">Starbucks</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://corporate.starhub.com/about-us/corporate-sustainability.html" rel="noopener nofollow" target="_blank">StarHub Ltd</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://stridy.com/events/" rel="noopener nofollow" target="_blank">Stridy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://fjbenjamin.com/" rel="noopener nofollow" target="_blank">Superdry</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="surreyhillsgrocer.sg​" rel="noopener nofollow" target="_blank">Surrey Hills Grocer</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.susgain.com/" rel="noopener nofollow" target="_blank">susGain</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://swapaholic.com/" rel="noopener nofollow" target="_blank">Swapaholic</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
