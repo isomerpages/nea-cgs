@@ -163,6 +163,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Bamboo_Straw_Girl_logo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -377,6 +380,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/CMR.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -869,6 +875,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Hong_Kah_North_CCC_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1133,20 +1142,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://level33.com.sg/" rel="noopener noreferrer nofollow" target="_blank">LeVeL33 Pte Ltd</a>
 </p>
 </td>
@@ -1334,6 +1329,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/01MAYBANK_ID_BOX_in_jpg.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1757,6 +1755,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/PLC.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2083,6 +2084,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Singapore_Red_Cross_Logo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2252,6 +2256,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Tampines_East_Food_Rescue_logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2585,6 +2592,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Woodgrove_CC_Logo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
