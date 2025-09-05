@@ -1205,6 +1205,38 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://sustainability.atmeta.com/" rel="noopener nofollow" target="_blank">Meta Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.metro.com.sg" rel="noopener nofollow" target="_blank">Metro</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mstgolfgroup.com/" rel="noopener nofollow" target="_blank">MST Golf (Singapore) Pte Ltd</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://uci.nus.edu.sg/campus-sustainability/" rel="noopener nofollow" target="_blank">National University of Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/My_Naked_Bar_Logo.png">
 </div>
@@ -1294,9 +1326,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Novotel Singapore on Kitchener Logo_PNG" src="/images/Say YES to Waste Less/Partners/novotel_singapore_on_kitchener_logo_png_tmb_thumb200.png">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1320,7 +1349,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://all.accor.com/hotel/C269/index.en.shtml" rel="noopener noreferrer nofollow" target="_blank">NOVOTEL Singapore on Kitchener</a>
+<p><a href="https://www.novotel-singapore-stevens.com/" rel="noopener nofollow" target="_blank">NOVOTEL Singapore on Stevens</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1338,14 +1367,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="OHS Logo" src="/images/Say YES to Waste Less/Partners/ohs_logo__png__tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ORBA Logo_P1_Pink" src="/images/Say YES to Waste Less/Partners/orba_logo_p1_pink_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -1360,11 +1385,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.millenniumhotels.com/en/singapore/orchard-hotel-singapore/" rel="noopener noreferrer nofollow" target="_blank">Orchard Hotel</a>
+<p><a href="https://og.com.sg/" rel="noopener nofollow" target="_blank">OG Pte Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.orchardroad.org/" rel="noopener noreferrer nofollow" target="_blank">Orchard Road Business Association</a>
+<p><a href="https://www.openfarmcommunity.com/" rel="noopener nofollow" target="_blank">Open Farm Community</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
