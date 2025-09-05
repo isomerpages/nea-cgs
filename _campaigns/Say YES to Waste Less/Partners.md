@@ -950,35 +950,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://fjbenjamin.com" rel="noopener nofollow" target="_blank">La Senza</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LeVeL33 logo" src="/images/Say YES to Waste Less/Partners/level33_logo_tmb_thumb200.jpg">
 </div>
@@ -1042,9 +1013,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LVND Hotels Pte Ltd (Ibis Styles)" src="/images/Say YES to Waste Less/Partners/lvnd_hotels_pte_ltd__ibis_styles__tmb_thumb200.jpg">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1066,7 +1034,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://all.accor.com/hotel/9411/index.en.shtml" rel="noopener noreferrer nofollow" target="_blank"><u>LVND Hotels Pte Ltd (Ibis Styles Singapore on MacPherson)</u></a>
+<p><a href="https://fjbenjamin.com" rel="noopener nofollow" target="_blank">La Senza</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1199,6 +1167,38 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://mws.sg/" rel="noopener nofollow" target="_blank">Methodist Welfare Services</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.maybank.com/en/sustainability.page" rel="noopener nofollow" target="_blank">Maybank Singapore Limited</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.millenniumhotels.com/en/singapore/m-hotel-singapore/?cid=gplaces-m-hotel-singapore" rel="noopener nofollow" target="_blank">M Hotel Singapore City Centre</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mandai.com/en.html" rel="noopener nofollow" target="_blank">Mandai Wildlife Group</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mandarinoriental.com/en/singapore/marina-bay" rel="noopener nofollow" target="_blank">Mandarin Oriental Singapore</a>
 </p>
 </td>
 </tr>
