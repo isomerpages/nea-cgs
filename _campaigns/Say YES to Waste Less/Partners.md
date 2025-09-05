@@ -853,9 +853,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Jo_Stitch_Logo.jpg">
-</div>
 <p></p>
 </td>
 </tr>
@@ -873,7 +870,39 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://robertsonquay.intercontinental.com/" rel="noopener nofollow" target="_blank">InterContinental Singapore Robertson Quay</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.shangri-la.com/hotels/jen/singapore/orchardgateway/" rel="noopener nofollow" target="_blank">JEN Singapore Orchardgateway by Shangri-La</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="http://www.joandstitch.com/" rel="noopener nofollow" target="_blank">Jo&amp;Stitch</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.jollyeco.sg" rel="noopener nofollow" target="_blank">JOLLY ECO</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.kinex.com.sg" rel="noopener nofollow" target="_blank">KINEX</a>
 </p>
 </td>
 </tr>
@@ -901,7 +930,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.jcu.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">James Cook University, Singapore</a>
+<p><a href="https://www.koufu.com.sg/" rel="noopener nofollow" target="_blank">Koufu Pte Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
