@@ -1010,7 +1010,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ikea.com/sg/en/" rel="noopener nofollow" target="_blank">IKEA</a>
+<p><a href="https://www.ikea.com/sg/en/" rel="noopener nofollow" target="_blank">IKEA Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
