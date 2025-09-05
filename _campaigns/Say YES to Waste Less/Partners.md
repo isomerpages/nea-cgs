@@ -44,6 +44,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Artan.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -154,6 +157,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/BCH_Logo_1024px_x_1024px.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -438,6 +444,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/duo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -517,12 +526,18 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Ecoworks_Logo_1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/EYS_LOGO_Eng.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -558,6 +573,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -768,6 +784,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/GW_master_logo_sig1_b_w.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -844,6 +863,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/H_M_Red_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -919,6 +941,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/HYSSES_LOGO_4762x2517.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -995,6 +1020,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/JEN_Singapore.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1144,6 +1172,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/2024_LS_Deco_Logo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1306,6 +1337,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/MH_ROW_M_Singapore__1_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1341,12 +1375,18 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Meta_Platforms_Inc__logo__PROXY_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/mst_golf_logo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1507,9 +1547,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/OG_Department_Stores_logo_B_W.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/OFC.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -1720,6 +1766,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/QSWM.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1755,6 +1804,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/RP_logo_withoutTagline_01.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1987,6 +2039,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Singlife_logo___Red_on_transparent_background.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2113,6 +2168,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/SUPERDRY_NEW_Logo__All_Colors__02.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2200,6 +2258,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Tan_Tock_Seng_Hospital_Logo_Preferred_RGB.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2320,6 +2381,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/SM_LOGO.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2329,6 +2393,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/TBB.png">
+</div>
 </td>
 </tr>
 <tr>
