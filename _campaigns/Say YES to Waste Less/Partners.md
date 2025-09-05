@@ -1194,7 +1194,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.lushsg.com/" rel="noopener noreferrer nofollow" target="_blank">LUSH</a>
+<p><a href="https://www.lushsg.com/" rel="noopener noreferrer nofollow" target="_blank">LUSH Fresh Handmade Cosmetics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
