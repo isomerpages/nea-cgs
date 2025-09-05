@@ -485,7 +485,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.daobydorsett.com/dao-by-dorsett-amtd-singapore/hotel-overview.html" rel="noopener noreferrer nofollow" target="_blank">Dao by Dorsett AMTD Singapore</a>
+<p><a href="https://www.dorsetthotels.com/dorsett-changi-city-singapore/" rel="noopener noreferrer nofollow" target="_blank">Dorsett Changi City Singapore</a>
 </p>
 </td>
 </tr>
