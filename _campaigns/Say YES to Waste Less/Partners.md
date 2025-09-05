@@ -692,6 +692,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/fpsg_black_logo_with_colour_pinwheel_transparent_bg.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Frasers_Property_Singapore.png">
 </div>
 </td>
@@ -703,18 +709,13 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Gain_City.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Gardenia_Logo.jpg">
-</div>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.marriott.com/en-us/hotels/sinfp-four-points-singapore-riverview/overview/" rel="noopener nofollow" target="_blank">Four Points Sheraton Singapore, Riverview</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.frasersproperty.com/" rel="noopener nofollow" target="_blank">Frasers Property Singapore</a>
 </p>
@@ -724,11 +725,46 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Gain_City.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Gardenia_Logo.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GreenSG Collab" src="/images/Say YES to Waste Less/Partners/greensg_collab_tmb_thumb200.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Greensq logo w website (w o bg)" src="/images/Say YES to Waste Less/Partners/greensq_logo_w_website__w_o_bg__tmb_thumb200.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="www.gaincity.com" rel="noopener nofollow" target="_blank">Gain City</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://gardenia.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Gardenia</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/greensg_collab/" rel="noopener noreferrer nofollow" target="_blank">GreenSG Collab</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.greensquare.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Greensquare</a>
 </p>
 </td>
 </tr>
@@ -833,14 +869,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GreenSG Collab" src="/images/Say YES to Waste Less/Partners/greensg_collab_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Greensq logo w website (w o bg)" src="/images/Say YES to Waste Less/Partners/greensq_logo_w_website__w_o_bg__tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -853,12 +885,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.instagram.com/greensg_collab/" rel="noopener noreferrer nofollow" target="_blank">GreenSG Collab</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.greensquare.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Greensquare</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
