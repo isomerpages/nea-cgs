@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Say YES to Waste Less
 ---
-<p>More than 120 partners (F&amp;B outlets, malls, supermarkets, e-services,
+<p>More than 190 partners (F&amp;B outlets, malls, supermarkets, e-services,
 hotels, corporates, NGOs and community), have joined the Say YES to Waste
 Less Campaign to encourage everyone to reduce waste . Some of their efforts
 include <a href="https://www.cgs.gov.sg/sayyes/savemore/" rel="noopener noreferrer nofollow" target="_blank">providing incentives to consumers</a>,
