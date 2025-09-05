@@ -466,8 +466,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dao-AMTD-SG Logo" src="/images/Say YES to Waste Less/Partners/dao_amtd_sg_logo___horizontal__b_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/DCCS_Logo_Black.png">
 </div>
 </td>
 </tr>
