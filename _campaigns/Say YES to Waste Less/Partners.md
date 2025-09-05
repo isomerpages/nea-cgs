@@ -1775,7 +1775,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/PLC.png">
 </div>
@@ -1783,25 +1782,27 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/PRM_Logo___Black.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Qi_Ji_Pte_Ltd.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/QSWM.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Raffles_Hotel_Singapore.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.petloverscentre.com/" rel="noopener nofollow" target="_blank">Pet Lovers Centre</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pasirrismall.com.sg/" rel="noopener nofollow" target="_blank">Pasir Ris Mall</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1812,34 +1813,35 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p><a href="https://quanshuiwetmarket.com/" rel="noopener nofollow" target="_blank">Quan Shui Wet Market</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.raffles.com/singapore/" rel="noopener nofollow" target="_blank">Raffles Hotel Singapore</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Razer" src="/images/Say YES to Waste Less/Partners/razer_tmb_thumb200.png">
+</div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Raffles_Quay_Asset_Management.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/RP_logo_withoutTagline_01.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Razer" src="/images/Say YES to Waste Less/Partners/razer_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Raffles_Hotel_Singapore.jpg">
 </div>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.razer.com/" rel="noopener noreferrer nofollow" target="_blank">Razer</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.rqam.com.sg/" rel="noopener nofollow" target="_blank">Raffles Quay Asset Management</a>
 </p>
@@ -1849,12 +1851,37 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.raffles.com/singapore/" rel="noopener nofollow" target="_blank">Raffles Hotel Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.rwsentosa.com/en/about-resorts-world-sentosa/sustainability" rel="noopener noreferrer nofollow" target="_blank">Resorts World Sentosa</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.razer.com/" rel="noopener noreferrer nofollow" target="_blank">Razer</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
