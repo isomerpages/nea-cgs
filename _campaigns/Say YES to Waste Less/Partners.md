@@ -708,7 +708,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Gain_City.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -725,13 +727,14 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="www.gaincity.com" rel="noopener nofollow" target="_blank">Gain City</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Gain_City.png">
+<img style="width: 100%" height="auto" width="100%" alt="Grab_Final_Master_Logo_2019_RGB_(green)" src="/images/Say YES to Waste Less/Partners/grab_final_master_logo_2019_rgb__green__tmb_thumb200.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -752,7 +755,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="www.gaincity.com" rel="noopener nofollow" target="_blank">Gain City</a>
+<p><a href="https://food.grab.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">Grab</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -783,9 +786,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Grab_Final_Master_Logo_2019_RGB_(green)" src="/images/Say YES to Waste Less/Partners/grab_final_master_logo_2019_rgb__green__tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Grain.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -804,7 +806,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://food.grab.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">Grab</a>
+<p><a href="grain.com.sg" rel="noopener nofollow" target="_blank">Grain</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -814,9 +816,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Grain.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Green_Sproutz_Singapore.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -840,7 +841,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="grain.com.sg" rel="noopener nofollow" target="_blank">Grain</a>
+<p><a href="https://greensproutzsg.com/" rel="noopener nofollow" target="_blank">Green Sproutz Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -869,10 +870,14 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/H_M_Red_Logo.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Hong_Kah_North_CCC_Logo.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -885,52 +890,48 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Green_Sproutz_Singapore.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/H_M_Red_Logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Hong_Kah_North_CCC_Logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Singapore_Little_India.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://greensproutzsg.com/" rel="noopener nofollow" target="_blank">Green Sproutz Singapore</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www2.hm.com/en_sg/index.html" rel="noopener nofollow" target="_blank">H&amp;M Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hong Kah North Grassroots Organisations</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Singapore_Little_India.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Holiday Inn Singapore Atrium (green logo)" src="/images/Say YES to Waste Less/Partners/holiday_inn_singapore_atrium__green_logo_c772ce9a96af48ccb6b1f25bb5ac7e80_tmb_thumb200.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Express_Singapore_Clarke_Quay.png">
+</div>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.holidayinn.com/hotels/gb/en/singapore/sinli/hoteldetail" rel="noopener nofollow" target="_blank">Holiday Inn Singapore Little India</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.heytea.com" rel="noopener nofollow" target="_blank">HEYTEA</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://singaporeatrium.holidayinn.com/" rel="noopener noreferrer nofollow" target="_blank">Holiday Inn Singapore Atrium</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/singapore/sincq/hoteldetail" rel="noopener nofollow" target="_blank">Holiday Inn Express Singapore Clarke Quay</a>
 </p>
 </td>
 </tr>
@@ -947,13 +948,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Holiday Inn Singapore Atrium (green logo)" src="/images/Say YES to Waste Less/Partners/holiday_inn_singapore_atrium__green_logo_c772ce9a96af48ccb6b1f25bb5ac7e80_tmb_thumb200.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/HYSSES_LOGO_4762x2517.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Express_Singapore_Clarke_Quay.png">
+<img style="width: 100%" height="auto" width="100%" alt="InterContinental Singapore logo_Grey" src="/images/Say YES to Waste Less/Partners/intercontinental_singapore_logo_grey_tmb_thumb200.png">
 </div>
 </td>
 </tr>
@@ -967,22 +967,23 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://singaporeatrium.holidayinn.com/" rel="noopener noreferrer nofollow" target="_blank">Holiday Inn Singapore Atrium</a>
+<p><a href="https://sg.hysses.com/" rel="noopener nofollow" target="_blank">HYSSES</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/singapore/sincq/hoteldetail" rel="noopener nofollow" target="_blank">Holiday Inn Express Singapore Clarke Quay</a>
+<p><a href="https://singapore.intercontinental.com/" rel="noopener noreferrer nofollow" target="_blank">InterContinental Singapore</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/InterContinental_Singapore_Robertson_Quay.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/HYSSES_LOGO_4762x2517.png">
+<img style="width: 100%" height="auto" width="100%" alt="ion_logo_cmyk" src="/images/Say YES to Waste Less/Partners/ion_logo_cmyk_tmb_thumb200.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -1000,11 +1001,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="www.heytea.com" rel="noopener nofollow" target="_blank">HEYTEA</a>
+<p><a href="https://robertsonquay.intercontinental.com/" rel="noopener nofollow" target="_blank">InterContinental Singapore Robertson Quay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sg.hysses.com/" rel="noopener nofollow" target="_blank">HYSSES</a>
+<p><a href="https://www.ionorchard.com/en/campaign/sustainable-takeaways.html" rel="noopener noreferrer nofollow" target="_blank">ION Orchard</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1023,20 +1024,13 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="InterContinental Singapore logo_Grey" src="/images/Say YES to Waste Less/Partners/intercontinental_singapore_logo_grey_tmb_thumb200.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ion_logo_cmyk" src="/images/Say YES to Waste Less/Partners/ion_logo_cmyk_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/InterContinental_Singapore_Robertson_Quay.png">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1045,16 +1039,13 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://singapore.intercontinental.com/" rel="noopener noreferrer nofollow" target="_blank">InterContinental Singapore</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ionorchard.com/en/campaign/sustainable-takeaways.html" rel="noopener noreferrer nofollow" target="_blank">ION Orchard</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://robertsonquay.intercontinental.com/" rel="noopener nofollow" target="_blank">InterContinental Singapore Robertson Quay</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1136,7 +1127,6 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><a href="https://www.facebook.com/PingAnGreen" rel="noopener nofollow" target="_blank">Kampong Chai Chee Grassroots Organisations</a>
 </p>
 </td>
