@@ -25,14 +25,137 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ATC_logo_RGB" src="/images/Say YES to Waste Less/Partners/atc_logo_rgb_tmb_esize_150_.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="BambooStrawGirl logo" src="/images/Say YES to Waste Less/Partners/bamboostrawgirl_logo_tmb_thumb200.jpg">
-</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://all.accor.com/ssr/app/accor/hotels/singapore/index.en.shtml?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=ppc-ach-mar-goo-sg-en-sg-exa-sear-aw&amp;utm_term=mar&amp;utm_content=sg-en-SG-PSG&amp;gad_source=1&amp;gbraid=0AAAAADmPHOWPWM0ps1GP9OxuRHgFpCfWe&amp;gclid=CjwKCAjwktO_BhBrEiwAV70jXkuM-yKQVgaRwNUv3WiexTrVjLCFCAtkPJqUgI9HGeyi4OhfhU43kRoCR4gQAvD_BwE" rel="noopener nofollow" target="_blank">Accor Hotels &amp; Resorts</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.ah.com.sg/" rel="noopener nofollow" target="_blank">Alexandra Hospital</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://singapore.amarahotels.com/" rel="noopener nofollow" target="_blank">Amara Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://artanconsulting.com/" rel="noopener nofollow" target="_blank">Artan Consulting Pte. Ltd.,Singapore</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.apbsingapore.com.sg/sustainability-responsibility/" rel="noopener nofollow" target="_blank">Asia Pacific Breweries Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.asics.com/sg/en-sg/" rel="noopener nofollow" target="_blank">ASICS</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.astons.com.sg/" rel="noopener nofollow" target="_blank">Astons</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.attea1987.com.sg/media/ATTEAGREEN.pdf" rel="noopener nofollow" target="_blank">At Tea</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://avenueon3.com/" rel="noopener nofollow" target="_blank">Avenue on 3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.atc.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Association of Trade and Commerce</u></a>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.bakerandcook.com/" rel="noopener nofollow" target="_blank">Baker &amp; Cook</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://bakerycuisine.com.sg/" rel="noopener nofollow" target="_blank">Bakery Cuisine</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.beechenghiang.com.sg/" rel="noopener nofollow" target="_blank">Bee Cheng Hiang</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://bamboostrawgirl.com/" rel="noopener noreferrer nofollow" target="_blank">Bamboo Straw Girl</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.tzuchi.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Buddhist Compassion Relief Tzu-Chi Foundation (Singapore)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.bricksworld.com/" rel="noopener nofollow" target="_blank">Bricks World</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -48,10 +171,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.atc.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Association of Trade and Commerce</u></a>&nbsp;</p>
+<p><strong>Brickland-Tengah Grassroots Organisations</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://bamboostrawgirl.com/" rel="noopener noreferrer nofollow" target="_blank">Bamboo Straw Girl</a>
+<p><a href="https://www.busybeesasia.com/" rel="noopener noreferrer nofollow" target="_blank">Busy Bees Asia</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,14 +188,10 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tzu-Chi Foundation Logo" src="/images/Say YES to Waste Less/Partners/tzu_chi_foundation_logo_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Busy Bees Asia" src="/images/Say YES to Waste Less/Partners/busy_bees_asia_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -85,15 +205,15 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.tzuchi.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Buddhist Compassion Relief Tzu-Chi Foundation (Singapore)</a>
+<p><a href="https://www.cafemelba.com.sg/" rel="noopener nofollow" target="_blank">Café Melba</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.busybeesasia.com/" rel="noopener noreferrer nofollow" target="_blank">Busy Bees Asia</a>
+<p><a href="https://www.carltonhotel.sg/" rel="noopener nofollow" target="_blank">Carlton Hotel</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Brickland-Tengah Grassroots Organisations</strong>
+<p><a href="http://www.charleskeith.com/" rel="noopener nofollow" target="_blank">Charles &amp; Keith</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,9 +276,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Ascott Limited Logo with tagline (A member of CLI)" src="/images/Say YES to Waste Less/Partners/the_ascott_limited_logo_with_tagline__a_member_of_cli__tmb_thumb200.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -176,7 +294,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.discoverasr.com/en" rel="noopener noreferrer nofollow" target="_blank">Citadines Singapore</a>
+<p><a href="https://www.theclementimall.com/" rel="noopener nofollow" target="_blank">Clementi Mall</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,9 +319,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Conrad Singapore Orchard" src="/images/Say YES to Waste Less/Partners/conrad_singapore_orchard_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -220,7 +336,40 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.hilton.com/en/hotels/sinodci-conrad-singapore-orchard/" rel="noopener noreferrer nofollow" target="_blank">Conrad Singapore Orchard</a>&nbsp;</p>
+<p><a href="https://commonmancoffeeroasters.com/" rel="noopener nofollow" target="_blank">Common Man Coffee Rosters</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.comfortdelgro.com/" rel="noopener nofollow" target="_blank">ComfortDelGro Corporation</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.currytimes.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Curry Times</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.crystaljade.com/index/" rel="noopener nofollow" target="_blank">Crystal Jade</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.decathlon.sg/s/sustainability" rel="noopener nofollow" target="_blank">Decathlon</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -245,10 +394,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.duosingapore.com" rel="noopener nofollow" target="_blank">DUO Singapore</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.currytimes.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Curry Times</a>
+<p><a href="http://www.dondondonki.com/" rel="noopener nofollow" target="_blank">Don Don Donki</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -301,6 +451,38 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.ecoworks.sg/" rel="noopener nofollow" target="_blank">Ecoworks</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://empireeats.co/" rel="noopener nofollow" target="_blank">Empire Eats Pte Ltd</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.euyansang.com.sg/" rel="noopener nofollow" target="_blank">Eu Yan Sang</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.evergreen.com.sg/" rel="noopener nofollow" target="_blank">Evergreen Stationery</a>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.ecosami.com/"><img style="width: 100%" height="auto" width="100%" alt="Ecosami Logo" src="/images/Say YES to Waste Less/Partners/ecosami_logo_tmb_thumb200.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
@@ -309,9 +491,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Fairmont Swissotel" src="/images/Say YES to Waste Less/Partners/fairmont_swissotel_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -329,7 +509,8 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fairmont.com/singapore/" rel="noopener noreferrer nofollow" target="_blank">Fairmont Singapore &amp; Swissôtel The Stamford</a>&nbsp;</p>
+<p><a href="https://www.feisionggroup.com.sg/" rel="noopener nofollow" target="_blank">Fei Siong Group</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.fairpricegroup.com.sg/" rel="noopener noreferrer nofollow" target="_blank">FairPrice Group</a>&nbsp;</p>
@@ -393,9 +574,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="fourpointsheraton" src="/images/Say YES to Waste Less/Partners/fourpointsheraton_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -412,20 +591,47 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.marriott.com/en-us/hotels/sinfp-four-points-singapore-riverview/overview/" rel="noopener noreferrer nofollow" target="_blank">Four Points Sheraton Singapore, Riverview</a>&nbsp;</p>
+<p><a href="https://fortheloveoflaundry.com/" rel="noopener nofollow" target="_blank">For The Love of Laundry</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Fridgerestock.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gardenia Logo" src="/images/Say YES to Waste Less/Partners/gardenia_logo_tmb_thumb200.jpg">
-</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.frasersproperty.com/" rel="noopener nofollow" target="_blank">Frasers Property Singapore</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.frc.sg/" rel="noopener nofollow" target="_blank"><u>Fridge Restock Community SG</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.gaincity.com" rel="noopener nofollow" target="_blank">Gain City</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://gardenia.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Gardenia</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -443,12 +649,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.frc.sg/" rel="noopener nofollow" target="_blank"><u>Fridge Restock Community SG</u></a>
+<p><a href="https://www.geneco.sg/" rel="noopener nofollow" target="_blank">Geneco</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://gardenia.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Gardenia</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://food.grab.com/sg/en/" rel="noopener noreferrer nofollow" target="_blank">Grab</a>
