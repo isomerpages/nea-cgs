@@ -6,10 +6,34 @@ description: What You Can Do
 third_nav_title: Say YES to Waste Less
 ---
 <h2>What You Can Do</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NEA Say YES to Waste Less Campaign" src="/images/Say YES to Waste Less/nea_edm_13may2024_150dpic85a61f14f904ee598dc7e76bfaf49ac.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/SYTWS01.png">
 </div>
-<p>
+<p>Given the current rate of waste disposal, Singapore’s only landfill, Semakau
+Landfill, will reach full capacity by 2035. By making simple changes in
+our everyday choices at different point-of-purchases, you can save Semakau
+and save money too!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEA_SYTWL_Exhibition_EDM_V12R1_05.jpg">
+</div>
+<p><strong><u>Waste Less? Say YES! Reality Series</u></strong>
+<br>Learn more fun and practical ways to waste less in your daily life by
+watching your favourite hosts Avery Aloysius Yeo and Chen Ning, and guest
+personalities Suhaimi Yusof, Irene Ang, Glenn Yong and more take on unique
+challenges, share savvy shopping hacks, and explore fresh ways to reduce
+waste. take on real-life waste-less challenges!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_Exhibition_EDM_V12R1_04.jpg">
+</div>
+<p>Episode 1: Supermarket Wars <em>starring Irene Ang and Suhaimi Yusof</em>&nbsp;
+<br>Episode 2: Room for Improvement <em>starring Deborah Quek and Fabian Amos</em>
+<br>Episode 3: Sustainable Stall Showdown <em>starring BioGirlMJ and Yusoff Rasid</em>
+<br>Episode 4: Ultimate Wate Showdown<em> starring Glenn Yong and Germaine Tan</em>
+<br>
+</p>
+<p></p>
+<p>&nbsp;
 <br>
 </p>
 <hr>
