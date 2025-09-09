@@ -5,6 +5,16 @@ variant: tiptap
 description: ""
 third_nav_title: Say YES to Waste Less
 ---
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h2>General</h2>
+<p>Thank you for your interest in being part of the Say YES to Waste Less
+movement. Here are our Key Visuals for 2025.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -13,7 +23,76 @@ third_nav_title: Say YES to Waste Less
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="2" colspan="3">
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_KVAdapts_Bus_Stop_Ads_6_sheets_copy.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_01.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_02.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Key Visual (Poster)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Key Visual (Supermarkets)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Key Visual (Retail)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_03.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R8_04.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R11_05.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Key Visual (Buffet Caterers)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Key Visual (Hotel)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Key Visual (F&amp;B)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="2" colspan="1">
 <h2>Reducing Wastage</h2>
 <p>Thank you for your interest in being part of the Say YES to Waste Less
 movement. Here are some materials to help you play your part in reducing
@@ -25,6 +104,31 @@ disposables.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_Wobbler_V1R3_Rice.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Key Visual (Food Wastage)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/forgotten_groceries_1.png"><img style="width: 58%;" height="auto" width="100%" alt="Forgotten Groceries" src="/images/Say YES to Waste Less/Resources/forgotten_groceries_tmb_medium.png"></a>
 </td>
@@ -80,12 +184,12 @@ disposables.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FWR wobbler" src="/images/Say YES to Waste Less/Resources/fwr_wobbler_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="KV poster EM" src="/images/Say YES to Waste Less/Resources/kv_poster_em_tmb_thumb200.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="KV poster EM" src="/images/Say YES to Waste Less/Resources/kv_poster_em_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="KV poster eng" src="/images/Say YES to Waste Less/Resources/kv_poster_eng_tmb_thumb200.png">
 </div>
 </td>
 </tr>
@@ -95,11 +199,11 @@ disposables.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Say%20YES%20to%20Waste%20Less/nea_280_t20_fwr_wobbler.pdf" rel="noopener noreferrer nofollow" target="_blank">Wobblers (English)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/nea_298_t20_fwr_kv_a3_poster_em_v10.pdf" rel="noopener noreferrer nofollow" target="_blank">KV Poster (English / Malay)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Say%20YES%20to%20Waste%20Less/nea_298_t20_fwr_kv_a3_poster_em_v10.pdf" rel="noopener noreferrer nofollow" target="_blank">KV Poster (English / Malay)</a>
+<p><a href="/files/Say%20YES%20to%20Waste%20Less/nea_297_t20_fwr_kv_a3_poster_english_r4.pdf" rel="noopener noreferrer nofollow" target="_blank">KV Poster (English)</a>
 </p>
 </td>
 </tr>
@@ -110,9 +214,7 @@ disposables.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="KV poster eng" src="/images/Say YES to Waste Less/Resources/kv_poster_eng_tmb_thumb200.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -124,8 +226,7 @@ disposables.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Say%20YES%20to%20Waste%20Less/nea_297_t20_fwr_kv_a3_poster_english_r4.pdf" rel="noopener noreferrer nofollow" target="_blank">KV Poster (English)</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,6 +238,11 @@ disposables.</p>
 </th>
 </tr>
 <tr></tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -158,6 +264,33 @@ disposables.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_Wobbler_V1R3_Reusables.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_Wobbler_V1R3_Bag.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wobbler (Reusable Container)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wobbler (Reusable Bag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Say%20YES%20to%20Waste%20Less/Resources/disposable_bags_1.png"><img style="width: 55%;" height="auto" width="100%" alt="Key Visual – Disposables (Disposable bag)" src="/images/Say YES to Waste Less/Resources/key_visual_disposables__disposable_bag__tmb_medium.png"></a>
 <p></p>
