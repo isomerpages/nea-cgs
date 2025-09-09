@@ -11,10 +11,10 @@ notification: "[ALERT] Govt officials will NEVER ask you to transfer money or
   Helpline at 1799 to check if something is a scam."
 sections:
   - hero:
-      title: Dengue Prevention is in Your Hands
-      background: /images/Block Dengue/CnG_Website_Banner_1200x630.jpg
+      title: Every Point-of-Purchase is a Point to Waste Less
+      background: /images/Say YES to Waste Less/NEA_SYTWL_Mastheads_Website_V2R4_jpg.jpg
       button: Find out more
-      url: https://www.cgs.gov.sg/blockdengue/home/
+      url: https://www.cgs.gov.sg/sayyes/whatyoucando/
       key_highlights:
         - title: Recycle Right
           description: Check, Clean and Recycle
@@ -29,9 +29,8 @@ sections:
       size: sm
       backgroundColor: white
       alignment: right
-      subtitle: Our collective effort makes a big difference. Every action, no matter
-        how small it seems, contributes to reducing the risk and impact of
-        dengue in Singapore.
+      subtitle: Making small changes to your daily routine can have a big impact on
+        the environment and even save you money!
   - infocols:
       title: Clean & Green Singapore (CGS)
       subtitle: About
