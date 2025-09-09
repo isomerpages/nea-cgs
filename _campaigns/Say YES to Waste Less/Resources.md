@@ -12,7 +12,7 @@ third_nav_title: Say YES to Waste Less
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h2>General </h2>
+<h2>General</h2>
 <p>Thank you for your interest in being part of the Say YES to Waste Less
 movement. Here are our Key Visuals for 2025.</p>
 <table style="minWidth: 75px">
