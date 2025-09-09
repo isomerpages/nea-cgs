@@ -1515,7 +1515,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p><a href="http://northwest.cdc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">North West Community Development Council</a>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NWCDC Logo Colour_high res" src="/images/Say YES to Waste Less/Partners/nwcdc_logo_colour_high_res_tmb_thumb200.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/NUS_logo_full_horizontal.jpg">
 </div>
 </td>
 </tr>
