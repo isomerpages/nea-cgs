@@ -26,13 +26,13 @@ movement. Here are our Key Visuals for 2025.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_KVAdapts_Bus_Stop_Ads_6_sheets_copy.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_KVAdapts_Bus_Stop_Ads_6_sheets_copy.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_01.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_01.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -57,13 +57,13 @@ movement. Here are our Key Visuals for 2025.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_03.png">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_03.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R8_04.png">
+<img style="width: 67%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SAYYES_KV_PartnerAdapts_V1R8_04.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
