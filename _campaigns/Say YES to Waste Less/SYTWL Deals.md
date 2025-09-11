@@ -342,7 +342,7 @@ customers bring their own cup.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="treatsure" src="/images/Say YES to Waste Less/SYTWL Deals/treatsure_logo_rgb_tmb_thumb160.png">
 </div>
-<p><strong><a href="https://www.treatsure.co/" rel="noopener nofollow" target="_blank">Treatsure</a></strong>
+<p><strong><a href="https://www.treatsure.co/" rel="noopener nofollow" target="_blank">treatsure</a></strong>
 </p>
 <p>Enjoy 50-cents off your meal with treatsure's resusable box at over 20
 hotels and restaurant partner locations.</p>
