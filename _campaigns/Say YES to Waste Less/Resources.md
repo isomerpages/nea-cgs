@@ -44,13 +44,16 @@ movement. Here are our Key Visuals for 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Poster)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SYTWL_KVAdapts_Bus_Stop_Ads_6_sheets_copy.png" rel="noopener nofollow" target="_blank">Key Visual (Poster)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Supermarkets)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_01.png" rel="noopener nofollow" target="_blank">Key Visual (Supermarkets)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Retail)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_02.png" rel="noopener nofollow" target="_blank">Key Visual (Retail)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,13 +78,16 @@ movement. Here are our Key Visuals for 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Buffet Caterers)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_03.png" rel="noopener nofollow" target="_blank">Key Visual (Buffet Caterers)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Hotel)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R8_04.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Hotel)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Key Visual (F&amp;B)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R11_05.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (F&amp;B)</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -120,7 +126,8 @@ disposables.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Key Visual (Food Wastage)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SYTWL_Wobbler_V1R3_Rice.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Food Wastage)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -282,10 +289,12 @@ disposables.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wobbler (Reusable Container)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SYTWL_Wobbler_V1R3_Reusables.png" rel="noopener noreferrer nofollow" target="_blank">Wobbler (Reusable Container)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wobbler (Reusable Bag)</p>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SYTWL_Wobbler_V1R3_Bag.png" rel="noopener noreferrer nofollow" target="_blank">Wobbler (Reusable Bag)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
