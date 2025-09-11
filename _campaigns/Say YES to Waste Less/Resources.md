@@ -398,7 +398,7 @@ disposables.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYTWLfactoids EMCT" src="/images/Say YES to Waste Less/Resources/sytwlfactoids_emct_tmb_thumb200.png">
+<img style="width: 80%;" height="auto" width="100%" alt="SYTWLfactoids EMCT" src="/images/Say YES to Waste Less/Resources/sytwlfactoids_emct_tmb_thumb200.png">
 </div>
 </td>
 </tr>
