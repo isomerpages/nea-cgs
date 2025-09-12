@@ -70,6 +70,23 @@ discount as part of our waste-reduction efforts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/CapitaLand.png">
+</div>
+<p><strong>CapitaLand</strong>
+<br>As part of Let’s Get Down to Earth, we invited our customers to join us
+in making a difference by donating their e-waste at designated collection
+bins across our Retail and Workspace properties. In celebration of CapitaLand’s
+25th anniversary, we’re also rewarding 25 participants with a $25 eCapitaVoucher
+each as a token of appreciation for their support!
+<br>
+<br>More information can be found <a href="https://www.capitaland.com/sg/en/lease/engagement/LGDTE2025/declutter-and-win.html" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
