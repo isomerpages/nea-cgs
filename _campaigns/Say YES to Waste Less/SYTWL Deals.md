@@ -87,6 +87,20 @@ each as a token of appreciation for their support!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Carlton_Logo.jpg">
+</div>
+<p><strong>Carlton Hotel</strong>
+<br>Starting on 15 April 2025, customers can enjoy a 10% discount at Tuxedo
+Cafe &amp; Patisserie when they bring their Bring-Your-Own-Cup (BYOC) to
+purchase coffee or tea. This is an ongoing programme by the hotel to raise
+awareness and promote environmentally friendly initiatives. Terms and conditions
+apply.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
