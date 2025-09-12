@@ -442,6 +442,35 @@ TradeUP programme at all M1 Shops to promote devices recycling.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mandai Wildlife Group</strong>
+<br>Mandai Wildlife Group is proud to support the Say Yes to Waste Less campaign
+by offering an exclusive 20% discount on our e-store! Make sustainable
+choices with our range of reusable drinkware and collapsible lunchboxes—perfect
+for kickstarting your BYO journey. Shop now and take a step towards reducing
+waste!
+<br>Promo code: NEA2025
+<br>Terms and conditions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>20% off on storewide</p>
+</li>
+<li>
+<p>No minimum spends</p>
+</li>
+<li>
+<p>One-time use per customer</p>
+</li>
+<li>
+<p>Not combinable with other discounts</p>
+</li>
+<li>
+<p>Valid from 20 Mar – 30 Jun Valid from now till 31 Oct</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Marina Bay Sands" src="/images/Say YES to Waste Less/SYTWL Deals/mbs_logo__eng_sc_tc__may2016_individual_02_tmb_medium.png">
 </div>
