@@ -601,6 +601,17 @@ for takeaway.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/SUPERDRY_NEW_Logo__All_Colors__02.png">
+</div>
+<p><strong>Superdry</strong>
+<br>Bring your own reusable bag when you shop at any Superdry store and enjoy
+10% off your purchase!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="The Sustainability Project" src="/images/Say YES to Waste Less/SYTWL Deals/the_sustainability_project_tmb_thumb160.png">
 </div>
