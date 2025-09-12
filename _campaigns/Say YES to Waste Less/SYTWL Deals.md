@@ -468,7 +468,7 @@ waste!
 <p>Not combinable with other discounts</p>
 </li>
 <li>
-<p>Valid from 20 Mar – 30 Jun Valid from now till 31 Oct</p>
+<p>Valid from now till 31 Oct</p>
 </li>
 </ul>
 </td>
