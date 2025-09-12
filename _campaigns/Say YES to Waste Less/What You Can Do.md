@@ -26,7 +26,8 @@ waste. take on real-life waste-less challenges!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_Exhibition_EDM_V12R1_04.jpg">
 </div>
-<p>Episode 1: Supermarket Wars <em>starring Irene Ang and Suhaimi Yusof</em>&nbsp;
+<p><a href="https://youtu.be/UNqH-2Ij9zc" rel="noopener nofollow" target="_blank">Episode 1 </a>:
+Supermarket Wars <em>starring Irene Ang and Suhaimi Yusof</em>&nbsp;
 <br>Episode 2: Room for Improvement <em>starring Deborah Quek and Fabian Amos</em>
 <br>Episode 3: Sustainable Stall Showdown <em>starring BioGirlMJ and Yusoff Rasid</em>
 <br>Episode 4: Ultimate Wate Showdown<em> starring Glenn Yong and Germaine Tan</em>
