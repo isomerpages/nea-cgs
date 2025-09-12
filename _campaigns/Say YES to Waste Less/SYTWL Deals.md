@@ -513,6 +513,20 @@ directly to their green spaces.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/PAUL_Singapore.png">
+</div>
+<p><strong>PAUL Singapore</strong>
+<br>As part of PAUL’s commitment to sustainability, customers are encouraged
+to bring their own reusable cups for takeaway beverages. To support this
+initiative, PAUL offers a 50-cent discount on any takeaway beverage for
+those who choose to BYO. This effort not only helps to reduce single-use
+waste but also promotes more environmentally friendly habits among customers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/pullman_singapore_orchard_hotel_logo_tmb_thumb160.png">
 </div>
