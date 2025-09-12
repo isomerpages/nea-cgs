@@ -546,6 +546,19 @@ takeaway food order when you bring your own reusable container(s).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/QSWM.png">
+</div>
+<p><strong>Quan Shui Wet Market</strong>
+<br>Quan Shui Wet Market incentivizes customers who return their cooler boxes
+with the sticker order attached and ice packs to Quan Shui's Upper Thomson
+store at 50 Tagore Lane by offering a cash refund. All materials are then
+cleaned and recycled to be reused as much as possible.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="SaladStop!" src="/images/Say YES to Waste Less/SYTWL Deals/saladstop_logo_tmb_thumb160.png">
 </div>
