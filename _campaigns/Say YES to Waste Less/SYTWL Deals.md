@@ -409,6 +409,26 @@ Mask:
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/M_Hotel_Singapore_City_Centre.png">
+</div>
+<p><strong>M Hotel Singapore City Centre</strong>
+<br>M Hotel Singapore X Treatsure:
+<br>M Hotel Singapore has partnered with Treatsure to reduce food waste while
+offering you a delicious deal! Head to Café 2000 or The Buffet Restaurant
+(Halal) and fill up your Treatsure box with an assortment of buffet favorites.
+Enjoy this sustainable dining experience from $13+ at Café 2000 and $11.90+
+at The Buffet Restaurant.
+<br>
+<br>Do your part in reducing food waste while savoring quality dishes at a
+great price!</p>
+<p>*Treatsure is available after stipulated buffet timing. Please contact
+outlets for more details.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="M1 Limited" src="/images/Say YES to Waste Less/SYTWL Deals/m182b20358272b4558b9c7a50b6a9442db_tmb_thumb200.png">
 </div>
