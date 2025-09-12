@@ -498,6 +498,21 @@ selection at BARtistry.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/PARKROYAL_COLLECTION_Pickering.png">
+</div>
+<p><strong>PARROYAL COLLECTION Pickering</strong>
+<br>For every guest who opts in for alternate day housekeeping services, the
+hotel will plant a new plant in their gardens. This initiative allows guests
+to play an active role in reducing water and energy consumption while contributing
+directly to their green spaces.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/pullman_singapore_orchard_hotel_logo_tmb_thumb160.png">
 </div>
