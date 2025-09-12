@@ -711,6 +711,59 @@ store will receive a free gift.</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/UOB_logo.jpg">
+</div>
+<p><strong>UOB</strong>
+<br>Enjoy ongoing green deals for UOB EVOL card members such as up to 15%
+off at selected eco partners.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/W_Singapore___Sentosa_Cove.png">
+</div>
+<p><strong>W Singapore - Sentosa Cove</strong>
+<br>In line with its sustainability goals, W Singapore – Sentosa Cove will
+be providing guests with a 15% discount when they opt for BE WTR instead
+of imported alternatives and 15% discount will be offered on menu items
+from the kitchen table that uses Gobrix ingredients. This supports the
+resort’s commitment to environmental responsibility and sustainable luxury.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Yindii.png">
+</div>
+<p><strong>Yindii</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy $2 off with the code SYTWLNEW for new users and SYTWLEX for existing
+users when ordering surplus food from all stores on Yindii with min. value
+of $10 and $15, respectively</p>
+</li>
+<li>
+<p>Receive $5 Yindii voucher upon collecting 5 digital stamps. Send us a
+screenshot via Telegram (@YindiiSG) every time you rescue a meal on Yindii
+to receive a stamp on your digital card</p>
+</li>
+<li>
+<p>Give back $1 to SG Food Bank for every post you share of your Yindii surprise
+bag on social media with the hashtag #ZeroWasteWithYindii. This initiative
+runs until 31st May, so let’s create an impact together!</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
