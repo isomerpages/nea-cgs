@@ -266,6 +266,18 @@ their own cup for coffee—encouraging sustainable habits, one cup at a time.</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/InterContinental_Singapore_Robertson_Quay.png">
+</div>
+<p><strong>InterContinental Singapore Robertson Quay</strong>
+<br>The hotel’s Greener Stay programme rewards guests with 500 bonus IHG One
+Rewards points per night when opting out of housekeeping, promoting water
+and energy conservation.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="ION Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/ion_logo_cmyk_tmb_thumb160.png">
 </div>
