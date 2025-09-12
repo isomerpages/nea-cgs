@@ -155,6 +155,18 @@ and outreach efforts within DUO to promote BYO culture.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Ecoworks_Logo_1.png">
+</div>
+<p><strong>Ecoworks</strong>
+<br>Catch us during our pop ups at the refill station (dates and location
+shared via instagram: @<a href="http://ecoworks.sg" rel="noopener noreferrer nofollow" target="_blank">ecoworks.sg</a>) and get a complimentary EASYREFILL
+bottle when you kickstart your refill journey!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
