@@ -92,11 +92,10 @@ each as a token of appreciation for their support!
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Carlton_Logo.jpg">
 </div>
 <p><strong>Carlton Hotel</strong>
-<br>Starting on 15 April 2025, customers can enjoy a 10% discount at Tuxedo
-Cafe &amp; Patisserie when they bring their Bring-Your-Own-Cup (BYOC) to
-purchase coffee or tea. This is an ongoing programme by the hotel to raise
-awareness and promote environmentally friendly initiatives. Terms and conditions
-apply.</p>
+<br>Starting on 15 April 2025, customers can enjoy a <strong>10% discount</strong> at <strong>Tuxedo Cafe &amp; Patisserie</strong> when
+they bring their Bring-Your-Own-Cup (BYOC) to purchase coffee or tea. This
+is an ongoing programme by the hotel to raise awareness and promote environmentally
+friendly initiatives. Terms and conditions apply.</p>
 </td>
 </tr>
 <tr>
