@@ -11,7 +11,7 @@ Less Campaign to encourage everyone to reduce waste . Some of their efforts
 include <a href="https://www.cgs.gov.sg/sayyes/savemore/" rel="noopener noreferrer nofollow" target="_blank">providing incentives to consumers</a>,
 cutting down of single use items at their premises, implementing a disposable
 carrier bag charge, tracking and composting food waste, conducting webinars
-to educate the public and more.</p>
+to educate the public and more .</p>
 <p>If you or your organisation would like to partner with us to help the
 environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.gov.sg/61516f714e6f490012d26a7b" rel="noopener noreferrer nofollow" target="_blank">fill up the form here.</a></strong>
 </p>
