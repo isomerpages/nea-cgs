@@ -113,9 +113,13 @@ friendly initiatives. Terms and conditions apply.</p>
 </div>
 <p><strong>Decathlon</strong>
 <br>During the weekend of the 26th and 27th April, customers will :</p>
-<p>- Enjoy up to 80% off on Second Life products (<a href="https://www.decathlon.sg/c/second-life.html" rel="noopener noreferrer nofollow" target="_blank">https://www.decathlon.sg/c/second-life.html</a>)</p>
+<p>- Enjoy up to 80% off on Second Life products (<a href="https://www.decathlon.sg/c/second-life.html" rel="noopener noreferrer nofollow" target="_blank">https://www.decathlon.sg/c/second-life.html</a>)
+<br>
+</p>
 <p>- Get up to 80% of your bike’s retail value when we Buy-Back your bike
-(<a href="https://www.decathlon.sg/s/buy-back" rel="noopener noreferrer nofollow" target="_blank">https://www.decathlon.sg/s/buy-back</a>)</p>
+(<a href="https://www.decathlon.sg/s/buy-back" rel="noopener noreferrer nofollow" target="_blank">https://www.decathlon.sg/s/buy-back</a>)
+<br>
+</p>
 <p>- Decathlon will buy back (via Decathlon gift card) unused products in
 clean and good condition at 5% of their retail value.</p>
 </td>
