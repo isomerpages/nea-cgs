@@ -191,37 +191,21 @@ selection at BARtistry.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Muuse" src="/images/Say YES to Waste Less/SYTWL Deals/muuse_tmb_thumb160.png">
-</div>
-<p><strong>Muuse</strong>
-</p>
-<p>Many of Muuse's partners offer on-the-spot discounts for using Muuse –
-check out the Muuse app for details.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="PARKROYAL on Beach Road" src="/images/Say YES to Waste Less/SYTWL Deals/parkroyal_on_beach_road_singapore_jpeg_tmb_thumb160.jpg">
-</div>
-<p><strong>PARKROYAL on Beach Road</strong>
-</p>
-<p>The hotel encourages guests to reuse their linens by incentivizing alternate-day
-room housekeeping with an exclusive $10 dining credit. Additionally, guests
-are advised to change bed linens every three days as part of our commitment
-to responsible resource management.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/pullman_singapore_orchard_hotel_logo_tmb_thumb160.png">
 </div>
 <p><strong>Pullman Singapore Orchard</strong>
 </p>
-<p>Bring your own tumbler/takeaway cup and get $1 off our coffee/ tea selection
-at Atelier Lounge located at level 4 in Pullman Singapore Orchard from
-14 May 2024 to 24 June 2024.</p>
+<p>Pullman Singapore Orchard is putting sustainability on the menu! From
+13 September to 12 October 2025, diners can enjoy exclusive discounts simply
+by making eco-friendly choices.
+<br>
+</p>
+<p>Sip Sustainably at Atelier Lounge &amp; Bar – Bring your own tumbler or
+takeaway cup and enjoy $1 off our curated coffee and tea selection.
+<br>
+</p>
+<p>Dine Responsibly with Eden Restaurant – Reduce waste and get $2 off per
+takeaway food order when you bring your own reusable container(s).</p>
 </td>
 </tr>
 <tr>
