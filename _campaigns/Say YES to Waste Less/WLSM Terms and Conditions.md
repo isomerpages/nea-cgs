@@ -12,6 +12,7 @@ third_nav_title: Say YES to Waste Less
 <br>
 <br>By participating in the Waste Less Supermart event and redeeming any of
 the below items or experiences, you agree to the following terms and conditions:&nbsp;
+dssds
 <br>
 <br><strong>1. Beverage Redemption&nbsp;</strong>
 </p>
