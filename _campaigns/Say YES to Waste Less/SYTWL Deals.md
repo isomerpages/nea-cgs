@@ -194,8 +194,7 @@ selection at BARtistry.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/pullman_singapore_orchard_hotel_logo_tmb_thumb160.png">
 </div>
 <p><strong>Pullman Singapore Orchard</strong>
-</p>
-<p>Pullman Singapore Orchard is putting sustainability on the menu! From
+<br>Pullman Singapore Orchard is putting sustainability on the menu! From
 13 September to 12 October 2025, diners can enjoy exclusive discounts simply
 by making eco-friendly choices.
 <br>
@@ -217,7 +216,9 @@ takeaway food order when you bring your own reusable container(s).</p>
 </p>
 <p>Customers can borrow a Muuse container or purchase SaladStop!’s collapsible
 bowl and get a free salad. Customers who bring their own containers will
-also receive a free standard topping.</p>
+also receive a free standard topping.
+<br>
+</p>
 <p>*T&amp;Cs apply. Offers available vary across stores – check out the Muuse
 app for more on Muuse partner cafes near you and their offers!</p>
 </td>
@@ -232,19 +233,6 @@ app for more on Muuse partner cafes near you and their offers!</p>
 <p>Starbucks offers a 50-cent discount when customers bring their tumblers
 or mugs, and a free drink with any purchase of a Starbucks tumbler for
 their members.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Tanglin Mall" src="/images/Say YES to Waste Less/SYTWL Deals/tanglin_mall_tmb_thumb160.png">
-</div>
-<p><strong>Tanglin Mall</strong>
-</p>
-<p>Tanglin Mall has recently launched a year-long campaign where Great Rewards
-members can earn Great Rewards Points by bringing their own reusable bags
-with a minimum spend of $20. Members can utilise these points collected
-to offset their shopping purchase or carpark charges.</p>
 </td>
 </tr>
 <tr>
