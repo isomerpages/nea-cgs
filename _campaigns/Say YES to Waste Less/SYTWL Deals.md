@@ -760,11 +760,6 @@ of $10 and $15, respectively</p>
 screenshot via Telegram (@YindiiSG) every time you rescue a meal on Yindii
 to receive a stamp on your digital card</p>
 </li>
-<li>
-<p>Give back $1 to SG Food Bank for every post you share of your Yindii surprise
-bag on social media with the hashtag #ZeroWasteWithYindii. This initiative
-runs until 31st May, so let’s create an impact together!</p>
-</li>
 </ul>
 </td>
 </tr>
