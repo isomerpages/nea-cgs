@@ -126,6 +126,18 @@ clean and good condition at 5% of their retail value.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Don_Don_Donki.png">
+</div>
+<p><strong>Don Don Donki</strong>
+<br>To encourage shoppers to contribute to a greener future, DON DON DONKI
+is offering promotional discounts on the yellow eco-bags, making sustainability
+more appealing and affordable as well as a rewarding experience for consumers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
