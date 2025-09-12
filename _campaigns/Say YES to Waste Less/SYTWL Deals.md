@@ -639,11 +639,6 @@ Green bottle)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="The Sustainability Project" src="/images/Say YES to Waste Less/SYTWL Deals/the_sustainability_project_tmb_thumb160.png">
 </div>
@@ -661,6 +656,18 @@ bag workshops
 <br>Use the promo code "SYTWL"</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/TBB.png">
+</div>
+<p><strong>Tiong Bahru Bakery</strong>
+<br>At Tiong Bahru Bakery, customers are encouraged to reduce the wastage
+of single-use packaging by getting a $0.50 discount on their purchases
+when they bring their own tumblers and food containers.</p>
 </td>
 </tr>
 <tr>
