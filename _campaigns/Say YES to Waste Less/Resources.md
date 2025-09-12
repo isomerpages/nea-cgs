@@ -48,11 +48,11 @@ movement. Here are our Key Visuals for 2025.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_01.png" rel="noopener nofollow" target="_blank">Key Visual (Supermarkets)</a>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_01.png" rel="noopener nofollow" target="_blank">Poster (Supermarkets)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_02.png" rel="noopener nofollow" target="_blank">Key Visual (Retail)</a>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_02.png" rel="noopener nofollow" target="_blank">Poster (Retail)</a>
 </p>
 </td>
 </tr>
@@ -78,15 +78,15 @@ movement. Here are our Key Visuals for 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_03.png" rel="noopener nofollow" target="_blank">Key Visual (Buffet Caterers)</a>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R9_03.png" rel="noopener nofollow" target="_blank">Poster (Buffet Caterers)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R8_04.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Hotel)</a>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R8_04.png" rel="noopener noreferrer nofollow" target="_blank">Poster (Hotel)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R11_05.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (F&amp;B)</a>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SAYYES_KV_PartnerAdapts_V1R11_05.png" rel="noopener noreferrer nofollow" target="_blank">Poster (F&amp;B)</a>
 </p>
 </td>
 </tr>
@@ -98,11 +98,44 @@ movement. Here are our Key Visuals for 2025.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<h2>Educational Posters</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Resources/NEA_SYTWL_EMCT_Infographic_FA_V4R1_01.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Resources/NEA_SYTWL_EMCT_Infographic_FA_V4R1_02__1_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Poster (English/Malay)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Poster (Chinese/Tamil)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
 <th rowspan="2" colspan="1">
 <h2>Reducing Wastage</h2>
-<p>Thank you for your interest in being part of the Say YES to Waste Less
-movement. Here are some materials to help you play your part in reducing
-disposables.</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -126,7 +159,7 @@ disposables.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SYTWL_Wobbler_V1R3_Rice.png" rel="noopener noreferrer nofollow" target="_blank">Key Visual (Food Wastage)</a>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/NEA_SYTWL_Wobbler_V1R3_Rice.png" rel="noopener noreferrer nofollow" target="_blank">Wobbler (Food Wastage)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
