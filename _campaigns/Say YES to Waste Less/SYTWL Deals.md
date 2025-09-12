@@ -442,6 +442,10 @@ TradeUP programme at all M1 Shops to promote devices recycling.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Mandai_Wildlife_Group.png">
+</div>
 <p><strong>Mandai Wildlife Group</strong>
 <br>Mandai Wildlife Group is proud to support the Say Yes to Waste Less campaign
 by offering an exclusive 20% discount on our e-store! Make sustainable
