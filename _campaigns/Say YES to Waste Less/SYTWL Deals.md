@@ -142,11 +142,10 @@ gifts for their contribution to environmental preservation.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="LiHO TEA" src="/images/Say YES to Waste Less/SYTWL Deals/liho_tea_logo_tmb_thumb160.png">
 </div>
 <p><strong>LiHO TEA</strong>
-</p>
-<p>This year, LiHO TEA is running a Bring Your Own Bottle (BYOB) day in June
-2024 where customers can BYOB and receive 1 litre of Osmanthus Long Jing
-Tea at $1 only. LiHO TEA also gives a $0.50 discount when customers bring
-their own cups at KTPH to promote environmentally friendly initiatives.</p>
+<br>LiHO TEA introduced a limited-edition colour-changing reusable cup on
+31 July 2025, created in collaboration with local illustrator Clio The
+Window. Customers who bring back this cup can continue to enjoy a $1 discount
+on their drinks until 30 September 2025.</p>
 </td>
 </tr>
 <tr>
