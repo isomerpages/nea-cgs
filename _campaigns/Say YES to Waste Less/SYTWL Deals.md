@@ -46,6 +46,19 @@ experience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Avenue_on_3.png">
+</div>
+<p><strong>Avenue on 3</strong>
+<br>At Avenue on 3, bring your own tumbler and enjoy $1 off your beverage;
+it’s our way of rewarding sustainability, one cup at a time. With these
+simple initiatives, Avenue On 3 hopes to inspire more mindful consumption
+and a greener future for everyone!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
