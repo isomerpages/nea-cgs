@@ -155,10 +155,10 @@ on their drinks until 30 September 2025.</p>
 </div>
 <p><strong>M1 Limited</strong>
 </p>
-<p>M1 offers customers the option of 5G Eco SIM cards and 5G eSIMs. In addition,
-M1 has implemented devices ‘trade-in’ programmes for both its B2B and B2C
-customers, extending the life span of devices and reducing the amount of
-electronic equipment being disposed.</p>
+<p>M1 offers customers physical 5G SIM-cards that are made of recyclable
+materials and 5G eSIMs – allowing customers to activate a mobile plan without
+a SIM card, encouraging customers to adopt the M1 eBill and launching the
+TradeUP programme at all M1 Shops to promote devices recycling.</p>
 </td>
 </tr>
 <tr>
@@ -168,11 +168,13 @@ electronic equipment being disposed.</p>
 </div>
 <p><strong>Marina Bay Sands</strong>
 </p>
-<p>Over the period of 14 May to 24 June 2024, Marina Bay Sands Hotel's and
-Sands Expo &amp; Convention Centre's Origin + Bloom outlets will offer
-any customer utilizing their own Bring Your Own cup, a complimentary house
-baked cookie with the purchase of any Signature Brew Coffee or Tea. While
-stocks last.</p>
+<p>Inspiring and engaging guests remain integral in Marina Bay Sands’ sustainability
+strategy. Marina Bay Sands’ signature patisserie Origin + Bloom will offer
+a complimentary house-baked cookie to any customer who purchases a signature
+brew coffee or tea and brings their own reusable cup between 13 September
+to 12 October 2025. This promotion is available at these outlets: Hotel
+Tower 2 and 3, Marina Bay Sands Expo &amp; Convention Centre Level 1 and
+4. While stocks last.</p>
 </td>
 </tr>
 <tr>
