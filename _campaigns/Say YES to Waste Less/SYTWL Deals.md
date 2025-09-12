@@ -138,6 +138,23 @@ more appealing and affordable as well as a rewarding experience for consumers.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/duo.png">
+</div>
+<p><strong>DUO Singapore</strong>
+<br>To encourage sustainable habits, DUO will be working with selected DUO
+Galleria F&amp;B tenants to offer incentives to customers who bring their
+own reusable containers or tumblers during the SYTWL campaign. Participating
+outlets will offer a $2 off takeaway purchases redeemable via the DUO Singapore
+App for BYO patrons. We will also support awareness through digital signages
+and outreach efforts within DUO to promote BYO culture.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
