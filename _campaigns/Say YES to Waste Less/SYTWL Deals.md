@@ -575,6 +575,13 @@ app for more on Muuse partner cafes near you and their offers!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Salmon Samurai</strong>
+<br>Salmon Samurai offers $0.50 off each main when you use your own container
+for takeaway.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Starbucks" src="/images/Say YES to Waste Less/SYTWL Deals/starbucks_logo_tmb_thumb160.jpg">
 </div>
@@ -583,6 +590,13 @@ app for more on Muuse partner cafes near you and their offers!</p>
 <p>Starbucks offers a 50-cent discount when customers bring their tumblers
 or mugs, and a free drink with any purchase of a Starbucks tumbler for
 their members.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sumo Bar Happy</strong>
+<br>Sumo Bar Happy offers $0.50 off each main when you use your own container
+for takeaway.</p>
 </td>
 </tr>
 <tr>
