@@ -16,15 +16,157 @@ to say YES to reducing disposables and food wastage.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Allgreen Properties</strong>
+<br>
+<br>Shop sustainably at Allgreen Properties’ malls and get rewarded!
+<br>
+<br>The Great Rewards program now rewards you with points for shopping sustainably
+at Great World, Pasir Ris Mall, Tanglin Mall, and The Seletar Mall. Simply
+bring your own reusables and spend a minimum of $20 (double spending required
+for supermarket receipts) to unlock a spin chance on the Great Rewards
+app and win Great Rewards Points! Use your points to offset your next purchase,
+redeem e-Vouchers, or convert them into Carpark$.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Dorsett Singapore" src="/images/Say YES to Waste Less/SYTWL Deals/dorsett2024_tmb_thumb160.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/At_Tea_Logo___Orange.png">
 </div>
-<p><strong>Dorsett Singapore</strong>
+<p><strong>At Tea</strong>
+<br>At Tea encourages sustainable habits by offering a $0.10 discount per
+cup for customers who opt out of a carrier bag. Customers who bring back
+their At Tea tumbler or foldable bottle will enjoy a $0.50 discount on
+the drink they order, which will be served directly in their reusable drinkware.
+These initiatives help reduce waste and promote an eco-friendly tea-drinking
+experience.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Avenue_on_3.png">
+</div>
+<p><strong>Avenue on 3</strong>
+<br>At Avenue on 3, bring your own tumbler and enjoy $1 off your beverage;
+it’s our way of rewarding sustainability, one cup at a time. With these
+simple initiatives, Avenue On 3 hopes to inspire more mindful consumption
+and a greener future for everyone!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Cafe_Melba.png">
+</div>
+<p><strong>Café Melba</strong>
+<br>Customers who bring their own cups or food containers will receive a $0.50
+discount as part of our waste-reduction efforts.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/CapitaLand.png">
+</div>
+<p><strong>CapitaLand</strong>
+<br>As part of Let’s Get Down to Earth, we invited our customers to join us
+in making a difference by donating their e-waste at designated collection
+bins across our Retail and Workspace properties. In celebration of CapitaLand’s
+25th anniversary, we’re also rewarding 25 participants with a $25 eCapitaVoucher
+each as a token of appreciation for their support!
+<br>
+<br>More information can be found <a href="https://www.capitaland.com/sg/en/lease/engagement/LGDTE2025/declutter-and-win.html" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p>Dorsett Singapore has ongoing efforts to reduce wastes by carrying out
-Bring-Your-Own-Container for lunch with staff, and guests are encouraged
-to dispose of waste responsibly with segregated recycling bins. Guests
-have a chance to win 100 Dorsett-Your Rewards points, valued at SGD130.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Carlton_Logo.jpg">
+</div>
+<p><strong>Carlton Hotel</strong>
+<br>Starting on 15 April 2025, customers can enjoy a <strong>10% discount</strong> at <strong>Tuxedo Cafe &amp; Patisserie</strong> when
+they bring their Bring-Your-Own-Cup (BYOC) to purchase coffee or tea. This
+is an ongoing programme by the hotel to raise awareness and promote environmentally
+friendly initiatives. Terms and conditions apply.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/CMR.png">
+</div>
+<p><strong>Common Man Coffee Roasters</strong>
+<br>Common Man Coffee Roasters promotes eco-conscious habits by offering a
+10% discount on their coffees to those who bring their own tumblers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Decathlon.png">
+</div>
+<p><strong>Decathlon</strong>
+<br>During the weekend of the 26th and 27th April, customers will :</p>
+<p>- Enjoy up to 80% off on Second Life products (<a href="https://www.decathlon.sg/c/second-life.html" rel="noopener noreferrer nofollow" target="_blank">https://www.decathlon.sg/c/second-life.html</a>)
+<br>
+</p>
+<p>- Get up to 80% of your bike’s retail value when we Buy-Back your bike
+(<a href="https://www.decathlon.sg/s/buy-back" rel="noopener noreferrer nofollow" target="_blank">https://www.decathlon.sg/s/buy-back</a>)
+<br>
+</p>
+<p>- Decathlon will buy back (via Decathlon gift card) unused products in
+clean and good condition at 5% of their retail value.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Don_Don_Donki.png">
+</div>
+<p><strong>Don Don Donki</strong>
+<br>To encourage shoppers to contribute to a greener future, DON DON DONKI
+is offering promotional discounts on the yellow eco-bags, making sustainability
+more appealing and affordable as well as a rewarding experience for consumers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/duo.png">
+</div>
+<p><strong>DUO Singapore</strong>
+<br>To encourage sustainable habits, DUO will be working with selected DUO
+Galleria F&amp;B tenants to offer incentives to customers who bring their
+own reusable containers or tumblers during the SYTWL campaign. Participating
+outlets will offer a $2 off takeaway purchases redeemable via the DUO Singapore
+App for BYO patrons. We will also support awareness through digital signages
+and outreach efforts within DUO to promote BYO culture.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Ecoworks_Logo_1.png">
+</div>
+<p><strong>Ecoworks</strong>
+<br>Catch us during our pop ups at the refill station (dates and location
+shared via instagram: @<a href="http://ecoworks.sg" rel="noopener noreferrer nofollow" target="_blank">ecoworks.sg</a>) and get a complimentary EASYREFILL
+bottle when you kickstart your refill journey!</p>
 </td>
 </tr>
 <tr>
@@ -37,31 +179,6 @@ have a chance to win 100 Dorsett-Your Rewards points, valued at SGD130.</p>
 <p>Kopitiam customers will enjoy a $0.10 eco discount for bringing their
 own tumbler when purchasing drinks at the Kopi Kiosk. This is an ongoing
 programme for Kopitiam.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="foodpanda Singapore" src="/images/Say YES to Waste Less/SYTWL Deals/foodpanda_logo_redux_2023_tmb_thumb160.png">
-</div>
-<p><strong>foodpanda Singapore</strong>
-</p>
-<p>Customers can enjoy $4 off full restaurant menu with the code &lt;GOGREEN&gt;
-when ordering from restaurants that have made a conscious effort to be
-sustainable, such as reducing waste. These restaurants can be found under
-the "Green Label" filter on the "Restaurants" page. T&amp;C applies.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Food Republic" src="/images/Say YES to Waste Less/SYTWL Deals/food_republic_3_tmb_thumb200.png">
-</div>
-<p><strong>Food Republic</strong>
-</p>
-<p>From now till 30 September 2024, customers stand to redeem limited $2
-Food Opera ION Orchard vouchers at the Muuse booth between 11am and 2pm
-when they use the Muuse containers for takeaway.</p>
 </td>
 </tr>
 <tr>
@@ -98,18 +215,6 @@ North - First Story.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Four Points Sheraton Singapore, Riverview" src="/images/Say YES to Waste Less/SYTWL Deals/fpt4304cmyk_170763_cmyk_navy_text_4_color_pinwheel_tmb_thumb160.png">
-</div>
-<p><strong>Four Points Sheraton Singapore, Riverview</strong>
-</p>
-<p>Customers can enjoy a 10 per cent discount on takeaway orders at Four
-Points Eatery when they bring their own container. Terms and conditions
-apply.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Greendot" src="/images/Say YES to Waste Less/SYTWL Deals/greendot2024_tmb_thumb160.png">
 </div>
 <p><strong>Greendot</strong>
@@ -122,22 +227,28 @@ bags to encourage customers to embrace eco-friendly living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HEYTEA</strong>
+<br>To encourage more participation from consumers to contribute positively
+to the environment, HEYTEA has been encouraging customers to bring their
+own cups or tumblers to enjoy drinks from their stores by offering a 50-cent
+discount.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Harvey Norman" src="/images/Say YES to Waste Less/SYTWL Deals/hn2024_tmb_thumb160.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Express_Singapore_Clarke_Quay.png">
 </div>
-<p><strong>Harvey Norman</strong>
-</p>
-<p>Harvey Norman encourages their customers to recycle their e-waste at its
-stores by rewarding them with a $10 voucher for every item recycled. They
-also provide trade-in services for laptops, and works with NEA’s authorised
-recycler to take back used fridges, TVs, washers, dryers, and air conditioners
-upon delivery of new purchase.</p>
+<p><strong>Holiday Inn Express Singapore Clarke Quay</strong>
+<br>Guests can opt out of daily housekeeping and reusing towels, earning 500
+IHG One Rewards points per stay.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Holiday Inn Singapore Atrium" src="/images/Say YES to Waste Less/SYTWL Deals/holiday_inn_singapore_atrium__green_logo__tmb_thumb160.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Holiday Inn Singapore Atrium" src="/images/Say YES to Waste Less/SYTWL Deals/holiday_inn_singapore_atrium__green_logo__tmb_thumb160.jpg">
 </div>
 <p><strong>Holiday Inn Singapore Atrium</strong>
 </p>
@@ -147,19 +258,82 @@ are rewarded with additional IHG One Rewards points.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Singapore_Little_India.png">
+</div>
+<p><strong>Holiday Inn Singapore Little India</strong>
+<br>As part of its eco-friendly efforts, the hotel’s Lobby Café, Soul Brew,
+offers a complimentary mini croissant to guests and visitors who bring
+their own cup for coffee—encouraging sustainable habits, one cup at a time.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/InterContinental_Singapore_Robertson_Quay.png">
+</div>
+<p><strong>InterContinental Singapore Robertson Quay</strong>
+<br>The hotel’s Greener Stay programme rewards guests with 500 bonus IHG One
+Rewards points per night when opting out of housekeeping, promoting water
+and energy conservation.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="ION Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/ion_logo_cmyk_tmb_thumb160.png">
 </div>
 <p><strong>ION Orchard</strong>
 </p>
-<p>From 1 April to 30 September 2024 shoppers may borrow a free reusable
-cup or container, and return within 30 days for professional cleaning from
-six participating tenants (Common Man Coffee Roasters, Food Opera, Plain
-Vanilla, Starbucks, Toast Box and The 1827 Clipper Tea Co.)</p>
-<p>ION+ Rewards members earn Green Points by participating in an eco-conscious
-action (e.g. BYOB) for their purchases, or by purchasing any eco-friendly
-products or items at ION Orchard stores where relevant eco-friendly collections
-are offered.</p>
+<p>Embark on a sustainable future with ION Orchard. From now to 31 December
+2025, ION+ Rewards Members will be rewarded with Green Points by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Using your own shopping bags, mugs, food containers OR</p>
+</li>
+<li>
+<p>Purchasing “green” or sustainable items at selected stores where relevant
+collections are offered
+<br>
+<br>Each Green Point awarded is equivalent to 1 ION+ Point, and each Member
+can earn up to a maximum of 5 Green Points per month.
+<br>
+</p>
+</li>
+</ul>
+<p>To redeem this reward:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Redeem 'Reward Voucher'</p>
+</li>
+<li>
+<p>Click 'Earn ION⁺ Points'</p>
+</li>
+<li>
+<p>Apply 'Reward Voucher'</p>
+</li>
+<li>
+<p>Generate QR code</p>
+</li>
+<li>
+<p>Scan at participating Easy Earn stores</p>
+<p>Download the ION Orchard mobile app and sign up for ION⁺ Rewards Membership
+to redeem this deal. Terms and Conditions apply.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/JOLLY_ECO.png">
+</div>
+<p><strong>JOLLY ECO</strong>
+<br>JOLLY ECO offers double points to all members who bring their own shopping
+carriers on the purchase (uncapped!)</p>
 </td>
 </tr>
 <tr>
@@ -181,15 +355,76 @@ gifts for their contribution to environmental preservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Koufu_Logo.png">
+</div>
+<p><strong>Koufu Pte Ltd</strong>
+<br>Koufu commenced Bring your own cup initiative from August 2024 to encourage
+customers to bring their own cups to enjoy 10 cents off for cold drinks
+and takeaway fee waiver for hot drinks. This initiative is applicable to
+all foodcourts and coffeeshops.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/2024_LS_Deco_Logo.jpg">
+</div>
+<p><strong>La Senza</strong>
+<br>At La Senza, simply bring your own reusable bag when you shop at La Senza
+and enjoy $5 off with a minimum purchase of $100! Not only will you be
+saving on your favourite lingerie, but you will also be contributing to
+a more sustainable future</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="LiHO TEA" src="/images/Say YES to Waste Less/SYTWL Deals/liho_tea_logo_tmb_thumb160.png">
 </div>
 <p><strong>LiHO TEA</strong>
-</p>
-<p>This year, LiHO TEA is running a Bring Your Own Bottle (BYOB) day in June
-2024 where customers can BYOB and receive 1 litre of Osmanthus Long Jing
-Tea at $1 only. LiHO TEA also gives a $0.50 discount when customers bring
-their own cups at KTPH to promote environmentally friendly initiatives.</p>
+<br>LiHO TEA introduced a limited-edition colour-changing reusable cup on
+31 July 2025, created in collaboration with local illustrator Clio The
+Window. Customers who bring back this cup can continue to enjoy a $1 discount
+on their drinks until 30 September 2025.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Lush.png">
+</div>
+<p><strong>LUSH</strong>
+<br>As a continuous conscious effort, customers can exchange five of the following
+qualifying full-sized Lush packaging items for a FREE pot of Fresh Face
+Mask:
+<br>- PET clear plastic bottles (with lids)
+<br>-PP clear and black pots (with lids)
+<br>-PP makeup packaging
+<br>-HDPE bottles (with trigger or spray tops)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/M_Hotel_Singapore_City_Centre.png">
+</div>
+<p><strong>M Hotel Singapore City Centre</strong>
+<br>M Hotel Singapore X Treatsure:
+<br>M Hotel Singapore has partnered with Treatsure to reduce food waste while
+offering you a delicious deal! Head to Café 2000 or The Buffet Restaurant
+(Halal) and fill up your Treatsure box with an assortment of buffet favorites.
+Enjoy this sustainable dining experience from $13+ at Café 2000 and $11.90+
+at The Buffet Restaurant.
+<br>
+<br>Do your part in reducing food waste while savoring quality dishes at a
+great price!</p>
+<p>*Treatsure is available after stipulated buffet timing. Please contact
+outlets for more details.</p>
 </td>
 </tr>
 <tr>
@@ -199,10 +434,43 @@ their own cups at KTPH to promote environmentally friendly initiatives.</p>
 </div>
 <p><strong>M1 Limited</strong>
 </p>
-<p>M1 offers customers the option of 5G Eco SIM cards and 5G eSIMs. In addition,
-M1 has implemented devices ‘trade-in’ programmes for both its B2B and B2C
-customers, extending the life span of devices and reducing the amount of
-electronic equipment being disposed.</p>
+<p>M1 offers customers physical 5G SIM-cards that are made of recyclable
+materials and 5G eSIMs – allowing customers to activate a mobile plan without
+a SIM card, encouraging customers to adopt the M1 eBill and launching the
+TradeUP programme at all M1 Shops to promote devices recycling.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Mandai_Wildlife_Group.png">
+</div>
+<p><strong>Mandai Wildlife Group</strong>
+<br>Mandai Wildlife Group is proud to support the Say Yes to Waste Less campaign
+by offering an exclusive 20% discount on our e-store! Make sustainable
+choices with our range of reusable drinkware and collapsible lunchboxes—perfect
+for kickstarting your BYO journey. Shop now and take a step towards reducing
+waste!
+<br>Promo code: NEA2025
+<br>Terms and conditions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>20% off on storewide</p>
+</li>
+<li>
+<p>No minimum spends</p>
+</li>
+<li>
+<p>One-time use per customer</p>
+</li>
+<li>
+<p>Not combinable with other discounts</p>
+</li>
+<li>
+<p>Valid from now till 31 Oct</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -212,11 +480,13 @@ electronic equipment being disposed.</p>
 </div>
 <p><strong>Marina Bay Sands</strong>
 </p>
-<p>Over the period of 14 May to 24 June 2024, Marina Bay Sands Hotel's and
-Sands Expo &amp; Convention Centre's Origin + Bloom outlets will offer
-any customer utilizing their own Bring Your Own cup, a complimentary house
-baked cookie with the purchase of any Signature Brew Coffee or Tea. While
-stocks last.</p>
+<p>Inspiring and engaging guests remain integral in Marina Bay Sands’ sustainability
+strategy. Marina Bay Sands’ signature patisserie Origin + Bloom will offer
+a complimentary house-baked cookie to any customer who purchases a signature
+brew coffee or tea and brings their own reusable cup between 13 September
+to 12 October 2025. This promotion is available at these outlets: Hotel
+Tower 2 and 3, Marina Bay Sands Expo &amp; Convention Centre Level 1 and
+4. While stocks last.</p>
 </td>
 </tr>
 <tr>
@@ -226,32 +496,37 @@ stocks last.</p>
 </div>
 <p><strong>Mercure Singapore Bugis</strong>
 </p>
-<p>Bring your own tumbler/takeaway cup and get $1 off our coffee selection
-at BARtistry's Tea Time Affair.</p>
+<p>Bring your own tumbler/takeaway cup and get $1 off our coffee and tea
+selection at BARtistry.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Muuse" src="/images/Say YES to Waste Less/SYTWL Deals/muuse_tmb_thumb160.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/PARKROYAL_COLLECTION_Pickering.png">
 </div>
-<p><strong>Muuse</strong>
+<p><strong>PARROYAL COLLECTION Pickering</strong>
+<br>For every guest who opts in for alternate day housekeeping services, the
+hotel will plant a new plant in their gardens. This initiative allows guests
+to play an active role in reducing water and energy consumption while contributing
+directly to their green spaces.
+<br>
 </p>
-<p>Many of Muuse's partners offer on-the-spot discounts for using Muuse –
-check out the Muuse app for details.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="PARKROYAL on Beach Road" src="/images/Say YES to Waste Less/SYTWL Deals/parkroyal_on_beach_road_singapore_jpeg_tmb_thumb160.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/PAUL_Singapore.png">
 </div>
-<p><strong>PARKROYAL on Beach Road</strong>
-</p>
-<p>The hotel encourages guests to reuse their linens by incentivizing alternate-day
-room housekeeping with an exclusive $10 dining credit. Additionally, guests
-are advised to change bed linens every three days as part of our commitment
-to responsible resource management.</p>
+<p><strong>PAUL Singapore</strong>
+<br>As part of PAUL’s commitment to sustainability, customers are encouraged
+to bring their own reusable cups for takeaway beverages. To support this
+initiative, PAUL offers a 50-cent discount on any takeaway beverage for
+those who choose to BYO. This effort not only helps to reduce single-use
+waste but also promotes more environmentally friendly habits among customers.</p>
 </td>
 </tr>
 <tr>
@@ -260,10 +535,30 @@ to responsible resource management.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="Pullman Singapore Orchard" src="/images/Say YES to Waste Less/SYTWL Deals/pullman_singapore_orchard_hotel_logo_tmb_thumb160.png">
 </div>
 <p><strong>Pullman Singapore Orchard</strong>
+<br>Pullman Singapore Orchard is putting sustainability on the menu! From
+13 September to 12 October 2025, diners can enjoy exclusive discounts simply
+by making eco-friendly choices.
+<br>
 </p>
-<p>Bring your own tumbler/takeaway cup and get $1 off our coffee/ tea selection
-at Atelier Lounge located at level 4 in Pullman Singapore Orchard from
-14 May 2024 to 24 June 2024.</p>
+<p>Sip Sustainably at Atelier Lounge &amp; Bar – Bring your own tumbler or
+takeaway cup and enjoy $1 off our curated coffee and tea selection.
+<br>
+</p>
+<p>Dine Responsibly with Eden Restaurant – Reduce waste and get $2 off per
+takeaway food order when you bring your own reusable container(s).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/QSWM.png">
+</div>
+<p><strong>Quan Shui Wet Market</strong>
+<br>Quan Shui Wet Market incentivizes customers who return their cooler boxes
+with the sticker order attached and ice packs to Quan Shui's Upper Thomson
+store at 50 Tagore Lane by offering a cash refund. All materials are then
+cleaned and recycled to be reused as much as possible.</p>
 </td>
 </tr>
 <tr>
@@ -275,9 +570,18 @@ at Atelier Lounge located at level 4 in Pullman Singapore Orchard from
 </p>
 <p>Customers can borrow a Muuse container or purchase SaladStop!’s collapsible
 bowl and get a free salad. Customers who bring their own containers will
-also receive a free standard topping.</p>
+also receive a free standard topping.
+<br>
+</p>
 <p>*T&amp;Cs apply. Offers available vary across stores – check out the Muuse
 app for more on Muuse partner cafes near you and their offers!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Salmon Samurai</strong>
+<br>Salmon Samurai offers $0.50 off each main when you use your own container
+for takeaway.</p>
 </td>
 </tr>
 <tr>
@@ -294,15 +598,47 @@ their members.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Sumo Bar Happy</strong>
+<br>Sumo Bar Happy offers $0.50 off each main when you use your own container
+for takeaway.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Tanglin Mall" src="/images/Say YES to Waste Less/SYTWL Deals/tanglin_mall_tmb_thumb160.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/SUPERDRY_NEW_Logo__All_Colors__02.png">
 </div>
-<p><strong>Tanglin Mall</strong>
-</p>
-<p>Tanglin Mall has recently launched a year-long campaign where Great Rewards
-members can earn Great Rewards Points by bringing their own reusable bags
-with a minimum spend of $20. Members can utilise these points collected
-to offset their shopping purchase or carpark charges.</p>
+<p><strong>Superdry</strong>
+<br>Bring your own reusable bag when you shop at any Superdry store and enjoy
+10% off your purchase!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Surrey_Hills_Grocer.png">
+</div>
+<p>Surrey Hills Grocer
+<br>Free drink with every purchase of a Frank Green bottle in our outlet.
+$1 off drinks when you bring your own Frank Green bottle.
+<br>Terms &amp; Conditions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Excluding alcohol and cocktails</p>
+</li>
+<li>
+<p>Free drink must be served in Frank Green bottle</p>
+</li>
+<li>
+<p>Free drink is of standard size (Will not match the volume of the Frank
+Green bottle)</p>
+</li>
+<li>
+<p>Only able to redeem upon paying for the Frank Green bottle at the counter.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -328,6 +664,18 @@ bag workshops
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/TBB.png">
+</div>
+<p><strong>Tiong Bahru Bakery</strong>
+<br>At Tiong Bahru Bakery, customers are encouraged to reduce the wastage
+of single-use packaging by getting a $0.50 discount on their purchases
+when they bring their own tumblers and food containers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Toast Box" src="/images/Say YES to Waste Less/SYTWL Deals/toastbox_logo_tmb_thumb200.jpg">
 </div>
@@ -344,10 +692,10 @@ customers bring their own cup.</p>
 </div>
 <p><strong><a href="https://www.treatsure.co/" rel="noopener nofollow" target="_blank">treatsure</a></strong>
 </p>
-<p>Enjoy 50-cents off your meal with treatsure's resusable box at over 20
-hotels and restaurant partner locations.</p>
-<p>Consumers who bring their own bag to self-pickup surplus groceries from
-their 7 Tanjong Pagar Plaza concept store will receive a free gift.</p>
+<p>Enjoy 50-cents off your meal with treatsure's resusable container at over
+20 hotels and restaurant partner locations. Consumers who bring their own
+bag to self-pickup surplus groceries from their 7 Tanjong Pagar Plaza concept
+store will receive a free gift.</p>
 </td>
 </tr>
 <tr>
@@ -363,6 +711,54 @@ their 7 Tanjong Pagar Plaza concept store will receive a free gift.</p>
 <p>Enjoy 10% off BYO items for customers who bring their own reusable containers
 <br>Promotion applicable for takeaways.</p>
 <p>Use the promo code "SYTWL"</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/UOB_logo.jpg">
+</div>
+<p><strong>UOB</strong>
+<br>Enjoy ongoing green deals for UOB EVOL card members such as up to 15%
+off at selected eco partners.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/W_Singapore___Sentosa_Cove.png">
+</div>
+<p><strong>W Singapore - Sentosa Cove</strong>
+<br>In line with its sustainability goals, W Singapore – Sentosa Cove will
+be providing guests with a 15% discount when they opt for BE WTR instead
+of imported alternatives and 15% discount will be offered on menu items
+from the kitchen table that uses Gobrix ingredients. This supports the
+resort’s commitment to environmental responsibility and sustainable luxury.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Yindii.png">
+</div>
+<p><strong>Yindii</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Enjoy $2 off with the code SYTWLNEW for new users and SYTWLEX for existing
+users when ordering surplus food from all stores on Yindii with min. value
+of $10 and $15, respectively</p>
+</li>
+<li>
+<p>Receive $5 Yindii voucher upon collecting 5 digital stamps. Send us a
+screenshot via Telegram (@YindiiSG) every time you rescue a meal on Yindii
+to receive a stamp on your digital card</p>
 </li>
 </ul>
 </td>
