@@ -316,6 +316,17 @@ to redeem this deal. Terms and Conditions apply.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/JOLLY_ECO.png">
+</div>
+<p><strong>JOLLY ECO</strong>
+<br>JOLLY ECO offers double points to all members who bring their own shopping
+carriers on the purchase (uncapped!)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Kiehl’s" src="/images/Say YES to Waste Less/SYTWL Deals/kiehls_logo_tmb_thumb200.jpg">
 </div>
