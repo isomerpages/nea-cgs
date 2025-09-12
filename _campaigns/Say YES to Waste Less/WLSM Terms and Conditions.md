@@ -8,7 +8,7 @@ third_nav_title: Say YES to Waste Less
 <p><strong>Terms &amp; Conditions&nbsp;</strong>&nbsp;
 <br>
 <br>Waste Less Supermart Event: Beverage Redemption, Say YES to Waste Less
-(SYTWL) Collapsible Silicone Cup Giveaway &amp; Reusable Bag Exchange .
+(SYTWL) Collapsible Silicone Cup Giveaway &amp; Reusable Bag Exchange.
 <br>
 <br>By participating in the Waste Less Supermart event and redeeming any of
 the below items or experiences, you agree to the following terms and conditions:&nbsp;
@@ -92,6 +92,7 @@ Conditions at any time without prior notice.&nbsp;</p>
 <li>
 <p>The organisers reserve the right to modify or withdraw any redemption
 items, giveaways, or promotional offers without liability.&nbsp;</p>
+<p></p>
 </li>
 </ul>
 <p>By participating in the redemption, giveaway and exchange activities,
