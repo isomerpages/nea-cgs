@@ -688,10 +688,10 @@ customers bring their own cup.</p>
 </div>
 <p><strong><a href="https://www.treatsure.co/" rel="noopener nofollow" target="_blank">treatsure</a></strong>
 </p>
-<p>Enjoy 50-cents off your meal with treatsure's resusable box at over 20
-hotels and restaurant partner locations.</p>
-<p>Consumers who bring their own bag to self-pickup surplus groceries from
-their 7 Tanjong Pagar Plaza concept store will receive a free gift.</p>
+<p>Enjoy 50-cents off your meal with treatsure's resusable container at over
+20 hotels and restaurant partner locations. Consumers who bring their own
+bag to self-pickup surplus groceries from their 7 Tanjong Pagar Plaza concept
+store will receive a free gift.</p>
 </td>
 </tr>
 <tr>
