@@ -387,6 +387,22 @@ on their drinks until 30 September 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Lush.png">
+</div>
+<p><strong>LUSH</strong>
+<br>As a continuous conscious effort, customers can exchange five of the following
+qualifying full-sized Lush packaging items for a FREE pot of Fresh Face
+Mask:
+<br>- PET clear plastic bottles (with lids)
+<br>-PP clear and black pots (with lids)
+<br>-PP makeup packaging
+<br>-HDPE bottles (with trigger or spray tops)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="M1 Limited" src="/images/Say YES to Waste Less/SYTWL Deals/m182b20358272b4558b9c7a50b6a9442db_tmb_thumb200.png">
 </div>
