@@ -184,8 +184,8 @@ Tower 2 and 3, Marina Bay Sands Expo &amp; Convention Centre Level 1 and
 </div>
 <p><strong>Mercure Singapore Bugis</strong>
 </p>
-<p>Bring your own tumbler/takeaway cup and get $1 off our coffee selection
-at BARtistry's Tea Time Affair.</p>
+<p>Bring your own tumbler/takeaway cup and get $1 off our coffee and tea
+selection at BARtistry.</p>
 </td>
 </tr>
 <tr>
