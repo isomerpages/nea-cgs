@@ -344,6 +344,19 @@ gifts for their contribution to environmental preservation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Koufu_Logo.png">
+</div>
+<p><strong>Koufu Pte Ltd</strong>
+<br>Koufu commenced Bring your own cup initiative from August 2024 to encourage
+customers to bring their own cups to enjoy 10 cents off for cold drinks
+and takeaway fee waiver for hot drinks. This initiative is applicable to
+all foodcourts and coffeeshops.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="LiHO TEA" src="/images/Say YES to Waste Less/SYTWL Deals/liho_tea_logo_tmb_thumb160.png">
 </div>
