@@ -100,6 +100,10 @@ friendly initiatives. Terms and conditions apply.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/CMR.png">
+</div>
 <p><strong>Common Man Coffee Roasters</strong>
 <br>Common Man Coffee Roasters promotes eco-conscious habits by offering a
 10% discount on their coffees to those who bring their own tumblers.</p>
@@ -353,6 +357,20 @@ gifts for their contribution to environmental preservation.</p>
 customers to bring their own cups to enjoy 10 cents off for cold drinks
 and takeaway fee waiver for hot drinks. This initiative is applicable to
 all foodcourts and coffeeshops.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/2024_LS_Deco_Logo.jpg">
+</div>
+<p><strong>La Senza</strong>
+<br>At La Senza, simply bring your own reusable bag when you shop at La Senza
+and enjoy $5 off with a minimum</p>
+<p>purchase of $100! Not only will you be saving on your favourite lingerie,
+but you will also be</p>
+<p>contributing to a more sustainable future</p>
 </td>
 </tr>
 <tr>
