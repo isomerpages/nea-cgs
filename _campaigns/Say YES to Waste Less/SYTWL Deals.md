@@ -308,14 +308,21 @@ can earn up to a maximum of 5 Green Points per month.</p>
 <li>
 <p>Redeem 'Reward Voucher'</p>
 </li>
-</ul>
-<p>• Click 'Earn ION⁺ Points'</p>
-<p>• Apply 'Reward Voucher'</p>
-<p>• Generate QR code</p>
-<p>• Scan at participating Easy Earn stores</p>
-<p>
-<br>Download the ION Orchard mobile app and sign up for ION⁺ Rewards Membership
+<li>
+<p>Click 'Earn ION⁺ Points'</p>
+</li>
+<li>
+<p>Apply 'Reward Voucher'</p>
+</li>
+<li>
+<p>Generate QR code</p>
+</li>
+<li>
+<p>Scan at participating Easy Earn stores</p>
+<p>Download the ION Orchard mobile app and sign up for ION⁺ Rewards Membership
 to redeem this deal. Terms and Conditions apply.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -367,10 +374,9 @@ all foodcourts and coffeeshops.</p>
 </div>
 <p><strong>La Senza</strong>
 <br>At La Senza, simply bring your own reusable bag when you shop at La Senza
-and enjoy $5 off with a minimum</p>
-<p>purchase of $100! Not only will you be saving on your favourite lingerie,
-but you will also be</p>
-<p>contributing to a more sustainable future</p>
+and enjoy $5 off with a minimum purchase of $100! Not only will you be
+saving on your favourite lingerie, but you will also be contributing to
+a more sustainable future</p>
 </td>
 </tr>
 <tr>
