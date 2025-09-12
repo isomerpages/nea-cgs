@@ -16,6 +16,36 @@ to say YES to reducing disposables and food wastage.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Allgreen Properties</strong>
+<br>
+<br>Shop sustainably at Allgreen Properties’ malls and get rewarded!
+<br>
+<br>The Great Rewards program now rewards you with points for shopping sustainably
+at Great World, Pasir Ris Mall, Tanglin Mall, and The Seletar Mall. Simply
+bring your own reusables and spend a minimum of $20 (double spending required
+for supermarket receipts) to unlock a spin chance on the Great Rewards
+app and win Great Rewards Points! Use your points to offset your next purchase,
+redeem e-Vouchers, or convert them into Carpark$.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/At_Tea_Logo___Orange.png">
+</div>
+<p><strong>At Tea</strong>
+<br>At Tea encourages sustainable habits by offering a $0.10 discount per
+cup for customers who opt out of a carrier bag. Customers who bring back
+their At Tea tumbler or foldable bottle will enjoy a $0.50 discount on
+the drink they order, which will be served directly in their reusable drinkware.
+These initiatives help reduce waste and promote an eco-friendly tea-drinking
+experience.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
