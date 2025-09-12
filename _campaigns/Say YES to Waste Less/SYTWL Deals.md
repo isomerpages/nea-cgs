@@ -17,19 +17,6 @@ to say YES to reducing disposables and food wastage.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Dorsett Singapore" src="/images/Say YES to Waste Less/SYTWL Deals/dorsett2024_tmb_thumb160.png">
-</div>
-<p><strong>Dorsett Singapore</strong>
-</p>
-<p>Dorsett Singapore has ongoing efforts to reduce wastes by carrying out
-Bring-Your-Own-Container for lunch with staff, and guests are encouraged
-to dispose of waste responsibly with segregated recycling bins. Guests
-have a chance to win 100 Dorsett-Your Rewards points, valued at SGD130.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="FairPrice Group" src="/images/Say YES to Waste Less/SYTWL Deals/fairprice_group_logo_landscape_tmb_thumb200.png">
 </div>
 <p><strong>FairPrice Group</strong>
@@ -37,31 +24,6 @@ have a chance to win 100 Dorsett-Your Rewards points, valued at SGD130.</p>
 <p>Kopitiam customers will enjoy a $0.10 eco discount for bringing their
 own tumbler when purchasing drinks at the Kopi Kiosk. This is an ongoing
 programme for Kopitiam.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="foodpanda Singapore" src="/images/Say YES to Waste Less/SYTWL Deals/foodpanda_logo_redux_2023_tmb_thumb160.png">
-</div>
-<p><strong>foodpanda Singapore</strong>
-</p>
-<p>Customers can enjoy $4 off full restaurant menu with the code &lt;GOGREEN&gt;
-when ordering from restaurants that have made a conscious effort to be
-sustainable, such as reducing waste. These restaurants can be found under
-the "Green Label" filter on the "Restaurants" page. T&amp;C applies.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Food Republic" src="/images/Say YES to Waste Less/SYTWL Deals/food_republic_3_tmb_thumb200.png">
-</div>
-<p><strong>Food Republic</strong>
-</p>
-<p>From now till 30 September 2024, customers stand to redeem limited $2
-Food Opera ION Orchard vouchers at the Muuse booth between 11am and 2pm
-when they use the Muuse containers for takeaway.</p>
 </td>
 </tr>
 <tr>
@@ -98,18 +60,6 @@ North - First Story.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Four Points Sheraton Singapore, Riverview" src="/images/Say YES to Waste Less/SYTWL Deals/fpt4304cmyk_170763_cmyk_navy_text_4_color_pinwheel_tmb_thumb160.png">
-</div>
-<p><strong>Four Points Sheraton Singapore, Riverview</strong>
-</p>
-<p>Customers can enjoy a 10 per cent discount on takeaway orders at Four
-Points Eatery when they bring their own container. Terms and conditions
-apply.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Greendot" src="/images/Say YES to Waste Less/SYTWL Deals/greendot2024_tmb_thumb160.png">
 </div>
 <p><strong>Greendot</strong>
@@ -118,20 +68,6 @@ apply.</p>
 their own containers for takeaway orders. They have also launched their
 in-house merchandise series which include reusable tumblers, mugs and tote
 bags to encourage customers to embrace eco-friendly living.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Harvey Norman" src="/images/Say YES to Waste Less/SYTWL Deals/hn2024_tmb_thumb160.jpg">
-</div>
-<p><strong>Harvey Norman</strong>
-</p>
-<p>Harvey Norman encourages their customers to recycle their e-waste at its
-stores by rewarding them with a $10 voucher for every item recycled. They
-also provide trade-in services for laptops, and works with NEA’s authorised
-recycler to take back used fridges, TVs, washers, dryers, and air conditioners
-upon delivery of new purchase.</p>
 </td>
 </tr>
 <tr>
@@ -152,14 +88,35 @@ are rewarded with additional IHG One Rewards points.</p>
 </div>
 <p><strong>ION Orchard</strong>
 </p>
-<p>From 1 April to 30 September 2024 shoppers may borrow a free reusable
-cup or container, and return within 30 days for professional cleaning from
-six participating tenants (Common Man Coffee Roasters, Food Opera, Plain
-Vanilla, Starbucks, Toast Box and The 1827 Clipper Tea Co.)</p>
-<p>ION+ Rewards members earn Green Points by participating in an eco-conscious
-action (e.g. BYOB) for their purchases, or by purchasing any eco-friendly
-products or items at ION Orchard stores where relevant eco-friendly collections
-are offered.</p>
+<p>Embark on a sustainable future with ION Orchard. From now to 31 December
+2025, ION+ Rewards Members will be rewarded with Green Points by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Using your own shopping bags, mugs, food containers OR</p>
+</li>
+<li>
+<p>Purchasing “green” or sustainable items at selected stores where relevant
+collections are offered
+<br>
+</p>
+</li>
+</ul>
+<p>Each Green Point awarded is equivalent to 1 ION+ Point, and each Member
+can earn up to a maximum of 5 Green Points per month.</p>
+<p>&nbsp;</p>
+<p>To redeem this reward:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Redeem 'Reward Voucher'</p>
+</li>
+</ul>
+<p>• Click 'Earn ION⁺ Points'</p>
+<p>• Apply 'Reward Voucher'</p>
+<p>• Generate QR code</p>
+<p>• Scan at participating Easy Earn stores</p>
+<p>
+<br>Download the ION Orchard mobile app and sign up for ION⁺ Rewards Membership
+to redeem this deal. Terms and Conditions apply.</p>
 </td>
 </tr>
 <tr>
