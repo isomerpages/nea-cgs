@@ -297,12 +297,12 @@ and energy conservation.</p>
 <p>Purchasing “green” or sustainable items at selected stores where relevant
 collections are offered
 <br>
+<br>Each Green Point awarded is equivalent to 1 ION+ Point, and each Member
+can earn up to a maximum of 5 Green Points per month.
+<br>
 </p>
 </li>
 </ul>
-<p>Each Green Point awarded is equivalent to 1 ION+ Point, and each Member
-can earn up to a maximum of 5 Green Points per month.</p>
-<p>&nbsp;</p>
 <p>To redeem this reward:</p>
 <ul data-tight="true" class="tight">
 <li>
