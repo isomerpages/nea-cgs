@@ -612,6 +612,34 @@ for takeaway.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Surrey Hills Grocer
+<br>Free drink with every purchase of a Frank Green bottle in our outlet.
+$1 off drinks when you bring your own Frank Green bottle.
+<br>Terms &amp; Conditions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Excluding alcohol and cocktails</p>
+</li>
+<li>
+<p>Free drink must be served in Frank Green bottle</p>
+</li>
+<li>
+<p>Free drink is of standard size (Will not match the volume of the Frank
+Green bottle)</p>
+</li>
+<li>
+<p>Only able to redeem upon paying for the Frank Green bottle at the counter.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="The Sustainability Project" src="/images/Say YES to Waste Less/SYTWL Deals/the_sustainability_project_tmb_thumb160.png">
 </div>
