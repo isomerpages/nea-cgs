@@ -234,7 +234,7 @@ discount.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Express_Singapore_Clarke_Quay.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Express_Singapore_Clarke_Quay.png">
 </div>
 <p><strong>Holiday Inn Express Singapore Clarke Quay</strong>
 <br>Guests can opt out of daily housekeeping and reusing towels, earning 500
@@ -244,12 +244,24 @@ IHG One Rewards points per stay.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="Holiday Inn Singapore Atrium" src="/images/Say YES to Waste Less/SYTWL Deals/holiday_inn_singapore_atrium__green_logo__tmb_thumb160.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="Holiday Inn Singapore Atrium" src="/images/Say YES to Waste Less/SYTWL Deals/holiday_inn_singapore_atrium__green_logo__tmb_thumb160.jpg">
 </div>
 <p><strong>Holiday Inn Singapore Atrium</strong>
 </p>
 <p>Guests who choose to forego housekeeping services for two nights or more
 are rewarded with additional IHG One Rewards points.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Singapore_Little_India.png">
+</div>
+<p><strong>Holiday Inn Singapore Little India</strong>
+<br>As part of its eco-friendly efforts, the hotel’s Lobby Café, Soul Brew,
+offers a complimentary mini croissant to guests and visitors who bring
+their own cup for coffee—encouraging sustainable habits, one cup at a time.</p>
 </td>
 </tr>
 <tr>
