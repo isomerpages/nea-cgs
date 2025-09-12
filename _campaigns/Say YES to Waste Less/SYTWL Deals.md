@@ -223,6 +223,26 @@ bags to encourage customers to embrace eco-friendly living.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>HEYTEA</strong>
+<br>To encourage more participation from consumers to contribute positively
+to the environment, HEYTEA has been encouraging customers to bring their
+own cups or tumblers to enjoy drinks from their stores by offering a 50-cent
+discount.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Holiday_Inn_Express_Singapore_Clarke_Quay.png">
+</div>
+<p><strong>Holiday Inn Express Singapore Clarke Quay</strong>
+<br>Guests can opt out of daily housekeeping and reusing towels, earning 500
+IHG One Rewards points per stay.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="Holiday Inn Singapore Atrium" src="/images/Say YES to Waste Less/SYTWL Deals/holiday_inn_singapore_atrium__green_logo__tmb_thumb160.jpg">
 </div>
