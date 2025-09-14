@@ -8,7 +8,7 @@ third_nav_title: Say YES to Waste Less
 <h3>Deals and Promotions</h3>
 <p>Enjoy these attractive offers when you say YES to waste less! From free
 usable cups to instant discounts off your purchase, there's more reasons
-to say YES to reducing disposables and food wastage.&nbsp;</p>
+to say YES to reducing disposables and food wastage .&nbsp;</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
