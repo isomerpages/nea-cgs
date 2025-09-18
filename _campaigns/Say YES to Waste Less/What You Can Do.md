@@ -14,8 +14,9 @@ third_nav_title: Say YES to Waste Less
 Landfill, will reach full capacity by 2035. By making simple changes in
 our everyday choices at different point-of-purchases, you can save Semakau
 and save money too!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEA_SYTWL_Exhibition_EDM_V12R1_05.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/NEA_SYTWL_Exhibition_EDM_V13R1_05.jpg">
 </div>
 <p><strong><u>Waste Less? Say YES! Reality Series</u></strong>
 <br>Learn more fun and practical ways to waste less in your daily life by
