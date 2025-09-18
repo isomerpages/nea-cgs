@@ -28,7 +28,8 @@ waste. take on real-life waste-less challenges!</p>
 </div>
 <p><a href="https://youtu.be/UNqH-2Ij9zc" rel="noopener nofollow" target="_blank">Episode 1 </a>:
 Supermarket Wars <em>starring Irene Ang and Suhaimi Yusof</em>&nbsp;
-<br>Episode 2: Room for Improvement <em>starring Deborah Quek and Fabian Amos</em>
+<br><a href="https://youtu.be/G2RZaGaaacQ" rel="noopener noreferrer nofollow" target="_blank">Episode 2</a>:
+Room for Improvement <em>starring Deborah Quek and Fabian Amos</em>
 <br>Episode 3: Sustainable Stall Showdown <em>starring BioGirlMJ and Yusoff Rasid</em>
 <br>Episode 4: Ultimate Wate Showdown<em> starring Glenn Yong and Germaine Tan</em>
 </p>
