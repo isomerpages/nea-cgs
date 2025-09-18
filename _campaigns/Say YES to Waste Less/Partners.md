@@ -2032,7 +2032,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Stridy" src="/images/Say YES to Waste Less/Partners/stridy_tmb_thumb200.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/StarHub_Ltd.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -2052,7 +2052,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://stridy.com/events/" rel="noopener noreferrer nofollow" target="_blank">Stridy</a>
+<p><a href="https://corporate.starhub.com/about-us/corporate-sustainability.html" rel="noopener nofollow" target="_blank">StarHub Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2160,21 +2160,18 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Starbucks.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/StarHub_Ltd.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Stridy_Logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/SUPERDRY_NEW_Logo__All_Colors__02.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Surrey_Hills_Grocer.png">
 </div>
 </td>
 </tr>
@@ -2184,45 +2181,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.starbucks.com.sg/go-green-with-starbucks" rel="noopener nofollow" target="_blank">Starbucks</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://corporate.starhub.com/about-us/corporate-sustainability.html" rel="noopener nofollow" target="_blank">StarHub Ltd</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://stridy.com/events/" rel="noopener nofollow" target="_blank">Stridy</a>
 </p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/SUPERDRY_NEW_Logo__All_Colors__02.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Surrey_Hills_Grocer.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/susGain_logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Swapaholic_Logo_Black.png">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://fjbenjamin.com/" rel="noopener nofollow" target="_blank">Superdry</a>
 </p>
@@ -2231,6 +2192,26 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <p><a href="surreyhillsgrocer.sg​" rel="noopener nofollow" target="_blank">Surrey Hills Grocer</a>
 </p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/susGain_logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Swapaholic_Logo_Black.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.susgain.com/" rel="noopener nofollow" target="_blank">susGain</a>
 </p>
@@ -2238,6 +2219,12 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <td rowspan="1" colspan="1">
 <p><a href="https://swapaholic.com/" rel="noopener nofollow" target="_blank">Swapaholic</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
