@@ -2027,18 +2027,17 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Starbucks" src="/images/Say YES to Waste Less/Partners/starbucks_tmb_thumb200.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="Starbucks" src="/images/Say YES to Waste Less/Partners/starbucks_tmb_thumb200.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/starhub2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="susGain" src="/images/Say YES to Waste Less/Partners/susgain_logo_1500x1500px_transparent_tmb_thumb200.png">
+<img style="width: 60%;" height="auto" width="100%" alt="susGain" src="/images/Say YES to Waste Less/Partners/susgain_logo_1500x1500px_transparent_tmb_thumb200.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
