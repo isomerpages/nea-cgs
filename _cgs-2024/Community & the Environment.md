@@ -32,10 +32,10 @@ Central District’s environmental initiatives!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CGS 2023/North_East_CDC_Logo.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/North_East_CDC_Logo.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://northeast.cdc.gov.sg/programmes/sustainability/north-east-green-adventure/" rel="noopener nofollow" target="_blank">Find out more </a>about
