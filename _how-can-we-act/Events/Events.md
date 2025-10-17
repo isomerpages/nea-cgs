@@ -57,31 +57,7 @@ AM - 05:30 PM&nbsp;</div>
 PM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-cemetery-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Cemetery Services" src="/images/How Can We Act/Events/Thumbnail_9.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-The-Scenes of Cemetery Services</div><div class="isomer-card-description">Various locations | 6 Sep to 8 Nov 2025, 10:00 AM - 12:00 PM&nbsp;</div><div class="isomer-card-link">View Details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-hawker-centre-operations/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Hawker Centre Operations" src="/images/How Can We Act/Events/Thumbnail_10.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Behind-The-Scenes of Hawker Centre Operations</div>
-<div class="isomer-card-description">Various locations | 24 May to 21 Jun 2025, 07:00 AM - 09:00 AM&nbsp;</div>
-<div class="isomer-card-link">View Details</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/events/open-my-factory-tuasone-waste-to-energy-plant/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Open My Factory: TuasOne Waste-to-Energy Plant" src="/images/How Can We Act/Events/Thumbnail_11.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Open My Factory: TuasOne Waste-to-Energy Plant</div><div class="isomer-card-description">TuasOne Waste-To-Energy Plant | 30 May to 28 Nov 2025, 01:30 PM - 04:30 PM</div><div class="isomer-card-link">View Details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-cctv-surveillance-for-high-rise-littering/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Behind-the-Scenes of CCTV Surveillance for High-rise Littering" src="/images/How Can We Act/Events/Thumbnail_12.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Behind-the-Scenes of CCTV Surveillance for High-rise Littering</div>
-<div class="isomer-card-description">NEA Western Regional Office | 16 May 2025, 03:00 PM - 04:30 PM&nbsp;</div>
-<div class="isomer-card-link">View Details</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/events/open-my-factory-alba-e-waste-logistics-sorting-hub/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Open My Factory: ALBA E-Waste Logistics &amp; Sorting Hub" src="/images/How Can We Act/Events/Thumbnail_13.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Open My Factory: ALBA E-Waste Logistics &amp; Sorting Hub</div><div class="isomer-card-description">ALBA E-Waste Smart Recycling Pte Ltd | 4 Jul to 7 Nov 2025, 09:30 PM - 12:30 PM&nbsp;</div><div class="isomer-card-link">View Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-cctv-surveillance-for-high-rise-littering/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-the-Scenes of CCTV Surveillance for High-rise Littering" src="/images/How Can We Act/Events/Thumbnail_12.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-the-Scenes of CCTV Surveillance for High-rise Littering</div><div class="isomer-card-description">NEA Western Regional Office | 16 May 2025, 03:00 PM - 04:30 PM&nbsp;</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/blue-ocean-green-actions" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
