@@ -255,36 +255,33 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/PAssion_Wave.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/PHC_LOGO_FINAL_RGB.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/SENTO0013_SENTOSA_LOGO___Tagline_FULL_COLOR_RGB_EN.png">
 </div>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Signify_Logo_1.png">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Signify_Logo_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Singapore_Environment_Council_Logo__HighRes_.png">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.onepa.gov.sg/about-us/passion-wave" rel="noopener nofollow" target="_blank">PAssion Wave</a>
-</p>
-</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.publichygienecouncil.sg/" rel="noopener nofollow" target="_blank">Public Hygiene Council</a>
 </p>
@@ -297,24 +294,28 @@ description: ""
 <p><a href="https://www.signify.com/en-sg" rel="noopener nofollow" target="_blank">Signify Singapore</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="www.sec.org.sg" rel="noopener nofollow" target="_blank">Singapore Environment Council</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/SGO_Singapore_Oceanarium_Logo_English_Master_Full_Colour.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/SPC_logo_big.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/SK_tes_Communication_R_O.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/FMAS_Logo.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -325,6 +326,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="www.singaporeoceanarium.com" rel="noopener nofollow" target="_blank">Singapore Oceanarium</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.singaporepaddleclub.com/" rel="noopener nofollow" target="_blank">Singapore Paddle Club</a>
 </p>
 </td>
@@ -333,12 +338,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://fmas.org.sg/" rel="noopener nofollow" target="_blank">The Federation of Merchants’ Associations, Singapore</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.tiktok.com/@tiktoksg?lang=en" rel="noopener nofollow" target="_blank">TikTok</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
