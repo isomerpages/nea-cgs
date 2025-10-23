@@ -70,19 +70,18 @@ description: ""
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Coca_Cola_SIMA_Logo__Latest__01_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/exmo_red11.png">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/E_Kao_Wordmark_Slogan_Arc_Green_RGB.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Lee_s_Foundation_Logo.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/01_Mitsubishi_Electric___Corporate_Logo___CMYK___Full_Color__White_bg_.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -93,15 +92,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.coca-cola.com/sg/en" rel="noopener nofollow" target="_blank">Coca-Cola Singapore</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://corporate.exxonmobil.com/locations/singapore" rel="noopener nofollow" target="_blank">ExxonMobil Asia Pacific Pte Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.kao.com/sg/index.html" rel="noopener nofollow" target="_blank">Kao Singapore Ptd. Ltd.</a>
+<p>Lee Foundation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.mitsubishielectric.com.sg" rel="noopener nofollow" target="_blank">Mitsubishi Electric Asia Pte Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
