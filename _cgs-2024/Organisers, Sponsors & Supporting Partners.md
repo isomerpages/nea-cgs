@@ -212,20 +212,20 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Mount_Faber_Leisure_logo__Stack_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Mee_Toh_School___MTS_logo_large.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Mitsubishi_Logo_1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/mycommunity_logo.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/NUS_Cities_Multi_01__1_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -236,15 +236,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mountfaberleisure.com/" rel="noopener nofollow" target="_blank">Mount Faber Leisure Group</a>
+<p><a href="meetoh.moe.edu.sg" rel="noopener nofollow" target="_blank">Mee Toh School</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.mhi.com/" rel="noopener nofollow" target="_blank">Mitsubishi Heavy Industries Asia Pacific Pte Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://mycommunity.org.sg/" rel="noopener nofollow" target="_blank">My Community</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://cde.nus.edu.sg/nuscities" rel="noopener nofollow" target="_blank">NUS Cities</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
