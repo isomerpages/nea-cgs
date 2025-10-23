@@ -67,11 +67,70 @@ across a community, can drive real environmental change.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>ECOND PRIZE</u></strong>
+</p>
+<p><strong>Name of School: CHIJ St. Joseph’s Convent</strong>
+</p>
+<p><strong>Title of Activity Booklet: Bye Bye Disposables! [A fun guide to a greener you!]</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The project team began by researching Singapore's waste problem on Clean
+&amp; Green Singapore website. They wanted to create something fun, relatable,
+and informative for their schoolmates. After brainstorming, they divided
+the tasks based on their individual strengths in writing, drawing, and
+designing using Canva. Each activity was thoughtfully crafted to reflect
+everyday situations students face, such as packing for school, shopping,
+or eating lunch. Their aim was to encourage simple swaps, like choosing
+a reusable bottle instead of plastic.</p>
+<p>The team tested the booklet with their peers, who completed activities
+like the maze and quiz. The feedback they received helped them improve
+the design and make the instructions clearer.</p>
+<p>Their focus was on minimising disposables, and they hope this booklet
+would inspire students to take action in small but impactful ways. From
+illustrations to layout, everything was developed collaboratively as a
+team to promote sustainability in an engaging and creative way.</p>
+<p>Click <a href="https://drive.google.com/file/d/1EJHI2z8tKVbTa72xs4uJ8Ca0Ki76rUuF/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+view the booklet!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Bye Bye Disposables! by CHIJ St. Joseph’s Convent</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>THIRD PRIZE</u></strong>
+</p>
+<p><strong>Name of School: Crest Secondary School</strong>
+</p>
+<p><strong>Title of Activity Booklet: Sustainability Seeker’s Activity Book</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>This attractive activity booklet was designed to engage fellow students
+in a fun, hands-on way while reinforcing the importance of reducing disposables
+and food waste. Inspired by game-like tasks and relatable trends, each
+page encourages students to reflect on and improve their daily habits through
+the 4Rs: Reset, Recondition, Restore, Rejoice. Central to the project team's
+message was that change starts with small, consistent actions — like using
+reusable cutlery or taking only what one can finish.</p>
+<p>To make sustainability more personal and empowering, they introduced the
+"ABCs of Sustainability Superheroes" – Adventurous – try new ways to reuse
+and repurpose; Benevolent – share food and care for others and the planet;
+Charismatic – lead by inspiring peers through positive actions.</p>
+<p>By combining creativity, self-awareness, and engaging challenges like
+the #ZeroWasteGlowUp, the booklet aims to nurture a new generation of eco-conscious
+changemakers who see sustainability as both achievable and exciting.</p>
+<p>Click <a href="https://drive.google.com/file/d/1Pj6gWKg7OM4nXCmSukJEmBpeccYnFFEZ/view" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+view the booklet!</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sustainability Seeker’s Activity Book by Crest Secondary School</p>
 </td>
 </tr>
 </tbody>
