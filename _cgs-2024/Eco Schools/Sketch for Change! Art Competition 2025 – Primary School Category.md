@@ -85,11 +85,29 @@ for the health of our Earth</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong><u>THIRD PRIZE</u></strong>
+</p>
+<p><strong>Name of Student: Lucas Lim Shi Hong</strong>
+</p>
+<p><strong>Name of School: Temasek Primary School</strong>
+</p>
+<p><strong>Title of Art Piece: Our Choice, Our Planet</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This artwork contrasts the impact of disposable versus reusable items.
+On the left, a disposable fork and cutlery are shown, alongside a polluted,
+dirty lake with dead coral caused by trash in the ocean. On the right,
+a reusable spoon and cutlery accompanies a clean lake with thriving coral.
+This visual illustrates the consequences of choosing disposables over reusables.
+This piece inspires viewers to reduce disposable use and embrace reusables
+instead.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our Choice, Our Planet by Lucus Lim Shi Hong</p>
 </td>
 </tr>
 </tbody>
