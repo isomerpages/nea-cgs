@@ -152,7 +152,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.alba-ewaste.sg" rel="noopener nofollow" target="_blank">ALBA E-waste Smart Recycling Pte Ltd</a>
+<p><a href="https://alba-ewaste.sg/" rel="noopener nofollow" target="_blank">ALBA E-waste Smart Recycling Pte Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
