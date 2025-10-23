@@ -5,9 +5,6 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Top Banners/Microsite_Banner_Partners.png">
-</div>
 <h3>Organisers</h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -19,7 +16,6 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NEA_Logo_Colour.png">
 </div>
@@ -30,15 +26,14 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUS_logo_full_colour_RGB_horizontal_borderless.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners/north_east_cdc_logo_tmb_thumb200.png">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SWCDC_Logo_FC_RGB_1080px.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Tampines_Central_Logo_Coloured.png">
 </div>
 </th>
 </tr>
@@ -52,11 +47,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://nus.edu.sg/" rel="noopener nofollow" target="_blank">National University of Singapore</a>
+<p><a href="https://northeast.cdc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">North East Community Development Council</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://southwest.cdc.gov.sg/" rel="noopener nofollow" target="_blank">South West Community Development Council</a>
+<p><a href="https://www.facebook.com/tampinescentralcc" rel="noopener nofollow" target="_blank">Tampines Central Constituency Office</a>
 </p>
 </td>
 </tr>
