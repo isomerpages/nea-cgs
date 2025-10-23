@@ -141,9 +141,6 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Gain_City_page_0001.jpg">
-</div>
 </th>
 </tr>
 <tr>
@@ -160,25 +157,21 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.gaincity.com/" rel="noopener nofollow" target="_blank">Gain City</a>
+<p><a href="https://coraenv.co/" rel="noopener nofollow" target="_blank">Cora Environment</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Gain_City_page_0001.jpg">
+</div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/GB_Logo_4C.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Jalan_Besar_Boon_Keng_Ville_RN__insert_this___PA_logo_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/PA_Logo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,11 +189,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.gardensbythebay.com.sg/" rel="noopener nofollow" target="_blank">Gardens by the Bay</a>
+<p><a href="https://www.gaincity.com/" rel="noopener nofollow" target="_blank">Gain City</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://linktr.ee/kolamayercommunity" rel="noopener nofollow" target="_blank">Jalan Besar Boon Keng Ville RN, People’s Association</a>
+<p><a href="https://www.gardensbythebay.com.sg/" rel="noopener nofollow" target="_blank">Gardens by the Bay</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
