@@ -180,13 +180,13 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/MOM_logo_horizontal.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/JOE_Logo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Mitsubishi_Logo_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/JOS_Sunon.jpg">
 </div>
 </td>
 </tr>
@@ -200,11 +200,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mom.gov.sg" rel="noopener nofollow" target="_blank">Ministry of Manpower, ACE Group</a>
+<p><a href="www.joeecoalliance.com" rel="noopener nofollow" target="_blank">J.O.E Eco Alliance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mhi.com/" rel="noopener nofollow" target="_blank">Mitsubishi Heavy Industries Asia Pacific Pte Ltd</a>
+<p><a href="www.josf.com.sg" rel="noopener nofollow" target="_blank">JOS Furnitures Pte Ltd</a>
 </p>
 </td>
 </tr>
