@@ -136,7 +136,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Dettol_Logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Coca_Cola_SIMA_Logo__Latest__01_1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -156,7 +156,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.dettol.com.sg/" rel="noopener nofollow" target="_blank">Dettol Singapore</a>
+<p><a href="https://www.coca-cola.com/sg/en" rel="noopener nofollow" target="_blank">Coca-Cola Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
