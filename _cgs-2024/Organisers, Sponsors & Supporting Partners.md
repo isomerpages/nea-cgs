@@ -141,6 +141,9 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Cora_Environment___250606_Cora_Identity_Symbol_in_Cora_Green___Logotype_in_Deep_Teal_RGB__V1__1_.jpg">
+</div>
 </th>
 </tr>
 <tr>
@@ -387,4 +390,8 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Cora_Environment___250606_Cora_Identity_Symbol_in_Cora_Green___Logotype_in_Deep_Teal_RGB__V1__1_.jpg">
+</div>
 <p></p>
