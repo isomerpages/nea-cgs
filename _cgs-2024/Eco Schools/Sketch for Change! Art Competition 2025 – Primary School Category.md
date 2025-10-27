@@ -53,6 +53,10 @@ encourages sustainable habits and emphasizes that every choice we make
 affects the future of our planet.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/Liew_Xuan_Ru__Rosyth_School__min.jpg">
+</div>
 <p>Reflecting the Reality by Liew Xuan Ru</p>
 </td>
 </tr>
@@ -81,6 +85,10 @@ It is a reminder that just as we care for human health, we must also care
 for the health of our Earth</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/Chong_Yu_Xuan__Rosyth_School__min.jpg">
+</div>
 <p>Save the Earth by Chong Yu Xuan</p>
 </td>
 </tr>
@@ -107,6 +115,10 @@ This piece inspires viewers to reduce disposable use and embrace reusables
 instead.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/LUCAS_LIM_SHI_HONG__Temasek_Primary_School_.jpg">
+</div>
 <p>Our Choice, Our Planet by Lucus Lim Shi Hong</p>
 </td>
 </tr>
