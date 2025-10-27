@@ -53,6 +53,10 @@ and keeping our leftovers for later. Every little action counts. Together,
 we can reduce food waste and care for our planet.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/ALEXANDER_NEO_HAN_HAO__Metta_School_.jpg">
+</div>
 <p>The Earth Is Sad When We Waste Food by Alexander Neo Han Hao</p>
 </td>
 </tr>
@@ -79,6 +83,10 @@ only what we can finish and share what’s leftover with others. Share your
 slice, do not let it go to waste!</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/SITI_ZAHIDAH_BINTE_AZIZ_s__Pathlight_School__Ang_Mo_Kio__.jpg">
+</div>
 <p>Share The Slice, Save The Earth by Siti Zahidah Binte Aziz</p>
 </td>
 </tr>
@@ -108,6 +116,10 @@ in reducing carbon emissions to reverse climate change!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/Toh_Qian_Hui_JACI__APSN_Chaoyang_School____HD_min.jpg">
+</div>
 <p>Compose Compost by TOH QIAN HUI JACI</p>
 </td>
 </tr>
