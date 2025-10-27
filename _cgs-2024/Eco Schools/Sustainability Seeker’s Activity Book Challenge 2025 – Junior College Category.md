@@ -39,9 +39,6 @@ and creative ways to encourage them to take action.</p>
 </p>
 <p><strong>Title of Activity Booklet: Sir Racky Bartholomew’s Guide to not being a Trash Human</strong>
 </p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -65,6 +62,9 @@ and encourages sustainable habits in a way that sticks.</p>
 booklet!</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/JC_NJC_1st_Prize.jpg">
+</div>
 <p>Sir Racky Bartholomew’s Guide to not being a Trash Human by Nanyang Junior
 College</p>
 </td>
@@ -76,9 +76,6 @@ College</p>
 <p><strong>Name of School: Nanyang Junior College</strong>
 </p>
 <p><strong>Title of Activity Booklet: Food Warriors</strong>
-</p>
-<p>
-<br>
 </p>
 </td>
 </tr>
@@ -101,6 +98,9 @@ lives.</p>
 view the booklet!</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/JC_NJC_2nd_Prize.jpg">
+</div>
 <p>Food Warriors by Nanyang Junior College</p>
 </td>
 </tr>
@@ -134,6 +134,9 @@ of the waste problem globally and to pick up waste-reducing habits.</p>
 view the booklet!</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/JC_NJC_3rd_Prize.jpg">
+</div>
 <p>Going Zero Waste! by Nanyang Junior College</p>
 </td>
 </tr>
