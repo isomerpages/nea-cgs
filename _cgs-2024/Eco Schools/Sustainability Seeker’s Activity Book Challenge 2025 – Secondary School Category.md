@@ -63,6 +63,10 @@ across a community, can drive real environmental change.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/SEC_Woodlands_Ring_Sec_1st_Prize.jpg">
+</div>
 <p>Let’s Reduce Wastage by Woodlands Ring Secondary School</p>
 </td>
 </tr>
@@ -97,6 +101,10 @@ team to promote sustainability in an engaging and creative way.</p>
 view the booklet!</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/SEC_CHIJ_SJC_2nd_Prize.jpg">
+</div>
 <p>Bye Bye Disposables! by CHIJ St. Joseph’s Convent</p>
 </td>
 </tr>
@@ -130,6 +138,10 @@ changemakers who see sustainability as both achievable and exciting.</p>
 view the booklet!</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/SEC_Crest_Sec_3rd_Prize.jpg">
+</div>
 <p>Sustainability Seeker’s Activity Book by Crest Secondary School</p>
 </td>
 </tr>
