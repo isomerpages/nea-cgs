@@ -33,7 +33,7 @@ description: ""
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Tampines_Central_Logo_Coloured.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Tampines_Central_Logo_Coloured.png">
 </div>
 </th>
 </tr>
@@ -212,7 +212,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Mee_Toh_School___MTS_logo_large.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CGS 2023/Org, Sponsors, SP Logo/Mee_Toh_School___MTS_logo_large.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
