@@ -85,7 +85,7 @@ slice, do not let it go to waste!</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/SITI_ZAHIDAH_BINTE_AZIZ_s__Pathlight_School__Ang_Mo_Kio__.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/SITI_ZAHIDAH_BINTE_AZIZ_s__Pathlight_School__Ang_Mo_Kio__2.jpg">
 </div>
 <p>Share The Slice, Save The Earth by Siti Zahidah Binte Aziz</p>
 </td>
