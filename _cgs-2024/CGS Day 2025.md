@@ -4,6 +4,231 @@ permalink: /what-we-do/cgs2025/cgs-2025/
 variant: tiptap
 description: ""
 ---
+<h3><strong>Clean &amp; Green Singapore Day 2025</strong></h3>
+<p>The annual Clean &amp; Green Singapore Day celebrates and reaffirms our
+shared commitment to care for our environment together. CGS Day 2025 is
+organised by the National Environment Agency, National Parks Board, North
+East Community Development Council, as well as Tampines Central Grasssroots
+Organisations. This year's event was held at Our Tampines Hub with Deputy
+Prime Minister and Minister for Trade and Industry, Mr Gan Kim Yong as
+the Guest-of-Honour.</p>
+<p><strong><em>“Let’s Care For Our Environment Together”</em></strong>
+<br>
+</p>
+<h3>Launch of CleanPod and Clean-up at Tampines Park</h3>
+<p>In support of CGS Day, the Public Hygiene Council launched a new CleanPod
+at Tampines Park on the morning of the event. The PHC CleanPod is a litter-picking
+tool sharing platform and community-based resource, which organisations,
+schools and communities can leverage to reinforce the value of environmental
+ownership for corporate social responsibility and educational opportunities.
+PHC has set up 26 CleanPods across Singapore to date, at housing estates,
+beaches and parks, which enable facilitation of community ground-up clean-up
+activities. A litter picking activity was led by Grassroots Adviser Mr
+Masagos Zulkifli, together with Chairman of the Public Hygiene Council
+Mr Andrew Khng, and involved 50 residents, students and volunteers who
+put the new CleanPod to immediate use in a clean-up at the park.</p>
+<h3>Tree Planting</h3>
+<p>The Guest of Honour, Deputy Prime Minister and Minister of Trade and Industry,
+Mr Gan Kim Yong, joined the Mayor of North East District, Mr Baey Yam Keng,
+along with other distinguished guests, kicked off CGS Day at Our Tampines
+Hub, with the traditional tree-planting ceremony.&nbsp;</p>
+<p>They were joined by:</p>
+<ul>
+<li>
+<p>Ms Grace Fu, Minister for Sustainability and the Environment</p>
+</li>
+<li>
+<p>Mr Masagos Zulkifli, Minister for Social and Family Development and Adviser
+to Tampines GRC Grassroots Organisations</p>
+</li>
+<li>
+<p>Mr David Neo, Acting Minister for Culture, Community and Youth and Adviser
+to Tampines GRC Grassroots Organisations</p>
+</li>
+<li>
+<p>Ms Sun Xueling, Senior Minister of State for the Ministry of National
+Development and the Ministry of Transport</p>
+</li>
+<li>
+<p>Dr Janil Puthucheary, Senior Minister of State for the Ministry of Education
+and the Ministry of Sustainability and the Environment</p>
+</li>
+<li>
+<p>Ms Goh Hanyan, Senior Parliamentary Secretary for the Ministry of Culture,
+Community and Youth and the Ministry of Sustainability and the Environment</p>
+</li>
+<li>
+<p>Dr Charlene Chen, Adviser to Tampines GRC Grassroots Organisations&nbsp;</p>
+</li>
+<li>
+<p>Ms Chan Hui Yuh, PBM, Adviser to Aljunied GRC Grassroots Organisations</p>
+</li>
+<li>
+<p>Mr Jagathishwaran Rajo, PBM, Adviser to Aljunied GRC Grassroots Organisations</p>
+</li>
+<li>
+<p>Ms Bernadette Giam, Adviser to Sengkang GRC Grassroots Organisations</p>
+</li>
+<li>
+<p>Ms Theodora Lai, Adviser to Sengkang GRC Grassroots Organisations</p>
+<p></p>
+</li>
+</ul>
+<p>&lt; Insert Photo; tree planting &gt;</p>
+<h3>Environmental Services Star and Community-in-Bloom Ambassador Awards Ceremony 2025</h3>
+<p>CGS Day recognised individuals who have made exceptional contributions
+to caring for our nation's environment. Though their efforts in the Environmental
+Services industry and community gardening are often unseen by the public,
+they are vital to Singapore's cleanliness, hygiene, and greenery.</p>
+<p><strong>ES Star Awards</strong> honour the dedication of workers in the
+ES industry, for their tireless efforts in maintaining public health and
+hygiene in Singapore. DPM Gan presented the 2025 awards to 30 frontline,
+supervisory, and operations support staff. These awardees were recognised
+for their exceptional service excellence, good teamwork and leadership,
+proactive attitude towards upskilling and outstanding contributions to
+innovation, productivity, and environmental sustainability.</p>
+<p><strong>Community in Bloom Ambassador Award</strong> recognised 10 individuals
+who have made meaningful contributions to promoting gardening and actively
+engaging the community through gardening-related projects.</p>
+<p>&lt; Insert Photo; award ceremony &gt;</p>
+<p></p>
+<h3>SG60 Clean &amp; Green Singapore Exhibition</h3>
+<p>This exhibit takes visitors on a journey through Singapore's transformation
+into one of the world’s greenest and most sustainable cities. It highlights
+key milestones in the nation's environmental journey, from its early struggles
+to the establishment of the Singapore Green Plan 2030. Through a blend
+of visuals, historical records, and interactive displays, this exhibit
+showcases the collective efforts that have shaped the clean, green, and
+liveable city we all enjoy today.</p>
+<p>The exhibit is divided into three zones, each focusing on a different
+era of Singapore’s environmental progress:</p>
+<p><strong>PAST: Building Blocks&nbsp;</strong>
+</p>
+<p>This zone ushers visitors through Singapore's journey to overcome early
+environmental challenges, focusing on key initiatives such as tree planting,
+river cleanup, and the development of sustainable urban systems. It showcases
+how these actions, taken post-independence, paved the way for Singapore’s
+transformation into a clean, green, and sustainable city.</p>
+<p>Key features of this zone include:</p>
+<ul>
+<li>
+<p><strong>Tree Planting &amp; Garden City Vision</strong>: Turning Singapore
+into the “Garden City” through extensive tree planting and the creation
+of lush green spaces.</p>
+</li>
+<li>
+<p><strong>Singapore River Cleanup &amp; Ulu Pandan Incineration Plant</strong>:
+The monumental ten-year cleanup of the Singapore River and the introduction
+of incineration plants to manage waste effectively.</p>
+</li>
+<li>
+<p><strong>End of the Night Soil/Bucket System</strong>: The switch from
+primitive unhygienic systems, such as using buckets for toilets, to modern
+sanitation systems, which most of us take for granted today.</p>
+</li>
+<li>
+<p><strong>Licensing of Street Hawkers</strong>: The regulation of street
+hawkers to improve hygiene, and the launch of Clean and Green Week to inspire
+both individuals and communities to protect and care for the environment.</p>
+</li>
+</ul>
+<p>This zone also features a <strong>photography zone</strong> with reproduced
+vintage artifacts, offering visitors a chance to connect with Singapore’s
+early environmental efforts through replicas of historical objects, creating
+a deeper understanding of how far the nation has come.</p>
+<p><strong>PRESENT: Dawn of a New Era</strong>
+</p>
+<p>The present-day section of the exhibit highlights Singapore’s integrated
+approach to sustainability through innovative urban design, public health
+initiatives, and waste management.</p>
+<p>Key features of this zone include:</p>
+<ul>
+<li>
+<p><strong>Sustainable City Design</strong>: How Singapore integrates eco-friendly
+buildings, green infrastructure, and energy-efficient solutions into our
+urban landscape.</p>
+</li>
+<li>
+<p><strong>Project Wolbachia</strong>: How Singapore uses groundbreaking
+innovations to fight public health threats, such as releasing Wolbachia-infected
+mosquitoes to curb dengue transmission.</p>
+</li>
+<li>
+<p><strong>Semakau Landfill</strong>: How Singapore's offshore landfill,
+designed to minimize environmental impact, is a world-class model for sustainable
+waste management and resource recovery.</p>
+</li>
+</ul>
+<p><strong>FUTURE: What Lies Ahead</strong>
+</p>
+<p>Looking to the future, this zone showcases the <strong>Singapore Green Plan 2030</strong>,
+a bold and ambitious roadmap for a sustainable, climate-resilient future.
+It focuses on the five key pillars outlined in the Green Plan:</p>
+<ul>
+<li>
+<p><strong>Sustainable Living:</strong> Reducing waste and adopting greener
+lifestyles.</p>
+</li>
+<li>
+<p><strong>Green Economy:</strong> Building a sustainable and circular economy.</p>
+</li>
+<li>
+<p><strong>Energy Reset:</strong> Reducing carbon emissions through renewable
+energy and energy efficiency.</p>
+</li>
+<li>
+<p><strong>Green Government:</strong> Integrating sustainability across all
+levels of governance.</p>
+</li>
+<li>
+<p><strong>Resilient Future:</strong> Preparing for climate change with a
+focus on sustainability in infrastructure and urban design.</p>
+</li>
+</ul>
+<p>This section is also aimed at inspiring and encouraging visitors to be
+a part of Singapore’s sustainability journey, with a space for them to
+share their own ideas and actions on how they can contribute to building
+the future of Clean &amp; Green Singapore.</p>
+<p><em>&lt; </em>Insert Photos; exhibition &gt;</p>
+<h3>SG60 Tampines Community Art Project&nbsp;</h3>
+<p>The <strong>SG60 Tampines Community Art Project</strong> is a vibrant showcase
+of creativity and community spirit. This project brings together residents
+from the six divisions of Tampines to create a unique art installation
+that symbolizes the interconnectedness of the community and its shared
+commitment to a sustainable future.</p>
+<p>The project consists of <strong>six panels of artwork</strong>, each created
+by residents of a different Tampines division, with a <strong>seventh panel</strong> dedicated
+to celebrating Singapore’s 60th anniversary (SG60). The artwork is displayed
+in the shape of a <strong>heptagonal pillar</strong>, representing the unity
+and strength of the Tampines community.</p>
+<p>Each panel features:</p>
+<ul>
+<li>
+<p><strong>Collages made from waste fabric textiles</strong>: Residents creatively
+repurposed fabric to craft intricate designs that reflect themes of sustainability,
+environmental awareness, and the hope for a cleaner, greener future.</p>
+</li>
+<li>
+<p><strong>Personal well-wishes</strong>: Heartfelt messages written by residents
+for a Clean &amp; Green Singapore.</p>
+</li>
+</ul>
+<p>This collaborative artwork celebrates the creative spirit of Tampines
+residents and serves as a powerful reminder of the community’s role in
+sustainability. Showcasing stories of togetherness, home, and environmental
+responsibility, the piece reflects how collective action can inspire lasting
+positive change. The completed heptagonal pillar stands as a testament
+to the unity, creativity, and collective commitment of Tampines in building
+a better, more sustainable future.</p>
+<p>DPM Gan was also joined by Mr Baey Yam Keng, Mayor of the North East District,
+to unveil a Tampines Community Art Project, “Colours of Tampines”, created
+by residents to mark SG60.&nbsp;</p>
+<p>&lt; Insert Photo; tampines community art project &gt;</p>
+<p>&lt; Insert Photo; finishing touch of tampines community art project by
+DPM, Major Baey &gt;</p>
+<p>Leading up to CGS Day, NEA have partnered with four key partners to showcase
+a range of the wider community’s contributions to our sustainable development
+journey:</p>
 <h3>Launch of Cora Environment Smart Recycling Hub at Mee Toh School&nbsp;</h3>
 <p>On 6 October 2025, Senior Parliamentary Secretary for the Ministry of
 Sustainability and the Environment &amp; for the Ministry of Culture, Community
