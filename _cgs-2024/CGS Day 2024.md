@@ -39,6 +39,9 @@ students transformed trash into treasure, demonstrating the creativity
 and resourcefulness. The students even quizzed SPS on her environmental
 knowledge, showing that we are never too young or too old to learn more
 about the environment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/SPS_2.jpg">
+</div>
 <h3><br>International E-Waste Day 2025</h3>
 <p>International E-Waste Day is organised annually to raise public awareness
 on e-waste recycling and to encourage members of the public to recycle
@@ -56,7 +59,10 @@ points increased from 300 in 2021 to 1000 this year, making it more convenient
 for the public to recycle their e-waste. Commemorating the occasion, a
 “Design Our 1,000th E-Waste Bin Competition” was organised and winning
 entries recognised at IEWD 2025.</p>
-<h3><br>Race to Sustainability! 2025&nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/C2W_4637_opq3009851964.jpg">
+</div>
+<h3>Race to Sustainability! 2025&nbsp;</h3>
 <p>Since its launch in 2015, <em>Race to Sustainability!</em> has been Gardens
 by the Bay’s signature post-examination programme, engaging students through
 fun, interactive activities that promote care for the environment. The
@@ -91,6 +97,10 @@ challenges. This collaborative effort with Gardens by the Bay helped play
 an important role in supporting Singapore’s vision of a Clean and Green
 Singapore, helping young people and the wider community take meaningful
 steps towards building a sustainable future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/P9A0147.jpg">
+</div>
 <h3>Eco Paddle with Ola Makes Waves for Marine Conservation at Siloso Beach</h3>
 <p>
 <br>On Saturday 25 October 2025, Siloso Beach in Sentosa came alive with purpose
@@ -128,7 +138,10 @@ Interested individuals can register for upcoming sessions through the
 </a>.&nbsp;</p>
 <p>More than just a one-off activity, Eco Paddle with Ola is an invitation
 to everyone to join the movement towards cleaner seas and a greener future.</p>
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/WOL_2549_min.jpg">
+</div>
 <p>
 <br>
 </p>
