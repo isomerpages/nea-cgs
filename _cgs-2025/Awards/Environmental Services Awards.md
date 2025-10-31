@@ -220,10 +220,10 @@ Award.
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Chiew Heng</p>
+<p>Kishor S/O Chandra Sagan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Agape Services Pte Ltd</p>
+<p>Pureair Building Solutions Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ Award.
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Teing Nee</p>
+<p>Ozzy Roje Bin Puteh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Agape Services Pte Ltd</p>
@@ -242,7 +242,7 @@ Award.
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khor Hooi Ling</p>
+<p>Rozita Bte Khamis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISS Facility Services Private Limited</p>
@@ -253,7 +253,7 @@ Award.
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Noorhuda binte Jasman</p>
+<p>Hafiz Bin Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aardwolf Pestkare (S) Pte Ltd</p>
@@ -264,10 +264,10 @@ Award.
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim Buck Hwee</p>
+<p>Muhammad Nur Sharul Bin Seleman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ikari Services Pte Ltd</p>
+<p>Aardwolf Pestkare (S) Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -275,10 +275,10 @@ Award.
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Romaita Bin Abdul Rahim</p>
+<p>Sng Hock Chuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Verminator Pte Ltd</p>
+<p>Ikari Services Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -286,10 +286,10 @@ Award.
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Kok Leng</p>
+<p>Liang Yingtao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>KL Enviro PTE LTD</p>
+<p>TES B Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -297,10 +297,10 @@ Award.
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jegatheesh S/O Sandra Segaran</p>
+<p>Mark Vong Wen Wu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SembWaste Pte. Ltd.</p>
+<p>Sustainable Asset Management Solutions Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -308,10 +308,10 @@ Award.
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Wee Hong</p>
+<p>Ramesh S/O Kalimuthu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SembWaste Pte. Ltd.</p>
+<p>Impetus Conceptus Pte Ltd</p>
 </td>
 </tr>
 </tbody>
