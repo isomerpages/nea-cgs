@@ -72,7 +72,7 @@ across a community, can drive real environmental change.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong><u>ECOND PRIZE</u></strong>
+<p><strong><u>SECOND PRIZE</u></strong>
 </p>
 <p><strong>Name of School: CHIJ St. Joseph’s Convent</strong>
 </p>
