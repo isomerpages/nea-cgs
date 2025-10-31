@@ -50,10 +50,6 @@ to Tampines GRC Grassroots Organisations</p>
 Development and the Ministry of Transport</p>
 </li>
 <li>
-<p>Dr Janil Puthucheary, Senior Minister of State for the Ministry of Education
-and the Ministry of Sustainability and the Environment</p>
-</li>
-<li>
 <p>Ms Goh Hanyan, Senior Parliamentary Secretary for the Ministry of Culture,
 Community and Youth and the Ministry of Sustainability and the Environment</p>
 </li>
@@ -74,7 +70,6 @@ Community and Youth and the Ministry of Sustainability and the Environment</p>
 <p></p>
 </li>
 </ul>
-<p>&lt; Insert Photo; tree planting &gt;</p>
 <h3>Environmental Services Star and Community-in-Bloom Ambassador Awards Ceremony 2025</h3>
 <p>CGS Day recognised individuals who have made exceptional contributions
 to caring for our nation's environment. Though their efforts in the Environmental
@@ -90,7 +85,6 @@ innovation, productivity, and environmental sustainability.</p>
 <p><strong>Community in Bloom Ambassador Award</strong> recognised 10 individuals
 who have made meaningful contributions to promoting gardening and actively
 engaging the community through gardening-related projects.</p>
-<p>&lt; Insert Photo; award ceremony &gt;</p>
 <p></p>
 <h3>SG60 Clean &amp; Green Singapore Exhibition</h3>
 <p>This exhibit takes visitors on a journey through Singapore's transformation
@@ -189,7 +183,6 @@ focus on sustainability in infrastructure and urban design.</p>
 a part of Singapore’s sustainability journey, with a space for them to
 share their own ideas and actions on how they can contribute to building
 the future of Clean &amp; Green Singapore.</p>
-<p><em>&lt; </em>Insert Photos; exhibition &gt;</p>
 <h3>SG60 Tampines Community Art Project&nbsp;</h3>
 <p>The <strong>SG60 Tampines Community Art Project</strong> is a vibrant showcase
 of creativity and community spirit. This project brings together residents
@@ -223,9 +216,6 @@ a better, more sustainable future.</p>
 <p>DPM Gan was also joined by Mr Baey Yam Keng, Mayor of the North East District,
 to unveil a Tampines Community Art Project, “Colours of Tampines”, created
 by residents to mark SG60.&nbsp;</p>
-<p>&lt; Insert Photo; tampines community art project &gt;</p>
-<p>&lt; Insert Photo; finishing touch of tampines community art project by
-DPM, Major Baey &gt;</p>
 <p>Leading up to CGS Day, NEA have partnered with four key partners to showcase
 a range of the wider community’s contributions to our sustainable development
 journey:</p>
