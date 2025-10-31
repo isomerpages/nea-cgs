@@ -345,7 +345,7 @@ Award.
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Noor Azmi Bin Ranai</p>
+<p>Heng Zhee Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CBM Pte Ltd</p>
@@ -356,7 +356,7 @@ Award.
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lean Teng Teng</p>
+<p>Teh Kim Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISS Facility Services Private Limited</p>
@@ -367,7 +367,7 @@ Award.
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Loo Siew Ping</p>
+<p>Yamin Yuper Zin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UEMS Solutions Pte Ltd</p>
@@ -378,7 +378,7 @@ Award.
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liew Xin Hwa</p>
+<p>Foo Kai Xin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aardwolf Pestkare (S) Pte Ltd</p>
@@ -389,7 +389,7 @@ Award.
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wayne Lee Wee</p>
+<p>Hector Gavin Raj</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ikari Services Pte Ltd</p>
@@ -400,7 +400,7 @@ Award.
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kee Kai Shing</p>
+<p>Wiliawaty</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Verminator Pte Ltd</p>
@@ -411,10 +411,32 @@ Award.
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Charlotte Lim Zhi Qing</p>
+<p>Alicia Lim Li Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sembcorp Environment Pte. Ltd.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Kian Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TES-AMM Singapore Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stephanie Yang Xin Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RE Sustainability Environmental Pte. Ltd.</p>
 </td>
 </tr>
 </tbody>
