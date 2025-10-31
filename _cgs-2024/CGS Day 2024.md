@@ -4,10 +4,6 @@ permalink: /what-we-do/cgs2024/cgs-2024/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<p></p>
-<h2>CGS Community Events 2024</h2>
-<p></p>
 <h3>Launch of Cora Environment Smart Recycling Hub at Mee Toh School&nbsp;</h3>
 <p>On 6 October 2025, Senior Parliamentary Secretary for the Ministry of
 Sustainability and the Environment &amp; for the Ministry of Culture, Community
