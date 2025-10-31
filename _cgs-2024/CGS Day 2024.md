@@ -101,9 +101,8 @@ steps towards building a sustainable future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/P9A0147.jpg">
 </div>
-<h3>Eco Paddle with Ola Makes Waves for Marine Conservation at Siloso Beach</h3>
-<p>
-<br>On Saturday 25 October 2025, Siloso Beach in Sentosa came alive with purpose
+<h3>Eco Paddle with Ola Makes Waves for Marine Conservation at Siloso Beach<br>On</h3>
+<p>c Saturday 25 October 2025, Siloso Beach in Sentosa came alive with purpose
 and passion as Eco Paddle with Ola took centre stage, highlighting the
 important mission of marine conservation and environmental stewardship.
 Co-organised by Ola Beach Club and the National Environment Agency, this
@@ -138,6 +137,8 @@ Interested individuals can register for upcoming sessions through the
 </a>.&nbsp;</p>
 <p>More than just a one-off activity, Eco Paddle with Ola is an invitation
 to everyone to join the movement towards cleaner seas and a greener future.</p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/WOL_2549_min.jpg">
