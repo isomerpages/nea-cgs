@@ -17,6 +17,7 @@ introduction in 2008, the Awards have celebrated the efforts of our volunteers
 going above and beyond in contributing to Singapore's gardening movement.
 <br>
 <br>Congratulations to the CIB Ambassadors appointed in 2024!</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>David Mong Keng Weng</p>
