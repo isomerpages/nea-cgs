@@ -128,7 +128,7 @@ Award.
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Lay Weng</p>
+<p>Nordinigh Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aardwolf Pestkare (S) Pte Ltd</p>
@@ -139,7 +139,7 @@ Award.
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Peng Soo</p>
+<p>Ramlan Bin Mustapa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aardwolf Pestkare (S) Pte Ltd</p>
@@ -150,10 +150,10 @@ Award.
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chai Chia Phin</p>
+<p>Abdul Rahim Bin Mohamed Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>RE Sustainability Cleantech Pte Ltd</p>
+<p>RE Sustainability Solutions Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -161,10 +161,10 @@ Award.
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ramlan Bin Nawawi</p>
+<p>Ang Ba Bee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SembWaste Pte. Ltd.</p>
+<p>KLerra Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -172,10 +172,21 @@ Award.
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Cheng Ying</p>
+<p>Mohamad Rizal Bin Bahtiar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sustainable Asset Management Solutions PTE LTD</p>
+<p>Cora Environment Pte Ltd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yeo Suan Hoe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KLerra Pte Ltd</p>
 </td>
 </tr>
 </tbody>
