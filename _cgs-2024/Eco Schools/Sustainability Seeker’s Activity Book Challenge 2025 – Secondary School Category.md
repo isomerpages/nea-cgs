@@ -58,9 +58,9 @@ Simple choices like saying no to disposables, finishing your food or choosing
 to reuse items can make a substantial difference when everyone puts in
 the effort. This approach demonstrates how individual actions, when multiplied
 across a community, can drive real environmental change.</p>
-<p>
-<br>
-</p>
+<p></p>
+<p>Click <a href="https://drive.google.com/drive/folders/1ZOxUv5olB1_SBYIxLXOzeP4pmC_mgxnQ" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+view the activity booklet!</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
