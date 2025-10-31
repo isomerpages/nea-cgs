@@ -16,29 +16,38 @@ outreach and facilitating gardening-based community projects. Since its
 introduction in 2008, the Awards have celebrated the efforts of our volunteers
 going above and beyond in contributing to Singapore's gardening movement.
 <br>
-<br>Congratulations to the CIB Ambassadors appointed in 2024!</p>
+<br>Congratulations to the CIB Ambassadors appointed in 2025!</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>David Mong Keng Weng</p>
+<p>Ang Jet Hong</p>
 </li>
 <li>
-<p>Jewel Chang Xuan Ning</p>
+<p>Kelvin Tan Bah Hwee</p>
 </li>
 <li>
-<p>Lau Leng Leng, Nancy</p>
+<p>Lau Lee Leng</p>
 </li>
 <li>
-<p>Selena Ang Lay Kim</p>
+<p>Lee Pak Phi</p>
 </li>
 <li>
-<p>Tay Seng Tong Jon</p>
+<p>Mariawati Susanti Lauw</p>
 </li>
 <li>
-<p>Toh Mei Xuan</p>
+<p>Rooslina Bte Md Nor</p>
 </li>
 <li>
-<p>Jason Tan Chuan Chuan</p>
+<p>Sim Lye Choon</p>
+</li>
+<li>
+<p>Tan Guan Rui Jacob</p>
+</li>
+<li>
+<p>Tong Chee Wah</p>
+</li>
+<li>
+<p>Yee Teck Sin</p>
 </li>
 </ul>
 <p>For more information, please visit <a href="https://gardeningsg.nparks.gov.sg/page-index/programming/cib-ambassadors/" rel="noopener noreferrer nofollow" target="_blank">https://gardeningsg.nparks.gov.sg/page-index/programming/cib-ambassadors/</a>.</p>
