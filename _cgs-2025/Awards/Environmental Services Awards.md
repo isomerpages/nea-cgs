@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Awards
 ---
-<h3></h3>
 <h3><strong>Environmental Services Awards</strong></h3>
 <p>The Environmental Services (ES) Awards was first introduced at the Environmental
 Services Workforce Day in 2019, as a key initiative of the Environmental
