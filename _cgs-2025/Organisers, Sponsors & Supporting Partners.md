@@ -103,7 +103,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://soffell.sg/" rel="noopener nofollow" target="_blank">Soffell Singapore</a>
+<p><a href="https://enesis.com/product/soffell-sg/" rel="noopener nofollow" target="_blank">Soffell Singapore</a>
 </p>
 </td>
 </tr>
