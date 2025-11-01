@@ -1,8 +1,8 @@
 collections:
-  cgs-2024:
+  cgs-2025:
     output: true
     order:
-      - CGS Day 2024.md
+      - CGS Day 2025.md
       - CGS Experiences.md
       - Awards/.keep
       - Awards/Community In Bloom Ambassador Awards.md

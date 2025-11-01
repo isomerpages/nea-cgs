@@ -1,6 +1,6 @@
 ---
 title: Organisers, Sponsors & Supporting Partners
-permalink: /what-we-do/cgs2024/sponsors-supporting-partners/
+permalink: /what-we-do/cgs2025/sponsors-supporting-partners/
 variant: tiptap
 description: ""
 ---
@@ -103,7 +103,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://soffell.sg/" rel="noopener nofollow" target="_blank">Soffell Singapore</a>
+<p><a href="https://enesis.com/product/soffell-sg/" rel="noopener nofollow" target="_blank">Soffell Singapore</a>
 </p>
 </td>
 </tr>
