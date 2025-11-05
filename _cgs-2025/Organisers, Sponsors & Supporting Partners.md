@@ -99,7 +99,7 @@ description: ""
 <p>Lee Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.mitsubishielectric.com.sg" rel="noopener nofollow" target="_blank">Mitsubishi Electric Asia Pte Ltd</a>
+<p><a href="www.mitsubishielectric.com.sg" rel="noopener nofollow" target="_blank">Mitsubishi Electric Asia Ptd Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
