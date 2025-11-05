@@ -15,18 +15,11 @@ the Guest-of-Honour.</p>
 <p><strong><em>“Let’s Care For Our Environment Together”</em></strong>
 <br>
 </p>
-<h3>Launch of CleanPod and Clean-up at Tampines Park</h3>
-<p>In support of CGS Day, the Public Hygiene Council launched a new CleanPod
-at Tampines Park on the morning of the event. The PHC CleanPod is a litter-picking
-tool sharing platform and community-based resource, which organisations,
-schools and communities can leverage to reinforce the value of environmental
-ownership for corporate social responsibility and educational opportunities.
-PHC has set up 26 CleanPods across Singapore to date, at housing estates,
-beaches and parks, which enable facilitation of community ground-up clean-up
-activities. A litter picking activity was led by Grassroots Adviser Mr
-Masagos Zulkifli, together with Chairman of the Public Hygiene Council
-Mr Andrew Khng, and involved 50 residents, students and volunteers who
-put the new CleanPod to immediate use in a clean-up at the park.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/13__Credits_to_NECDC_.jpg">
+</div>
+<p><em>Credits: North East Community Development Council</em>
+</p>
 <h3>Tree Planting</h3>
 <p>The Guest of Honour, Deputy Prime Minister and Minister of Trade and Industry,
 Mr Gan Kim Yong, joined the Mayor of North East District, Mr Baey Yam Keng,
@@ -120,6 +113,11 @@ of incineration plants to manage waste effectively.</p>
 primitive unhygienic systems, such as using buckets for toilets, to modern
 sanitation systems, which most of us take for granted today.</p>
 </li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/End_of_the_Night_Soil_Bucket_System.jpg">
+</div>
+<ul>
 <li>
 <p><strong>Licensing of Street Hawkers</strong>: The regulation of street
 hawkers to improve hygiene, and the launch of Clean and Green Week to inspire
@@ -153,6 +151,9 @@ designed to minimize environmental impact, is a world-class model for sustainabl
 waste management and resource recovery.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/Semakau_Landfill.jpg">
+</div>
 <p><strong>FUTURE: What Lies Ahead</strong>
 </p>
 <p>Looking to the future, this zone showcases the <strong>Singapore Green Plan 2030</strong>,
@@ -179,6 +180,9 @@ levels of governance.</p>
 focus on sustainability in infrastructure and urban design.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/Sustainable_Living.jpg">
+</div>
 <p>This section is also aimed at inspiring and encouraging visitors to be
 a part of Singapore’s sustainability journey, with a space for them to
 share their own ideas and actions on how they can contribute to building
@@ -213,12 +217,28 @@ responsibility, the piece reflects how collective action can inspire lasting
 positive change. The completed heptagonal pillar stands as a testament
 to the unity, creativity, and collective commitment of Tampines in building
 a better, more sustainable future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/CGS_Day_2025_Tampines_Community_Art_Project.jpg">
+</div>
 <p>DPM Gan was also joined by Mr Baey Yam Keng, Mayor of the North East District,
 to unveil a Tampines Community Art Project, “Colours of Tampines”, created
 by residents to mark SG60.&nbsp;</p>
 <p>Leading up to CGS Day, NEA have partnered with four key partners to showcase
 a range of the wider community’s contributions to our sustainable development
 journey:</p>
+<p></p>
+<h3>Launch of CleanPod and Clean-up at Tampines Park</h3>
+<p>In support of CGS Day, the Public Hygiene Council launched a new CleanPod
+at Tampines Park on the morning of the event. The PHC CleanPod is a litter-picking
+tool sharing platform and community-based resource, which organisations,
+schools and communities can leverage to reinforce the value of environmental
+ownership for corporate social responsibility and educational opportunities.
+PHC has set up 26 CleanPods across Singapore to date, at housing estates,
+beaches and parks, which enable facilitation of community ground-up clean-up
+activities. A litter picking activity was led by Grassroots Adviser Mr
+Masagos Zulkifli, together with Chairman of the Public Hygiene Council
+Mr Andrew Khng, and involved 50 residents, students and volunteers who
+put the new CleanPod to immediate use in a clean-up at the park.</p>
 <h3>Launch of Cora Environment Smart Recycling Hub at Mee Toh School&nbsp;</h3>
 <p>On 6 October 2025, Senior Parliamentary Secretary for the Ministry of
 Sustainability and the Environment &amp; for the Ministry of Culture, Community
