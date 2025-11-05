@@ -99,7 +99,7 @@ description: ""
 <p>Lee Foundation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.mitsubishielectric.com.sg" rel="noopener nofollow" target="_blank">Mitsubishi Electric Asia Pte Ltd</a>
+<p><a href="https://www.mitsubishielectric.com.sg" rel="noopener nofollow" target="_blank">Mitsubishi Electric Asia Ptd Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,11 +200,11 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.joeecoalliance.com" rel="noopener nofollow" target="_blank">J.O.E Eco Alliance</a>
+<p><a href="https://www.joeecoalliance.com" rel="noopener nofollow" target="_blank">J.O.E Eco Alliance</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.josf.com.sg" rel="noopener nofollow" target="_blank">JOS Furnitures Pte Ltd</a>
+<p><a href="https://www.josf.com.sg" rel="noopener nofollow" target="_blank">JOS Furnitures Pte Ltd</a>
 </p>
 </td>
 </tr>
@@ -236,7 +236,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="meetoh.moe.edu.sg" rel="noopener nofollow" target="_blank">Mee Toh School</a>
+<p><a href="https://meetoh.moe.edu.sg" rel="noopener nofollow" target="_blank">Mee Toh School</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,7 +295,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.sec.org.sg" rel="noopener nofollow" target="_blank">Singapore Environment Council</a>
+<p><a href="https://www.sec.org.sg" rel="noopener nofollow" target="_blank">Singapore Environment Council</a>
 </p>
 </td>
 </tr>
@@ -325,7 +325,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="www.singaporeoceanarium.com" rel="noopener nofollow" target="_blank">Singapore Oceanarium</a>
+<p><a href="https://www.singaporeoceanarium.com" rel="noopener nofollow" target="_blank">Singapore Oceanarium</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,7 +337,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.uradraftmasterplan.gov.sg" rel="noopener nofollow" target="_blank">URA Draft Master Plan</a>
+<p><a href="https://www.uradraftmasterplan.gov.sg" rel="noopener nofollow" target="_blank">URA Draft Master Plan</a>
 </p>
 </td>
 </tr>

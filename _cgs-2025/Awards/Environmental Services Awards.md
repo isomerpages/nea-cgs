@@ -347,7 +347,7 @@ Award.
 <p>Heng Zhee Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CBM Pte Ltd</p>
+<p>CSP Maintenance Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -358,7 +358,7 @@ Award.
 <p>Teh Kim Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISS Facility Services Private Limited</p>
+<p>Smart City Integrated Consultancy</p>
 </td>
 </tr>
 <tr>
@@ -369,7 +369,7 @@ Award.
 <p>Yamin Yuper Zin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>UEMS Solutions Pte Ltd</p>
+<p>ISS Facility Services Private Limited</p>
 </td>
 </tr>
 <tr>
@@ -380,7 +380,7 @@ Award.
 <p>Foo Kai Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Aardwolf Pestkare (S) Pte Ltd</p>
+<p>Ikari Services Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -391,7 +391,7 @@ Award.
 <p>Hector Gavin Raj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ikari Services Pte Ltd</p>
+<p>Verminator Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -402,7 +402,7 @@ Award.
 <p>Wiliawaty</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Verminator Pte Ltd</p>
+<p>Aardwolf Pestkare (S) Pte Ltd</p>
 </td>
 </tr>
 <tr>
@@ -413,7 +413,7 @@ Award.
 <p>Alicia Lim Li Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sembcorp Environment Pte. Ltd.</p>
+<p>RE Sustainability Environmental Pte. Ltd.</p>
 </td>
 </tr>
 <tr>
