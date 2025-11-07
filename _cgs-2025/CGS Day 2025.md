@@ -378,8 +378,8 @@ to everyone to join the movement towards cleaner seas and a greener future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/WOL_2549_min.jpg">
 </div>
-<p>
+<h3><br>CGS 2025 Community Event Highlights<br></h3>
+<p>Check out the highlights video <a href="https://www.youtube.com/watch?v=zW53XPlTa1Q" rel="noopener nofollow" target="_blank">here</a>!
 <br>
 </p>
-<h4></h4>
 <p></p>
