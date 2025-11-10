@@ -124,6 +124,10 @@ instead.</p>
 </tr>
 </tbody>
 </table>
-<p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/Eco Schools/Group_Picture_of_Awardees.jpg">
+</div>
+<p><em>A huge congratulations to our award winners for their achievement! Together, we can lead the change in building a greener future.</em>
 <br>
 </p>
