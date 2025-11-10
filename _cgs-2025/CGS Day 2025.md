@@ -56,7 +56,7 @@ Community and Youth and the Ministry of Sustainability and the Environment</p>
 <p>Mr Jagathishwaran Rajo, PBM, Adviser to Aljunied GRC Grassroots Organisations</p>
 </li>
 <li>
-<p>Ms Bernadette Giam, Adviser to Sengkang GRC Grassroots Organisations</p>
+<p>Mrs Bernadette Giam, Adviser to Sengkang GRC Grassroots Organisations</p>
 </li>
 <li>
 <p>Ms Theodora Lai, Adviser to Sengkang GRC Grassroots Organisations</p>
@@ -78,7 +78,6 @@ innovation, productivity, and environmental sustainability.</p>
 <p><strong>Community in Bloom Ambassador Award</strong> recognised 10 individuals
 who have made meaningful contributions to promoting gardening and actively
 engaging the community through gardening-related projects.</p>
-<p></p>
 <h3>SG60 Clean &amp; Green Singapore Exhibition</h3>
 <p>This exhibit takes visitors on a journey through Singapore's transformation
 into one of the world’s greenest and most sustainable cities. It highlights
@@ -223,10 +222,6 @@ a better, more sustainable future.</p>
 <p>DPM Gan was also joined by Mr Baey Yam Keng, Mayor of the North East District,
 to unveil a Tampines Community Art Project, “Colours of Tampines”, created
 by residents to mark SG60.&nbsp;</p>
-<p>Leading up to CGS Day, NEA have partnered with four key partners to showcase
-a range of the wider community’s contributions to our sustainable development
-journey:</p>
-<p></p>
 <h3>Launch of CleanPod and Clean-up at Tampines Park</h3>
 <p>In support of CGS Day, the Public Hygiene Council launched a new CleanPod
 at Tampines Park on the morning of the event. The PHC CleanPod is a litter-picking
@@ -239,6 +234,9 @@ activities. A litter picking activity was led by Grassroots Adviser Mr
 Masagos Zulkifli, together with Chairman of the Public Hygiene Council
 Mr Andrew Khng, and involved 50 residents, students and volunteers who
 put the new CleanPod to immediate use in a clean-up at the park.</p>
+<p>Leading up to CGS Day, NEA has partnered with four key partners to showcase
+a range of the wider community’s contributions to our sustainable development
+journey:</p>
 <h3>Launch of Cora Environment Smart Recycling Hub at Mee Toh School&nbsp;</h3>
 <p>On 6 October 2025, Senior Parliamentary Secretary for the Ministry of
 Sustainability and the Environment &amp; for the Ministry of Culture, Community
@@ -277,7 +275,7 @@ about the environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/SPS_2.jpg">
 </div>
-<h3><br>International E-Waste Day 2025</h3>
+<h3>International E-Waste Day 2025</h3>
 <p>International E-Waste Day is organised annually to raise public awareness
 on e-waste recycling and to encourage members of the public to recycle
 their e-waste. The theme for IEWD 2025 was ‘Step Up E-waste Recycling’,
@@ -323,7 +321,6 @@ Authority – also showcased interactive installations that highlighted Singapor
 collective efforts in building a green nation. Members of the public also
 enjoyed the comics and installations and participated in nature and sustainability-themed
 talks and workshops.&nbsp;</p>
-<p>&nbsp;</p>
 <p>The event was organised in partnership with the National Environment Agency
 and other partners, reflecting a shared commitment to nurturing a generation
 that values and protects the environment. By combining play with education, <em>Race to Sustainability!</em> encouraged
@@ -332,7 +329,6 @@ challenges. This collaborative effort with Gardens by the Bay helped play
 an important role in supporting Singapore’s vision of a Clean and Green
 Singapore, helping young people and the wider community take meaningful
 steps towards building a sustainable future.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/P9A0147.jpg">
 </div>
@@ -372,13 +368,10 @@ Interested individuals can register for upcoming sessions through the
 </a>.&nbsp;</p>
 <p>More than just a one-off activity, Eco Paddle with Ola is an invitation
 to everyone to join the movement towards cleaner seas and a greener future.</p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS 2023/CGS 2023/WOL_2549_min.jpg">
 </div>
-<h3>CGS 2025 Community Event Highlights<br></h3>
+<h3>CGS 2025 Community Event Highlights</h3>
 <p>Check out the highlights video <a href="https://www.youtube.com/watch?v=zW53XPlTa1Q" rel="noopener nofollow" target="_blank">here</a>!
 <br>
 </p>
