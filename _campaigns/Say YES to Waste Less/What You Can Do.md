@@ -33,7 +33,8 @@ Supermarket Wars <em>starring Irene Ang and Suhaimi Yusof</em>&nbsp;
 Room for Improvement <em>starring Deborah Quek and Fabian Amos</em>
 <br><a href="https://youtu.be/-xgPXjFD_S0" rel="noopener noreferrer nofollow" target="_blank">Episode 3</a>:
 Sustainable Stall Showdown <em>starring BioGirlMJ and Yusoff Rasid</em>
-<br>Episode 4: Ultimate Wate Showdown<em> starring Glenn Yong and Germaine Tan</em>
+<br><a href="https://www.youtube.com/watch?v=VzGiJM9jRgM&amp;t=28s" rel="noopener nofollow" target="_blank">Episode 4</a>:
+Ultimate Wate Showdown<em> starring Glenn Yong and Germaine Tan</em>
 </p>
 <hr>
 <h2></h2>
