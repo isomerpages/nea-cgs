@@ -110,7 +110,7 @@ movement. Here are our Key Visuals for 2025.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Resources/NEA_SYTWL_EMCT_Infographic_FA_ENGMA.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Resources/NEA_SYTWL_EMCT_Infographic_FA_ENGMA.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
