@@ -175,7 +175,7 @@ sustainable environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nea.gov.sg/docs/default-source/our-services/public-cleanliness/washroom-cleaning_poster.pdf" rel="noopener noreferrer nofollow" target="_blank">A guide on Washroom Cleaning</a>
+<p><a href="https://www.nea.gov.sg/docs/default-source/itm/pictorial-guides/pictorial-guide-on-washroom-cleaning-procedures.pdf" rel="noopener noreferrer nofollow" target="_blank">Pictorial Guide on Washroom Cleaning Procedures</a>
 </p>
 </td>
 </tr>
