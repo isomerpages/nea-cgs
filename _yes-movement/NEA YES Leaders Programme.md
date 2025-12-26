@@ -30,16 +30,14 @@ meaningful change.
 <br>As a key initiative of the YOUth for Environmental Sustainability (YES)
 movement, YES LP offers a unique opportunity for youth leaders to:
 <br>
-<br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/YES Leaders Programme Cohort 3/02_Icons_and_benefits.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Icons.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/YES Leaders Programme Cohort 3/03_Timeline.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Timeline_C4.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/YES Leaders Programme Cohort 3/04_What_s_required_Join_the_YES_LP.jpg">
 </div>
@@ -55,7 +53,7 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://t553-p540-blue-admin.prd.cwp2.sg/docs/default-source/cgs/yes-leaders-programme/1-application-form-2025-cohort-3---jan-2025.docx" rel="noopener nofollow" target="_blank">Here</a>
+<p><a href="https://form.gov.sg/693a391b9b17bafa9b996bdf" rel="noopener nofollow" target="_blank">Here</a>
 </p>
 </th>
 </tr>
@@ -75,7 +73,7 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://form.gov.sg/677b89e886407a9162aeaad3" rel="noopener nofollow" target="_blank">Here</a></strong>
+<p><strong><a href="https://cal.gov.sg/jbpsgwijza9no1p5xq95ldua" rel="noopener nofollow" target="_blank">Here</a></strong>
 </p>
 </td>
 </tr>
@@ -85,14 +83,15 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.nea.gov.sg/media/news/news/index/first-batch-of-youth-for-the-environmental-sustainability-(yes)-leaders-tackled-waste-challenges" rel="noopener nofollow" target="_blank">Here</a></strong>
+<p><strong><a href="https://www.nea.gov.sg/media/news/news/index/34-youth-leaders-champion-diverse-environmental-causes" rel="noopener nofollow" target="_blank">Here</a></strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/YES Leaders Programme Cohort 3/05_Logo_footer.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/CGS_and_Green_Plan_Logo.png">
 </div>
 <p></p>
