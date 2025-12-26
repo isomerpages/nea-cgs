@@ -26,16 +26,13 @@ joint efforts of our community, including our youths. As environmental
 stewards of our nation's sustainable future, young leaders need in-depth
 understanding of sustainability within Singapore’s unique context to drive
 meaningful change.
-<br>
 <br>As a key initiative of the YOUth for Environmental Sustainability (YES)
-movement, YES LP offers a unique opportunity for youth leaders to:
-<br>
-</p>
+movement, YES LP offers a unique opportunity for youth leaders to:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Icons.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Timeline_C4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Timeline_C4_V1.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/YES Leaders Programme Cohort 3/04_What_s_required_Join_the_YES_LP.jpg">
@@ -48,7 +45,7 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Download the nomination form</strong>
+<p><strong>Nomination form</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
