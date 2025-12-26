@@ -34,7 +34,6 @@ movement, YES LP offers a unique opportunity for youth leaders to:
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Icons.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Timeline_C4.png">
 </div>
