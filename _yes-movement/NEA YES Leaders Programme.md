@@ -25,7 +25,12 @@ and sustainable development.
 joint efforts of our community, including our youths. As environmental
 stewards of our nation's sustainable future, young leaders need in-depth
 understanding of sustainability within Singapore’s unique context to drive
-meaningful change.
+meaningful change.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I0oOPMg4K14?si=81tyE4u03GCEnR91"></iframe>
+</div>
+<p>
 <br>As a key initiative of the YOUth for Environmental Sustainability (YES)
 movement, YES LP offers a unique opportunity for youth leaders to:</p>
 <div class="isomer-image-wrapper">
