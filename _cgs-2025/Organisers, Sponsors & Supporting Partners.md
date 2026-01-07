@@ -148,7 +148,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://globegaia.com/abraclean/" rel="noopener nofollow" target="_blank">Abraclean (Asia Pacific) Pte Ltd</a>
+<p><a href="https://www.abraclean.asia/" rel="noopener nofollow" target="_blank">Abraclean (Asia Pacific) Pte Ltd</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
