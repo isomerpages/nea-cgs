@@ -725,7 +725,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.frc.sg/" rel="noopener nofollow" target="_blank"><u>Fridge Restock Community SG</u></a>
+<p><a href="https://www.facebook.com/Fridgerestockcommunitysg/" rel="noopener nofollow" target="_blank"><u>Fridge Restock Community SG</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
