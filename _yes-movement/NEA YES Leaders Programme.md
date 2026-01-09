@@ -64,7 +64,8 @@ movement, YES LP offers a unique opportunity for youth leaders to:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/YES/2__FAQ_NEA_YES_Leaders_Programme_2026.pdf" rel="noopener nofollow" target="_blank">Here</a></strong>
+</p>
 </td>
 </tr>
 <tr>
