@@ -75,7 +75,7 @@ in. In no time at all, the restroom was sparkly clean.</p>
 </p>
 <p><strong>The Four Toilet Rules</strong>
 </p>
-<p>Written by: Wu Xi Yi</p>
+<p>Written by: Wu Xiyu</p>
 <p>I am a bathroom stall—only noticed when I don’t close properly. I’m a
 wall to lean on, a shield for privacy, an essential part of every school
 toilet. We all are: the toilet, the bin, the floor. Essential, but rarely
