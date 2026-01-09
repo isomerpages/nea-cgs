@@ -91,7 +91,6 @@ movement, YES LP offers a unique opportunity for youth leaders to:</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/CGS_and_Green_Plan_Logo.png">
 </div>
