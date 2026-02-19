@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Recycle Right
 ---
-<h2>Bloobin AI Chatbot</h2>
+<h2>Recycle Right Chatbot</h2>
 <p>Chat with Bloobin on <a href="https://go.gov.sg/askbloobin" rel="noopener nofollow" target="_blank">WhatsApp</a> or
 <a href="https://go.gov.sg/askbloobintg" rel="noopener nofollow" target="_blank">Telegram</a>to check what can/ cannot be recycled.</p>
 <p></p>
@@ -15,7 +15,7 @@ third_nav_title: Recycle Right
 <p>Not sure how to start chatting with Bloobin? Watch the video below to
 find out!</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JOuCV81K8Ng?si=Rca0yyeNLVOVPbwA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JOuCV81K8Ng?si=Rca0yyeNLVOVPbwA"></iframe>
 </div>
 <p></p>
 <h2>Recycling Search Engine</h2>
