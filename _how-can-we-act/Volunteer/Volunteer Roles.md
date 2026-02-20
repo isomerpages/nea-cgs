@@ -91,7 +91,7 @@ action.</p>
 </li>
 </ul>
 <p>*Applicant must be 76 years old and below at time of registration.</p>
-<p><strong>Interested applicants are required to complete a <a href="https://www.123test.com/disc-personality-test/" rel="noopener noreferrer nofollow" target="_blank">personality test</a>, take a screenshot of your results, and submit it with the necessary details via the following registration form: <a href="https://go.gov.sg/cvregister2025" rel="noopener noreferrer nofollow" target="_blank">CV Programme Registration Form</a>. For any enquiries, please email <a href="mailto:Community_Volunteers@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Community_Volunteers@nea.gov.sg</a>.</strong>
+<p><strong>Recruitment for the next intake will open in 2027. For any enquiries, please email <a href="mailto:Community_Volunteers@nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Community_Volunteers@nea.gov.sg</a>.</strong>
 </p>
 <p><strong>To validate a CV’s identity, you may verify through the NEA website&nbsp;<a href="https://www.nea.gov.sg/validate-officer" rel="noopener noreferrer nofollow" target="_blank">https://www.nea.gov.sg/validate-officer</a></strong>&nbsp;<strong>using the CV’s name and authority card number.</strong>
 </p>
@@ -112,7 +112,4 @@ and environmental sustainability campaigns such as Say YES to Waste Less
 and Recycle Right, as well.</p>
 <p><strong>Interested members of the public or partner organisations can sign up at&nbsp;<a href="https://go.gov.sg/cgsambassadors" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cgsambassadors</a>&nbsp;or email&nbsp;<a href="https://go.gov.sg/cleangreensingaporeambassadors" rel="noopener noreferrer nofollow" target="_blank"><u>NEA_Volunteer@nea.gov.sg</u></a>&nbsp;for further enquiries.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Volunteer roles_Footer_FA" src="/images/How Can We Act/Volunteer/volunteer_roles_footer_fa.jpg">
-</div>
 <p></p>
