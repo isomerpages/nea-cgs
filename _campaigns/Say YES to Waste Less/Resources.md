@@ -597,9 +597,10 @@ movement. Here are our Key Visuals for 2025.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Lower Primary Activity Guide</h4>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="/files/Say%20YES%20to%20Waste%20Less/sytwl_lower_primary_activity_guide_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the full activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_LowerPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the full activity guide</a>]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Lower Primary Cover Page" src="/images/Say YES to Waste Less/Engagement Activities/lower_primary_cover_page_tmb_medium.jpg">
 </div>
@@ -610,7 +611,7 @@ movement. Here are our Key Visuals for 2025.</p>
 <h4>Upper Primary Activity Guide</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="/files/Say YES to Waste Less/SYTWL_Upper_Primary_Activity_Guide_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the full activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_UpperPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the full activity guide</a>]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Upper Primary Cover Page" src="/images/Say YES to Waste Less/Engagement Activities/upper_primary_cover_page_tmb_medium.jpg">
 </div>
@@ -621,7 +622,7 @@ movement. Here are our Key Visuals for 2025.</p>
 <h4>Secondary/JC Activity Guide</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="/files/Say YES to Waste Less/SYTWL_Secondary_JC_Activity_Guide_Compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the full activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_SecondaryJC_EMAIL_links_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for full activity guide</a>]</p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Secondary JC Cover Page" src="/images/Say YES to Waste Less/Engagement Activities/secondary_jc_cover_page_tmb_medium.jpg">
 </div>
@@ -685,7 +686,7 @@ image)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="325" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sPE1pziKrHY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="325" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sPE1pziKrHY"></iframe>
 </div>
 </td>
 </tr>
