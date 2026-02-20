@@ -603,7 +603,7 @@ movement. Here are our Key Visuals for 2025.</p>
 <p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_LowerPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the full activity guide</a>]</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/LowerPri.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/LowerPri.jpg">
 </div>
 </td>
 </tr>
@@ -616,7 +616,7 @@ movement. Here are our Key Visuals for 2025.</p>
 <p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_UpperPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the full activity guide</a>]</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/UpperPri.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/UpperPri.jpg">
 </div>
 </td>
 </tr>
@@ -628,7 +628,7 @@ movement. Here are our Key Visuals for 2025.</p>
 <p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_SecondaryJC_EMAIL_links_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for full activity guide</a>]</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/SecJC.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/SecJC.jpg">
 </div>
 </td>
 </tr>
