@@ -112,7 +112,4 @@ and environmental sustainability campaigns such as Say YES to Waste Less
 and Recycle Right, as well.</p>
 <p><strong>Interested members of the public or partner organisations can sign up at&nbsp;<a href="https://go.gov.sg/cgsambassadors" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cgsambassadors</a>&nbsp;or email&nbsp;<a href="https://go.gov.sg/cleangreensingaporeambassadors" rel="noopener noreferrer nofollow" target="_blank"><u>NEA_Volunteer@nea.gov.sg</u></a>&nbsp;for further enquiries.</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Volunteer roles_Footer_FA" src="/images/How Can We Act/Volunteer/volunteer_roles_footer_fa.jpg">
-</div>
 <p></p>
