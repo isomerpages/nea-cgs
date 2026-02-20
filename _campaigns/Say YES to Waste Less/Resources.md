@@ -609,6 +609,7 @@ movement. Here are our Key Visuals for 2025.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Upper Primary Activity Guide</h4>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_UpperPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the full activity guide</a>]</p>
