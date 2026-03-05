@@ -37,10 +37,10 @@ movement, YES LP offers a unique opportunity for youth leaders to:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Icons.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/YES Leaders Programme Cohort 3/04_What_s_required_Join_the_YES_LP.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Timeline_mar26.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/Timeline_mar26.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YES/YES Leaders Programme Cohort 3/04_What_s_required_Join_the_YES_LP.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
