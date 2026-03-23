@@ -600,7 +600,8 @@ movement. Here are our Key Visuals for 2025.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_LowerPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the full activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_LowerPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the latest activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/sytwl_lower_primary_activity_guide_final.pdf" rel="noopener nofollow" target="_blank">Click here for the earlier version activity guide</a>]</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/LowerPri.jpg">
@@ -613,7 +614,8 @@ movement. Here are our Key Visuals for 2025.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_UpperPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the full activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_UpperPrimary_EMAIL_optimized_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for the latest activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/SYTWL_Upper_Primary_Activity_Guide_Compressed.pdf" rel="noopener nofollow" target="_blank">Click here for the earlier version activity guide</a>]</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/UpperPri.jpg">
@@ -625,7 +627,8 @@ movement. Here are our Key Visuals for 2025.</p>
 <h4>Secondary/JC Activity Guide</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_SecondaryJC_EMAIL_links_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for full activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/NEA_SYTWL_SchoolActivityGuide_SecondaryJC_EMAIL_links_under5MB.pdf" rel="noopener nofollow" target="_blank">Click here for latest activity guide</a>]</p>
+<p>[<a href="/files/Say YES to Waste Less/SYTWL_Secondary_JC_Activity_Guide_Compressed.pdf" rel="noopener nofollow" target="_blank">Click here for the earlier version activity guide</a>]</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/SecJC.jpg">
