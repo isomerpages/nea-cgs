@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Eco Schools
 ---
-<h3><strong>Project E.C.O 2024 – Public Health - Primary</strong></h3>
+<h3><strong>Project E.C.O 2025 – Public Health - Primary</strong></h3>
 <p><strong>Pei Hwa Presbyterian Primary School – Gold</strong>
 </p>
 <p>The project team from the Student Council embarked on a seven-month long
