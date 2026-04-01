@@ -109,7 +109,7 @@ a trash-eating monster and a litter-free landscape. With guided support
 from teachers and collaborating with town council, the students painted
 the bins, which were then placed around public spaces in Ang Mo Kio estate.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Chaoyang_Environmental_Club_students_painting_a_monster_Creative_Bin.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Chaoyang_Environmental_Club_students_painting_a_monster_Creative_Bin.jpg">
 </div>
 <p><u>Chaoyang Environmental Club students painting a monster Creative Bin</u>
 </p>
@@ -119,7 +119,7 @@ the bins, which were then placed around public spaces in Ang Mo Kio estate.</p>
 <p><u>Completed Creatives Bins, painted by Chaoyang School Environmental Club students</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Chaoyang_Environmental_Club_students_doing_a_community_clean_up_in_the_neighbourhood.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Chaoyang_Environmental_Club_students_doing_a_community_clean_up_in_the_neighbourhood.jpg">
 </div>
 <p><u>Chaoyang Environmental Club students doing a community clean-up in the neighbourhood</u>
 </p>
