@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Eco Schools
 ---
-<h3><strong>Project E.C.O. 2025 – Public Health - Primary</strong></h3>
+<h3><strong>Project E.C.O. 2025 – Environmental Protection - Primary</strong></h3>
 <p><strong>Bedok Green Primary School - Gold</strong>
 </p>
 <p><strong>Project E.C.O.</strong> was a ten-month, student-led sustainability
