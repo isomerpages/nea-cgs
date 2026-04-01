@@ -141,3 +141,7 @@ practices.</p>
 <p>Dora video on how to reduce waste in school:</p>
 <p><a href="https://youtu.be/6bJSEqgdYLs?si=Z3fcp7SNPc9XwZjF" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/6bJSEqgdYLs?si=Z3fcp7SNPc9XwZjF</a>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
+</div>
+<p></p>
