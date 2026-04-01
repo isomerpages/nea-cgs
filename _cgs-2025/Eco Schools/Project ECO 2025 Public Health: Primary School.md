@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Eco Schools
 ---
-<h3><strong>Project E.C.O 2025 – Public Health - Primary</strong></h3>
+<h3><strong>Project E.C.O. 2025 – Public Health - Primary</strong></h3>
 <p><strong>Pei Hwa Presbyterian Primary School – Gold</strong>
 </p>
 <p>The project team from the Student Council embarked on a seven-month long
@@ -26,14 +26,22 @@ peers on dengue prevention.</p>
 <p>The team's initiatives successfully achieved their goals, with post-activity
 surveys showing that all participants could recognise Aedes mosquitoes
 and identify at least one way to prevent mosquito breeding.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Pei_Hwa_1.jpg">
+</div>
 <p><u>Outreach booth to schoolmates during recess</u>
 </p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Pei_Hwa_2.jpg">
+</div>
 <p><u>Presentation to kindergarteners from Glory Kindergarten</u>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Pei_Hwa_3.jpg">
+</div>
+<p><u>Community Outreach in partnership with Bukit Timah Community Club</u>
+</p>
 <p><strong>Nan Chiau Primary School – Silver</strong>
 </p>
 <p>The project team embarked on a seven-month project to raise awareness
@@ -45,7 +53,16 @@ with Lions Befrienders to reach out to elderly residents, set up an interactive
 booth with hands-on activities at Sengkang Community Club, and shared their
 findings with peers from other CCAs and student care centres.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Nan_Chiau_Primary_2.jpg">
+</div>
+<p><u>The Mozie Team showing a skit on how to prevent dengue fever to the residents at Blk 47 Owen Road</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Nan_Chaiu_Primary_1.jpg">
+</div>
+<p><u>Environmental club member distributing flyer to a policeman at the area outside Sengkang Community Club.</u>
+</p>
 <p><strong>Unity Primary School – Bronze</strong>
 </p>
 <p>The project team embarked on a six-month project to raise awareness and
@@ -59,8 +76,16 @@ To extend their outreach to the wider community, the team designed simple
 card games to introduce the topic of&nbsp; toilet cleanliness to kindergarten
 children. They also encouraged the preschoolers to bring the messages back
 to their families.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Unity_1.jpg">
+</div>
+<p>S<u>tudents encouraging their peers to take a Green Pledge</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Unity2.jpg">
+</div>
+<p><u>The project team engaging with preschoolers on good toilet hygiene</u>
+</p>
 <p><strong>APSN Chaoyang School – Bronze</strong>
 </p>
 <p>The project team embarked on an initiative to promote environmental awareness
@@ -71,13 +96,25 @@ their research, they discovered that many residents were not using rubbish
 bins effectively, prompting them to develop creative solutions. Working
 in pairs during environmental CCA periods, students brainstormed ways to
 make bins more attractive to encourage proper litter disposal.</p>
-<p></p>
 <p>They designed vibrant rubbish bins featuring creative concepts including
 a trash-eating monster and a litter-free landscape. With guided support
 from teachers and collaborating with town council, the students painted
 the bins, which were then placed around public spaces in Ang Mo Kio estate.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Chaoyang_Environmental_Club_students_painting_a_monster_Creative_Bin.jpg">
+</div>
+<p><u>Chaoyang Environmental Club students painting a monster Creative Bin</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Completed_Creatives_Bins__painted_by_Chaoyang_School_Environmental_Club_students.jpg">
+</div>
+<p><u>Completed Creatives Bins, painted by Chaoyang School Environmental Club students</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Chaoyang_Environmental_Club_students_doing_a_community_clean_up_in_the_neighbourhood.jpg">
+</div>
+<p><u>Chaoyang Environmental Club students doing a community clean-up in the neighbourhood</u>
+</p>
 <p>The team also organised community clean-up activities where students,
 equipped with garbage bags and tongs, picked up litter around residential
 blocks. Through these hands-on activities, students demonstrated leadership,
