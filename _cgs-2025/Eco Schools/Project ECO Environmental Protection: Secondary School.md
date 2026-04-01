@@ -110,3 +110,34 @@ Through partnerships with Starbucks, Calvary Community Care (C3), and Viriya
 Family Service Centre, the project extended its impact beyond school boundaries,
 demonstrating practical applications of sustainable practices and responsible
 waste management throughout the Potong Pasir/Woodleigh community.</p>
+<p><strong>Jurong West Secondary School - Bronze</strong>
+</p>
+<p>The project team executed sustainability initiatives over an academic
+year using Design Thinking methodology. Following Project E.C.O. workshop
+training and stakeholder consultations, students identified waste management
+and energy conservation as key challenges. The first initiative featured
+hands-on upcycling workshops where participants created terrariums from
+discarded water bottles, wallets from old banners and tetra-paks, and fashion
+pieces from unwanted fabric. Students also developed promotional materials
+and organised clothes donation drives. Terrarium workshops were conducted
+at NTUC Eldercare for elderly residents during National Day celebrations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Secondary/JW1.jpg">
+</div>
+<p><u>Terrarium Workshops at NTUC Eldercare</u>
+</p>
+<p>The second initiative centred on creating engaging educational content,
+including videos to promote energy conservation. Students designed advocacy
+posters, established sustainability corners in every Secondary 1 classroom,
+and developed gaming challenges for interactive learning. These student-created
+materials and activities successfully engaged parents, teachers, elderly
+residents and students in understanding waste reduction and energy conservation
+practices.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Secondary/JW2.jpg">
+</div>
+<p><u>Assembly sharing on Energy Conservation</u>
+</p>
+<p>Dora video on how to reduce waste in school:</p>
+<p><a href="https://youtu.be/6bJSEqgdYLs?si=Z3fcp7SNPc9XwZjF" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/6bJSEqgdYLs?si=Z3fcp7SNPc9XwZjF</a>
+</p>
