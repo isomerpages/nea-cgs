@@ -162,4 +162,9 @@ important values at home.</p>
 <p><u>The project team engaging with kindergarteners from MK@Vista during recess</u>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Footer" src="/images/CGS 2023/Eco Schools/footer_3.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>
