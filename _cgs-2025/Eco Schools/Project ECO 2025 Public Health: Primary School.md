@@ -63,8 +63,12 @@ findings with peers from other CCAs and student care centres.</p>
 </div>
 <p><u>Environmental club member distributing flyer to a policeman at the area outside Sengkang Community Club.</u>
 </p>
+<ol data-tight="true" class="tight">
+<li>
 <p><strong>Unity Primary School – Bronze</strong>
 </p>
+</li>
+</ol>
 <p>The project team embarked on a six-month project to raise awareness and
 promote responsible toilet habits. They carried out research, explored
 best practices and deliberated on creative ways to engage their target
@@ -86,8 +90,12 @@ to their families.</p>
 </div>
 <p><u>The project team engaging with preschoolers on good toilet hygiene</u>
 </p>
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p><strong>APSN Chaoyang School – Bronze</strong>
 </p>
+</li>
+</ol>
 <p>The project team embarked on an initiative to promote environmental awareness
 and community cleanliness in Ang Mo Kio. Students surveyed the area around
 their school and observed the littering patterns. and identifying that
