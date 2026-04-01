@@ -27,6 +27,12 @@ peers on dengue prevention.</p>
 surveys showing that all participants could recognise Aedes mosquitoes
 and identify at least one way to prevent mosquito breeding.</p>
 <p></p>
+<p><u>Outreach booth to schoolmates during recess</u>
+</p>
+<p></p>
+<p></p>
+<p><u>Presentation to kindergarteners from Glory Kindergarten</u>
+</p>
 <p></p>
 <p><strong>Nan Chiau Primary School – Silver</strong>
 </p>
