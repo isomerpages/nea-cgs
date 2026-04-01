@@ -5,7 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Eco Schools
 ---
-<p></p>
+<h3><strong>Project E.C.O. 2025 – Public Health - Secondary</strong></h3>
+<p><strong>Bedok Green Primary School - Gold</strong>
+</p>
+<p><strong>Project E.C.O.</strong> was a ten-month, student-led sustainability
+initiative that transformed recycling and upcycling practices at Bedok
+Green Primary School while extending meaningful impact into the wider Bedok
+community. Led by four Green Councillors known as the <strong>Eco-Transformers</strong>,
+the project combined research-driven problem-solving, creative engagement,
+and strong partnerships to build sustainable habits and systems.</p>
 <p></p>
 <p></p>
 <p></p>
