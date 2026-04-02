@@ -27,18 +27,17 @@ peers on dengue prevention.</p>
 surveys showing that all participants could recognise Aedes mosquitoes
 and identify at least one way to prevent mosquito breeding.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Pei_Hwa_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Pei_Hwa_1.jpg">
 </div>
 <p><u>Outreach booth to schoolmates during recess</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Pei_Hwa_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Pei_Hwa_2.jpg">
 </div>
 <p><u>Presentation to kindergarteners from Glory Kindergarten</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Pei_Hwa_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Pei_Hwa_3.jpg">
 </div>
 <p><u>Community Outreach in partnership with Bukit Timah Community Club</u>
 </p>
@@ -54,12 +53,12 @@ booth with hands-on activities at Sengkang Community Club, and shared their
 findings with peers from other CCAs and student care centres.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Nan_Chiau_Primary_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Nan_Chiau_Primary_2.jpg">
 </div>
 <p><u>The Mozie Team showing a skit on how to prevent dengue fever to the residents at Blk 47 Owen Road</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Nan_Chaiu_Primary_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Nan_Chaiu_Primary_1.jpg">
 </div>
 <p><u>Environmental club member distributing flyer to a policeman at the area outside Sengkang Community Club.</u>
 </p>
@@ -81,12 +80,12 @@ card games to introduce the topic of&nbsp; toilet cleanliness to kindergarten
 children. They also encouraged the preschoolers to bring the messages back
 to their families.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Unity_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Unity_1.jpg">
 </div>
 <p>S<u>tudents encouraging their peers to take a Green Pledge</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Unity2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Unity2.jpg">
 </div>
 <p><u>The project team engaging with preschoolers on good toilet hygiene</u>
 </p>
@@ -109,17 +108,17 @@ a trash-eating monster and a litter-free landscape. With guided support
 from teachers and collaborating with town council, the students painted
 the bins, which were then placed around public spaces in Ang Mo Kio estate.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Chaoyang_Environmental_Club_students_painting_a_monster_Creative_Bin.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Chaoyang_Environmental_Club_students_painting_a_monster_Creative_Bin.jpg">
 </div>
 <p><u>Chaoyang Environmental Club students painting a monster Creative Bin</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Completed_Creatives_Bins__painted_by_Chaoyang_School_Environmental_Club_students.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Completed_Creatives_Bins__painted_by_Chaoyang_School_Environmental_Club_students.jpg">
 </div>
 <p><u>Completed Creatives Bins, painted by Chaoyang School Environmental Club students</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Eco Schools/Public Health Project/Chaoyang_Environmental_Club_students_doing_a_community_clean_up_in_the_neighbourhood.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Eco Schools/PH Project Primary/Chaoyang_Environmental_Club_students_doing_a_community_clean_up_in_the_neighbourhood.jpg">
 </div>
 <p><u>Chaoyang Environmental Club students doing a community clean-up in the neighbourhood</u>
 </p>
