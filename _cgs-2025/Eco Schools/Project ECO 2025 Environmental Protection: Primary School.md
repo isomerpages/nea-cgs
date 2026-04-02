@@ -51,29 +51,28 @@ school and community efforts. With systems embedded into school operations
 and supported by student leadership structures, Project E.C.O. has empowered
 students to become confident and sustained advocates for environmental
 protection within and beyond the school.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/6__Green_Champions_heading_to_the_Green_Space_to_deposit_bottle_caps_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/6__Green_Champions_heading_to_the_Green_Space_to_deposit_bottle_caps_.jpg">
 </div>
 <p><u>Green Champion heading to the Green Space to deposit bottle caps</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/10__Sunflower_Preschool__Skit__Recycling_Right__Day_and_Night__Now_Bloobin_is_Smiling__.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/10__Sunflower_Preschool__Skit__Recycling_Right__Day_and_Night__Now_Bloobin_is_Smiling__.jpg">
 </div>
 <p><u>Skit Performance at Sunflower Preschool on the topic of Recycling Right</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/15_Placement_of_a_Bottle_Cap_Bin_and_Standee_at_Bedok_Community_Centre.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/15_Placement_of_a_Bottle_Cap_Bin_and_Standee_at_Bedok_Community_Centre.jpg">
 </div>
 <p><u>Placement of a bottle cap bin and standee at Bedok Community Centre</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/18_Bedok_Heartbeat_Eco_Transformers_interacting_with_Mr__Dinesh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/18_Bedok_Heartbeat_Eco_Transformers_interacting_with_Mr__Dinesh.jpg">
 </div>
 <p><u>Eco-Transformers interacting with Mr Dinesh at Bedok Heartbeat</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/20__Our_school_was_specially_recognised_on_International_E_Waste_Day_2025__Principal__Mr_Benjamin_Yong__Eco_Transformers_and_Ms__Elissa__.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/20__Our_school_was_specially_recognised_on_International_E_Waste_Day_2025__Principal__Mr_Benjamin_Yong__Eco_Transformers_and_Ms__Elissa__.jpg">
 </div>
 <p><u>The school receiving special mention on International E-Waste Day, recognising their outstanding contributions to environmental sustainability</u>
 </p>
@@ -98,12 +97,12 @@ The composter serves as both a practical waste management solution and
 an educational tool, encouraging teachers to adopt more sustainable practices
 in their daily routines.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/PC_1.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/PC_1.jpg">
 </div>
 <p><u>Students learnt about sustainability by using the school’s food composter to turn food waste into useful compost. Through this hands-on experience, they understand how reducing food waste can help care for the environment and support plant growth in the school garden.</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/PC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/PC_2.jpg">
 </div>
 <p><u>Students shared about the impact of food waste and raised awareness within the community. They also engaged others by sharing simple ideas and activities to reduce food waste and protect the environment</u>
 </p>
@@ -122,23 +121,22 @@ and peer encouragement for Meatless Monday. The team also collaborated
 with eight external partners, including NParks, ALBA, CLOOP, MOE Kindergartens
 and Northwest CDC, to expand the reach and impact of their programmes.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/NB_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/NB_1.jpg">
 </div>
 <p><u>Environment Protection Campaign during recess for all levels</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/NB__2.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/NB__2.jpg">
 </div>
 <p><u>Upcycled materials used to build games for Navalite Discovery Day</u>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/NB_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/NB_3.jpg">
 </div>
 <p><u>Outreach to MOE Kingergarten&nbsp;during Navalite Discovery Day</u>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/NB_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/NB_4.jpg">
 </div>
 <p><u>Students showcasing their upcycled tote bags from old clothing</u>
 </p>
@@ -156,8 +154,9 @@ chemical spills and other harmful environmental practices. Outreach activities
 were extended to preschoolers, and messages promoting environmental stewardship
 were disseminated to parents through Parent Gateway to reinforce these
 important values at home.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project/NV_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eco Schools/EP Project Primary/NV_1.jpg">
 </div>
 <p><u>The project team engaging with kindergarteners from MK@Vista during recess</u>
 </p>
