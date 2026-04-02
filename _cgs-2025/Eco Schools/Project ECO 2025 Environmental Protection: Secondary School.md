@@ -1,5 +1,5 @@
 ---
-title: "Project ECO Environmental Protection: Secondary School"
+title: "Project ECO 2025 Environmental Protection: Secondary School"
 permalink: /project-eco-environmental-protection-secondary-school/
 variant: tiptap
 description: ""
