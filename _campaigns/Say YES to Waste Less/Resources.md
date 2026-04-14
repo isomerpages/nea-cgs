@@ -256,7 +256,9 @@ movement. Here are our Key Visuals for 2025.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Resources/foodhandyguide.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -268,7 +270,8 @@ movement. Here are our Key Visuals for 2025.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Say YES to Waste Less/NEA_SYTWL_FoodHandyGuide_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Waste Less Food Handbook</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
