@@ -18,7 +18,7 @@ our recycling rates and reduce the waste incinerated and sent to Semakau
 Landfill.</p>
 <p>Watch what Bloobin has to say about our recycling habits!</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jAeqGbJIfJE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jAeqGbJIfJE"></iframe>
 </div>
 <p>You can find out more about <a href="/recycleright/meet-bloobin" rel="noopener noreferrer nofollow" target="_blank"><u>Bloobin here</u></a>.&nbsp;For more
 of Bloobin's tips, check out his playlist <a href="https://www.youtube.com/playlist?list=PLYekcPPnJa8a9RcOnlt-fAgJrxPwLmKg9" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -37,8 +37,9 @@ separate your recyclables from general waste.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="CHECK" src="/images/Recycle Right/check_tmb_esize_600_.png">
 </div>
 <p>To CHECK if your item can or cannot be recycled, simply use the <a href="https://www.nea.gov.sg/recycling-search-engine/" rel="noopener noreferrer nofollow" target="_blank"><u>Recycling Search Engine</u></a>&nbsp;or
-check out the Bloobin’s<a href="/files/Recycle%20Right/recycling_guide_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> Recycling Guide</u></a> to
-seek his advice. He may also throw in a few helpful recycling tips!</p>
+check out the Bloobin’s<a href="/files/Recycle%20Right/recycling_guide_final.pdf" rel="noopener noreferrer nofollow" target="_blank"><u> </u></a>
+<a href="/files/Recycle Right/Recycling_Guide_v6_compressed.pdf" rel="noopener nofollow" target="_blank">Recycling Guide</a>to seek his advice. He may also throw in a few helpful
+recycling tips!</p>
 <h3>WHAT HAPPENS AFTER RECYCLABLES ARE COLLECTED FROM HOUSING ESTATES?</h3>
 <p>Recyclables are collected by a dedicated recycling truck and sent to a
 Materials Recovery Facility (MRF). The recyclables are sorted into different
@@ -47,6 +48,6 @@ form new products.</p>
 <p><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/types-of-recyclables-and-recycling-processes" rel="noopener noreferrer nofollow" target="_blank"><u>Click here for more information</u></a> on
 the recycling process for Paper, Plastic, Glass and Metal.</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wAuJBh40yKA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wAuJBh40yKA"></iframe>
 </div>
 <p></p>

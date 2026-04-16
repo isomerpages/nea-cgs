@@ -14,7 +14,7 @@ and liquid waste, Styrofoam, tissue paper, electronic waste, furniture
 and items meant for reuse, such as clothing, toys and shoes.</p>
 <h4>Food &amp; Liquid Waste</h4>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0h5HAxv48ls?si=OmIMwpmNGZh9ORMw"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0h5HAxv48ls?si=OmIMwpmNGZh9ORMw"></iframe>
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -211,9 +211,9 @@ find out where you can donate/resell/repair your items.</p>
 </p>
 <p>2. Search on the <a href="https://www.nea.gov.sg/recycling-search-engine/" rel="noopener nofollow" target="_blank">Recycling Search Engine</a>
 </p>
-<p>3. Check out <a href="https://www.cgs.gov.sg/files/Recycle%20Right/recycling_guide_final.pdf" rel="noopener nofollow" target="_blank">Bloobin's Recycling Guide</a>
+<p>3. Check out <a href="/files/Recycle Right/Recycling_Guide_v6_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Bloobin's Recycling Guide</a>
 </p>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D8EFaHFdCrg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D8EFaHFdCrg"></iframe>
 </div>
 <p></p>
