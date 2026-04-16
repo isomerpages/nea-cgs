@@ -2258,7 +2258,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="facebook.com/tampeastcc" rel="noopener nofollow" target="_blank">Tampines East Food Rescue</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Tampines East Food Rescue</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2266,7 +2266,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ttsh.com.sg/Pages/default.aspx" rel="noopener nofollow" target="_blank">Tan Tock Seng Hospital</a>
+<p><a href="https://www.ttsh.com.sg/About-TTSH/sustainability/Pages/default.aspx" rel="noopener nofollow" target="_blank">Tan Tock Seng Hospital</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2600,7 +2600,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="facebook.com/WoodgroveOurHome/" rel="noopener nofollow" target="_blank">Woodgrove Community Centre (CC)</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Woodgrove Community Centre (CC)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
