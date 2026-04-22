@@ -209,9 +209,7 @@ find out where you can donate/resell/repair your items.</p>
 <p>To CHECK if your item can or cannot be recycled:</p>
 <p>1. Chat with Bloobin using his AI chatbot <a href="https://www.cgs.gov.sg/recycleright/check-my-item/" rel="noopener nofollow" target="_blank">here</a>
 </p>
-<p>2. Search on the <a href="https://www.nea.gov.sg/recycling-search-engine/" rel="noopener nofollow" target="_blank">Recycling Search Engine</a>
-</p>
-<p>3. Check out <a href="/files/Recycle Right/Recycling_Guide_v6_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Bloobin's Recycling Guide</a>
+<p>2. Check out <a href="/files/Recycle Right/Recycling_Guide_v6_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">Bloobin's Recycling Guide</a>
 </p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D8EFaHFdCrg"></iframe>
