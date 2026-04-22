@@ -54,21 +54,6 @@ third_nav_title: Recycle Right
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>‘Trash Overflow’ AR Card Game</strong>
-<br>(Suitable for ages 13 and above)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Recycle Right/Resources/ar_card_game_tmb_medium.png">
-</div>
-<p><a href="https://www.nea.gov.sg/docs/default-source/our-services/waste-management/bloobin-ar-card-game.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to download</a>
-</p>
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
