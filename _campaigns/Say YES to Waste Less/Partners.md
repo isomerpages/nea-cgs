@@ -13,7 +13,7 @@ cutting down of single use items at their premises, implementing a disposable
 carrier bag charge, tracking and composting food waste, conducting webinars
 to educate the public and more .</p>
 <p>If you or your organisation would like to partner with us to help the
-environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.gov.sg/61516f714e6f490012d26a7b" rel="noopener noreferrer nofollow" target="_blank">fill up the form here.</a></strong>
+environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.gov.sg/68145b83722468f22bbbaa34" rel="noopener noreferrer nofollow" target="_blank">fill up the form here.</a></strong>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
