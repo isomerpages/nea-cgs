@@ -729,7 +729,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.gaincity.com" rel="noopener nofollow" target="_blank">Gain City</a>
+<p><a href="https://www.gaincity.com/" rel="noopener nofollow" target="_blank">Gain City</a>
 </p>
 </td>
 </tr>
@@ -808,7 +808,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="grain.com.sg" rel="noopener nofollow" target="_blank">Grain</a>
+<p><a href="https://grain.com.sg/" rel="noopener nofollow" target="_blank">Grain</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -847,7 +847,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.grandhyattsingapore.com" rel="noopener nofollow" target="_blank">Grand Hyatt Singapore</a>
+<p><a href="https://www.hyatt.com/grand-hyatt/en-US/sinrs-grand-hyatt-singapore" rel="noopener nofollow" target="_blank">Grand Hyatt Singapore</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -906,7 +906,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/LOGO__1__4.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -925,7 +927,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.heytea.com" rel="noopener nofollow" target="_blank">HEYTEA</a>
+<p><a href="https://www.heytea.com/" rel="noopener nofollow" target="_blank">HEYTEA</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1007,7 +1009,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.ionorchard.com/en/campaign/sustainable-takeaways.html" rel="noopener noreferrer nofollow" target="_blank">ION Orchard</a>
+<p><a href="https://www.ionorchard.com/en/deal/earn-1-green-point1.html" rel="noopener noreferrer nofollow" target="_blank">ION Orchard</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1086,11 +1088,11 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.jollyeco.sg" rel="noopener nofollow" target="_blank">JOLLY ECO</a>
+<p><a href="https://www.instagram.com/theecoclubsgPark" rel="noopener nofollow" target="_blank">JOLLY ECO</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="www.kinex.com.sg" rel="noopener nofollow" target="_blank">KINEX</a>
+<p><a href="https://kinex.com.sg/" rel="noopener nofollow" target="_blank">KINEX</a>
 </p>
 </td>
 </tr>
@@ -1678,7 +1680,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pr-collection-pickering/location/sustainability.html" rel="noopener noreferrer nofollow" target="_blank">PARKROYAL COLLECTION Pickering</a>
+<p><a href="https://www.panpacific.com/en/hotels-and-resorts/pr-collection-pickering/sustainability.html" rel="noopener noreferrer nofollow" target="_blank">PARKROYAL COLLECTION Pickering</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2096,7 +2098,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="​www.slurpybear.com" rel="noopener nofollow" target="_blank">Slurpy Bear</a>
+<p><a href="https://www.slurpybear.com/" rel="noopener nofollow" target="_blank">Slurpy Bear</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2189,7 +2191,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="surreyhillsgrocer.sg​" rel="noopener nofollow" target="_blank">Surrey Hills Grocer</a>
+<p><a href="https://www.surreyhillsgrocer.sg/" rel="noopener nofollow" target="_blank">Surrey Hills Grocer</a>
 </p>
 </td>
 </tr>
@@ -2242,6 +2244,9 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Say YES to Waste Less/Partners (2025)/Tampines_North_CC.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -2258,7 +2263,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">Tampines East Food Rescue</a>
+<p><a href="https://www.facebook.com/tampeastcc" rel="noopener nofollow" target="_blank">Tampines East Food Rescue</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2395,7 +2400,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="thesingaporeedition.com" rel="noopener nofollow" target="_blank">The Singapore Edition</a>
+<p><a href="http://thesingaporeedition.com/" rel="noopener nofollow" target="_blank">The Singapore Edition</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2600,7 +2605,7 @@ environment (and Semakau Landfill), kindly&nbsp;<strong><a href="https://form.go
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">Woodgrove Community Centre (CC)</a>
+<p><a href="https://www.facebook.com/WoodgroveOurHome/" rel="noopener nofollow" target="_blank">Woodgrove Community Centre (CC)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
