@@ -122,11 +122,11 @@ movement. Here are our Key Visuals for 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/Resources/NEA_SYTWL_EMCT_Infographic_FA-01.png" rel="noopener nofollow" target="_blank">Poster (English/Malay)</a>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/Resources/NEA_SYTWL_EMCT_Infographic_FA_01.png" rel="noopener nofollow" target="_blank">Poster (English/Malay)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/Resources/NEA_SYTWL_EMCT_Infographic_FA-02.png" rel="noopener nofollow" target="_blank">Poster (Chinese/Tamil)</a>
+<p><a href="https://www.cgs.gov.sg/images/Say%20YES%20to%20Waste%20Less/Resources/NEA_SYTWL_EMCT_Infographic_FA_02.png" rel="noopener nofollow" target="_blank">Poster (Chinese/Tamil)</a>
 </p>
 </td>
 </tr>
