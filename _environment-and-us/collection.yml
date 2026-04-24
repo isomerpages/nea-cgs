@@ -1,5 +1,4 @@
 collections:
   environment-and-us:
     output: true
-    order:
-      - Environment and Us.md
+    order: []
