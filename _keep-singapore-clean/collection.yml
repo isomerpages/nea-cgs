@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Downloadable Resources/.keep
-      - Clean Public Toilets/Downloadable Resources.md
       - Clean Public Toilets/.keep
