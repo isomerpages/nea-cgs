@@ -18,11 +18,6 @@ find out!</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JOuCV81K8Ng?si=Rca0yyeNLVOVPbwA"></iframe>
 </div>
 <p></p>
-<h2>Recycling Search Engine</h2>
-<p>Don't feel like chatting? Bloobin's Recycling Search Engine is also available
-<a href="https://www.nea.gov.sg/recycling-search-engine/" rel="noopener nofollow" target="_blank">here</a>, or check our recycling guide <a href="/files/Recycle Right/Recycling_Guide_v6_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Recycling Search Engine" src="/images/Recycle Right/Recycling_20Search_20Engine.png">
-</div>
+<h2>Recycling Guide</h2>
+<p>Don't feel like chatting? Check our recycling guide <a href="/files/Recycle Right/Recycling_Guide_v6_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
