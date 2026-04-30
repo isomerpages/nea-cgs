@@ -18,5 +18,5 @@ and learn how Wolbachia-infected mosquitoes help reduce dengue transmission
 when released into the community.</p>
 <p>Engage with experts who will share insights and explain the science behind
 dengue prevention strategies.</p>
-<p>Online registration opens on 11 May 2026 at 9AM.</p>
+<p>Online registration opens on 8 May 2026 at 12PM.</p>
 <p><a href="http://www.eventbrite.com/e/behind-the-scenes-of-mosquito-factory-for-the-fight-against-dengue-tickets-1988259991156?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">http://www.eventbrite.com/e/behind-the-scenes-of-mosquito-factory-for-the-fight-against-dengue-tickets-1988259991156?aff=oddtdtcreator</a>aff=oddtdtcreator</p>
