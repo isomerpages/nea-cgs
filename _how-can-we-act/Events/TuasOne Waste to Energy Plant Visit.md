@@ -16,7 +16,7 @@ system. Watch as trucks sort and unload waste at the reception hall, then
 get a first-hand look at how it’s processed before taking the fiery plunge
 into the incinerator.
 <br>
-<br>Online registration opens on 11 May 2026 at 9AM.
+<br>Online registration opens on 8 May 2026 at 12PM.
 <br>
 <br><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/tuasone-waste-to-energy-plant-visit-tickets-1988141930032?aff=oddtdtcreator</a>
 </p>
