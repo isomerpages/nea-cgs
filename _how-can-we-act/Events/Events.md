@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Events
 ---
 <h3>ALL EVENTS</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/events/air-conditioner-recycling-and-eco-tour-at-gain-city/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Air conditioner Recycling and Eco Tour at Gain City" src="/images/How Can We Act/Events/Thumbnail_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Air conditioner Recycling and Eco Tour at Gain City</div><div class="isomer-card-description">Gain City Megastore @ Sungei Kadut  |  6 Jun to 5 Sep, 2PM to 5.30PM </div><div class="isomer-card-link">View Details</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/events/air-conditioner-recycling-and-eco-tour-at-gain-city/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Air conditioner Recycling and Eco Tour at Gain City" src="/images/How Can We Act/Events/Thumbnail_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Air conditioner Recycling and Eco Tour at Gain City</div><div class="isomer-card-description">Gain City Megastore @ Sungei Kadut | 6 Jun to 5 Sep, 2PM to 5.30PM</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-cemetry-operations/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -18,8 +18,7 @@ third_nav_title: Events
 <div class="isomer-card-description">Chua Chu Kang Cemetery | 13 Jun to 12 Dec 2026, 10AM to 12PM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-central-forecast-office/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="behind-the-scenes-central-forecast-office/" src="/images/How Can We Act/Events/central.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-The-Scenes of Central Forecast Office </div><div class="isomer-card-description">Meteorological Service Singapore, 
-Central Forecast Office | 18 Jun to 8 Oct, 10AM to 11.30AM</div><div class="isomer-card-link">View details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-central-forecast-office/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="behind-the-scenes-central-forecast-office/" src="/images/How Can We Act/Events/central.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-The-Scenes of Central Forecast Office</div><div class="isomer-card-description">Meteorological Service Singapore, Central Forecast Office | 18 Jun to 8 Oct, 10AM to 11.30AM</div><div class="isomer-card-link">View details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-hawker-centre-operations/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -31,7 +30,7 @@ Central Forecast Office | 18 Jun to 8 Oct, 10AM to 11.30AM</div><div class="isom
 <div class="isomer-card-description">Geylang Serai Market | 16 May to 21 Nov 2026, 7AM to 9AM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-mosquito-factory-for-the-fight-against-dengue/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Mosquito Factory for the Fight against Dengue" src="/images/How Can We Act/Events/Thumbnail_6.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-The-Scenes of Mosquito Factory for the Fight against Dengue</div><div class="isomer-card-description">NEA Wolbachia mosquito production facility | 27 Jun to 28 Nov 2026, 9AM  to 5.30PM</div><div class="isomer-card-link">View Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-of-mosquito-factory-for-the-fight-against-dengue/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Behind-The-Scenes of Mosquito Factory for the Fight against Dengue" src="/images/How Can We Act/Events/Thumbnail_6.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Behind-The-Scenes of Mosquito Factory for the Fight against Dengue</div><div class="isomer-card-description">NEA Wolbachia mosquito production facility | 27 Jun to 28 Nov 2026, 9AM to 5.30PM</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/blue-ocean-green-actions" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -47,13 +46,25 @@ Central Forecast Office | 18 Jun to 8 Oct, 10AM to 11.30AM</div><div class="isom
 <a rel="noopener noreferrer nofollow" href="/events/eco-paddles-with-ola/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Eco Paddle with Ola" src="/images/How Can We Act/Events/Thumbnail_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Eco Paddle with Ola" src="/images/How Can We Act/Events/ecopaddle.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Eco Paddle with Ola</div>
-<div class="isomer-card-description">Ola Beach Club, Sentosa | 18 May to 7 Dec 2025, 10:00AM - 01:00PM</div>
+<div class="isomer-card-description">Ola Beach Club, Sentosa | 24 May to 15 Nov 2026, 10AM to 12PM</div>
 <div class="isomer-card-link">View Details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/events/e-waste-tour-at-alba-and-virogreen/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="E-Waste Tour at ALBA and Virogreen		&quot;" src="/images/How Can We Act/Events/Thumbnail_13.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">E-Waste Tour at ALBA and Virogreen</div><div class="isomer-card-description">ALBA E-Waste Smart Recycling Pte Ltd/Virogreen Singapore Pte Ltd | 5 Jun to 11 Dec 2026, 1.30PM to 5.00PM</div><div class="isomer-card-link">View details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/grounds-for-change-tour-with-composting-workshop/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Grounds for Change Tour with Composting Workshop" src="/images/How Can We Act/Events/groundsforchange.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Grounds for Change Tour with Composting Workshop</div>
+<div class="isomer-card-description">Ludas Lab | 19 May to 17 Nov 2026, 9.30AM to 12PM</div>
+<div class="isomer-card-link">View details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/events/journey-into-glass-recycling-with-abraclean/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Journey into Glass Recycling with Abraclean" src="/images/How Can We Act/Events/Thumbnail_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Journey into Glass Recycling with Abraclean</div><div class="isomer-card-description">Abraclean (Asia Pacific) Pte Ltd | 14 Jun to 22 Nov 2025, 09:00AM - 05:30PM</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/philips-energy-efficiency-tour/" class="isomer-card">
