@@ -18,6 +18,4 @@ system
 curriculum and grassroots organisations looking to engage their communities
 in sustainability awareness.
 <br>
-<br>Online registration opens in June 2026. Keep a look out!
-<br>
-<br>[To insert link when ready in June]</p>
+<br>Online registration opens in June 2026. Keep a look out!</p>
