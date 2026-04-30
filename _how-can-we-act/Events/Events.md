@@ -66,7 +66,19 @@ third_nav_title: Events
 <div class="isomer-card-description">Ludas Lab | 19 May to 17 Nov 2026, 9.30AM to 12PM</div>
 <div class="isomer-card-link">View details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/journey-into-glass-recycling-with-abraclean/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Journey into Glass Recycling with Abraclean" src="/images/How Can We Act/Events/Thumbnail_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Journey into Glass Recycling with Abraclean</div><div class="isomer-card-description">Abraclean (Asia Pacific) Pte Ltd | 14 Jun to 22 Nov 2025, 09:00AM - 05:30PM</div><div class="isomer-card-link">View Details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/hydroponics-with-ola/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hydroponics with Ola" src="/images/How Can We Act/Events/hydroponics.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hydroponics with Ola</div><div class="isomer-card-description">Ola Beach Club, Sentosa | 9 May to 14 Nov 2026, 2PM to 4PM</div><div class="isomer-card-link">View details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/journey-into-glass-recycling-with-abraclean/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Journey into Glass Recycling with Abraclean" src="/images/How Can We Act/Events/Thumbnail_5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Journey into Glass Recycling with Abraclean</div>
+<div class="isomer-card-description">Abraclean (Asia Pacific) Pte Ltd | 4 Jul to 7 Nov 2026, 9.30AM to 12PM</div>
+<div class="isomer-card-link">View Details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/events/microgreen-planting-with-ola/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Microgreen Planting with Ola" src="/images/How Can We Act/Events/microgreen.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Microgreen Planting with Ola</div><div class="isomer-card-description">Ola Beach Club, Sentosa | 3 May to 14 Nov 2026, 11.30AM TO 1.00PM</div><div class="isomer-card-link">View details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/philips-energy-efficiency-tour/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -75,20 +87,31 @@ third_nav_title: Events
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Philips Energy Efficiency Tour</div>
-<div class="isomer-card-description">Philips Light Lab @ Toa Payoh | 7 Jun to 21 Jun 2025, 10:00 AM - 11:30
-AM&nbsp;</div>
+<div class="isomer-card-description">Philips Light Lab @ Toa Payoh | 10 Jul to 11 Sep 2026, 10AM to 4.30PM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/sk-tes-e-waste-recycling-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SK tes e-waste Recycling Journey" src="/images/How Can We Act/Events/Thumbnail_8.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SK tes e-waste Recycling Journey</div><div class="isomer-card-description">Tes-Amm (Singapore) Pte Ltd | 17 May to 28 Jun 2025, 09:30 AM - 12:00 PM</div><div class="isomer-card-link">View Details</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/events/hydroponics-with-ola/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/events/sentosa-eco-odyssey-tour/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sentosa Eco-Odyssey Tour" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sentosa Eco-Odyssey Tour</div><div class="isomer-card-description">Sentosa | 30 May to 28 Nov 2026, 9.30AM to 12.30PM</div><div class="isomer-card-link">View details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/sk-tes-e-waste-recycling-journey/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hydroponics with Ola" src="/images/How Can We Act/Events/hydroponics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SK tes e-waste Recycling Journey" src="/images/How Can We Act/Events/Thumbnail_8.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Hydroponics with Ola</div>
-<div class="isomer-card-description">Ola Beach Club, Sentosa | 9 May to 14 Nov 2026, 2PM to 4PM</div>
+<div class="isomer-card-title">SK tes e-waste Recycling Journey</div>
+<div class="isomer-card-description">Tes-Amm (Singapore) Pte Ltd | 22 Aug to 14 Nov 2026, 9.30AM to 12PM</div>
+<div class="isomer-card-link">View Details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/events/the-pullman-singapore-orchard-eco-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Pullman Singapore Orchard Eco Journey" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Pullman Singapore Orchard Eco Journey</div><div class="isomer-card-description">Pullman Singapore Orchard | 22 May to 14 Aug 2026, 2PM to 4PM</div><div class="isomer-card-link">View details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/tuas-south-incineration-plant-tour/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tuas South Incineration Plant Tour" src="/images/How Can We Act/Events/tuassouth.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tuas South Incineration Plant Tour</div>
+<div class="isomer-card-description">Tuas South Incineration Plant | 7 Jul to 3 Nov 2026, 1.30PM to 4.30PM</div>
 <div class="isomer-card-link">View details</div>
 </div>
 </a>
