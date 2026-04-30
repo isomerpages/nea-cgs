@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/Grounds for Change Tour with Composting Workshop.md
       - Events/E Waste Tour at ALBA and Virogreen.md
       - Events/Clothes Transformation Workshop with Ola.md
       - Events/Behind The Scenes of Hawker Centre Operations.md
