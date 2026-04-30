@@ -5,17 +5,17 @@ variant: tiptap
 description: Behind-the-Scenes of CCTV Surveillance for High-rise Littering
 third_nav_title: Events
 ---
-<h3>BEHIND-THE-SCENES OF CCTV SURVEILLANCE OF HIGH-RISE LITTERING</h3>
-<p>📆 16 May 2025, 03:00 PM - 04:30 PM&nbsp;
-<br>📍 NEA Western Regional Office</p>
-<p>Ready to discover how cameras are fighting high-rise litter?</p>
-<p>This session dives into the world of surveillance tech, showing you how
-CCTV systems help tackle high-rise littering (who knew cameras could be
-so heroic?). It’s the perfect mix of theory and hands-on demos, giving
-you the full lowdown on how enforcement keeps our city sparkling clean.</p>
-<p>Online registration opens on 12 May 2025 at 10 AM. Don’t miss out - book
-your spot and get the inside scoop on Singapore’s high-tech, litter-busting
-superheroes!</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/behind-the-scenes-of-cctv-surveillance-for-high-rise-littering-tickets-1338127919629?aff=oddtdtcreator</a>
+<h3>Behind-The-Scenes of Central Forecast Office </h3>
+<p>📆 18 Jun to 8 Oct 2026, 10AM to 11.30AM
+<br>📍 Meteorological Service Singapore, Central Forecast Office</p>
+<p>Have you ever wondered where your daily weather forecasts come from or
+what the work of a weather forecaster entails?</p>
+<p>Sign up to visit the Meteorological Service Singapore’s weather forecast
+office at Changi Airport to find out more! Gain knowledge on some of the
+latest weather monitoring systems available at MSS and how our meteorologists
+work round-the-clock to serve the needs of the public, government agencies,
+the aviation community and other specialised users.</p>
+<p>Online registration opens on 11 May 2026 at 9AM.</p>
+<p><a href="http://www.eventbrite.com/e/behind-the-scenes-of-central-forecast-office-tickets-1988259855751?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">http://www.eventbrite.com/e/behind-the-scenes-of-central-forecast-office-tickets-1988259855751?aff=oddtdtcreator</a>
 </p>
 <p></p>
