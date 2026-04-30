@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Events
 ---
 <h3>JOURNEY INTO GLASS RECYCLING WITH ABRACLEAN</h3>
-<p>📆 31 May to 6 Dec 2025, 09:30 AM - 12:00 PM
+<p>📆 4 Jul to 7 Nov, 9.30AM to 12PM
 <br>📍 Abraclean (Asia Pacific) Pte Ltd</p>
 <p>Step into the fascinating world of glass recycling at Abraclean (Asia
 Pacific)! Join us for an exclusive behind-the-scenes tour and witness the
@@ -16,8 +16,6 @@ recycled glass abrasive used for blasting and coating.</p>
 where we help Singapore on its mission to become a zero-waste nation. See
 how Abraclean is turning glass waste into a valuable resource - one bottle
 at a time.</p>
-<p>Online registration opens on 12 May 2025 at 10 AM. Don’t miss your chance
-to be part of the recycling revolution!</p>
-<p><a href="https://www.eventbrite.sg/e/journey-into-glass-recycling-with-abraclean-tickets-643505952627" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/journey-into-glass-recycling-with-abraclean-tickets-643505952627?aff=oddtdtcreator  </a>
+<p>Online registration opens on 11 May 2026 at 9AM.</p>
+<p><a href="https://www.eventbrite.com/e/journey-into-glass-recycling-with-abraclean-tickets-1988258598992?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.com/e/journey-into-glass-recycling-with-abraclean-tickets-1988258598992?aff=oddtdtcreator</a>
 </p>
-<p></p>
