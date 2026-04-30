@@ -20,3 +20,5 @@ protection into everyday spaces. Participants don't just learn about sustainabil
 ecological stress through innovative urban solutions woven into the fabric
 of daily life.</p>
 <p>Online registration opens on 8 May 2026 at 12PM.</p>
+<p><a href="https://luduslab.sg/tours/go-green-sg-grounds-for-change/" class="in-cell-link" rel="noopener noreferrer nofollow" target="_blank">luduslab.sg/tours/go-green-sg-grounds-for-change</a>
+</p>
