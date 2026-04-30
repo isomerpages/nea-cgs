@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/Upcycled Soap Making with Ola.md
       - Events/TuasOne Waste to Energy Plant Visit.md
       - Events/Tuas South Incineration Plant Tour.md
       - Events/The Pullman Singapore Orchard Eco Journey.md
