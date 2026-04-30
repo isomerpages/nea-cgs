@@ -15,5 +15,6 @@ and learn how proper recycling at SK tes helps keep harmful materials out
 of landfills.</p>
 <p>It’s not just recycling – it’s about turning trash into treasure for a
 greener, cleaner future!</p>
-<p>Online registration opens on 11 May 2026 at 9AM.</p>
-<p><a href="http://www.eventbrite.com/e/visit-to-sk-tes-e-waste-recycling-journey-tickets-1988259847727?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">http://www.eventbrite.com/e/visit-to-sk-tes-e-waste-recycling-journey-tickets-1988259847727?aff=oddtdtcreator</a>journey-tickets-1988259847727?aff=oddtdtcreator</p>
+<p>Online registration opens on 1 July 2026 at 9AM.</p>
+<p><a href="http://www.eventbrite.com/e/visit-to-sk-tes-e-waste-recycling-journey-tickets-1988259847727?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">http://www.eventbrite.com/e/visit-to-sk-tes-e-waste-recycling-journey-tickets-1988259847727?aff=oddtdtcreator</a>
+</p>
