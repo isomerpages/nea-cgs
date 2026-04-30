@@ -5,18 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<h3>BEHIND-THE-SCENES OF LITTERING ENFORCEMENT WORKSHOP</h3>
-<p>📆 7 Jun to 28 Jun 2025, 03:00 PM - 04:30 PM
-<br>📍 Environment Building</p>
-<p>Join us for a "litter-ally" awesome workshop with our NEA enforcement
-officers, who help keep our environment clean, for everyone to enjoy!</p>
-<p>In this hands-on session, you’ll get the inside scoop on how these everyday
-heroes tackle antisocial behaviour, one litterbug at a time. It’s not just
-a workshop - it’s an opportunity to see what it takes to be a frontline
-officer responsible for making sure everyone does their part to make Singapore’s
-spaces shine.</p>
-<p>Registration opens online on 12 May 2025 at 10 AM. Don’t miss your chance
-- it’s going to be a clean sweep!</p>
-<p><a href="https://www.eventbrite.sg/e/behind-the-scenes-of-littering-enforcement-workshop-tickets-909432516137" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/behind-the-scenes-of-littering-enforcement-workshop-tickets-909432516137</a>
+<h3>Behind-The-Scenes of Cemetery Operations</h3>
+<p>📆 13 Jun to 12 Dec 2026, 10AM to 12PM
+<br>📍 Chua Chu Kang Cemetery</p>
+<p>Step behind the scenes and explore Singapore’s cemetery and columbarium
+services.</p>
+<p>This unique tour offers a thoughtful look into the design and purpose
+behind these memorial spaces. Discover how these peaceful, accessible locations
+are thoughtfully planned to provide a place for remembrance while addressing
+land scarcity concerns.</p>
+<p>Online registration opens on 11 May 2026 at 9AM.</p>
+<p><a href="http://www.eventbrite.com/e/behind-the-scenes-of-cemetery-operations-tickets-1988141386406?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">http://www.eventbrite.com/e/behind-the-scenes-of-cemetery-operations-tickets-1988141386406?aff=oddtdtcreator</a>
 </p>
-<p></p>
