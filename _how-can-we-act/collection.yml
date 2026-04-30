@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/Clothes Transformation Workshop with Ola.md
       - Events/Behind The Scenes of Hawker Centre Operations.md
       - Events/.keep
       - Events/Events.md
