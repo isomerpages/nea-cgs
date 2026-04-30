@@ -16,6 +16,6 @@ recycled glass abrasive used for blasting and coating.</p>
 where we help Singapore on its mission to become a zero-waste nation. See
 how Abraclean is turning glass waste into a valuable resource - one bottle
 at a time.</p>
-<p>Online registration opens on 11 May 2026 at 9AM.</p>
+<p>Online registration opens on 1 June 2026 at 9AM.</p>
 <p><a href="https://www.eventbrite.com/e/journey-into-glass-recycling-with-abraclean-tickets-1988258598992?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.com/e/journey-into-glass-recycling-with-abraclean-tickets-1988258598992?aff=oddtdtcreator</a>
 </p>
