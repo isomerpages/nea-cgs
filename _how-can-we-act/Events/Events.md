@@ -117,7 +117,7 @@ third_nav_title: Events
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/events/tuasone-waste-to-energy-plant-visit/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TuasOne Waste-to-Energy Plant Visit" src="/images/How Can We Act/Events/tuasone.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TuasOne Waste-to-Energy Plant Visit</div><div class="isomer-card-description">TuasOne Waste-To-Energy Plant | 22 May to 27 Nov 2026,  1.30PM to 4.30PM</div><div class="isomer-card-link">View details</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/events/tuasone-waste-to-energy-plant-visit/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TuasOne Waste-to-Energy Plant Visit" src="/images/How Can We Act/Events/tuasone.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TuasOne Waste-to-Energy Plant Visit</div><div class="isomer-card-description">TuasOne Waste-To-Energy Plant | 22 May to 27 Nov 2026, 1.30PM to 4.30PM</div><div class="isomer-card-link">View details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/upcycled-soap-making-with-ola/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -130,5 +130,17 @@ third_nav_title: Events
 <div class="isomer-card-link">View details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/events/urban-sustainability-bike-tour/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Urban Sustainability Bike Tour" src="/images/How Can We Act/Events/urban_sustainability.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Urban Sustainability Bike Tour</div><div class="isomer-card-description">Telok Ayer MRT Station Exit A (Start Point) | 30 May to 28 Nov 2026, 5PM to 7.30PM</div><div class="isomer-card-link">View details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/clothes-transformation-workshop-with-ola/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Clothes Transformation Workshop with Ola" src="/images/How Can We Act/Events/clothestransformation.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Clothes Transformation Workshop with Ola</div>
+<div class="isomer-card-description">Ola Beach Club, Sentosa | 2 May to 14 Nov 2026, 2PM to 3.30PM</div>
+<div class="isomer-card-link">View details</div>
+</div>
+</a>
 </div>
 <p></p>
