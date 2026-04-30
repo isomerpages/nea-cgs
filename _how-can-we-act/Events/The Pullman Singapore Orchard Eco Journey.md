@@ -19,7 +19,7 @@ waste management to hydroponics and back-of-house practices.
 <br>More than a tour, it’s a story of how small actions can create meaningful
 impact—empowering guests to be part of a more sustainable future.
 <br>
-<br>Online registration opens on 11 May 2026 at 9AM.
+<br>Online registration opens on 8 May 2026 at 12PM.
 <br>
 <br><a href="https://www.eventbrite.com/e/the-pullman-singapore-orchard-eco-journey-tickets-1988260186741?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.com/e/the-pullman-singapore-orchard-eco-journey-tickets-1988260186741?aff=oddtdtcreator</a>
 </p>
