@@ -18,7 +18,7 @@ waters. A short land-based saftey and paddling briefing will be conducted
 before the session starts.</p>
 <p>This experience offers a meaningful opportunity to connect with nature
 while contributing directly to the preservation of our coastal environment.</p>
-<p>Online registration opens on 11 May 2026 at 9AM.</p>
+<p>Online registration opens on 8 May 2026 at 12PM.</p>
 <p><a href="http://www.eventbrite.sg/e/ola-beach-club-eco-paddle-tickets-1979295244357?aff=erellivmlt" rel="noopener noreferrer nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-eco-paddle-tickets-1979295244357?aff=erellivmlt</a>
 </p>
 <p></p>
