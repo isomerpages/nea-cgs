@@ -39,7 +39,7 @@ solar energy systems, and composting practices. Participants will gain
 valuable insights into sustainable operations and be inspired to play a
 part in building a greener and more sustainable future.</p>
 <p></p>
-<p>Online registration opens on 11 May 2026 at 9AM.</p>
+<p>Online registration opens on 8 May 2026 at 12PM.</p>
 </td>
 </tr>
 </tbody>
