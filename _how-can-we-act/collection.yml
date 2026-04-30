@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/Urban Sustainability Bike Tour.md
       - Events/Upcycled Soap Making with Ola.md
       - Events/TuasOne Waste to Energy Plant Visit.md
       - Events/Tuas South Incineration Plant Tour.md
