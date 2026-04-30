@@ -5,16 +5,18 @@ variant: tiptap
 description: Behind-The-Scenes of Mosquito Factory for the Fight against Dengue
 third_nav_title: Events
 ---
-<h3>BEHIND-THE-SCENES OF MOSQUITO FACTORY FOR THE FIGHT AGAINST DENGUE </h3>
-<p>📆 14 Jun to 22 Nov 2025, 09:00 AM - 05:30 PM&nbsp;
+<h3>BEHIND-THE-SCENES OF MOSQUITO FACTORY FOR THE FIGHT AGAINST DENGUE</h3>
+<p>📆 27 Jun to 28 Nov 2025, 9AM to 5.30PM&nbsp;
 <br>📍 NEA Wolbachia mosquito production facility</p>
-<p>Join us at NEA’s Mosquito Production Facility and discover how special
-male mosquitoes are bred to help reduce dengue cases in our neighbourhoods
-(don’t worry, they’re the heroes of the story!).</p>
-<p>Tour the breeding rooms and learn how these tiny warriors are prepared
-before being released to help keep our loved ones safer.</p>
-<p>Online registration opens on 12 May 2025 at 10 AM. Don’t miss out – come
-see how we’re buzzing towards a dengue-free Singapore!</p>
-<p><a href="https://www.eventbrite.sg/e/fighting-mosquitoes-with-mosquitoes-an-inside-look-at-project-wolbachia-tickets-643615299687?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/fighting-mosquitoes-with-mosquitoes-an-inside-look-at-project-wolbachia-tickets-643615299687?aff=oddtdtcreator</a> 
-</p>
-<p></p>
+<p>Afraid of mosquito bites? Find out how Singapore mass produces mosquitoes
+to fight dengue through Project Wolbachia.</p>
+<p>This tour offers a unique glimpse into how cutting-edge research is protecting
+public health in Singapore. Discover how specially engineered mosquitoes
+are being used to combat dengue on this guided tour of the Environmental
+Health Institute's mosquito factory. See the breeding facilities up close
+and learn how Wolbachia-infected mosquitoes help reduce dengue transmission
+when released into the community.</p>
+<p>Engage with experts who will share insights and explain the science behind
+dengue prevention strategies.</p>
+<p>Online registration opens on 8 May 2026 at 12PM.</p>
+<p><a href="http://www.eventbrite.com/e/behind-the-scenes-of-mosquito-factory-for-the-fight-against-dengue-tickets-1988259991156?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">http://www.eventbrite.com/e/behind-the-scenes-of-mosquito-factory-for-the-fight-against-dengue-tickets-1988259991156?aff=oddtdtcreator</a>aff=oddtdtcreator</p>

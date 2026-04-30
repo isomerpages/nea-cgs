@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Events
 ---
 <h3>AIR CONDITIONER RECYCLING AND ECO TOUR AT GAIN CITY</h3>
-<p>📆 17 May to 6 Dec 2025, 02:00 PM - 05:30 PM
+<p>📆 6 Jun to 5 Sep, 2PM to 5.30PM
 <br>📍 Gain City Megastore @ Sungei Kadut
 <br>
 </p>
@@ -17,18 +17,29 @@ third_nav_title: Events
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Come join us on a behind-the-scenes tour at Gain City Megastore’s air-conditioner
-refurbishment facility - one of only two approved centres in Singapore!
-See how used ACs get a second life while learning about sustainable practices
-that help keep Singapore green.
-<br>
-<br>Put your eco-brain to the test with interactive missions, from sorting
-recyclables to optimising solar panel placement and making smart energy-saving
-choices with air conditioners. Plus, earn cool rewards as you level up
-your knowledge on sustainable living!
-<br>
-<br>Registration opens online on 12 May 2025 at 10 AM. Don’t miss your chance
-- let’s chill and save the planet together!</p>
+<p>Join us for a guided sustainability tour of Gain City’s Sungei Kadut megastore,
+where you will get an inside look at the company’s environmental initiatives
+and operations.</p>
+<p></p>
+<p>Founded in 1981, Gain City has been committed to enhancing customers’
+lifestyles while championing environmental sustainability through a range
+of initiatives. In support of national efforts, recycling bins have been
+placed across all showrooms, alongside active participation in responsible
+e-waste disposal.</p>
+<p></p>
+<p>As one of only two designated air-conditioner recyclers under the National
+Environment Agency’s (NEA) Extended Producer Responsibility (EPR) scheme,
+Gain City adopts an environmentally responsible recycling process, recovering
+over 90% of components such as copper, aluminium, iron, plastics, and refrigerant
+gases for reuse.</p>
+<p></p>
+<p>During the tour, participants will explore these efforts firsthand, along
+with other green initiatives at the megastore, including a food waste processor,
+solar energy systems, and composting practices. Participants will gain
+valuable insights into sustainable operations and be inspired to play a
+part in building a greener and more sustainable future.</p>
+<p></p>
+<p>Online registration opens on 8 May 2026 at 12PM.</p>
 </td>
 </tr>
 </tbody>
@@ -40,7 +51,7 @@ your knowledge on sustainable living!
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.eventbrite.sg/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-909407130207?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-909407130207?aff=oddtdtcreator</a>
+<p><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-1988260016231?aff=oddtdtcreator</a>
 </p>
 </td>
 </tr>
