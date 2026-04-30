@@ -19,5 +19,4 @@ protection into everyday spaces. Participants don't just learn about sustainabil
 — they experience how Singapore is preparing for climate disruption and
 ecological stress through innovative urban solutions woven into the fabric
 of daily life.</p>
-<p>Online registration opens on 11 May 2026 at 9AM. <a href="https://luduslab.sg/tours/go-green-sg-grounds-for-change/" rel="noopener nofollow" target="_blank">https://luduslab.sg/tours/go-green-sg-grounds-for-change/</a>
-</p>
+<p>Online registration opens on 8 May 2026 at 12PM.</p>
