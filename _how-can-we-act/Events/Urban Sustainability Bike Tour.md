@@ -18,7 +18,7 @@ and collective community action.
 adaptation strategies, track your own carbon footprint, and learn how individual
 actions contribute to our nation's green future.
 <br>
-<br>Online registration opens on 11 May 2026 at 9AM.
+<br>Online registration opens on 8 May 2026 at 12PM.
 <br>
 <br><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/urban-sustainability-bike-tour-tickets-1988143014275?aff=oddtdtcreator</a>
 </p>
