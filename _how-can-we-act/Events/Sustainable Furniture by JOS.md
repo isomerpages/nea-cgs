@@ -12,27 +12,23 @@ third_nav_title: Events
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h3>Sustainable Furniture by JOS</h3>
+<h2>Children's Season 2026</h2>
 </td>
 </tr>
 </tbody>
 </table>
-<p>📆 21 Jun to 15 Nov 2025, 10:00 AM - 11:30 AM&nbsp;
-<br>📍 JOS &amp; Sunon Showroom &amp; Experience Center</p>
-<p>Join us for a tour at JOS Furnitures and discover how sustainable office
-solutions are changing the game. Learn how to reduce your office’s carbon
-footprint while upgrading your workspace to something that looks as good
-as it feels!</p>
-<p>See how JOS repurposes and upcycles materials to create ergonomic furniture
-that’s not only comfy but also kind to the environment. From eco-friendly
-materials to super-sustainable manufacturing processes, you’ll be amazed
-at how much thought goes into making your desk chair a planet-saver.</p>
-<p>Online registration opens on 12 May 2025 at 10 AM. Don’t miss out - it’s
-time to work smarter, not just harder, for the planet!</p>
-<p><a href="https://www.eventbrite.sg/e/sustainable-furniture-by-jos-tickets-1338128130259?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.sg/e/sustainable-furniture-by-jos-tickets-1338128130259?aff=oddtdtcreator</a>
-</p>
+<p>📆 30 May to 28 June 2026, 10AM to 8PM&nbsp;
+<br>📍 Various locations</p>
+<p>Calling all families with children aged 12 and under! Join us at Children’s
+Season 2026 for an exciting line-up of fun-filled activities that spark
+wonder and curiosity, while nurturing a love for the environment.</p>
+<p>Organised by Children’s Museum Singapore, with support from the National
+Heritage Board and the Museum Roundtable, this year’s festival invites
+young ones to discover how small actions can make a big difference through
+sustainable living.</p>
+<p>Look forward to environmental-themed performances, hands-on activities,
+parent-child workshops, and a lively weekend carnival in celebration of
+the International Day of Play.</p>
+<p>Be part of Children’s Season 2026 — a festival specially designed for
+children to play, learn, and grow together.</p>
+<p>For more details, please visit <a href="https://www.heritage.sg/childrensmuseum/whatson/childrens-season---listing-page" rel="noopener nofollow" target="_blank">https://www.heritage.sg/childrensmuseum/whatson/childrens-season---listing-page</a>season---listing-page</p>
