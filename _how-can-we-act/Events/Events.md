@@ -90,7 +90,7 @@ third_nav_title: Events
 <div class="isomer-card-description">Philips Light Lab @ Toa Payoh | 10 Jul to 11 Sep 2026, 10AM to 4.30PM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/sentosa-eco-odyssey-tour/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sentosa Eco-Odyssey Tour" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sentosa Eco-Odyssey Tour</div><div class="isomer-card-description">Sentosa | 30 May to 28 Nov 2026, 9.30AM to 12.30PM</div><div class="isomer-card-link">View details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/sentosa-eco-odyssey-tour/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sentosa Eco-Odyssey Tour" src="/images/How Can We Act/Events/sentosaeco.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sentosa Eco-Odyssey Tour</div><div class="isomer-card-description">Sentosa | 30 May to 28 Nov 2026, 9.30AM to 12.30PM</div><div class="isomer-card-link">View details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/sk-tes-e-waste-recycling-journey/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -102,7 +102,7 @@ third_nav_title: Events
 <div class="isomer-card-description">Tes-Amm (Singapore) Pte Ltd | 22 Aug to 14 Nov 2026, 9.30AM to 12PM</div>
 <div class="isomer-card-link">View Details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/the-pullman-singapore-orchard-eco-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Pullman Singapore Orchard Eco Journey" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Pullman Singapore Orchard Eco Journey</div><div class="isomer-card-description">Pullman Singapore Orchard | 22 May to 14 Aug 2026, 2PM to 4PM</div><div class="isomer-card-link">View details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/the-pullman-singapore-orchard-eco-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Pullman Singapore Orchard Eco Journey" src="/images/How Can We Act/Events/pulman.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Pullman Singapore Orchard Eco Journey</div><div class="isomer-card-description">Pullman Singapore Orchard | 22 May to 14 Aug 2026, 2PM to 4PM</div><div class="isomer-card-link">View details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/tuas-south-incineration-plant-tour/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
