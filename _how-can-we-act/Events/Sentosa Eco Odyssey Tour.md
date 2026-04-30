@@ -23,7 +23,7 @@ public space.
 reforestation projects contribute to Sentosa’s green vision, providing
 both educational insights and inspiration for sustainable living.
 <br>
-<br>Online registration opens on 11 May 2026 at 9AM.
+<br>Online registration opens on 8 May 2026 at 12PM.
 <br>
 <br><a href="https://www.eventbrite.com/e/sentosa-eco-odyssey-tour-tickets-1988260114525?aff=oddtdtcreator" rel="noopener noreferrer nofollow" target="_blank">https://www.eventbrite.com/e/sentosa-eco-odyssey-tour-tickets-1988260114525?aff=oddtdtcreator</a>
 </p>
