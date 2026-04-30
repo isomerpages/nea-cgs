@@ -80,5 +80,17 @@ AM&nbsp;</div>
 <div class="isomer-card-link">View Details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/events/sk-tes-e-waste-recycling-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SK tes e-waste Recycling Journey" src="/images/How Can We Act/Events/Thumbnail_8.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SK tes e-waste Recycling Journey</div><div class="isomer-card-description">Tes-Amm (Singapore) Pte Ltd | 17 May to 28 Jun 2025, 09:30 AM - 12:00 PM</div><div class="isomer-card-link">View Details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/hydroponics-with-ola/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hydroponics with Ola" src="/images/How Can We Act/Events/hydroponics.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Hydroponics with Ola</div>
+<div class="isomer-card-description">Ola Beach Club, Sentosa | 9 May to 14 Nov 2026, 2PM to 4PM</div>
+<div class="isomer-card-link">View details</div>
+</div>
+</a>
 </div>
 <p></p>
