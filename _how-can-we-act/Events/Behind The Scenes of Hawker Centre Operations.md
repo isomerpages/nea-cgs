@@ -16,6 +16,6 @@ the exhilarating peak-hour rush (it’s like an art form, really). Plus,
 learn how NEA officers help keep these iconic spots running smoothly, from
 ensuring hygiene to maintaining the spaces that make hawker centers a national
 treasure.</p>
-<p><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/behind-the-scenes-of-hawker-centre-operations-tickets-1988141151704?aff=oddtdtcreator</a>
+<p><a href="https://www.eventbrite.sg/e/behind-the-scenes-of-hawker-centre-operations-tickets-1988141151704?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/behind-the-scenes-of-hawker-centre-operations-tickets-1988141151704?aff=oddtdtcreator</a>
 </p>
 <p></p>

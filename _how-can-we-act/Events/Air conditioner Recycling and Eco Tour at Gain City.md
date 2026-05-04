@@ -51,8 +51,13 @@ part in building a greener and more sustainable future.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-1988260016231?aff=oddtdtcreator</a>
+<p><a href="https://www.eventbrite.com/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-1988260016231?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/air-conditioner-recycling-and-eco-tour-at-gain-city-tickets-1988260016231?aff=oddtdtcreator</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

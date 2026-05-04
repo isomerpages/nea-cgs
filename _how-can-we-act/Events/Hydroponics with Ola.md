@@ -16,5 +16,5 @@ greens from scratch in this hydroponics workshop.
 <br>🌱 Hands on experience on harvesting
 <br>🥗 Experience Farm-to-Table journey
 <br>
-<br><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-hydroponics-workshop-tickets-1986408955659?aff=ebdsoporgprofile</a>
+<br><a href="https://www.eventbrite.sg/e/ola-beach-club-hydroponics-workshop-tickets-1986408955659?aff=ebdsoporgprofile" rel="noopener nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-hydroponics-workshop-tickets-1986408955659?aff=ebdsoporgprofile</a>
 </p>

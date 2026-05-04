@@ -20,5 +20,5 @@ actions contribute to our nation's green future.
 <br>
 <br>Online registration opens on 8 May 2026 at 12PM.
 <br>
-<br><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/urban-sustainability-bike-tour-tickets-1988143014275?aff=oddtdtcreator</a>
+<br><a href="https://www.eventbrite.sg/e/urban-sustainability-bike-tour-tickets-1988143014275?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/urban-sustainability-bike-tour-tickets-1988143014275?aff=oddtdtcreator</a>
 </p>

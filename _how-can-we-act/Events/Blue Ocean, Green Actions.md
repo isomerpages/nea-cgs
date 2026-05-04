@@ -15,7 +15,7 @@ oceanarium. You’ll hear powerful real-life stories, explore sustainable
 solutions, and walk away with the tools to become an Ocean Guardian – starting
 now.</p>
 <p>Online registration opens on 1 June 2026 at 9AM. .</p>
-<p><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/blue-ocean-green-actions-tickets-1988449271298?aff=oddtdtcreator</a>
+<p><a href="https://www.eventbrite.com/e/blue-ocean-green-actions-tickets-1988449271298?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/blue-ocean-green-actions-tickets-1988449271298?aff=oddtdtcreator</a>
 </p>
 <p></p>
 <p>Spots are limited – don't miss the wave!</p>
