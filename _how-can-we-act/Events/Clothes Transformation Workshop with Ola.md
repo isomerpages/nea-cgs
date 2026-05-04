@@ -13,5 +13,5 @@ pieces crafted from old clothes, all Hawaiian-themed!</p>
 <p>Bring your old clothes back to life with a creative twist!</p>
 <p>Turn them into bold new looks or trendy handmade bags.</p>
 <p>Show off your style while giving your wardrobe a fresh, sustainable upgrade.</p>
-<p><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-clothes-transformation-workshop-tickets-1983835668889?</a>
+<p><a href="https://www.eventbrite.sg/e/ola-beach-club-clothes-transformation-workshop-tickets-1983835668889?" rel="noopener nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-clothes-transformation-workshop-tickets-1983835668889?</a>
 </p>
