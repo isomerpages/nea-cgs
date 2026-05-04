@@ -16,6 +16,6 @@ for every Singapore home, from HDB flats to landed properties.</p>
 lighting, automation possibilities, and how seamlessly smart lighting integrates
 with home platforms to make your space smarter, brighter, and more sustainable.</p>
 <p>Online registration opens on 1 June 2026 at 9AM.</p>
-<p><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/philips-energy-efficiency-tour-tickets-1988260036291?aff=oddtdtcreator</a>
+<p><a href="https://www.eventbrite.com/e/philips-energy-efficiency-tour-tickets-1988260036291?aff=oddtdtcreator" rel="noopener nofollow" target="_blank">www.eventbrite.com/e/philips-energy-efficiency-tour-tickets-1988260036291?aff=oddtdtcreator</a>
 </p>
 <p></p>
