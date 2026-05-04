@@ -17,5 +17,5 @@ bring them home to observe their growth, and later harvest them to add
 to your own meals.</p>
 <p>Participants will get to enjoy a small salad bowl to learn how microgreens
 can be used in healthy recipes.</p>
-<p><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-microgreen-planting-workshop-tickets-1976561261942?aff=ebdsoporgprofile</a>
+<p><a href="https://www.eventbrite.sg/e/ola-beach-club-microgreen-planting-workshop-tickets-1976561261942?aff=ebdsoporgprofile" rel="noopener nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-microgreen-planting-workshop-tickets-1976561261942?aff=ebdsoporgprofile</a>
 </p>
