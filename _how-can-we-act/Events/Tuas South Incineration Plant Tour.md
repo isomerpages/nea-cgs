@@ -18,4 +18,5 @@ system
 curriculum and grassroots organisations looking to engage their communities
 in sustainability awareness.
 <br>
-<br>Online registration opens in June 2026. Keep a look out!</p>
+<br>Online registration opens in June 2026. Keep a look out! <a href="https://luduslab.sg/tours/tuas-incineration-plant-tour-singapore/?adults&amp;children&amp;infant" rel="noopener noreferrer nofollow" target="_blank">Tuas South Incineration Plant Tour | Ludus Lab</a>
+</p>
