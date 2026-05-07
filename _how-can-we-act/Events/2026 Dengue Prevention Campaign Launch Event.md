@@ -9,7 +9,7 @@ third_nav_title: Events
 </p>
 <p>📅 Saturday, 16 May 2026&nbsp;</p>
 <p>⏰ 10.30am – 5.30pm&nbsp;</p>
-<p>📍 Tampines Regional Library, Our Tampines Hub&nbsp;</p>
+<p>📍 Tampines Regional Library, Our Tampines Hub, Terrace on Level 5&nbsp;</p>
 <hr>
 <p>Dengue is no small matter. With rising temperatures accelerating mosquito
 breeding cycles, protecting our homes and community has never been more
