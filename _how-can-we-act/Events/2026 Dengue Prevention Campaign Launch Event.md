@@ -70,7 +70,6 @@ against dengue.</p>
 <hr>
 <p>Admission is free. All are welcome and feel free to bring your family
 and friends along!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Event_Poster_R1.png">
 </div>
