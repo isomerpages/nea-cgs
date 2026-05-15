@@ -22,7 +22,9 @@ of dengue.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="576" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/quIPrNwnX94"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <h3>Dengue Survivor Stories | Qiqi, 41</h3>
@@ -37,7 +39,9 @@ peeling very badly.”<strong>"</strong>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="576" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/H-KOnOQ8p-M"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <h3>Dengue Survivor Stories | Halim, 50</h3>
@@ -51,7 +55,9 @@ I was too weak to stand.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="576" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/eVSop3E_QUQ"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <h3>Dengue Survivor Stories | Mei, 25</h3>
@@ -65,7 +71,9 @@ or my muscles. Nothing you did could stop it.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="576" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-oeXeyW1BS4"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <h3>Dengue Survivor Stories | Brandon, 28</h3>
@@ -77,7 +85,9 @@ to the ICU.”</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="576" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MqEB-riYlws"></iframe>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <h3>Dengue Survivor Stories | Gary, 45</h3>
