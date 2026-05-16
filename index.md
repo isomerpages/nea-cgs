@@ -14,7 +14,7 @@ sections:
       title: Dengue Prevention is in Your Hands
       background: /images/Block Dengue/CnG_Website_Banner_1200x630_2026.jpg
       button: Find out more
-      url: https://www.cgs.gov.sg/sayyes/whatyoucando/
+      url: https://www.cgs.gov.sg/blockdengue/home/
       key_highlights:
         - title: Recycle Right
           description: Check, Clean and Recycle
