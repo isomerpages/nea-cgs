@@ -32,7 +32,7 @@ can speak volumes. So, let’s keep choosing reusables and saying YES to
 waste less together!</p>
 <p>Watch our #SayYEStoWasteLess music video here:</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UjlT5GsxNno"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UjlT5GsxNno"></iframe>
 </div>
 <p>Listen to the full song on <a href="https://soundcloud.com/user-993449382/sayyestowasteless" rel="noopener noreferrer nofollow" target="_blank">SoundCloud</a> or
 <a href="https://open.spotify.com/album/6InLAUqy70Clxi9719kkor" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>.</p>
@@ -103,7 +103,7 @@ when it's hard to find the right words.</p>
 <p>This short film is a reminder that food is love, and we should not waste
 it.</p>
 <div class="iframe-wrapper">
-<iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JOGNLNFc8ys"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JOGNLNFc8ys"></iframe>
 </div>
 <hr>
 <h2>Reducing Disposables</h2>

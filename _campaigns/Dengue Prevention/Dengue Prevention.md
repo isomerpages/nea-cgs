@@ -6,12 +6,11 @@ description: Dengue Prevention - B-L-O-C-K Dengue Today
 third_nav_title: Dengue Prevention
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/2025_Dengue_KV_A4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Block Dengue/Dengue_KV_A4.jpg">
 </div>
-<h3>This is No Small Matter. Dengue Prevention is in Your Hands.</h3>
-<p>Remember "little mosquitoes can be lethal"? It is easy to underestimate
-something small like the <em>Aedes</em> mosquito, but the severe consequences
-it can bring to our health are <strong>no small matter</strong>.</p>
+<h3>This is No Small Matter. Dengue Prevention is in Our Hands.</h3>
+<p>It is easy to underestimate something small like the <em>Aedes</em> mosquito,
+but the severe consequences it can bring to our health are <strong>no small matter</strong>.</p>
 <p>This year's tagline, "This is No Small Matter," reinforces this crucial
 point. It reminds us that both the seemingly insignificant mosquito and
 the serious disease it carries demand our full attention and proactive
@@ -25,14 +24,18 @@ me" is a risk we cannot afford. This disease can impact your family, your
 neighbours, and the entire community.</p>
 </li>
 <li>
-<p><strong>The risk is real and present.</strong> With warm weather and high
-Aedes mosquito population, the threat of dengue is constant. Ignoring potential
-breeding spots or skipping preventive measures can have real consequences.</p>
+<p><strong>The risk is real and present.</strong>&nbsp;With warm weather
+and changing climate patterns creating ideal breeding conditions, the <em>Aedes</em> mosquito
+population remains high and the threat of dengue is constant. Ignoring
+potential breeding spots or skipping preventive measures can have real
+consequences.</p>
 </li>
 <li>
-<p><strong>Severe dengue can be fatal.</strong> It can lead to serious complications,
-hospitalisation, and even be life-threatening. Visit the <a href="https://www.moh.gov.sg/seeking-healthcare/overview-of-diseases/communicable-diseases/dengue" rel="noopener nofollow" target="_blank">Ministry of Health’s website</a> for
-information on symptoms, potential complications, and treatment of dengue.</p>
+<p><strong>Severe dengue can be fatal.</strong>&nbsp;It can lead to serious
+complications, hospitalisation, and even be life-threatening. Visit the
+<a href="https://www.cda.gov.sg/professionals/diseases/dengue-fever/" rel="noopener noreferrer nofollow" target="_blank"><u>Communicable Diseases Agency Singapore's website</u>
+</a>for information on symptoms, potential complications, and treatment of
+dengue.</p>
 </li>
 <li>
 <p><strong>Dengue can spread from person to mosquito to person.</strong> A
@@ -46,8 +49,8 @@ while biting a healthy person.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Remove stagnant water in your home.</strong> Mosquitoes can breed
-in stagnant water the size of a 20-cent coin. Prevent mosquito breeding
-and safeguard your home with B-L-O-C-K.</p>
+in small pools of stagnant water. Prevent mosquito breeding and safeguard
+your home with the B-L-O-C-K steps.</p>
 </li>
 <li>
 <p><strong>Break dengue transmission.</strong> Check if you live in a <a href="https://www.nea.gov.sg/dengue-zika/dengue/dengue-clusters" rel="noopener nofollow" target="_blank">dengue cluster area</a> or
@@ -66,10 +69,10 @@ Every report helps us to keep our community safe from dengue.</p>
 </li>
 </ul>
 <p><strong>Our collective effort makes a big difference.</strong> Every action,
-no matter how small it seems, contributes to reducing the risk and impact
-of dengue in Singapore.</p>
+no matter how small it seems, contributes to keeping mosquito breeding
+low and reducing the impact of dengue in Singapore.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="400px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6hrejE-FTIw?si=FjeOKtRpkS2a89Oo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6hrejE-FTIw?si=FjeOKtRpkS2a89Oo"></iframe>
 </div>
 <p></p>

@@ -11,8 +11,8 @@ notification: "[ALERT] Govt officials will NEVER ask you to transfer money or
   Helpline at 1799 to check if something is a scam."
 sections:
   - hero:
-      title: Every Point-of-Purchase is a Point to Waste Less
-      background: /images/Say YES to Waste Less/NEA_SYTWL_Mastheads_Website_V2R4_jpg.jpg
+      title: Dengue Prevention is in Your Hands
+      background: /images/Block Dengue/CnG_Website_Banner_1200x630_2026.jpg
       button: Find out more
       url: https://www.cgs.gov.sg/sayyes/whatyoucando/
       key_highlights:
@@ -22,15 +22,14 @@ sections:
         - title: Volunteer With Us
           description: Sign up as a volunteer with us
           url: /how-can-we-act/volunteer/home/
-        - title: Dengue Prevention
-          description: This is no small matter
-          url: https://www.cgs.gov.sg/blockdengue/home/
+        - title: Say YES to Waste Less
+          description: Small actions, big impact
+          url: https://www.cgs.gov.sg/sayyes/whatyoucando/
       variant: floating
       size: sm
       backgroundColor: white
       alignment: right
-      subtitle: Making small changes to your daily routine can have a big impact on
-        the environment and even save you money!
+      subtitle: Safeguard your home with B-L-O-C-K
   - infocols:
       title: Clean & Green Singapore (CGS)
       subtitle: About
