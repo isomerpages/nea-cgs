@@ -144,6 +144,6 @@ third_nav_title: Events
 <div class="isomer-card-description">Ola Beach Club, Sentosa | 2 May to 14 Nov 2026, 2PM to 3.30PM</div>
 <div class="isomer-card-link">View details</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/events/kindnessday" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kindness Day SG 2026" src="/images/How Can We Act/How Can We Act/PR_eDM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kindness Day SG </div><div class="isomer-card-description">Multiple venues | 23 May 2026, 10AM to 6PM</div><div class="isomer-card-link">View details</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/events/kindnessday" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kindness Day SG 2026" src="/images/How Can We Act/How Can We Act/PR_eDM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kindness Day SG</div><div class="isomer-card-description">Multiple venues | 23 May 2026, 10AM to 6PM</div><div class="isomer-card-link">View details</div></div></a>
 </div>
 <p></p>
