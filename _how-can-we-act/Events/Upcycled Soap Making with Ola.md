@@ -23,7 +23,7 @@ soap pieces into new custom soaps. Along the way, they’ll explore color
 blending, scent layering, and simple design techniques, creating unique
 bars to take home.
 <br>
-<br><a href="" rel="noopener nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-upcycled-soap-making-tickets-1978869979378?aff=ebdsoporgprofile</a>
+<br><a href="https://www.eventbrite.sg/e/ola-beach-club-upcycled-soap-making-tickets-1978869979378?aff=ebdsoporgprofile" rel="noopener nofollow" target="_blank">www.eventbrite.sg/e/ola-beach-club-upcycled-soap-making-tickets-1978869979378?aff=ebdsoporgprofile</a>
 <br>
 <br>
 </p>
