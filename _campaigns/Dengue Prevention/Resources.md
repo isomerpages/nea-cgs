@@ -25,19 +25,19 @@ third_nav_title: Dengue Prevention
 <div data-type="detailsContent" class="isomer-details-content">
 <p>2025 Dengue Prevention Campaign Video (English)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6hrejE-FTIw?si=n_uH5IAprQChDbNK"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6hrejE-FTIw?si=n_uH5IAprQChDbNK"></iframe>
 </div>
 <p>2025 Dengue Prevention Campaign Video (Malay)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WJ-t8TskOKw?si=0Su4LRPSiPXvGVq4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WJ-t8TskOKw?si=0Su4LRPSiPXvGVq4"></iframe>
 </div>
 <p>2025 Dengue Prevention Campaign Video (Chinese)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iF-tPpAckaE?si=I7qXbI2oMs1CLMbF"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iF-tPpAckaE?si=I7qXbI2oMs1CLMbF"></iframe>
 </div>
 <p>2025 Dengue Prevention Campaign Video (Tamil)</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P_6zorfUKus?si=cT-lJ_qnQ0EFDCjq"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P_6zorfUKus?si=cT-lJ_qnQ0EFDCjq"></iframe>
 </div>
 </div>
 </details>
@@ -49,32 +49,32 @@ third_nav_title: Dengue Prevention
 <p><strong>English (Gary)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QCz2VVVRj3s"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QCz2VVVRj3s"></iframe>
 </div>
 <p><strong>English (Shima)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/46xD-391ghc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/46xD-391ghc"></iframe>
 </div>
 <p><strong>English (Alisha)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fGTSx2S1xlU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fGTSx2S1xlU"></iframe>
 </div>
 <p><strong>Chinese (Gary)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ubTnpRaArus"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ubTnpRaArus"></iframe>
 </div>
 <p><strong>Malay (Shima)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nqYWxRw0hH8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nqYWxRw0hH8"></iframe>
 </div>
 <p><strong>Tamil (Alisha)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-q1uMk4dQX8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-q1uMk4dQX8"></iframe>
 </div>
 </div>
 </details>
@@ -84,37 +84,37 @@ third_nav_title: Dengue Prevention
 <p><strong>English</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FlnuB7tkUe4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FlnuB7tkUe4"></iframe>
 </div>
 <p><strong>Malay</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J-vJwoYWFuA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J-vJwoYWFuA"></iframe>
 </div>
 <p><strong>Chinese</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6S8W8bxecfE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6S8W8bxecfE"></iframe>
 </div>
 <p><strong>Tamil</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O6g59O_RCms"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/O6g59O_RCms"></iframe>
 </div>
 <p><strong>Bahasa Indonesia</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ogN8pWw8DcM%20frameborder="></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ogN8pWw8DcM%20frameborder="></iframe>
 </div>
 <p><strong>Burmese</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lw9BeEb1znA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Lw9BeEb1znA"></iframe>
 </div>
 <p><strong>Tagalog</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8o-CRHru5G4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8o-CRHru5G4"></iframe>
 </div>
 </div>
 </details>
@@ -123,7 +123,7 @@ third_nav_title: Dengue Prevention
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a-l8X6hLjzM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a-l8X6hLjzM"></iframe>
 </div>
 </div>
 </details>
@@ -131,7 +131,7 @@ third_nav_title: Dengue Prevention
 <summary>NEA x Ugly Food - B-L-O-C-K Jingle Video</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zRd7mc1Ja4w"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zRd7mc1Ja4w"></iframe>
 </div>
 <p>&nbsp;</p>
 </div>
@@ -140,7 +140,7 @@ third_nav_title: Dengue Prevention
 <summary>Apply Mosquito Repellent to Protect Yourself</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQ98NiSSohc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BQ98NiSSohc"></iframe>
 </div>
 <p>&nbsp;</p>
 </div>
@@ -149,7 +149,7 @@ third_nav_title: Dengue Prevention
 <summary>Safe and Effective Use of Insecticide at Home</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="iframe-wrapper">
-<iframe height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8Omrqokv1s4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8Omrqokv1s4"></iframe>
 </div>
 <p>&nbsp;</p>
 </div>
@@ -351,4 +351,4 @@ third_nav_title: Dengue Prevention
 </div>
 <p><strong>For more resources, please click </strong><a href="/resources/dengue/" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>.</strong>
 </p>
-<p>5</p>
+<p></p>
