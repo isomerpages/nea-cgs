@@ -13,8 +13,8 @@ third_nav_title: Dengue Prevention
 but the severe consequences it can bring to our health are <strong>no small matter</strong>.</p>
 <p>This year's tagline, "This is No Small Matter," reinforces this crucial
 point. It reminds us that both the seemingly insignificant mosquito and
-the serious disease it carries demand our full attention and proactive
-action.</p>
+the serious diseases it carries (<a href="https://www.nea.gov.sg/dengue-zika/zika" rel="noopener nofollow" target="_blank">Dengue and Zika</a>) demand
+our full attention and proactive action.</p>
 <p><strong>Why is Dengue Prevention <em>No Small Matter</em>?</strong>
 </p>
 <ul data-tight="true" class="tight">
