@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Events
 ---
 <h3>Blue Ocean, Green Actions</h3>
-<p>📆 25 Jul to 20 Dec, 10.00AM to 11.30PM
+<p>📆 25 Jul to 20 Dec, 10.00AM to 11.30AM
 <br>📍 Singapore Oceanarium, Resort World Sentosa</p>
 <p>Join us at Singapore Oceanarium for an unforgettable, eye-opening journey
 into marine conservation!</p>
