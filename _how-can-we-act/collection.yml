@@ -2,12 +2,8 @@ collections:
   how-can-we-act:
     output: true
     order:
-      - Events/Sea Exploration Tour.md
-      - Events/Maritime Discovery Expedition.md
-      - Events/Sultan Shoal Lighthouse Tour.md
       - Events/.keep
       - Events/Events.md
-      - Events/Kindness Day SG 2026.md
       - Events/Air conditioner Recycling and Eco Tour at Gain City.md
       - Events/Behind The Scenes of Cemetery Operations.md
       - Events/Behind The Scenes of Central Forecast Office.md
@@ -22,15 +18,19 @@ collections:
       - Events/Grounds for Change Tour with Composting Workshop.md
       - Events/Hydroponics with Ola.md
       - Events/Journey into Glass Recycling with Abraclean.md
+      - Events/Maritime Discovery Expedition.md
       - Events/Microgreen Planting with Ola.md
       - Events/Philips Energy Efficiency Tour.md
+      - Events/Sea Exploration Tour.md
       - Events/Sentosa Eco Odyssey Tour.md
       - Events/SK tes e waste Recycling Journey.md
+      - Events/Sultan Shoal Lighthouse Tour.md
       - Events/The Pullman Singapore Orchard Eco Journey.md
       - Events/Tuas South Incineration Plant Tour.md
       - Events/TuasOne Waste to Energy Plant Visit.md
       - Events/Upcycled Soap Making with Ola.md
       - Events/Urban Sustainability Bike Tour.md
+      - Events/Kindness Day SG 2026.md
       - Volunteer/.keep
       - Volunteer/Volunteer Overview.md
       - Volunteer/Volunteer Journey.md
