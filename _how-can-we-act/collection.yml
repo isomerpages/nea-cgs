@@ -2,6 +2,7 @@ collections:
   how-can-we-act:
     output: true
     order:
+      - Events/Sea Exploration Tour.md
       - Events/Maritime Discovery Expedition.md
       - Events/Sultan Shoal Lighthouse Tour.md
       - Events/.keep
