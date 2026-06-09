@@ -6,8 +6,8 @@ description: ""
 third_nav_title: Events
 ---
 <h2>Sultan Shoal Lighthouse Tour</h2>
-<p>📆 13 Jun 2026 to 13 Nov 2026
-<br>📍1pm to 4.30pm</p>
+<p>📆 1pm to 4.30pm, 13 Jun 2026 to 13 Nov 2026
+<br>📍Pasir Panjang Ferry Terminal</p>
 <p>Embark on an exclusive 3-hour Sultan Shoal Lighthouse Tour into the heart
 of the Singapore Strait, one of the world's busiest waterways!</p>
 <p>Begin at Pasir Panjang Ferry Terminal, where you'll glimpse the operational
