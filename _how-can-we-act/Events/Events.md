@@ -7,8 +7,6 @@ third_nav_title: Events
 ---
 <h3>ALL EVENTS</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.cgs.gov.sg/2026-dengue-prevention-campaign-launch-event/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="An image with the headline &quot;This is No Small Matter&quot;" src="/images/Block Dengue/CnG_Website_Banner_1200x630.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">2026 Dengue Prevention Campaign Launch Event</div><div class="isomer-card-description">Join us for a fun-filled day of learning, activities, and community action.</div><div class="isomer-card-link">View Details</div></div></a>
-</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/events/air-conditioner-recycling-and-eco-tour-at-gain-city/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Air conditioner Recycling and Eco Tour at Gain City" src="/images/How Can We Act/Events/Thumbnail_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Air conditioner Recycling and Eco Tour at Gain City</div><div class="isomer-card-description">Gain City Megastore @ Sungei Kadut | 6 Jun to 5 Sep, 2PM to 5.30PM</div><div class="isomer-card-link">View Details</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/events/behind-the-scenes-cemetry-operations/" class="isomer-card">
 <div class="isomer-card-image">
@@ -145,5 +143,17 @@ third_nav_title: Events
 <div class="isomer-card-link">View details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/events/kindnessday" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kindness Day SG 2026" src="/images/How Can We Act/Events/PR_eDM__002_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kindness Day SG</div><div class="isomer-card-description">Multiple venues | 23 May 2026, 10AM to 6PM</div><div class="isomer-card-link">View details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/sultan-shoal-lighthouse-tour/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sultan Shoal Lighthouse Tour" src="/images/How Can We Act/Events/Sultan_Shoal_Lighthouse_Tour.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sultan Shoal Lighthouse Tour</div>
+<div class="isomer-card-description">Marina South Pier | 20 Jun 2026 to 13 Nov 2026, 9.30am to 1pm</div>
+<div class="isomer-card-link">View details</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/events/maritime-discovery-expedition/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Maritime Discovery Expedition" src="/images/How Can We Act/Events/Maritime_Discovery_Expedition.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Maritime Discovery Expedition</div><div class="isomer-card-description">Singapore Maritime Gallery | 30 May 2026 to 13 Nov 2026, 10am to 12pm</div><div class="isomer-card-link">View details</div></div></a>
 </div>
 <p></p>
