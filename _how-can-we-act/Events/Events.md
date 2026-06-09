@@ -151,9 +151,21 @@ third_nav_title: Events
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sultan Shoal Lighthouse Tour</div>
-<div class="isomer-card-description">Marina South Pier | 20 Jun 2026 to 13 Nov 2026, 9.30am to 1pm</div>
+<div class="isomer-card-description">Pasir Panjang Ferry Terminal | 13 Jun 2026 to 13 Nov 2026, 1pm to 4.30pm</div>
 <div class="isomer-card-link">View details</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/events/maritime-discovery-expedition/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Maritime Discovery Expedition" src="/images/How Can We Act/Events/Maritime_Discovery_Expedition.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Maritime Discovery Expedition</div><div class="isomer-card-description">Singapore Maritime Gallery | 30 May 2026 to 13 Nov 2026, 10am to 12pm</div><div class="isomer-card-link">View details</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/events/sea-exploration-tour/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sea Exploration Tour" src="/images/How Can We Act/Events/Sea_Exploration_Tour.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sea Exploration Tour</div>
+<div class="isomer-card-description">Marina South Pier | 20 Jun 2026 to 13 Nov 2026, 9.30am to 1pm</div>
+<div class="isomer-card-link">View details</div>
+</div>
+</a>
 </div>
 <p></p>
