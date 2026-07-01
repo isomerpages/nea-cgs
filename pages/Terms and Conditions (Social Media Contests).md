@@ -9,7 +9,7 @@ description: Clean & Green Singapore - Terms and Conditions (Social Media Contes
 </div>
 <h3><strong>Giveaway – YES Fest 2026 Contest- Contest T&amp;Cs</strong></h3>
 <h3><strong>Prize:&nbsp; </strong>A set of YES Merchandise [20 winners]</h3>
-<h4>Terms &amp; Conditions</h4>
+<h3>Terms &amp; Conditions</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>By taking part in this contest, all participants agree to be bound by
